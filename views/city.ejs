@@ -1,0 +1,149 @@
+<%- include('partials/header', { countries: countries, allCities: allCities }) %>
+
+<section class="city-hero" style="background-image: url('<%= city.coverImage %>');">
+    <div class="hero-overlay">
+        <h1><%= city.name %> Keşif Rehberi</h1>
+        <p><%= city.description %></p>
+    </div>
+</section>
+
+<% if (city.routes && city.routes.length > 0) { %>
+    <section class="city-routes-section container">
+        <h2 class="section-title text-center">Şehir İçi Önerilen Rotalar</h2>
+        <p class="section-intro text-center">İşte <%= city.name %>'ı keşfederken kullanabileceğiniz, adım adım ilerleyen yürüyüş rotaları:</p>
+
+        <div class="routes-grid">
+            <% city.routes.forEach(function(route) { %>
+                <div class="route-card">
+                    <h3 class="route-title"><%= route.title %></h3>
+
+                    <% if (route.mapEmbedUrl) { %>
+                        <div class="route-map-container">
+                            <iframe
+                                src="<%= route.mapEmbedUrl %>"
+                                width="100%"
+                                height="250"
+                                style="border:0;"
+                                allowfullscreen=""
+                                loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"
+                            ></iframe>
+                        </div>
+                    <% } %>
+
+                    <% if (route.mapLinkUrl) { %>
+                        <div class="route-map-link-container">
+                            <p>Bu rotayı Google Haritalar uygulamasında detaylı görmek için:</p>
+                            <a href="<%= route.mapLinkUrl %>" target="_blank" class="map-link-button">
+                                Rotayı Haritada Aç <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    <% } else if (!route.mapEmbedUrl) { %>
+                        <div class="route-map-link-container">
+                            <p class="no-map-available">Bu rota için harita bilgisi bulunamadı.</p>
+                        </div>
+                    <% } %>
+
+                    <div class="route-steps">
+                        <% if (Array.isArray(route.steps)) { %>
+                            <% route.steps.forEach(function(step, index) { %>
+                                <div class="route-step">
+                                    <% if (step.image) { %>
+                                        <div class="step-image-container modal-trigger" data-src="<%= step.image %>">
+                                            <img src="<%= step.image %>" alt="<%= route.title %> - Adım <%= index + 1 %>" class="step-image">
+                                            <div class="magnify-icon">🔍</div>
+                                        </div>
+                                    <% } %>
+                                    <p class="step-info">
+                                        <span class="step-label">Başlangıç:</span> <%= step.from %>
+                                    </p>
+                                    <p class="step-info">
+                                        <span class="step-label">Bitiş:</span> <%= step.to %>
+                                    </p>
+                                    <p class="step-details">
+                                        <span class="icon-walk"></span> Yürüyerek **<%= step.duration %>** (<%= step.distance %>)
+                                    </p>
+                                    <% if (index < route.steps.length - 1) { %>
+                                        <div class="step-divider"></div>
+                                    <% } %>
+                                </div>
+                            <% }); %>
+                        <% } else { %>
+                            <p class="no-steps-warning">Bu rota için adım bilgisi bulunmamaktadır.</p>
+                        <% } %>
+                    </div>
+                </div>
+            <% }); %>
+        </div>
+    </section>
+    <hr class="section-divider">
+<% } %>
+
+<div class="city-content-wrapper">
+    <% if (city.sections && city.sections.length > 0) { %>
+        <% city.sections.forEach(function(section) { %>
+            <% if (section.type === 'text') { %>
+                <section class="content-section text-section">
+                    <% if (section.title) { %>
+                        <h2 class="section-title"><%= section.title %></h2>
+                    <% } %>
+                    <p class="section-text"><%- section.content.replace(/\n/g, '<br>') %></p>
+                </section>
+            <% } else if (section.type === 'list') { %>
+                <section class="content-section list-section">
+                    <% if (section.title) { %>
+                        <h2 class="section-title"><%= section.title %></h2>
+                    <% } %>
+                    <% if (section.intro) { %>
+                        <p class="section-intro"><%- section.intro.replace(/\n/g, '<br>') %></p>
+                    <% } %>
+                    <ul class="section-list">
+                        <% section.listItems.forEach(function(item) { %>
+                            <li><%- item %></li>
+                        <% }); %>
+                    </ul>
+                </section>
+            <% } else if (section.type === 'image-block') { %>
+                <section class="content-section image-block-section">
+                    <% if (section.imageTitle) { %>
+                        <h2 class="image-block-title"><%= section.imageTitle %></h2>
+                    <% } %>
+                    <figure class="image-block-item">
+                        <img src="<%= section.image %>" alt="<%= section.imageTitle || city.name %>">
+                        <% if (section.imageCaption) { %>
+                            <figcaption><%= section.imageCaption %></figcaption>
+                        <% } %>
+                    </figure>
+                </section>
+            <% } else if (section.type === 'external-links') { %>
+                <section class="section-block external-links-block">
+                    <% if (section.title) { %>
+                        <h2 class="section-title"><%= section.title %></h2>
+                    <% } %>
+                    <div class="links-grid">
+                        <% section.links.forEach(function(link) { %>
+                            <a href="<%= link.url %>" target="_blank" rel="noopener noreferrer" class="external-link-card">
+                                <i class="fas fa-external-link-alt"></i> <%= link.name %>
+                            </a>
+                        <% }); %>
+                    </div>
+                </section>
+            <% } %>
+        <% }); %>
+    <% } else { %>
+        <p class="no-content">Bu şehir için henüz detaylı bilgi eklenmemiştir.</p>
+    <% } %>
+</div>
+
+<div class="back-link">
+    <a href="/country/<%= city.countryId %>">Geri Dön</a>
+</div>
+
+<div id="imageModal" class="modal">
+  <span class="close-button">&times;</span>
+  <img class="modal-content" id="modalImage">
+</div>
+
+<script src="/js/main.js"></script>
+
+<%- include('partials/footer') %>

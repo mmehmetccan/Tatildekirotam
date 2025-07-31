@@ -1,0 +1,29 @@
+[
+  {
+    "id": "italya",
+    "name": "İtalya",
+    "cities": ["venedik", "roma", "floransa","milano"],
+    "image": "/images/view-ancient-roman-empire-colosseum.jpg"
+
+  },
+
+  {
+    "id": "avusturya",
+    "name": "Avusturya",
+    "cities": ["viyana"],
+    "image": "/images/Wien_-_Schloss_Belvedere,_oberes_(4).jpg"
+  },
+  {
+    "id": "yunanistan",
+    "name": "Yunanistan",
+    "cities": ["Selanik","Atina"],
+    "image": "/images/Parthenon.jpg"
+  },
+  {
+    "id": "sırbistan",
+    "name": "Sırbistan",
+    "cities": ["Belgrad","Novisad","niş"],
+    "image": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg"
+  }
+
+]

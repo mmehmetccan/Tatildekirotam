@@ -1,0 +1,29 @@
+<%- include('partials/header', { countries: countries }) %>
+
+    <section class="section-heading">
+        <h1><%= country.name %> Keşfedilecek Şehirler</h1>
+        <p><%= country.name %> içinde sizi bekleyen birbirinden güzel şehirler.</p>
+    </section>
+
+    <div class="card-grid">
+        <% if (cities.length > 0) { %>
+            <% cities.forEach(function(city) { %>
+                <div class="card city-card">
+                    <a href="/city/<%= city.id %>">
+                        <img src="<%= city.image %>" alt="<%= city.name %>">
+                        <div class="card-content">
+                            <h3><%= city.name %></h3>
+                            <p><%= city.description.substring(0, 100) %>...</p>
+                        </div>
+                    </a>
+                </div>
+            <% }); %>
+        <% } else { %>
+            <p><%= country.name %> için henüz şehir bilgisi bulunmamaktadır.</p>
+        <% } %>
+    </div>
+    <div class="back-link">
+        <a href="/">Tüm Ülkelere Geri Dön</a>
+    </div>
+
+<%- include('partials/footer') %>

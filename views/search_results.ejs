@@ -1,0 +1,73 @@
+<%- include('partials/header', { countries: countries, allCities: allCities }) %>
+
+<main class="container my-4">
+    <h1 class="mb-4 text-center">Arama Sonuçları</h1>
+
+    <% if (searchQuery) { %>
+        <p class="text-center lead">Aradığınız kelime: <strong><%= searchQuery %></strong></p>
+    <% } else { %>
+        <p class="text-center lead">Lütfen aramak istediğiniz kelimeyi girin.</p>
+    <% } %>
+
+    <% if ((typeof searchResultsCities !== 'undefined' && searchResultsCities.length > 0) || (typeof searchResultsCountries !== 'undefined' && searchResultsCountries.length > 0)) { %>
+
+        <% if (typeof searchResultsCities !== 'undefined' && searchResultsCities.length > 0) { %>
+            <h2 class="section-sub-heading mt-5">Şehirler</h2>
+            <div class="search-results-list"> <% /* search-results-list container */ %>
+                <% searchResultsCities.forEach(function(city) { %>
+                    <%
+                        const country = countries.find(c => c.id === city.countryId);
+                        const countryName = country ? country.name : 'Bilinmeyen Ülke';
+                    %>
+                    <a href="/city/<%= city.id %>" class="result-item-link"> <% /* Link sarmalayıcı */ %>
+                        <div class="result-item">
+                            <div class="result-item-image-wrapper">
+                                <img src="<%= city.coverImage %>" alt="<%= city.name %>" class="result-item-thumbnail">
+                                <span class="country-tag-small"><%= countryName %></span>
+                            </div>
+                            <div class="result-item-content">
+                                <h3 class="result-item-title"><%= city.name %></h3>
+                                <p class="result-item-description">
+                                    <% if (city.description && city.description.length > 200) { %>
+                                        <%= city.description.substring(0, 200) + '...' %>
+                                    <% } else if (city.description) { %>
+                                        <%= city.description %>
+                                    <% } else { %>
+                                        Bu şehir için açıklama bulunmamaktadır.
+                                    <% } %>
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                <% }); %>
+            </div>
+        <% } %>
+
+        <% if (typeof searchResultsCountries !== 'undefined' && searchResultsCountries.length > 0) { %>
+            <h2 class="section-sub-heading mt-5">Ülkeler</h2>
+            <div class="search-results-list"> <% /* Ülkeler için ayrı liste */ %>
+                <% searchResultsCountries.forEach(function(country) { %>
+                    <a href="/country/<%= country.id %>" class="result-item-link">
+                        <div class="result-item country-result-item">
+                            <div class="result-item-image-wrapper">
+                                <img src="<%= country.image %>" alt="<%= country.name %>" class="result-item-thumbnail">
+                            </div>
+                            <div class="result-item-content">
+                                <h3 class="result-item-title"><%= country.name %></h3>
+                                <p class="result-item-description">
+                                    Bu ülkede keşfedilecek birçok şehir bulunmaktadır. Detaylar için tıklayın.
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                <% }); %>
+            </div>
+        <% } %>
+
+    <% } else { %>
+        <p class="text-center no-results-message">Aradığınız kriterlere uygun sonuç bulunamadı.</p>
+    <% } %>
+
+    </main>
+
+<%- include('partials/footer') %>

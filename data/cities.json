@@ -1,0 +1,1669 @@
+[
+  {
+    "id": "Venedik",
+    "countryId": "italya",
+    "name": "Venedik",
+    "description": "Venedik: Sular Üzerindeki Büyülü Şehir",
+    "coverImage": "/images/grand-canal-6398645_1280.jpg",
+    "image": "/images/grand-canal-6398645_1280.jpg",
+    "routes": [
+      {
+        "title": "San Marco Meydanı'ndan Rialto Köprüsü'ne Yürüyüş Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d6471.922121639431!2d12.329462769884307!3d45.43448175187883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e2!4m5!1s0x477eb1c58369a69b%3A0x54ba460de19cfc0b!2sBasilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari!3m2!1d45.436986399999995!2d12.3266004!4m5!1s0x477eb1c7faa33a3b%3A0x732011a1298ecc89!2sPonte%20di%20Rialto!3m2!1d45.437984199999995!2d12.335898!4m5!1s0x477eb1d764526cbf%3A0xa12d52783aca205!2sBasilica%20di%20San%20Marco!3m2!1d45.4345606!2d12.3397124!4m4!1s0x477eb1d0b292ddb7%3A0xae46e40a9d543df4!3m2!1d45.4340359!2d12.3390331!4m5!1s0x477eb0330f688ddb%3A0xc9f9ed6fcadd275f!2sSanta%20Maria%20della%20Salute%20Bazilikas%C4%B1%2C%20Basilica%20di%20Santa%20Maria%20della%20Salute%2C%20Dorsoduro%2C%20Venedik%2C%20%C4%B0talya!3m2!1d45.430675!2d12.3347626!4m5!1s0x477eb1d7e32401c3%3A0x7ad5d63fdae814d0!2zQWhsYXIgS8O2cHLDvHPDvCwgVmVuZWRpaywgxLB0YWx5YQ!3m2!1d45.434049599999994!2d12.3408544!5e1!3m2!1str!2str!4v1753657558245!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/4bQvAHgEszgqDkge8",
+        "steps": [
+          {
+            "from": "Frari Santa Maria Gloriosa Bazilikası, San Polo, 3072, 30125 Venezia VE, İtalya",
+            "to": "Santa Maria della Salute Bazilikası, Dorsoduro, 1, 30123 Venezia VE, İtalya",
+            "duration": "33 dakika",
+            "distance": "2,3 km",
+            "image": "/images/venedik_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Venedik'te Neler Yapılır?",
+        "type": "text",
+        "content": "Venedik, her köşesi tarih ve sanat kokan bir şehir. Daracık sokaklarında kaybolmak, kanallarında gondolla süzülmek veya tarihi meydanlarında oturup atmosferi solumak... İşte Venedik'te mutlaka yapmanız gerekenler:"
+      },
+      {
+        "imageTitle": "Venedik Kanalları ve Gondollar",
+        "type": "image-block",
+        "image": "/images/venice-7186982_1280.jpg",
+        "imageCaption": "Venedik'in ikonik kanalları ve romantik gondolları."
+      },
+      {
+        "title": "Gondol Turu Deneyimi",
+        "type": "text",
+        "content": "Gondol turu, Venedik'i deneyimlemenin en otantik yollarından biridir. Kanallar boyunca süzülürken şehrin eşsiz mimarisini ve atmosferini yakından hissedebilirsiniz. Özellikle gün batımında yapılan turlar unutulmaz anlar sunar. \n\n "
+      },
+      {
+        "title": "Gondol ve Venedik Turları İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Venedik Gondol Turları Hakkında Bilgi",
+            "url": "https://www.veneziaunica.it/en/content/gondola-rides"
+          },
+          {
+            "name": "Venedik Turları Rezervasyon",
+            "url": "https://www.getyourguide.com/s/?q=venedik+gondol&searchSource=3"
+          }
+        ]
+      },
+      {
+    "title": "Venedik'te Toplu Taşıma Rehberi",
+    "type": "text",
+    "content": "Venedik, kanalları ve adalarıyla kendine özgü bir şehir olduğundan, ulaşım seçenekleri diğer şehirlerden farklılık gösterir. Şehir içi ulaşımda ağırlıklı olarak deniz araçları kullanılırken, anakara (Mestre) ile bağlantı için otobüs ve trenler de mevcuttur. Toplu taşıma biletlerinizi kullanmadan önce mutlaka geçerli kılmanız (damgalama veya okutma) gerekmektedir."
+  },
+  {
+    "title": "Venedik Toplu Taşıma Bilet Türleri ve Fiyatları (Güncel)",
+    "type": "text",
+    "content": "Venedik'te toplu taşıma biletleri ve kartları, seyahat sürenize ve kullanım sıklığınıza göre çeşitli seçenekler sunar. (Lütfen unutmayın, fiyatlar zamanla değişebilir, en güncel bilgiler için ACTV veya ilgili ulaşım firmalarının resmi web sitelerini kontrol etmeniz tavsiye edilir.)\n\n<B>Vaporetto (Deniz Otobüsü) Biletleri:</B>\n  <B>Tek Kullanımlık Bilet:</B> Yaklaşık 7.50 Euro (İlk damgalamadan itibaren 75 dakika boyunca geçerlidir ve aktarma hakkı tanır).\n  <B>1 Günlük Seyahat Kartı:</B> Yaklaşık 20 Euro (İlk kullanımdan itibaren 24 saat boyunca sınırsız Vaporetto kullanımı).\n  <B>2 Günlük Seyahat Kartı:</B> Yaklaşık 30 Euro (İlk kullanımdan itibaren 48 saat boyunca sınırsız Vaporetto kullanımı).\n  <B>3 Günlük Seyahat Kartı:</B> Yaklaşık 40 Euro (İlk kullanımdan itibaren 72 saat boyunca sınırsız Vaporetto kullanımı).\n  <B>Genç Erişkin Kartı (Rolling Venice Card):</B> 6-29 yaş arası gençlere özel, 72 saat geçerli ve yaklaşık 22 Euro. Bu kart genellikle belirli indirimler de sunar.\n\n<B>Havalimanı Ulaşımı (Marco Polo Havalimanı - Venedik/Mestre):</B>\n  <B>ATVO Express Otobüs:</B> Havalimanından Piazzale Roma'ya (Venedik) tek yön yaklaşık 8 Euro, gidiş-dönüş 15 Euro. Yolculuk 20-25 dakika sürer.\n  <B>Alilaguna Vaporetto (Deniz Otobüsü):</B> Havalimanından Venedik şehir merkezi veya Lido'ya tek yön yaklaşık 15 Euro. Murano'ya tek yön yaklaşık 8 Euro.\n  <B>Otobüs/Tramvay ve People Mover (Mestre/Piazzale Roma Bölgesi):</B> Tek yönlü biletler online alındığında yaklaşık 1.5 Euro, araçtan alındığında 3 Euro olabilir. People Mover (raylı sistem) 10 binişlik kart yaklaşık 14 Euro.\n\n<B>Diğer Ulaşım Araçları:</B>\n  <B>Gondol Turu:</B> Yaklaşık 30-40 dakikalık bir gondol turunun maliyeti 80 Euro civarındadır (genellikle 6 kişiye kadar). Fiyatlar firmaya ve tur süresine göre değişebilir.\n  <B>Traghetto:</B> Büyük Kanal'ı karşıdan karşıya geçmek için kullanılan daha büyük gondollar olup, tek geçiş ücreti kişi başı yaklaşık 2 Euro'dur."
+  },
+  {
+    "title": "Venedik Ulaşım İçin Faydalı Bağlantılar",
+    "type": "external-links",
+    "links": [
+      {
+        "name": "ACTV (Venedik Toplu Taşıma) Resmi Sitesi",
+        "url": "https://actv.it/"
+      },
+      {
+        "name": "ATVO (Havalimanı Otobüsleri) Resmi Sitesi",
+        "url": "https://www.atvo.it/"
+      },
+      {
+        "name": "Alilaguna (Havalimanı Deniz Otobüsleri) Resmi Sitesi",
+        "url": "https://www.alilaguna.it/"
+      },
+      {
+        "name": "Rolling Venice Card Bilgileri",
+        "url": "https://www.veneziaunica.it/en/content/rolling-venice-card"
+      }
+    ]
+  },
+      {
+        "type": "image-block",
+        "image": "/images/Facade_of_Santa_Maria_Gloriosa_dei_Frari_(Venice).jpg",
+        "imageTitle": "\n\nSanta Maria Gloriosa dei Frari: Venedik’in Sessiz, Heybetli Kalbi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Venedik’in San Polo semtinde, turist kalabalığının biraz dışında kalan Frari Bazilikası, dışarıdan bakıldığında sade bir tuğla yapı gibi görünse de içine adım attığınız anda büyüleyici bir derinliğe sahip olduğunu fark edersiniz. 13. yüzyılda Fransisken keşişler tarafından başlatılan inşa süreci, gotik mimarinin zarafetini taşıyan bu bazilikayı yüzyıllar boyunca Venedik'in en önemli dini yapılarından biri haline getirmiştir.\n\nİç mekân, etkileyici bir sessizlik içinde yükselen yüksek tavanları, loş ışıkta parlayan yan şapelleri ve anıtsal mezarlarıyla doludur. Burada Venedik’in büyük ustalarından Tiziano’nun hem eserleri yer alır hem de mezarı bulunur. En dikkat çekici eserlerinden biri olan \"Assunta\" (Meryem’in Göğe Yükselişi) adlı tablo, yüksek sunağın arkasında baş döndürücü bir ihtişamla yükselir.\n\nAyrıca, Monteverdi gibi Batı müziğinin öncülerinden birinin mezarı da buradadır. Bu yönüyle Frari, sadece mimari ve dini bir yapı değil, aynı zamanda müzik ve resim sanatlarının da kutsal bir mekanıdır. Santa Maria Gloriosa dei Frari, Venedik’in gösterişli yüzünün ötesinde, derinliği, dinginliği ve tarihî ağırlığıyla unutulmaz bir deneyim sunar."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/venice-1721988_1280.jpg",
+        "imageTitle": "Rialto Köprüsü: Venedik’in Taştan Kalp Atışı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Büyük Kanal’ın üzerinde zarif bir yay gibi yükselen Rialto Köprüsü, Venedik’in en eski ve en ikonik köprüsüdür. İlk kez 12. yüzyılda ahşap olarak inşa edilen bu geçit, zamanla kentin ticaret merkezi olan Rialto bölgesini iki yakaya bağlayan vazgeçilmez bir damar haline geldi. Ancak defalarca çökmesinin ardından, 1591 yılında Antonio da Ponte tarafından bugünkü taş hâliyle yeniden inşa edildi — ve adı gibi köprü yapmanın ustası olduğunu kanıtladı.\n\nKöprü yalnızca mimarisiyle değil, üstündeki küçük dükkânları, altından geçen gondolları ve kanal boyunca uzanan hayat manzaralarıyla da Venedik’in ruhunu yansıtır. Gün doğumunda altın gibi parlayan taşları, akşamüstü kalabalığın arasında hâlâ hikâyeler fısıldar. Altında durduğunuzda tarih, üstünde yürüdüğünüzde şehrin nabzı hissedilir.\n\nRialto Köprüsü, Venedik’in hem fiziksel hem de kültürel olarak merkezlerinden biridir; geçmişin zarafetini, bugünün hareketliliğiyle aynı anda yaşatan, suyun ve taşın büyülü buluşma noktasıdır."
+      },
+      {
+        "title": "Rialto Köprüsü ve Çevresi",
+        "type": "image-block",
+        "image": "/images/Venezia_Basilica_di_San_Marco_Fassade_2.jpg",
+        "imageTitle": "San Marco Bazilikası: Altınlarla Örülü Bir İnanç Masalı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Venedik’in kalbinde, aynı adı taşıyan meydanda görkemle yükselen San Marco Bazilikası, sadece bir ibadethane değil; bir medeniyetin zenginliğini, inancını ve dünyaya bakışını anlatan bir başyapıttır. 11. yüzyılda inşa edilen bu bazilika, Aziz Markos’un kutsal emanetlerini korumak için yapılmış ve Venedik Cumhuriyeti’nin hem ruhani hem de politik gücünün simgesi hâline gelmiştir.\n\nDoğu ve Batı’nın mimarî stillerini bir araya getiren bu yapı, Bizans’tan esinlenmiş kubbeleri, altın mozaikleri ve görkemli cephesiyle büyüleyici bir görsel şölen sunar. İçeri adım attığınızda, adeta altınla örülmüş bir evrenin içine girersiniz; binlerce metrekarelik mozaikler, İncil hikâyelerini göz kamaştırıcı bir şekilde anlatır.\n\nBazilikanın üst katındaki terastan bakıldığında San Marco Meydanı’nı izlemek, tarih boyunca Venedik’i yönetenlerin gözünden şehre bakmak gibidir. Dört tunç at heykeli —aslında Bizans ganimeti— Venedik’in deniz aşırı gücünün sessiz ama gururlu bir hatırlatıcısı olarak durur. San Marco Bazilikası, inancın, sanatın ve siyasi ihtişamın tek bir yapıda buluştuğu, Venedik’in ruhunu en derininden hissettiren kutsal bir mabettir."
+      },
+      {
+        "title": "aziz_mark",
+        "type": "image-block",
+        "image": "/images/st-marks-square-470582_1280.jpg",
+        "imageTitle": "Aziz Mark’ın Çan Kulesi: Gökyüzüne Açılan Venedik Penceresi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "San Marco Meydanı’nda dimdik yükselen Aziz Mark’ın Çan Kulesi, Venedik’in hem denizden gelenleri selamlayan ilk silueti hem de şehrin tarih boyunca duyduğu sesi olmuştur. 98 metre yüksekliğindeki bu kule, ilk olarak 9. yüzyılda bir deniz feneri olarak inşa edilmiş, ancak yüzyıllar boyunca depremler ve yıldırımlar yüzünden defalarca zarar görmüştür. Son olarak 1902’de tamamen çöken kule, 1912’de aslının aynısı olacak şekilde yeniden inşa edilmiştir.\n\nÇan kulesi, sadece zamanın ritmini değil, aynı zamanda Venedik’in hafızasını taşır. Bir dönem Galileo Galilei’nin teleskobunu kurarak yıldızları incelediği yer olmuş; bir başka dönem Venediklilerin tehlikeleri önceden duyduğu uyarı sesi olmuştur.\n\nBugün kuleye çıkan asansörle Venedik’i kuşbakışı izlemek, bu eşsiz şehri lagünleri, kırılgan çatısı ve altın kubbeleriyle bir tablo gibi görmek demektir. Rüzgâr yüzünüze çarparken, çanlar belki de yüzyıllardır aynı melodiyi tekrar eder: Venedik hâlâ ayakta, hâlâ eşsiz."
+      },
+      {
+        "title": "ahlar_kop",
+        "type": "image-block",
+        "image": "/images/1920px-Antonio_Contin_-_Ponte_dei_sospiri_(Venice).jpg",
+        "imageTitle": "Ahlar Köprüsü: Sessiz Bir Vedanın Taş Hikâyesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Venedik'in belki de en hüzünlü yapısı olan Ahlar Köprüsü, Dükler Sarayı ile eski hapishane arasında uzanan küçük ama anlam yüklü bir taş geçittir. 1600’lü yılların başında inşa edilen bu kapalı köprü, beyaz kireçtaşından yapılmış zarif mimarisiyle dikkat çekse de asıl etkileyici yönü, taşıdığı sessiz duygulardır.\n\nEfsaneye göre, mahkumlar bu köprüden geçerken son kez özgür Venedik manzarasına bakar, derin bir iç çekerdi — işte o iç çekişler, köprüye adını vermiştir: “Ahlar Köprüsü.” Köprünün dar pencerelerinden görülen manzara, belki de bir insanın hayatta göreceği son güzellik olurdu.\n\nBugün ise köprünün altından geçen gondollar ve üstünden bakan âşıklar, bu taş kemerin hüznüne kendi romantik yorumlarını katar. Kimileri dilek diler, kimileri geçmişin izlerini hisseder. Ama bir gerçek değişmez: Bu köprü, her bakışta biraz iç geçirten, zamanın ve kaderin gölgelerini hâlâ taşıyan bir anıttır."
+      },
+      {
+        "title": "santa_maria_della",
+        "type": "image-block",
+        "image": "/images/grand-canal-6398645_1280.jpg",
+        "imageTitle": "Santa Maria della Salute: Bir Adakla Doğan Sessiz Zafer",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Venedik’in Büyük Kanal kıyısında zarifçe yükselen Santa Maria della Salute Bazilikası, yalnızca mimarisiyle değil, doğuş hikâyesiyle de derin bir anlam taşır. 17. yüzyılda kenti kasıp kavuran veba salgınının ardından, hayatta kalan Venedikliler bu bazilikayı Meryem Ana’ya bir şükran nişanesi olarak inşa ettirmiştir.\n\nMimar Baldassare Longhena’nın imzasını taşıyan yapı, sekizgen planı ve devasa kubbesiyle kentin siluetine görkemli bir katkı sunar. Dıştan bakıldığında güçlü ve görkemlidir; içeri girildiğinde ise sade ama etkileyici bir ruh hâli sarar insanı. Işık, kubbelerin arasından süzülerek içeriyi adeta kutsal bir atmosfere bürür.\n\nHer yıl 21 Kasım’da düzenlenen “Festa della Salute” sırasında halk hâlâ bu bazilikaya yürüyerek gelir; vebadan kurtuluşun ve şifanın simgesi hâline gelen bu yapı, Venedikliler için yalnızca tarihî değil, duygusal bir merkezdir.\n\nSanta Maria della Salute, hem bir adak hem bir sanat eseri; hem geçmişin acılarını hem de insan ruhunun iyileşme umudunu taşır."
+      },
+      {
+        "title": "Venedik'te Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Venedik, deniz ürünleri ağırlıklı İtalyan mutfağının eşsiz örneklerini sunar. Geleneksel 'cicchetti' (küçük atıştırmalıklar), 'risotto al nero di seppia' (mürekkep balıklı risotto) ve 'sarde in saor' (marine edilmiş sardalya) mutlaka denemeniz gereken lezzetlerdendir. 'Fegato alla veneziana' (Venedik usulü ciğer) ve 'Bigoli in salsa' (hamsili kalın makarna) da yerel spesiyaliteler arasındadır. Venedik'te, restoran seçimi yaparken turist tuzaklarından kaçınmak için ana caddelerden uzak, ara sokaklardaki 'bacaro' veya 'trattoria'ları tercih etmeniz önerilir."
+      },
+      {
+        "title": "Önerilen Venedik Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Venedik mutfağını derinlemesine deneyimleyebileceğiniz bazı özel yerler:",
+        "listItems": [
+          "<B>Trattoria Alla Madonna (Rialto Bölgesi):</B> Geniş menüsüyle bilinen, köklü bir deniz ürünleri restoranı. Klasik Venedik lezzetleri ve taze balık çeşitleri sunar.",
+          "<B>Cantinone già Schiavi (Dorsoduro):</B> Öğle saatlerinde kalabalık olan, harika 'cicchetti' ve yerel şaraplarıyla ünlü bir 'bacaro'. Ayakta atıştırmalık keyfi yapmak için idealdir.",
+          "<B>Osteria Alle Testiere (Castello):</B> Küçük, samimi ve kaliteli deniz mahsulleri sunan butik bir restoran. Günlük değişen menüsüyle mevsime göre en taze ürünleri sunar, rezervasyon şarttır.",
+          "<B>Dal Moro's Fresh Pasta To Go (Castello):</B> Hızlı, lezzetli ve bütçe dostu taze makarna çeşitleri sunan popüler bir büfe. Çeşitli soslarla kendi makarnanızı oluşturabilirsiniz.",
+          "<B>Pasticceria Tonolo (San Polo):</B> Sabah kahvesi ve taze hamur işleri için Venedik'in en otantik pastanelerinden biri. Özellikle Karnaval döneminde 'fritole' ve 'galani' tatlılarını denemelisiniz."
+        ]
+      },
+      {
+        "imageTitle": "Venedik'in Meşhur Cicchetti'leri",
+        "type": "image-block",
+        "image": "/images/Cicchetti_Venezia_(1).jpg",
+        "imageCaption": "Bir kadeh şarap eşliğinde tadabileceğiniz Venedik'in geleneksel küçük atıştırmalıkları."
+      },
+      {
+        "imageTitle": "Risotto al Nero di Seppia",
+        "type": "image-block",
+        "image": "/images/Arrosnegre.jpg",
+        "imageCaption": "Mürekkep balığı mürekkebiyle hazırlanan Venedik'e özgü eşsiz bir risotto."
+      }
+    ]
+  },
+
+
+  {
+    "id": "floransa",
+    "countryId": "italya",
+    "name": "Floransa",
+    "description": "Floransa: Rönesans’ın Kalbinde Zamanla Dans\n",
+    "coverImage": "/images/arno-river-1066307_1280.jpg",
+    "image": "/images/cathedral-5881418_1280.jpg",
+    "routes": [
+      {
+        "title": "San Lorenzo Basilikası'ndan Pitti Sarayı'na Yürüyüş Rotası",
+        "mapEmbedUrl":  "https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d4679.33135957911!2d11.258964155592555!3d43.76882574032673!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x132a56a975219361%3A0x85e5747949866eb2!2sSanta%20Maria%20Novella%20Basilikas%C4%B1!3m2!1d43.7746346!2d11.2493859!4m5!1s0x132a5402f87d976b%3A0xeda7c032191812ec!2sSan%20Lorenzo%20Basilikas%C4%B1!3m2!1d43.7749619!2d11.253876199999999!4m5!1s0x132a541ad37d502f%3A0xf81b038d72611e6e!2sBasilica%20della%20Santissima%20Annunziata!3m2!1d43.7767993!2d11.260976999999999!4m5!1s0x132a5403bfe22ff5%3A0x5591438487aaf1f5!2sFloransa%20Katedrali!3m2!1d43.773145!2d11.255960199999999!4m5!1s0x132a54019502f1db%3A0xdde56095f8051043!2sPiazza%20della%20Repubblica!3m2!1d43.771426299999995!2d11.254019!4m5!1s0x132a54012042ae35%3A0x9fbc6971f8e3906d!2sSignoria%20Meydan%C4%B1!3m2!1d43.7696855!2d11.255642199999999!4m5!1s0x132a540723ccc331%3A0x8f8279649c131255!2sBasilica%20di%20Santa%20Croce%20di%20Firenze!3m2!1d43.7685683!2d11.262267699999999!4m5!1s0x132a56aaa2dcb667%3A0x40310ae830e702e8!2sPonte%20Vecchio%2C%2050125%20Firenze%20FI%2C%20%C4%B0talya!3m2!1d43.767925!2d11.2531435!4m5!1s0x132a515441db99f1%3A0x5cd0cce4e6f1502a!2sPitti%20Saray%C4%B1!3m2!1d43.7651533!2d11.250008099999999!5e1!3m2!1str!2str!4v1753827951777!5m2!1str!2str",
+        "mapLinkUrl":"https://maps.app.goo.gl/KviAHsyhwSadYtDS9",
+        "steps": [
+          {
+            "from": "San Lorenzo Basilikası, Piazza di San Lorenzo, 9, 50123 Firenze FI, İtalya",
+            "to": "Pitti Sarayı, Piazza de' Pitti, 1, 50125 Firenze FI, İtalya",
+            "duration": "41 dakika",
+            "distance": "3 km",
+            "image": "/images/florance_route2.jpg"
+          }
+        ]
+      }
+
+    ],
+    "sections": [
+      {
+        "title": "Floransa'da Neler Yapılır?",
+        "type": "text",
+        "content": "İtalya’nın ortasında, Arno Nehri’nin kıyısına kurulmuş bu şehir, insanın hayal gücüyle taşın, boyanın ve fikrin birleştiği noktada doğmuş gibi hissettirir. Floransa, sadece bir şehir değil; adeta bir zaman tüneli. Her köşesiyle Rönesans’ı iliklerinize kadar hissedeceğiniz, sanatla, düşünceyle ve tarih kokusuyla sarılı bir açık hava müzesidir.\n\nMedici ailesinin etkisiyle sanatın ve bilimin başkentlerinden biri hâline gelen Floransa, Michelangelo, Leonardo da Vinci ve Botticelli gibi dâhilerin eserlerini doğrudan görebileceğiniz nadir şehirlerden biridir. Uffizi Galerisi’nde bir tabloya, Santa Maria del Fiore’nin kubbesinde bir mimari dehaya ya da Ponte Vecchio’da günbatımının sessizliğine tanıklık etmek, burada sıradan bir gündür.\n\nAncak Floransa’nın güzelliği sadece geçmişinde değil; sabahın erken saatlerinde dar sokaklarında yankılanan adımlarınızda, gün batarken şehri kızıla boyayan ufuk çizgisinde ve gece çan kulelerinin yankısında gizlidir.\n\nBurası bir şehir değil; yaşayan bir tarih, nefes alan bir sanat eseri. İşte Venedik'te mutlaka yapmanız gerekenler:"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Santa_Maria_Novella_(Florence).jpg",
+        "imageTitle": "Santa Maria Novella: Floransa’nın Sessiz Ruhani Sesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’nın hareketli sokaklarından biri sizi, adeta tarihle sarmalanmış bir huzura yönlendirir: Santa Maria Novella Bazilikası. İlk bakışta, beyaz ve yeşil mermerden yapılmış geometrik cephesiyle Rönesans’ın matematiksel estetiği sizi karşılar. Ancak içeri adım attığınızda sizi bekleyen şey, sadece mimari değil; aynı zamanda bir iç huzur ve yüzyılların bıraktığı ruhani bir izdir. 13.yüzyılda Dominiken tarikatı tarafından inşa edilen bu bazilika, Floransa’nın dini ve sanatsal tarihinde özel bir yere sahip. Giotto'nun öğrencilerinden Masaccio'nun freskleri, Ghirlandaio’nun renkli anlatımı ve Brunelleschi’nin mimari dokunuşlarıyla, burası adeta bir sanat tarihi dersliği gibi.\n\nYüksek kemerler, süzülen ışık, duvarlara sinmiş dualar ve fresklerdeki hikâyeler... Santa Maria Novella, bir gezginin sadece gözlerini değil, ruhunu da etkileyen nadir duraklardan biri. Floransa’nın o çokça konuşulan sanat mirası burada sessizce yaşar."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/1024px-Basilica_di_san_lorenzo_33.jpg",
+        "imageTitle": "San Lorenzo Bazilikası: Medici’lerin Gölgesinde Sessiz Bir Anıt",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’nın tarihine yön veren Medici ailesini anlamak istiyorsanız, yolunuzu mutlaka San Lorenzo Bazilikası’na düşürmelisiniz. Dış cephesi, ilginç bir şekilde tamamlanmamış bir hâlde sizi karşılar; sanki geçmişten gelen biri, binayı olduğu gibi bırakmış da zaman durmuş gibidir. Ama asıl zenginlik içeridedir. 4. yüzyıla kadar uzanan geçmişiyle Floransa’nın en eski kiliselerinden biri olan bu yapı, Medici’lerin hem ibadet hem de anı mekânı olmuş. Rönesans’ın mimari dahisi Brunelleschi’nin elinden çıkan iç mekân, sütunlarıyla ve orantılı çizgileriyle dingin bir zarafet sunar. Michelangelo’nun tasarladığı Medici Şapeli ise, gücün ve ölümsüzlük arzusunun taşa kazınmış hali gibidir.\n\nSan Lorenzo, kalabalık Floransa sokaklarının ortasında geçmişle baş başa kalmak isteyen gezginler için adeta bir sığınaktır. Sessizliğiyle konuşur, sadeliğiyle etkiler."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Interior_Annunziata_05.jpg",
+        "imageTitle": "Basilica della Santissima Annunziata: Floransa’nın Sessiz Mucizesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’da dolaşırken bir an kalabalığın azaldığını, şehrin size fısıltıyla bir şey anlatmak istediğini hissedersiniz. İşte o an, Basilica della Santissima Annunziata’ya yaklaştığınız andır. Şehirdeki daha görkemli kiliselerin gölgesinde kalsa da, bu bazilika Floransalılar için daima özel bir yere sahip olmuştur.\n\n1250’li yıllarda Servite tarikatı tarafından kurulan bu kutsal yapı, özellikle içinde barındırdığı bir freskle dikkat çeker: Meryem'e Müjde sahnesi. Rivayete göre, freski yapan keşiş yüzünü tamamlayamayınca uyuyakalır; uyandığında yüz kısmının ilahi bir şekilde tamamlandığını görür. İşte bu mucizevi hikâye, kiliseyi yüzyıllarca Floransa halkının adaklar, dualar ve umutlarla doldurduğu bir hac noktasına dönüştürür.\n\nKilisenin avlusu, huzurun bir başka hâlidir. Sessizce oturup kemerli revaklara bakarken, zaman bir an için durur gibi olur. Çünkü burası, sadece mimari değil; inançla şekillenmiş bir mekândır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Florence_Duomo_from_Michelangelo_hill.jpg",
+        "imageTitle": "Floransa Katedrali: Göğe Açılan Rönesans Rüyası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’nın kalbine vardığınızda, bir yapının gölgelerinden kurtulup yükseldiğini görürsünüz: Santa Maria del Fiore, yani Floransa Katedrali. Göz kamaştıran mermer cephesi, devasa kubbesi ve gotik zarafetiyle bu katedral, yalnızca bir ibadet yeri değil; insan yaratıcılığının taşa kazınmış bir destanıdır.\n\n1296’da yapımına başlanan bu görkemli yapı, yüzyıllar süren bir emeğin ve sabrın sonucudur. Ama asıl devrim, Brunelleschi’nin imzasını taşıyan o eşsiz kubbede gizlidir. İnşa edildiği dönemde mimari bir mucize olarak kabul edilen bu kubbe, bugün hâlâ mühendislik okullarında ders olarak okutulacak kadar iddialıdır.\n\nKatedralin önünde durduğunuzda, yalnızca bir yapıya değil; Floransa'nın tarihine, Rönesans’ın doğuşuna ve insan aklının sınırlarını zorlayan bir döneme bakarsınız. İçeri girdiğinizde ise sessizlik, taşın bile bir ruhu olduğunu hatırlatır.\n\nFloransa’ya gelen her gezginin ayakları eninde sonunda bu meydana çıkar. Çünkü burası bir varış noktası değil, adeta şehrin atan kalbidir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/florence-2498929_1280.jpg",
+        "imageTitle": "Piazza della Repubblica: Zamanın Katmanlarıyla Örülmüş Bir Meydan\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa sokaklarında gezinirken birden genişleyen bir alan karşılar sizi: Piazza della Repubblica. Bugünkü canlı atmosferine aldanmamak gerek; çünkü bu meydan, Floransa’nın en derin tarih katmanlarından birine oturur. Bir zamanlar Roma döneminin forum alanıydı burası. Yani şehrin kalbi, ticaretin ve tartışmaların döndüğü, yaşamın aktığı yerdi.\n\nOrta Çağ'da ise bu alan, dar sokaklar ve karmaşık yapılarla örülüydü. 19. yüzyılda İtalya’nın birleşmesinden sonra Floransa kısa süreliğine başkent olunca, şehir modernleşmeye başladı ve meydan bugünkü şeklini aldı. Bu dönüşüm sırasında birçok tarihî yapı yıkıldı; geriye ise bu ferah alan ve ortasındaki görkemli Zafer Kemeri (Arcone) kaldı.\n\nBugün Piazza della Repubblica, kafeleriyle, sokak müzisyenleriyle ve eski ile yeniyi bir araya getiren ruhuyla Floransa’nın sosyal yaşamının merkezi gibi. Bir fincan espresso eşliğinde etrafı izlemek, burada zamanın aslında düz bir çizgi değil, halkalar halinde döndüğünü hissettiriyor insana."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/florence-2059111_1280.jpg",
+        "imageTitle": "Piazza della Signoria: Gücün, Sanatın ve Sessiz Tanıkların Meydanı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’da yürürken bir noktada zaman durur gibi olur. İşte orası Piazza della Signoria’dir. Burası yalnızca bir meydan değil, Floransa’nın siyasi kalbi, halkın sesi, sanatın açık hava galerisi ve tarihin bir kez değil, defalarca yazıldığı bir sahnedir. 13. yüzyıldan itibaren Floransa Cumhuriyeti’nin yönetim merkezi olarak işlev gören bu meydan, adını da burada bulunan Palazzo della Signoria’dan, yani bugünkü Palazzo Vecchio’dan alır. Yüzyıllar boyunca protestolar, infazlar, kararlar, zaferler burada yankılandı. Her taşında bir anı, her heykelinde bir mesaj gizlidir.\n\nMichelangelo’nun ünlü Davud Heykeli ilk olarak burada sergilenmişti. Bugün orijinali müzede olsa da, replikası hâlâ meydanda durur ve halkın gücünü simgeler. Loggia dei Lanzi altındaki heykeller ise adeta bu taş zeminde tarihle sohbet eder gibidir.\n\nBir gezgin için burası sadece bir fotoğraf karesi değil; adım adım yürürken geçmişi fısıldayan bir zaman yolculuğudur. Piazza della Signoria’da durduğunuzda, Floransa'nın yalnızca sanatta değil, fikirde ve mücadelede de nasıl öncü olduğunu hissedersiniz."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Santa_Croce_(Florence)_-_Facade.jpg",
+        "imageTitle": "Santa Croce Bazilikası: Sessizliğin İçinde Yatan Büyük Sesler\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’da Arno Nehri’ne yakın sokaklar arasında yürürken bir anda sessiz ama görkemli bir yapı çıkar karşınıza: Santa Croce Bazilikası. Gotik cephesiyle ilk bakışta etkiler, ama gerçek derinliği içeri adım attığınızda başlar.\n\n1294 yılında inşa edilmeye başlanan bu bazilika, yalnızca bir ibadet mekânı değil, adeta İtalyan Rönesansı’nın sessiz bir panosu gibidir. Michelangelo, Galileo Galilei, Machiavelli gibi düşünce ve sanat devlerinin mezarları burada yer alır. Her biri, duvarların ardında Floransa'nın entelektüel mirasını fısıldar.\n\nİç mekândaki freskler, Giotto’nun öğrencilerinin elinden çıkmadır; zamanın rengini ve inancını bugüne taşır. Bazilikanın havasında mistik bir ağırlık vardır; sanki burada sadece dualar değil, büyük fikirler de göğe yükselmiş gibidir.\n\nGezgin için Santa Croce, yalnızca gözle değil, kalple gezilecek bir yerdir. Sessizliği dinlerken, tarihin en yüksek sesle konuştuğu yerlerden birinde olduğunu fark edersin.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Ponte_Vecchio_Vasari.jpg",
+        "imageTitle": "Ponte Vecchio: Floransa’nın Zamanla Yarışan Köprüsü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’da Arno Nehri’nin üzerinden geçen köprülerden biri vardır ki sadece iki yakayı değil, yüzyılları birbirine bağlar: Ponte Vecchio. Adı “Eski Köprü” anlamına gelir ama aslında her defasında kendini yeniden anlatan bir masal gibidir.\n\nİlk hali Roma dönemine kadar uzanır; ama bildiğimiz taş köprü, 1345 yılında inşa edildi. Kendine özgü olan şey ise, üzerinde dükkânların —özellikle kuyumcuların— sıralanmış olması. Bu gelenek, 16. yüzyılda Mediciler’in et kesen dükkânları başka yere taşımasıyla başlamış. Çünkü Medici ailesi, köprünün üstüne inşa ettirdikleri Vasari Koridorundan geçerken kötü kokularla karşılaşmak istememişti.\n\nBugün hâlâ altınızdan su, yanınızdan mücevherler, üzerinizden tarih akar. Arno’nun üstünde yürürken köprüdeki yaşanmışlıkları hissedersiniz; savaşlara, sellerin gücüne, insanların inatla yeniden kurma çabasına tanıklık eden taşların üzerinde ilerlersiniz.\n\nGezgin için Ponte Vecchio sadece bir geçit değil, Floransa’nın kalbinin attığı nadir yerlerden biridir. Gün batımında durup sessizce nehre bakarsanız, köprünün geçmişle bugünü birleştiren sesi kulağınıza fısıldanır gibi gelir"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Palazzo_Pitti_Gartenfassade_Florenz.jpg",
+        "imageTitle": "Pitti Sarayı: Gücün ve Sanatın Taşlara İşlenmiş Hâli\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Floransa’nın Arno Nehri’nin karşı kıyısında, görkemli ve biraz da meydan okuyan bir yapı yükselir: Pitti Sarayı. İlk bakışta sade ama heybetlidir; içinde ise zamanın dokusunu, ihtişamını ve Avrupa sanat tarihinin izlerini saklar.\n\nBu saray, 15. yüzyılda zengin bir tüccar olan Luca Pitti tarafından, Medici ailesine rakip olacak kadar güçlü olduğunu göstermek için yaptırılmaya başlandı. Ancak kaderin cilvesiyle sarayı bitiremeden hayatını kaybetti. Saray daha sonra Medici ailesinin eline geçti ve zamanla Floransa Dükalığı’nın ana ikametgâhı hâline geldi. Onunla birlikte gelen soyluluk, zarafet ve siyasi güç Pitti Sarayı’nın duvarlarına sindi.\n\nBugün saray sadece bir yapı değil, içinde Palatine Galerisi, Moda Müzesi, Modern Sanat Galerisi gibi pek çok hazineyi barındıran bir kültür kompleksi. Sarayın hemen ardındaki Boboli Bahçeleri ise doğayla tarihin nasıl yan yana var olabileceğini gösteren bir açık hava müzesi gibi.\n\nPitti Sarayı'nın taş avlusuna adım attığınızda, bir gezgin olarak sadece bir binaya değil, Floransa’nın siyasal tarihine, sanata olan tutkusuna ve aristokrat ruhuna dokunmuş olursunuz. Her odası başka bir zaman diliminden fısıltılar taşır; duvarları size bakar, ama aslında siz onların geçmişine bakarsınız."
+      },
+      {
+        "title": "Floransa'da Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Floransa, Toskana mutfağının incisi olarak bilinir. Et ağırlıklı yemekler, zengin makarnalar ve kaliteli şaraplar Floransa mutfağının temelini oluşturur. 'Bistecca alla Fiorentina' (Floransa usulü biftek) şehrin en meşhur yemeğidir. Ayrıca, 'lampredotto' (sakatat sandviçi), 'pappa al pomodoro' (domatesli ekmek çorbası) ve 'ribollita' (sebzeli ekmek çorbası) gibi geleneksel lezzetleri de mutlaka denemelisiniz. Yerel pazarları ziyaret ederek taze ürünleri ve yöresel peynirleri keşfetmek de eşsiz bir deneyimdir."
+      },
+      {
+        "title": "Önerilen Floransa Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Floransa'nın zengin mutfak sahnesini keşfetmek için bazı özel adresler:",
+        "listItems": [
+          "<B>Trattoria Mario (San Lorenzo Pazarı Yakını):</B> Turistlerden çok yerel halkın tercih ettiği, otantik ve samimi bir trattoria. Özellikle öğle yemeklerinde çok popülerdir, sıra bekleyebilirsiniz. Floransa bifteği ve ev yapımı makarnaları meşhurdur.",
+          "<B>All'Antico Vinaio (Uffizi Yakını):</B> Dünyaca ünlü, devasa sandviçleriyle bilinen bir 'paninoteca'. Uzun kuyruklara değer, hızlı ve lezzetli bir öğle yemeği için idealdir. Özellikle 'La Favolosa'yı deneyin.",
+          "<B>Mercato Centrale (San Lorenzo):</B> Hem yerel pazarı hem de üst katında modern bir yemek alanı bulunan bu mekan, farklı Toskana lezzetlerini bir arada denemek için harikadır. Pizza, makarna, deniz ürünleri ve vejetaryen seçenekler bulunur.",
+          "<B>Da Nerbone (Mercato Centrale Alt Kat):</B> Floransa'nın en eski ve ikonik 'lampredotto' (sakatat sandviçi) satan yerlerinden biri. Cesur damaklar için yerel bir lezzet deneyimi sunar.",
+          "<B>La Giostra (Şehir Merkezi):</B> Daha lüks ve romantik bir atmosfer arayanlar için ünlü bir restoran. Yemek kalitesi ve servisiyle öne çıkar, özellikle 'pera' (armutlu makarna) ve trüf mantarlı yemekleri tavsiye edilir, rezervasyon şarttır.",
+          "Gelateria La Carraia (Ponte alla Carraia) Arno Nehri kenarında yer alan ve Floransa'nın en iyi dondurmacılarından biri olarak kabul edilen bir mekan. Geniş lezzet seçenekleri ve kremalı dokusuyla bilinir."
+        ]
+      },
+      {
+        "imageTitle": "Floransa Usulü Biftek (Bistecca alla Fiorentina)",
+        "type": "image-block",
+        "image": "/images/Bistecca_alla_fiorentina-01.jpg",
+        "imageCaption": "Kalın kesilmiş, az pişmiş ve mükemmel lezzette Floransa'nın imzası niteliğindeki biftek."
+      },
+      {
+        "imageTitle": "Lampredotto Sandviçi",
+        "type": "image-block",
+        "image": "/images/Lampredotto_Sandwich.jpg",
+        "imageCaption": "Floransa'ya özgü, soslu ve ekmek arasına konulmuş geleneksel bir sokak lezzeti."
+      },
+      {
+        "imageTitle": "Pappa al Pomodoro",
+        "type": "image-block",
+        "image": "/images/PappaPomodoro.jpg",
+        "imageCaption": "Domates, ekmek ve fesleğenle hazırlanan, Toskana'nın doyurucu ve lezzetli çorbası."
+      }
+    ]
+  },
+
+
+  {
+    "id": "roma",
+    "countryId": "italya",
+    "name": "Roma",
+    "description": "Tarihi yapılarıyla dolu, ebedi şehir. Antik Roma İmparatorluğu'nun kalıntıları ve Barok mimarisinin şaheserleriyle dolu. Her köşesinde tarihin nefesini hissedebilirsiniz.",
+    "coverImage": "/images/view-ancient-roman-empire-colosseum.jpg",
+    "image": "/images/view-ancient-roman-empire-colosseum.jpg",
+    "routes": [
+      {
+        "title": "1. Gün: İspanyol Merdivenlerinden Kolezyuma Antik Yürüyüş",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d6995.583875425444!2d12.48152611992864!3d41.8985913074459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x132f60551bc4f4e3%3A0xe876d6d8db1d5938!2zxLBzcGFueW9sIE1leWRhbsSx!3m2!1d41.9056978!2d12.482327!4m5!1s0x132f6053278340d5%3A0xf676f1e1cc02bbb6!2zVHJldmkgw4dlxZ9tZXNp!3m2!1d41.900932499999996!2d12.483312999999999!4m5!1s0x132f60522c73d30b%3A0xef1a795cca2ef181!2sMontecitorio%20Saray%C4%B1!3m2!1d41.901106899999995!2d12.4786817!4m5!1s0x132f604f678640a9%3A0xcad165fa2036ce2c!2sPanteon!3m2!1d41.8986108!2d12.4768729!4m5!1s0x132f60502e82012d%3A0x22b3fa4bf22984b9!2sChurch%20of%20Saint%20Louis%20of%20the%20French!3m2!1d41.8996104!2d12.474740599999999!4m5!1s0x132f604ffb713ff3%3A0xfe2aa2df10e2f0ff!2sPiazza%20Navona%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.8991622!2d12.473071899999999!4m5!1s0x132f604d1b805de3%3A0x21154807a7b83fe1!2sVittorio%20Emanuele%20I%C4%B1%20Abidesi!3m2!1d41.8945976!2d12.4831269!4m5!1s0x132f61b383a9cdef%3A0xfa914007c0ec7de6!2sRoma%20Forumu%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.892090599999996!2d12.4864378!4m5!1s0x132f61b6532013ad%3A0x28f1c82e908503c4!2sKolezyum%2C%20Piazza%20del%20Colosseo%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.8902102!2d12.4922309!5e0!3m2!1str!2str!4v1753650557827!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/Nb2zhPPzBd53bTqBA",
+        "steps": [
+          {
+            "from": "İspanyol Meydanı, Piazza di Spagna, 00187 Roma RM, İtalya",
+            "to": "Kolezyum, Piazza del Colosseo, 1, 00184 Roma RM, İtalya",
+            "duration": "43 dakika",
+            "distance": "2,2 km",
+            "image": "/images/roma_route1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "2. Gün: Vatikandan Santa Maria Kilisesine Uzanan Yürüyüş Rotası",
+        "mapEmbedUrl": " https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d8077.556738141665!2d12.45542551108746!3d41.90112601036399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x132f6063839bc129%3A0xcfe0eca0526416b6!2sVatikan%20M%C3%BCzeleri%2C%2000120%20Citt%C3%A0%20del%20Vaticano%2C%20Vatikan!3m2!1d41.9064878!2d12.4536413!4m5!1s0x132f6065c523afdb%3A0xab16c8877fb53e22!2sCappella%20Sistina!3m2!1d41.902946799999995!2d12.4544835!4m5!1s0x132f6061b7149b59%3A0x724bf077cd875283!2sBasilica%20di%20San%20Pietro!3m2!1d41.902166699999995!2d12.4539367!4m5!1s0x13258a8711e7a4d1%3A0x366c111ce77d4189!2sCastel%20Sant&#39;Angelo!3m2!1d41.9030632!2d12.466275999999999!4m5!1s0x132f605ca1d70975%3A0xa8ab4616b7b40209!2sPonte%20Sant&#39;Angelo!3m2!1d41.901900999999995!2d12.4664498!4m5!1s0x132f6044d0605291%3A0x22e8c66aa7d4d918!2sChiesa%20Nuova%20di%20Santa%20Maria%20in%20Vallicella!3m2!1d41.8982461!2d12.469125!5e1!3m2!1str!2str!4v1753923351515!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/catGe3JMy6m7cAt26",
+        "steps": [
+          {
+            "from": "Vatikan Müzeleri, 00120 Città del Vaticano, Vatikan",
+            "to": "Chiesa Nuova di Santa Maria in Vallicella, V. del Governo Vecchio, 134, 00186 Roma RM, İtalya",
+            "duration": "34 dakika",
+            "distance": "2,4 km",
+            "image": "/images/roma_route2.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Roma: Zamanın Sonsuz Şehri\n",
+        "type": "text",
+        "content": "Roma, tarih boyunca “Ebedi Şehir” olarak anılmış ve dünyanın medeniyet yolculuğunda en önemli duraklardan biri olmuştur. Sokaklarında yürürken, her köşede imparatorların adımları, filozofların fikirleri ve sanatçıların tutkusu hissedilir. Kent, antik çağlardan Orta Çağ’a, Rönesans’tan modern zamana kadar sayısız döneme tanıklık etmiş; her dönemin izini taşıyan taşlarla örülmüştür.\n\nKolezyum’un ihtişamı, Forum’un siyasi hayatı ve Panteon’un mimari mucizesi, Roma’nın görkemli geçmişine açılan kapılardır. Vatikan’ın kutsallığı, meydanların enerjisi ve dar sokaklardaki yaşam, şehri sadece bir müze değil, yaşayan bir tarih sayfası haline getirir.\n\nBir gezgin için Roma, yalnızca görülmesi gereken bir şehir değil; geçmişle bugün arasında bir köprü, tarihle soluk alınan bir deneyimdir. İşte Roma'da mutlaka görmeniz ve deneyimlemeniz gerekenler:"
+      },
+      {
+        "title": "Roma Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Roma'nın geniş toplu taşıma ağı, metro, otobüs ve tramvay hatlarıyla şehrin tarihi ve turistik bölgelerine kolay erişim sağlar. Biletlerinizi metro istasyonlarındaki otomatik makinelerden, gazete bayilerinden (Edicola) veya tütüncülerden (Tabaccheria) temin edebilirsiniz. Toplu taşıma araçlarına binerken biletinizi valide etmeyi/aktive etmeyi unutmayınız.\n\nBaşlıca bilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi ATAC sitesini kontrol ediniz):\n\n<B>100 Dakikalık Bilet (BIT):</B> 1,50 €\n    Tek metro yolculuğu ve 100 dakika içinde sınırsız otobüs/tramvay/banliyö treni yolculuğu için geçerlidir.\n <B>24 Saatlik Bilet (ROMA 24H):</B></> 7,00 €\n    İlk kullanımdan itibaren 24 saat boyunca tüm toplu taşıma hatlarında sınırsız kullanım sağlar.\n </><B>48 Saatlik Bilet (ROMA 48H):</B></> 12,50 €\n     İlk kullanımdan itibaren 48 saat boyunca tüm toplu taşıma hatlarında sınırsız kullanım sağlar.\n </><B>72 Saatlik Bilet (ROMA 72H):</B></> 18,00 €\n     İlk kullanımdan itibaren 72 saat (3 gün) boyunca tüm toplu taşıma hatlarında sınırsız kullanım sağlar.\n </><B>Haftalık Bilet (CIS):</B></> 24,00 €\n     7 gün boyunca sınırsız toplu taşıma kullanımı sağlar.\n\n</>Önemli Not:</> Roma'da toplu taşımaya temassız kredi kartı ile de binebilirsiniz, ancak bu durumda aktarma haklarından yararlanamazsınız."
+      },
+      {
+        "title": "Roma Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "ATAC (Roma Toplu Taşıma) Resmi Sitesi",
+            "url": "https://www.atac.roma.it/en/"
+          },
+          {
+            "name": "Roma Pass Kartları ve Ulaşım Bilgisi",
+            "url": "https://www.romapass.it/en/"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/trinita-dei-monti-5236301_1280.jpg",
+        "imageTitle": "İspanyol Meydanı: Roma’nın Zarif Buluşma Noktası",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın kalbinde yer alan Piazza di Spagna, adını 17. yüzyıldan beri burada bulunan İspanyol Elçiliği’nden alır. Barok mimarinin en zarif örneklerinden biri olan meydan, tarih boyunca sanatçıların, şairlerin ve gezginlerin uğrak noktası olmuştur. Meydanın ortasındaki Barcaccia Çeşmesi, Bernini ailesinin eseri olup 1627 yılında yapılmıştır ve Tiber Nehri'nin taşkınlarını simgeleyen batık bir kayığı tasvir eder.\n\nMeydanı yukarıdaki Trinità dei Monti Kilisesi’ne bağlayan İspanyol Merdivenleri ise 1725 yılında tamamlanmıştır. Fransızların katkısıyla inşa edilen bu zarif basamaklar, zamanla sadece bir geçiş yolu değil, Roma kültürünün simgelerinden biri hâline gelmiştir. Meydanın köşesinde yer alan John Keats’in evi, bugün bir müze olarak şairin Roma’daki son günlerine tanıklık eder. İspanyol Meydanı, geçmişin izlerini bugünün canlılığıyla birleştiren, Roma’nın hem tarihini hem de günlük yaşamını içinde barındıran nadir yerlerden biridir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
+        "imageTitle": "Trevi Çeşmesi'nde Dilek Tutmak Ve Suyun Hikayesini Dinlemek",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma'nın en görkemli yapılarından biri olan Trevi Çeşmesi, sadece bir su kaynağı değil, aynı zamanda yüzyıllardır dileklerin ve hayallerin buluştuğu efsanevi bir duraktır. Çeşmenin temelleri Antik Roma dönemine kadar uzanır; ilk olarak MÖ 19 yılında, kente su taşıyan Aqua Virgo su kemeriyle bağlantılı bir su kaynağı olarak ortaya çıkmıştır. Bugünkü barok görkemine ise 18. yüzyılda, mimar Nicola Salvi’nin 1732’de başlattığı ve Giuseppe Pannini’nin 1762’de tamamladığı tasarımla kavuşmuştur. Mitolojik figürlerle bezeli bu devasa taş yapı, deniz tanrısı Okyanus’un heykeliyle birlikte doğayla insan arasındaki güçlü ilişkiyi simgeler. Ancak belki de en bilinen yönü, arkası dönük şekilde çeşmeye bozuk para atan ziyaretçilerin dilek dilemesi geleneğidir. Rivayete göre, bir bozuk para atarsanız Roma’ya tekrar gelirsiniz; iki atarsanız bir İtalyan’a âşık olursunuz; üç atarsanız evlenirsiniz. Trevi Çeşmesi bugün hâlâ hem Roma’nın su kültürüne hem de turistlerin hayallerine ev sahipliği yapıyor; taşlarıyla tarihi, sesiyle ise geçmişin fısıltılarını anlatıyor."
+      },
+      {
+        "title": "Montecitorio",
+        "type": "image-block",
+        "image": "/images/Obelisco_di_Montecitorio.jpg",
+        "imageTitle": "Montecitorio Sarayı: Gücün ve Tarihin Sessiz Tanığı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın merkezinde yer alan Montecitorio Sarayı, İtalya’nın siyasi kalbinin attığı yerlerden biridir. Aslen 1650’lerde Papa XII. Innocenzo tarafından mimar Gian Lorenzo Bernini’ye yaptırılan bu yapı, ilk başta papalık mahkemeleri için inşa edilmiştir. Ancak tamamlanması, mimar Carlo Fontana’nın katkılarıyla 1694 yılında gerçekleşmiştir.\n\nZaman içinde farklı amaçlarla kullanılan saray, 1871 yılında İtalya'nın birleşmesinden sonra Temsilciler Meclisi’nin (Camera dei Deputati) resmî binası hâline gelmiştir ve bugüne kadar da bu görevini sürdürmektedir. Barok ve neoklasik tarzların iç içe geçtiği bu yapı, sadece mimari zarafetiyle değil, aynı zamanda modern İtalya’nın siyasal kararlarının alındığı yer olmasıyla da önemlidir.\n\nMontecitorio’nun ön cephesindeki antik Mısır'dan kalma obelisk ise Augustus döneminde Roma’ya getirilen bir güneş saati parçasıdır ve binanın tarihi köklerine mitolojik bir boyut katar. Bugün sarayın çevresi, hem politik atmosferi hissetmek isteyen ziyaretçileri hem de tarih meraklılarını kendine çeker."
+      },
+      {
+        "title": "Panteon",
+        "type": "image-block",
+        "image": "/images/20190406-DSC5193_Panteon.jpg",
+        "imageTitle": "Panteon: Tanrılara Adanmış Zamansız Bir Kubbe",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın kalbinde, Piazza della Rotonda’da yükselen Panteon, hem mimarî ustalığın hem de antik dünyanın ruhunun somutlaştığı bir yapıdır. İlk olarak MÖ 27 yılında Marcus Agrippa tarafından inşa edilen bu yapı, MS 2. yüzyılda İmparator Hadrianus döneminde bugünkü hâline kavuşmuştur. İsmini, \"tüm tanrılara adanmış tapınak\" anlamına gelen Yunanca “Pantheion” kelimesinden alır.\n\nPanteon’un en etkileyici özelliği, 43 metrelik çapıyla hâlâ dünyanın en büyük takviyesiz beton kubbesine sahip olmasıdır. Kubbenin tepesindeki oculus (göz) ise yalnızca içeriye ışık almakla kalmaz, aynı zamanda gökyüzüyle kurulan mistik bir bağ gibidir. Yapının içindeki mükemmel oranlar ve sade ihtişam, hem bir mimarî mucizeyi hem de zaman karşısında nasıl dimdik durulabileceğini gösterir.\n\nAntik Roma döneminde bir tapınak olan Panteon, 7. yüzyıldan itibaren kiliseye dönüştürülerek korunmuştur. İçinde İtalya’nın önemli sanatçılarından Rönesans ustası Raphael’in mezarı da bulunur. Sessiz taş duvarları, yüzyıllar boyunca imparatorların adımlarını, duaları, fısıltıları ve zamanın akışını kaydetmiştir.\n\nBugün Panteon, Roma'nın hem geçmişini hem de kalıcılığını hissedebileceğiniz nadir yerlerden biridir. Dışarıdan bakıldığında sade bir cepheyle karşılar sizi ama içine adım attığınızda, bir an için zaman kavramını yitirmeniz işten bile değildir."
+      },
+      {
+        "title": "Church of Saint Louis of the French",
+        "type": "image-block",
+        "image": "/images/San_Luigi_dei_Francesi_(Rome)_-_Interior.jpg",
+        "imageTitle": "San Luigi dei Francesi: Roma’da Bir Fransız Nefesi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Piazza Navona ile Pantheon arasında sessizce duran San Luigi dei Francesi Kilisesi, Roma’daki Fransız varlığının hem tarihî hem de sanatsal bir simgesidir. 1589 yılında tamamlanan bu kilise, Fransa’nın koruyucu azizi olan Aziz Louis’e adanmıştır ve o tarihten bu yana Fransız cemaatinin ibadet merkezi olarak hizmet vermektedir.\n\nKilisenin dış cephesi gösterişten uzak olsa da içeri adım attığınızda, göz alıcı barok süslemeler ve altın tonlar sizi hemen içine çeker. Ancak burayı asıl özel kılan, barok ustası Caravaggio’nun burada yer alan üç başyapıtıdır. San Matteo’ya (Aziz Matta) adanmış bu eserler — \"Aziz Matta’nın Çağrılışı\", \"Aziz Matta ve Melek\" ve \"Aziz Matta’nın Şehit Edilişi\" — kilisenin Contarelli Şapeli’nde yer alır ve Caravaggio’nun ışıkla gölge arasında kurduğu dramatik anlatımı nefes kesici şekilde yansıtır.\n\nSan Luigi dei Francesi, Roma’nın sessiz kalmış hazinelerinden biridir. Her ne kadar büyük meydanların ve anıtların gölgesinde kalsa da, içine giren herkesin zihninde yer edecek bir dinginliğe ve sanatsal derinliğe sahiptir."
+      },
+      {
+        "title": "novana",
+        "type": "image-block",
+        "image": "/images/PiazzaNavona.jpg",
+        "imageTitle": "Piazza Navona: Roma’nın Barok Sahnesi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın en canlı ve teatral meydanı olan Piazza Navona, yüzyıllardır hem halkın eğlencesine hem de mimarî görkeme sahne oluyor. Meydanın uzun ve oval şekli, aslında MS 1. yüzyılda burada bulunan antik Domitianus Stadyumu’nun izlerini taşır. O dönem spor karşılaşmalarının yapıldığı bu alan, zamanla Roma’nın günlük yaşamının kalbine dönüşmüştür.\n\nyüzyılda Barok sanatının altın çağını yaşadığı dönemde meydan, papalık emriyle dönüştürülmüş ve bugünkü ihtişamına kavuşmuştur. Ortasında Gian Lorenzo Bernini’nin eseri olan Dört Nehir Çeşmesi (Fontana dei Quattro Fiumi) yükselir. Nil, Ganj, Tuna ve Rio de la Plata’yı simgeleyen heykeller, hem sanatsal hem de sembolik anlamda dünyanın dört bir yanını bu meydanda bir araya getirir.\n\nMeydanın çevresi ise Sant’Agnese in Agone Kilisesi gibi etkileyici yapılarla çevrilidir; her biri Roma’nın katman katman tarihine yeni bir pencere açar. Günümüzde ressamların, sokak müzisyenlerinin, kalabalık kafelerin ve gün batımına hayran kalmış gezginlerin buluştuğu bir açık hava tiyatrosu gibidir. Piazza Navona, Roma’da sadece tarih değil, hayatın ta kendisiyle karşılaştığınız nadir meydanlardan biridir. Burada zaman durmuş gibi değil, aksine zarafetle akıyor."
+      },
+      {
+        "title": "Vittorio Emanuele II Abidesi",
+        "type": "image-block",
+        "image": "/images/Altar_della_Patria_September_2015-1.jpg",
+        "imageTitle": "Vittorio Emanuele II Abidesi: Birliğin Mermerden Sembolü",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma'nın kalbinde, Piazza Venezia'nın tam ortasında yükselen Vittorio Emanuele II Abidesi, İtalya'nın birleşmesini simgeleyen devasa bir anıttır. Beyaz mermerden yapılmış bu yapı, 1885 yılında inşa edilmeye başlanmış ve 1911 yılında, İtalya Krallığı'nın ilk kralı Vittorio Emanuele II onuruna açılmıştır. İtalyan halkı arasında sıkça \"Altare della Patria\" yani \"Vatan Sunağı\" olarak da bilinir.\n\nAnıt, sadece büyüklüğüyle değil, taşıdığı tarihî anlamla da etkileyicidir. Ön cephesindeki bronz atlı heykel, Vittorio Emanuele II’yi ulusun birleştiricisi olarak onurlandırır. Merdivenlerin tam ortasında yer alan Meçhul Asker Mezarı ise, I. Dünya Savaşı’nda kimliği belirlenemeyen askerler adına yapılmıştır ve önünde sürekli yanan bir alev, ulusal hafızanın canlı tutulduğunu simgeler.\n\nNeoklasik mimarisiyle Roma’daki antik kalıntıların hemen yanında adeta bir modern çağ manifestosu gibi durur. Kimi zaman eleştirilse de, bu abide İtalyan ulusunun birlik mücadelesini mermer sütunlarla anlatır. Terasına çıktığınızda, Roma'nın hem antik hem de modern yüzünü kuşbakışı izleyebilir, tarih ile bugünün nasıl iç içe geçtiğini bir bakışta hissedebilirsiniz."
+      },
+      {
+        "title": "Roma Forumu",
+        "type": "image-block",
+        "image": "/images/Forum_Romanum_panorama.jpg",
+        "imageTitle": "Roma Forumu: İmparatorluğun Nabzının Attığı Yer",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Bugün taş yığınları ve sütun kalıntıları olarak görünen Roma Forumu, zamanında Roma İmparatorluğu’nun siyasi, hukuki, dini ve ticari kalbinin attığı yerdi. MÖ 7. yüzyılda bataklık bir alanın kurutulmasıyla şekillenen bu bölge, yüzyıllar boyunca imparatorların kararlar aldığı, senatörlerin tartıştığı, halkın adalet aradığı ve tanrılarına kurbanlar sunduğu kutsal bir merkez oldu.\n\nForum, Roma’nın gelişimiyle birlikte genişledi ve her imparator kendi döneminde yeni tapınaklar, bazilikalar ve anıtlar ekleyerek bölgeyi zenginleştirdi. Saturn Tapınağı, Vesta Bakireleri Evi, Titus Kemeri ve Curia (Senato binası) gibi yapılar hâlâ ayakta kalan ve geçmişin ihtişamını fısıldayan kalıntılardan sadece birkaçıdır.\n\nBurada yürürken, antik taşların arasından fısıldayan bir tarih duyarsınız; sanki Caesar’ın adımları hâlâ yankılanıyor, Marcus Aurelius’un konuşmaları rüzgârla birlikte taş duvarlarda dolaşıyor gibidir. Forum, sadece taşlardan oluşan bir harabe değil; Roma’nın kudretinin, çöküşünün ve yeniden doğuşunun sessiz tanığıdır."
+      },
+      {
+        "title": "Kolezyum ",
+        "type": "image-block",
+        "image": "/images/view-ancient-roman-empire-colosseum.jpg",
+        "imageTitle": "Kolezyum: Roma’nın Efsanevi Arenası",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın kalbinde heybetiyle yükselen Kolezyum, antik dünyanın en büyük amfi tiyatrosu olarak zamana meydan okuyor. MS 70-80 yılları arasında İmparator Vespasianus ve oğlu Titus tarafından inşa edilen bu devasa yapı, yaklaşık 50 bin seyirci kapasiteli olup gladyatör dövüşleri, kamu gösterileri ve tiyatro oyunları için kullanılmıştır.\n\nYuvarlak formu, gelişmiş mühendislik teknikleri ve etkileyici mimarisiyle Kolezyum, Roma’nın güç ve ihtişamının somut bir simgesidir. Ancak bu ihtişamın arkasında, kimi zaman acımasız eğlencelerin, kimi zaman halkın politik gücünün sahnelendiği bir arenadır. Tarih boyunca birçok deprem ve tahribat görmesine rağmen, ayakta kalmayı başarmış olan Kolezyum, bugün dünya mirası olarak ziyaretçilerini büyülemeye devam ediyor.\n\nZiyaret ettiğinizde sadece taşların değil, bu taşların arasında yaşanmış sayısız hikayenin, mücadelelerin ve insanlık dramlarının da orada olduğunu hissedebilirsiniz. Kolezyum, Roma’nın kalbinde zamanın ötesinde bir deneyim sunar."
+      },
+      {
+        "title": "Sistina Şapeli ",
+        "type": "image-block",
+        "image": "/images/1920px-Sistine_Chapel_ceiling_03.jpg",
+        "imageTitle": "Sistina Şapeli: Sanatın ve İnancın Buluşma Noktası",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Vatikan’ın içinde, kentin karmaşasından uzak duran Sistina Şapeli, sadece dini bir mekan değil, insanlık tarihinin en büyük sanat eserlerinden birine ev sahipliği yapıyor. 1473-1481 yılları arasında Papa IV. Sixtus için inşa edilen şapel, adını da ondan alır. Ancak asıl ününü Michelangelo’nun 1508-1512 yılları arasında yaptığı tavan freskleri ve 1536-1541 arasında tamamladığı Son Yargı duvar resmi sayesinde kazanmıştır.\n\nTavanın ortasında insanın yaratılışını anlatan sahneler, hareket ve duygu dolu figürlerle doludur; her fırça darbesi adeta ilahi bir hikâyeyi gözler önüne serer. Michelangelo’nun dehası burada sadece teknik ustalık değil, derin bir inanç ve insan ruhunun karmaşıklığını yansıtan bir anlatım sunar.\n\nŞapel, papaların seçildiği konklavların da gerçekleştiği kutsal bir mekân olması sebebiyle, sanat ve dinin iç içe geçtiği büyülü bir atmosfer yaratır. Ziyaret ettiğinizde, yüzyılların sessiz tanığı olan bu duvarların arasında hem insanlığın hem de inancın izlerini derinlemesine hissedebilirsiniz.\n\n"
+      },
+      {
+        "title": "san-pietro-meydani",
+        "type": "image-block",
+        "image": "/images/St_Peter's_Square,_Vatican_City_-_April_2007.jpg",
+        "imageTitle": "Aziz Petrus Bazilikası: Hristiyanlığın Kalbi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Vatikan’ın tam kalbinde yükselen Aziz Petrus Bazilikası, dünyanın en büyük ve en etkileyici kiliselerinden biridir. MS 4. yüzyılda inşa edilen ilk bazilika üzerine, 16. yüzyılda yeniden yapılmaya başlanmış ve 1626 yılında tamamlanmıştır. Bu görkemli yapı, Hristiyanlığın kurucularından Aziz Petrus’un mezarının üzerine inşa edilmiştir ve Katolik dünyasının ruhani merkezi olarak kabul edilir.\n\nMichelangelo’nun tasarladığı devasa kubbe, bazilikanın siluetini Roma semalarına kazır. Bernini’nin muhteşem sütunlu meydanı, ziyaretçileri kucaklayan bir kollar gibi sarar. İçerideki sanat eserleri, freskler ve heykeller, binlerce yılın inanç ve sanat birikimini yansıtır.\n\nHer yıl milyonlarca insan burada dua etmek, tarih ve manevi derinlik içinde yolculuk yapmak için bir araya gelir. Aziz Petrus Bazilikası, sadece bir mimari şaheser değil; inancın, sanatın ve tarihin kesiştiği kutsal bir buluşma noktasıdır."
+      },
+      {
+        "title": "sant-angelo-kalesi",
+        "type": "image-block",
+        "image": "/images/Engelsburg_und_Engelsbrücke_abends.jpg",
+        "imageTitle": "Kutsal Melek Kalesi: Roma’nın Koruyucu Gözcüsü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Tiber Nehri’nin kıyısında heybetle yükselen Kutsal Melek Kalesi, başlangıçta MS 2. yüzyılda İmparator Hadrianus’un mozolesi olarak inşa edilmiştir. Zamanla savunma amaçlı bir kaleye dönüşen yapı, Orta Çağ’dan itibaren papaların sığınağı ve koruyucu kalesi olarak önemli bir rol oynamıştır.\n\nKaleye ismini veren heykel, 6. yüzyılda, Roma’yı veba salgınından koruduğuna inanılan başmelek Mikail’in göründüğü efsanesine dayanır. Kalenin içindeki labirent gibi geçitler ve zindanlar, tarih boyunca burada yaşanan siyasi entrikaların ve savunma stratejilerinin izlerini taşır.\n\nBugün Castel Sant’Angelo, müze olarak ziyaretçilere açılmış; Roma’nın tarihine farklı bir pencereden bakmak isteyenler için hem görkemli bir yapı hem de etkileyici bir müze deneyimi sunar. Nehir kıyısında gün batımını izlerken, kaledeki asırlık sessizliği hissetmek mümkün."
+      },
+      {
+        "title": "chiese_santa_maria_in_valicella_a_roma_-_navata_centrale",
+        "type": "image-block",
+        "image": "/images/Santa_Maria_in_Vallicella_(Rome)_-_Intern.jpg",
+        "imageTitle": "Chiesa Nuova di Santa Maria in Vallicella: Barok Rönesansının Parlayan İncisi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Roma’nın tarihi sokaklarında, kalabalığın biraz dışında saklı duran Chiesa Nuova di Santa Maria in Vallicella, Barok mimarinin zarif ve etkileyici bir örneğidir. 16. yüzyılda inşa edilen bu kilise, Roma Katolik Reformu’nun önemli simgelerinden biri olarak, Oratoryo Rahipleri’nin merkezi olmuş ve sanatla dolu iç mekanlarıyla dikkat çekmiştir.\n\nKilise, ünlü ressam Pietro da Cortona’nın muhteşem tavan freskleriyle bezenmiş olup, izleyeni adeta gökyüzüne doğru yükselten bir atmosfer yaratır. İç mekandaki sanat eserleri, dini duyguları güçlendirmekle kalmaz, aynı zamanda dönemin sanatsal canlılığını da gözler önüne serer.\n\nChiesa Nuova, Roma’daki dini ve sanatsal yaşamın kesiştiği nadir noktalardan biri olarak, hem huzur arayan ziyaretçiler hem de sanatseverler için eşsiz bir deneyim sunar."
+      },
+      {
+        "title": "Roma'da Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Roma mutfağı, 'Cucina Romana' adıyla bilinen, basit ama lezzetli malzemelerle hazırlanan geleneksel yemekleriyle ünlüdür. 'Cacio e pepe' (peynir ve karabiberli makarna), 'Carbonara' (yumurta, guanciale/pancetta ve peynirli makarna), 'Amatriciana' (domates, guanciale ve peynirli makarna) ve 'Saltimbocca alla Romana' (adaçayı ve prosciutto sarılı dana eti) mutlaka denemeniz gereken spesiyalitelerdir. Roma'da yemek, sadece karın doyurmak değil, aynı zamanda kültürel bir deneyimdir. Küçük 'trattoria'ları ve 'osteria'ları keşfederek otantik tatlara ulaşabilirsiniz."
+      },
+      {
+        "title": "Önerilen Roma Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Roma'nın zengin mutfağını deneyimleyebileceğiniz bazı otantik adresler:",
+        "listItems": [
+          "<B>Da Enzo al 29 (Trastevere):</B> Trastevere'nin kalbinde yer alan, otantik Roma mutfağı sunan küçük ve popüler bir trattoria. Uzun kuyruklar olabilir, rezervasyon veya erken gidiş önerilir.",
+          "<B>Roscioli (Şehir Merkezi):</B> Hem bir fırın (Forno), hem bir deli (Salumeria), hem de bir restoran. Roma'nın en iyi 'pizza bianca'larından birini ve gurme şarküteri ürünlerini bulabilirsiniz. Restoran kısmı da oldukça kalitelidir.",
+          "<B>Armando al Pantheon (Pantheon Yakını):</B> Pantheon'a yürüme mesafesinde, geleneksel Roma yemeklerinin ustalıkla hazırlandığı köklü bir mekan. Klasik 'Carbonara' ve 'Amatriciana' için favoridir.",
+          "<B>Trapizzino (Çeşitli Lokasyonlar):</B> Sokak lezzetleri arayanlar için harika bir seçenek. Pizza hamurundan yapılmış koni şeklindeki ekmeklerin içine farklı Roma yemeklerinin doldurulduğu eşsiz bir atıştırmalık.",
+          "<B>Giolitti (Pantheon Yakını):</B> Roma'nın en eski ve ünlü dondurmacılarından biri. Geniş bir lezzet yelpazesi sunar, özellikle sıcak yaz günlerinde ferahlatıcı bir mola yeridir."
+        ]
+      },
+      {
+        "imageTitle": "Roma'nın Meşhur Carbonara'sı",
+        "type": "image-block",
+        "image": "/images/spaghetti-644818_1280.jpg",
+        "imageCaption": "Guanciale, yumurta, peynir ve karabiberle hazırlanan klasik bir Roma makarnası."
+      },
+      {
+        "imageTitle": "Roma Usulü Enginar (Carciofi alla Romana)",
+        "type": "image-block",
+        "image": "/images/Carciofiromana.jpg",
+        "imageCaption": "Zeytinyağı, sarımsak ve nane ile pişirilmiş lezzetli Roma enginarı."
+      }
+    ]
+  },
+
+
+  {
+    "id": "Milano",
+    "countryId": "italya",
+    "name": "Milano",
+    "description": "Milano: Modanın ve modern yaşamın başkenti",
+    "coverImage": "/images/Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+    "image": "/images/Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+    "routes": [
+      {
+        "title": "Duomo di Milano'dan Basilica of Sant'Ambrogio'suna Yürüyüş Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d9088.722151099513!2d9.172462906612688!3d45.46800439491453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x4786c6aec34636a1%3A0xab7f4e27101a2e13!2sDuomo%20di%20Milano!3m2!1d45.464097599999995!2d9.1919265!4m5!1s0x47793506fd86b6c3%3A0x270b9ca95809d416!2sGalleria%20Vittorio%20Emanuele%20II!3m2!1d45.4658434!2d9.1899401!4m5!1s0x4786fcb60ea97b3d%3A0x6556dd66c472c29b!2sCastello%20Sforzesco!3m2!1d45.4704762!2d9.1793325!4m5!1s0x4786c147aa41b7cf%3A0xfbbcb44d7ec5c615!2sArco%20della%20Pace!3m2!1d45.475692699999996!2d9.1724514!4m5!1s0x4786c15a4fc7a8ef%3A0x6db8f89b95fdff86!2sLeonardo&#39;s%20Last%20Supper%20Museum%2C%20Piazza%20di%20Santa%20Maria%20delle%20Grazie%2C%202%2C%2020123%20Milano%20MI%2C%20%C4%B0talya!3m2!1d45.4661853!2d9.170600499999999!4m5!1s0x4786c156de57fc09%3A0x2a5e45cbf215bf63!2sBasilica%20di%20Sant&#39;Ambrogio!3m2!1d45.4623292!2d9.175612!5e1!3m2!1str!2str!4v1753662316537!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/sKoErfo2iYgG5KzH9",
+        "steps": [
+          {
+            "from": "Duomo di Milano, P.za del Duomo, 20122 Milano MI, İtalya",
+            "to": "Basilica of Sant'Ambrogio, Piazza Sant'Ambrogio, 15, 20123 Milano MI, İtalya",
+            "duration": "33 dakika",
+            "distance": "2,8 km",
+            "image": "/images/milano_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Milano'da Neler Yapılır?",
+        "type": "text",
+        "content": "İtalya’nın kuzeyinde, Alp eteklerine yaslanmış olan Milano, ilk bakışta modanın ve modern yaşamın başkenti gibi görünür. Ama bu şehrin derinlerine indikçe, her sokak köşesi Roma İmparatorluğu’ndan Rönesans’a uzanan bir tarih yankısıyla doludur. Antik Mediolanum’dan bugünün küresel metropolüne dönüşen Milano, yüzlerce yıl boyunca hem siyasetin hem de sanatın merkezlerinden biri olmuştur.\n\nGörkemli Duomo di Milano, yalnızca mimari bir başyapıt değil, aynı zamanda bu şehrin sabrı ve azminin taşlara işlenmiş hâlidir. Sforza Kalesi, Leonardo da Vinci’nin izlerini taşıyan freskleriyle, Milano’nun kültürel mirasının canlı bir parçasıdır. Ve elbette “Son Akşam Yemeği” tablosu, bir duvarın üzerinde yüzyıllardır dünyanın dört bir yanından gelen ziyaretçilere sessizce seslenir.\n\nMilano, ihtişamını göz önünde sergilemez; onu keşfetmek için zaman gerekir. Moda vitrinlerinin arkasında, tramvayların gölgesinde ve avluların sessizliğinde saklı bir şehir vardır burada — güçlü, zarif ve hiç acele etmeyen bir şehir."
+      },
+      {
+        "title": "Milano Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Milano Bergamo Havalimanı şehir merkezine biraz uzaktadır. Havalimanı çıkışında Milano Merkez İstasyonuna giden otobüsleri kullanabilirsiniz. Otobüs şöföründen bilet alınabiliyor. \n\n Milano'da ulaşım ağı oldukça gelişmiştir ve metro, tramvay, otobüs hatlarıyla şehrin her yerine kolayca ulaşım sağlayabilirsiniz. Özellikle şehir merkezinde ve ana turistik bölgelerde metro en hızlı ve pratik seçenektir. Biletler metro istasyonlarındaki otomatik makinelerden, gazete bayilerinden (Edicola) veya tütüncülerden (Tabaccheria) temin edilebilir. Ayrıca ATM (Azienda Trasporti Milanesi) mobil uygulamasını kullanarak da bilet alabilirsiniz.\n\nİşte başlıca bilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi ATM sitesini kontrol ediniz):\n\n<B>90 Dakikalık Bilet (Standard Urban Ticket):</B> 2,20 €\n     Tek bir metro yolculuğu (aktarma hakkı yok) ve 90 dakika içinde sınırsız otobüs/tramvay yolculuğu için geçerlidir.\n <B>24 Saatlik Bilet:</B> 7,60 €\n     İlk kullanımınızdan itibaren 24 saat boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n <B>3 Günlük Bilet:</B> 15,50 €\n     İlk kullanımınızdan itibaren 3 gün (72 saat) boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n<B>10 Binişlik Bilet (Carnet):</B> 19,50 €\n     10 adet 90 dakikalık tek kullanımlık biletin toplu halidir. Daha uygun fiyata gelir.\n <B>Aylık Kart:</B> 39 €\n     Sık seyahat edenler için uygun olabilir, öğrenciler için özel indirimler mevcut.\n\nBiletinizi ilk kullandığınızda (metroda turnikeden geçerken veya otobüs/tramvayda damgalarken) aktive etmeyi unutmayın. Geçerlilik süresi bu andan itibaren başlar."
+      },
+      {
+        "title": "Milano Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "ATM (Milano Toplu Taşıma) Resmi Sitesi",
+            "url": "https://www.atm.it/en/"
+          },
+          {
+            "name": "GetYourGuide Milano Toplu Taşıma Kartları",
+            "url": "https://www.getyourguide.com/tr-tr/milano-l139/toplu-tasima-biletleri-tc409/"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+        "imageTitle": "Duomo di Milano: Göğe Uzanan Mermer Dualar",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun kalbinde yükselen Duomo, yalnızca bir katedral değil, aynı zamanda bir sabır ve inanç anıtıdır. Yapımına 1386 yılında başlanan bu devasa gotik yapı, tamamlanması beş yüzyıldan fazla sürmüş ve her bir taşı, yüzyılların sanat anlayışını, zanaat gücünü ve ruhsal derinliğini yansıtmıştır.\n\nBembeyaz mermeriyle parıldayan Duomo, yukarıya doğru yükselen binlerce sivri kuleciğiyle sanki gökyüzüne mermerden dualar gönderir. En tepeye yerleştirilmiş olan altın “Madonnina” heykeli, Milano’yu kutsar gibi şehrin üzerine bakar. İçeriye adım attığınızda ise sizi karşılayan dev sütunlar, loş ışık ve sessiz yankılar, adeta zamanın durduğu bir an yaratır.\n\nDuomo sadece bir yapı değil, Milano’nun ruhudur. Onun gölgesinde yürümek, geçmişle bugünü aynı anda hissetmek gibidir. Kimileri için mimari bir başyapıt, kimileri içinse derin bir iç yolculuğun başlangıcıdır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/800px-Galleria_Vittorio_Emanuele_ii_Xmas_(J).jpg",
+        "imageTitle": "Galleria Vittorio Emanuele II: Işığın Altında Geçmişe Yolculuk",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’da Duomo’nun hemen yanında, ihtişamlı bir geçit açılır: Galleria Vittorio Emanuele II. 1867 yılında, İtalya’nın ilk kralı onuruna inşa edilen bu cam kubbeli alışveriş galerisi, sadece bir ticaret noktası değil; bir zarafet ve tarih yolculuğudur.\n\nDemir ve camın ustalıkla birleştiği bu galeri, Avrupa’nın en eski alışveriş merkezlerinden biri olarak kabul edilir. İçeride yürürken adımlarınız mozaiklerle süslenmiş zeminlere, bakışlarınız ise yükselen kemerlere ve parlak vitrinlere takılır. Her şey bir tiyatro sahnesi gibi düzenlenmiştir — ama izleyici de oyuncu da sizsiniz.\n\nTavanın ortasında yükselen dev kubbenin altı, akşam güneşinin camdan süzülen altın ışığıyla büyülü bir hâl alır. Burada kahve içmek, bir moda mağazasına göz atmak ya da sadece etrafa bakınmak bile, şık bir ritüele dönüşür.\n\nGaleria, Milano’nun kalbindeki bir geçiştir — ama geçmiş ile şimdi arasında bir geçiş..."
+      },
+      {
+        "title": "Sforza-Kalesi",
+        "type": "image-block",
+        "image": "/images/Sforzesco_Castle.jpg",
+        "imageTitle": "Sforzesco Şatosu: Gücün, Sanatın ve Sessizliğin Kalbi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun göbeğinde, ağaçlarla çevrili geniş bir alanın ortasında ağırbaşlı bir sessizlikle yükselir Sforzesco Şatosu. İlk bakışta bir kale gibi görünse de, bu duvarların ardında sadece zırhlar ve savaşlar değil; fırçalar, kitaplar ve müzikler de yaşar.\n\n 15.yüzyılda Sforza ailesi tarafından inşa ettirilen bu yapı, hem savunma amaçlı bir kale, hem de Rönesans’ın yaratıcı ruhunu besleyen bir kültür merkezine dönüşmüştür. Leonardo da Vinci’nin burada çalıştığını, saray duvarlarına freskler yaptığını bilmek bile insanın adımlarını yavaşlatır.\n\nBugün, Castello Sforzesco’nun avlularında dolaşırken tarih size fısıltıyla eşlik eder. Müzelerinde Michelangelo’nun tamamlanmamış “Pietà Rondanini”si sizi ansızın durdurabilir, taş duvarlarda yankılanan ayak sesleriniz zamanla iç içe geçebilir.\n\nBu şato, sadece bir hanedanlığın görkemi değil; Milano’nun sanat ve tarih mirasının ta kendisidir.\n\n"
+      },
+      {
+        "title": "Milano-Baris-Taki-Arco-della-Pace-1",
+        "type": "image-block",
+        "image": "/images/Veduta_dell'Arco_della_Pace_d_Milano_dal_Parco_Sempione._Architetto_Cagnola.jpg",
+        "imageTitle": "Arco della Pace: Zamanın İçinden Geçen Bir Zafer Fısıltısı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun Sempione Meydanı’nda yükselen Arco della Pace, sadece bir taş kemer değil, tarihin sessizce konuştuğu bir anıttır. İlk olarak 1807’de, Napolyon’un zaferlerini kutlamak için inşa edilmeye başlanan bu anıtsal yapı, zamanla savaşların değil barışın simgesine dönüştü.\n\nNeo-klasik çizgileriyle antik Roma kemerlerini anımsatsa da, Arco della Pace kendine özgü bir zarafete sahiptir. Üzerindeki bronz atlı figürler, gökyüzüne doğru uzanan zaferi betimlerken; sütunları ve kabartmalarıyla Avrupa’nın çalkantılı tarihine sessiz tanıklık eder.\n\nBugün kemerin altından geçmek, yalnızca fiziksel bir geçiş değil; bir zaman yolculuğu gibidir. Güneş batarken arkada Parco Sempione’nin ağaçlarının arasından süzülen ışık, kemeri altın bir hâle bürür — ve o an, tarihle şimdinin birbirine karıştığı bir sahneye dönüşür."
+      },
+      {
+        "title": "leonardo-da-vinci-son-aksam-yemegi",
+        "type": "image-block",
+        "image": "/images/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+        "imageTitle": "Son Akşam Yemeği: Duvarlara Kazınmış Bir Sessizlik\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun göbeğinde, sade görünümlü Santa Maria delle Grazie manastırının yemekhane duvarında, insanlık tarihinin en çok konuşulan anlarından biri sessizce varlığını sürdürür: Leonardo da Vinci’nin Son Akşam Yemeği.\n\n1495-1498 yılları arasında yapılan bu duvar resmi, sadece bir dini sahneyi değil; ihanet, şaşkınlık ve kaderin donduğu o anı resmeder. Leonardo, geleneksel fresk tekniğini terk edip deneysel bir yöntem kullandı — bu yüzden eser zamanla zarar görse de, anlatımındaki güç ve detaylar hâlâ insanı etkiler.\n\nMüze içine adım attığınızda, ortam neredeyse kutsal bir sessizliğe bürünür. Tabloyu görmek için verilen dakikalar sınırlıdır, ama o birkaç dakika sanki zamanla yarışır. İsa'nın yüzündeki dinginlik, öğrencilerinin şaşkınlığı ve masanın sadeliği... Hepsi, sizi derin bir düşünceye çeker.\n\nBu sadece bir tablo değil; bir deha tarafından, geçici bir yüzeye bırakılmış kalıcı bir izdir.\n\n"
+      },
+      {
+        "title": "Santa_Maria_delle_Grazie_Milan_2013",
+        "type": "image-block",
+        "image": "/images/Santa_Maria_delle_Grazie_Milan_2013.jpg",
+        "imageTitle": "Santa Maria delle Grazie: Sessiz Bir Ustalığın Taşlara Yansıması\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun sakin sokaklarından birinde, gösterişten uzak ama durup bakıldığında büyüleyici bir yapı yükselir: Santa Maria delle Grazie. 15. yüzyılın sonlarına doğru Dominiken tarikatı için inşa edilen bu manastır ve kilise, hem dini sadeliği hem de içindeki olağanüstü sanat eseriyle öne çıkar.\n\nBina, Gotik temeller üzerine inşa edilmiştir ama Rönesans’ın yaklaşan nefesi özellikle Bramante’nin mimarisiyle kendini gösterir. Yapının apsis kısmı ve tuğladan örülü kubbesi, sade ama estetik bir zarafet taşır.\n\nAncak burayı asıl özel kılan, yan yemekhane duvarında yer alan Leonardo da Vinci’nin Son Akşam Yemeği freskidir. Bu sayede Santa Maria delle Grazie, bir ibadethaneden çok daha fazlasına — bir sanat mabedine dönüşmüştür.\n\nBuraya gelenler, sadece mimarinin değil, aynı zamanda tarihin, inancın ve sanatsal dehanın izinde kısa ama derin bir yolculuğa çıkarlar.\n\n"
+      },
+      {
+        "title": "S_Ambrogio",
+        "type": "image-block",
+        "image": "/images/Sant'Ambrogio_(Milan)_-_Atrium.jpg",
+        "imageTitle": "Sant’Ambrogio: Milano’nun Sessiz Muhafızı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun en eski yapılarından biri olan Sant’Ambrogio Bazilikası, kalabalık caddelerin ve modern yapıların gölgesinde, zamanın ötesinden gelen bir sükunetle varlığını sürdürür. 4. yüzyılda Milano’nun koruyucu azizi Aziz Ambrosius tarafından kurulan bu bazilika, şehrin Hristiyanlık tarihindeki derin köklerine tanıklık eder.\n\nRomanesk mimarinin en güzel örneklerinden biri olan yapı, iki farklı yükseklikteki çan kulesiyle hemen dikkat çeker. İçeride ise sade taş duvarlar arasında yüzyıllar boyunca yankılanmış duaların izleri hâlâ hissedilir gibidir. Altında, Aziz Ambrosius’un da gömülü olduğu kriptası, ziyaretçilere hem tarihî hem manevi bir derinlik sunar.\n\nBazilikanın içinde yürümek, adeta Milano’nun ruhuna dokunmaktır. Abartıdan uzak, ama derin anlamlarla dolu bu kutsal mekan, gösteriş aramayan ama anlam peşinde olan her gezgine sessiz bir davet sunar.\n\n"
+      },
+      {
+        "title": "ViaTorino",
+        "type": "image-block",
+        "image": "/images/ViaTorino.jpg",
+        "imageTitle": "Via Torino: Ticaretin ve Tarihin Kesiştiği Cadde\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Milano’nun kalbinde uzanan Via Torino, günümüzde alışverişin ve şehir hayatının nabzını tutan bir cadde olsa da, kökleri tarih boyunca uzanan bir ticaret yoludur. Orta Çağ’dan bu yana Milano’nun batıya açılan kapısı olan bu cadde, zamanla sadece malların değil, fikirlerin ve kültürün de aktığı bir arter hâline gelmiştir.\n\nBugün Via Torino boyunca yürürken bir yanda modern mağazaların vitrinleri parıldarken, diğer yanda gözden kaçabilecek küçük kiliseler, tarihi binalar ve taş duvarlara sinmiş hikâyeler sizi selamlar. Özellikle San Giorgio al Palazzo gibi yapılar, bu caddenin yalnızca bir alışveriş güzergâhı olmadığını hatırlatır.\n\nVia Torino, bir şehri sadece ziyaret eden değil, onu hissetmek isteyen gezginler için gündelik hayatla tarihin bir arada aktığı dinamik bir yolculuktur.\n\n"
+      },
+      {
+        "title": "Milano'da Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Milano mutfağı, Lombardiya bölgesinin zengin yemek kültürünü yansıtır. 'Risotto alla Milanese' (safranlı risotto), 'Cotoletta alla Milanese' (pane edilmiş dana pirzola) ve 'Ossobuco' (kemikli dana incik) şehrin en bilinen spesiyaliteleridir. Ayrıca, 'Panettone' (bir tür Noel keki) Milano'dan tüm dünyaya yayılmıştır. Milano'da hem geleneksel trattorialar hem de modern, şık restoranlar bulunur. Aperitivo geleneği (akşam yemeği öncesi atıştırmalıklarla içki) Milano'da oldukça popülerdir."
+      },
+      {
+        "title": "Önerilen Milano Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Milano'nun mutfak sahnesini keşfetmek için bazı özel adresler:",
+        "listItems": [
+          "<B>Trattoria Milanese (Navigli Bölgesi):</B> Geleneksel Milan mutfağı sunan, 1929'dan beri hizmet veren otantik bir trattoria. Ossobuco ve Risotto alla Milanese'i deneyin.",
+          "<B>Luini Panzerotti (Duomo Yakını):</B> Milano'nun en ünlü 'panzerotto'larını (kızarmış hamur işi) tadabileceğiniz küçük bir büfe. Hızlı ve lezzetli bir atıştırmalık için birebirdir.",
+          "<B>Da Giacomo (Brera Bölgesi):</B> Şık ve klas bir ortamda taze deniz ürünleri ve geleneksel İtalyan yemekleri sunan popüler bir restoran. Özellikle iş yemekleri için tercih edilir.",
+          "<B>Pizzeria Spontini (Çeşitli Lokasyonlar):</B> Milano'nun ikonik dilim pizzasıyla ünlü, hızlı servis sunan bir pizzacı zinciri. Kalın hamurlu ve bol peynirli pizzalarıyla bilinir.",
+          "<B>Bar Magenta (Şehir Merkezi):</B> Aperitivo geleneğini deneyimlemek için harika bir mekan. Geniş içki yelpazesi ve accompanying büfesiyle akşamüstü popüler bir buluşma noktası."
+        ]
+      },
+      {
+        "imageTitle": "Risotto alla Milanese",
+        "type": "image-block",
+        "image": "/images/food-1485024_1280.jpg",
+        "imageCaption": "Safranla hazırlanan, Milano'nun imzası niteliğindeki zengin ve kremsi risotto."
+      },
+      {
+        "imageTitle": "Cotoletta alla Milanese",
+        "type": "image-block",
+        "image": "/images/piccata-milanese-3917422_1280.jpg",
+        "imageCaption": "Altın rengi kızarmış, tereyağında pişirilmiş pane edilmiş dana pirzolası."
+      }
+    ]
+  },
+
+
+
+
+  {
+    "id": "selanik",
+    "countryId": "yunanistan",
+    "name": "Selanik",
+    "description": "Selanik, Ege’nin kuzeyinde bir liman şehri olarak doğmuş ama tarih boyunca sadece denize değil, doğuya ve batıya da yüzünü dönmüş bir yer. Makedonya bölgesinin kalbi olan bu şehir, adı kadar köklü bir geçmişi taşıyor. Kuruluşu MÖ 315 yılına, Büyük İskender’in üvey kız kardeşi Thessalonike'nin adına dayanır. Roma’nın, Bizans’ın ve Osmanlı’nın izlerini hâlâ duvarlarında saklar. ",
+    "coverImage": "/images/church-2058392_1280.jpg",
+    "image": "/images/church-2058392_1280.jpg",
+    "routes": [
+      {
+        "title": "1.Gün: Selanik Atatürk Evi'nden Zongolopulos'un Şemsiyeler Heykeli'ne Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d5787.039254381122!2d22.95012405302664!3d40.62633321834981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x14a83853bad33189%3A0xf4ae5e571c070bac!2sSelanik%20Atat%C3%BCrk%20Evi%20M%C3%BCzesi!3m2!1d40.635748299999996!2d22.9543541!4m5!1s0x14a839a9555261d5%3A0x9adb6b6586b26aab!2sAziz%20Demetrios%20Kilisesi!3m2!1d40.638888699999995!2d22.9476111!4m5!1s0x14a839a9b2d56b29%3A0xb1aed24793f86d49!2sEleftherios%20Venizelos%20Heykeli!3m2!1d40.636155699999996!2d22.9444078!4m5!1s0x14a839a811958bdb%3A0xfa8b3c0cc32fd77e!2sVirgin%20Mary%20Chalkeon%20Holy%20Orthodox%20Church!3m2!1d40.6368006!2d22.943552699999998!4m5!1s0x14a8390885a99cbd%3A0xe39e3d18ec8160ab!2sAristotelous%20Meydan%C4%B1!3m2!1d40.6323456!2d22.940836599999997!4m5!1s0x14a83907391d6a89%3A0x29bd6b3ffe046964!2sSelanik%20Ayasofya%20Kilisesi!3m2!1d40.6328094!2d22.9469536!4m5!1s0x14a839af2548cc69%3A0xef18309d80742d16!2sBeyaz%20Kule!3m2!1d40.6264478!2d22.9483815!4m5!1s0x14a8391d10168c49%3A0x5ad27aa2e9aae583!2sZongolopulos&#39;un%20%C5%9Eemsiyeler%20Heykeli!3m2!1d40.6218436!2d22.9514462!4m5!1s0x14a838e322993ebf%3A0xce288930af2582d5!2sMuseum%20of%20Byzantine%20Culture%20of%20Thessaloniki!3m2!1d40.6239358!2d22.9551444!5e1!3m2!1str!2str!4v1753880756582!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/ApfnfGrFquHCpeej7",
+        "steps": [
+          {
+            "from": "Selanik Atatürk Evi Müzesi, Apostolou Pavlou 17, Thessaloniki 546 34, Yunanistan",
+            "to": "Zongolopulos'un Şemsiyeler Heykeli, Thessaloniki 546 40, Yunanistan",
+            "duration": "57 dakika",
+            "distance": "4,2 km",
+            "image": "/images/selanik_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Selanik'te Neler Yapılır?",
+        "type": "text",
+        "content": "Selanik, Ege’nin kuzeyinde bir liman şehri olarak doğmuş ama tarih boyunca sadece denize değil, doğuya ve batıya da yüzünü dönmüş bir yer. Makedonya bölgesinin kalbi olan bu şehir, adı kadar köklü bir geçmişi taşıyor. Kuruluşu MÖ 315 yılına, Büyük İskender’in üvey kız kardeşi Thessalonike'nin adına dayanır. Roma’nın, Bizans’ın ve Osmanlı’nın izlerini hâlâ duvarlarında saklar.\n\nBir gezgin olarak Selanik’te yürümek, sıradan bir gezi değil; zamanlar arasında gezinmek gibidir. Roma forumu, Bizans kiliseleri, Osmanlı camileri, Yahudi mirası ve modern kafeleri aynı cadde boyunca yan yana dizilmiştir. Her biri farklı bir dil konuşur ama şehir onları tek bir ruhta birleştirir.\n\nSelanik’in dar sokakları, özellikle Ano Poli (Yukarı Şehir) kısmında, yüzyıllık taş evler arasında gezinirken tarih fısıldar. Beyaz Kule kıyıda dimdik dururken, hem savunmanın hem de hatıranın sembolüdür. Şehir aynı zamanda bir zamanlar Osmanlı İmparatorluğu'nun gözde merkezlerinden biri olmuş, hatta Atatürk’ün doğum yeri olarak Türk gezginlere çok daha farklı bir anlam katmıştır.\n\nAma Selanik sadece geçmişin kenti değil. Genç nüfusu, üniversiteleri, canlı gece hayatı ve yaratıcı enerjisiyle yaşayan, dönüşen, nefes alan bir şehirdir. Kafelerdeki sohbetler, kıyıda yürüyüş yapan insanlar, duvarlara çizilmiş grafitiler… Her şey şehirle çağdaş bir bağ kurar.\n\n"
+      },
+      {
+        "title": "Selanik Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Selanik'te toplu taşıma, şehir içinde kolay ve ekonomik bir şekilde seyahat etmenizi sağlar. Şehirdeki başlıca toplu taşıma araçları otobüsler ve kısa süre önce hizmete giren metro hattıdır. Biletinizi geçerli kılmak için araca bindiğinizde mutlaka okutunuz; aksi takdirde ceza uygulanabilir.\n\n<B>Otobüsler:</B> Selanik'in her noktasına otobüs ağıyla ulaşım mümkündür. Biletler otobüs içindeki otomatik makinelerden veya duraklardaki bilet satış noktalarından temin edilebilir.\n\n<B>Metro:</B> Selanik Metrosu, 30 Kasım 2024 itibarıyla faaliyetine başlamıştır. Bu yeni ulaşım aracı, şehir içi ulaşımda büyük bir kolaylık sağlamaktadır. Gelecekte ek hatlarla genişlemesi planlanmaktadır.\n\n<B>Havalimanı Ulaşımı (SKG - Makedonya Uluslararası Havalimanı):</B>\n  <B>Otobüs:</B> Havalimanından şehir merkezine (Aristoteles Meydanı) otobüsle ulaşım en ekonomik seçenektir. 01X (gündüz) ve 01N (gece) hatları 7/24 hizmet vermektedir. Yolculuk yaklaşık 70 dakika sürer.\n  <B>Taksi:</B> Havalimanından şehir merkezine taksi ücreti gündüz tarifesinde (05:00-24:00) yaklaşık 20 Euro, gece tarifesinde (00:01-04:59) ise yaklaşık 25 Euro civarındadır."
+      },
+      {
+        "title": "Selanik Toplu Taşıma Bilet Türleri ve Fiyatları",
+        "type": "text",
+        "content": "Selanik'te toplu taşıma biletleri ve kartları, seyahat sıklığınıza göre farklı seçenekler sunar. (Güncel fiyatlar ve detaylı bilgi için OASTH (Selanik Toplu Taşıma Kurumu) resmi web sitesini kontrol etmeniz tavsiye edilir.)\n\n  <B>Tek Kullanımlık Bilet:</B> Yaklaşık 0,90 Euro (Şehir otobüsleri ve metro için geçerlidir).\n  <B>70 Dakikalık Bilet:</B> Yaklaşık 0,90 Euro. Tek kullanımlık bilet gibi, ilk damgalandıktan sonra 70 dakika boyunca tüm otobüs ve metro hatlarında aktarma yapma hakkı sunar. (Lütfen güncel geçerlilik süresini kontrol ediniz, bu bilgi metro açılışı ile değişmiş olabilir).\n  <B>Günlük Bilet (24 Saatlik):</B> Yaklaşık 3,00 Euro. İlk kullanımdan itibaren 24 saat boyunca tüm otobüs ve metro hatlarında sınırsız kullanım sağlar.\n  <B>Haftalık Bilet (7 Günlük):</B> Yaklaşık 10,00 Euro. İlk kullanımdan itibaren 7 gün boyunca tüm otobüs ve metro hatlarında sınırsız kullanım sağlar.\n  <B>Aylık Seyahat Kartı:</B> Yaklaşık 30,00 Euro (Öğrenciler ve belirli gruplar için indirimli seçenekler mevcuttur). Sık seyahat edenler için ekonomiktir.\n  <B>Havalimanı Otobüsü Bileti:</B> Yaklaşık 2,00 Euro (Tek yön, yetişkin). Bu bilet, normal şehir içi biletlerden farklıdır ve sadece havalimanı otobüs hattında geçerlidir."
+      },
+      {
+        "title": "Selanik Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "OASTH (Selanik Toplu Taşıma) Resmi Sitesi",
+            "url": "https://oasth.gr/en/"
+          },
+          {
+            "name": "Selanik Havalimanı Ulaşım Bilgileri",
+            "url": "https://www.skg-airport.gr/en/transportation/bus-coach"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/AtatürkMuseumThessaloniki_(22).jpg",
+        "imageTitle": "Atatürk Evi Müzesi: Doğduğu Ruhun Peşinde Sessiz Bir Ziyaret\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in dar sokaklarından birinde, sade ama vakur duruşuyla karşılar sizi Atatürk’ün doğduğu ev. 1881 yılında burada dünyaya gelen Mustafa Kemal’in çocukluk yıllarını geçirdiği bu yapı, sadece bir ev değil; bir dönemin sessiz tanığıdır.\n\nBugün müze olarak ziyarete açık olan bu üç katlı Osmanlı evi, içerdiği eşyalarla, odalardaki atmosferle sizi zamanın gerisine götürür. Bebeklik yatağı, ailesine ait günlük eşyalar ve duvarlardaki fotoğraflar, Atatürk’ün hayatına dokunabileceğiniz nadir izlerden bazılarıdır.\n\nBu evde dolaşırken, gelecekte bir milletin kaderini değiştirecek bir çocuğun ayak izlerini takip edersiniz. Her köşe, sade ama anlam yüklü bir hikâye fısıldar.\n\nSelanik’teyseniz, bu küçük ama anlamı büyük evi ziyaret etmeden geçmeyin. Çünkü burası, yalnızca bir liderin doğduğu yer değil; aynı zamanda modern Türkiye'nin ilk adımlarının atıldığı bir başlangıç noktasıdır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Интерьер_Базилики_Св._Димитрия_-_panoramio.jpg",
+        "imageTitle": "Aziz Demetrios Kilisesi: Şehrin Muhafızı, Zamanın Fısıldayanı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in tarihî dokusunun derinliklerinde yükselen Aziz Demetrios Kilisesi, şehrin maneviyatını ve tarihini taşıyan en önemli yapılardan biridir. Sadece mimarisiyle değil, taşıdığı anlamla da ziyaretçilerini büyüler. Kilise, Selanik’in koruyucu azizi olarak kabul edilen Aziz Demetrios’un adına inşa edilmiştir.\n\nİlk olarak 4. yüzyılda inşa edilen yapı, zamanla genişletilmiş ve bugünkü beş nefli bazilika formunu almıştır. İç mekânda, Bizans dönemine ait göz alıcı mozaikler yer alır. Bu mozaikler, o dönemin dini ve sanatsal anlayışını yansıtan eşsiz eserlerdir. Her bir mozaik, o dönemde yaşamış insanların inançlarını ve estetik anlayışlarını günümüze taşır.\n\nKilisenin altında yer alan kripta, hem mistik hem de tarihî bir atmosfere sahiptir. Rivayetlere göre Aziz Demetrios burada hapsedilmiş ve şehit edilmiştir. Bugün bu alan, ziyaretçilere açıktır ve sessizliğiyle geçmişe açılan bir pencere gibidir.\n\nUzun yıllar boyunca kilise farklı inançlara hizmet etmiş, hatta bir dönem cami olarak da kullanılmıştır. Ancak hangi dönemde olursa olsun, bu yapı her zaman Selanik’in kültürel belleğinde yer almayı başarmıştır.\n\nAziz Demetrios Kilisesi, sadece bir dini yapı değil; geçmişle bugün arasında kurulmuş manevi bir köprüdür. Selanik’in tarihini ve ruhunu hissetmek isteyen herkesin mutlaka görmesi gereken bir duraktır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Tower_of_the_Winds_-_panoramio_-_Robert_Freeman_(1).jpg",
+        "imageTitle": "Selanik Roma Agorası – Taşların Fısıldadığı Antik Zamanlar\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in kalbinde, modern hayatın tam ortasında, zamanın neredeyse durduğu bir yer var: Roma Agorası. Yüzeyin biraz altına indiğinizde, karşınıza çıkan bu antik meydan, Roma İmparatorluğu döneminden kalma görkemli bir açık hava kompleksi. Günümüzde çevresinde kafeler, apartmanlar ve yollar olsa da, adım attığınız anda sizi bir zaman tünelinin içine alıyor.\n\nAgora, M.S. 2. yüzyılda inşa edilmiş ve Selanik’in kamusal yaşamının merkezi olmuş. Sütunlu galerileri, dükkan kalıntıları ve tribuneli küçük tiyatrosu ile hem günlük ticari hayata hem de kamusal etkinliklere ev sahipliği yapmış. Taşların üstündeki her bir oyuk, burada yaşanmış hayatların sessiz tanığı gibi duruyor.\n\nEn etkileyici yönlerinden biri ise, bu kalıntıların yüzyıllar boyunca toprağın altında kalıp, şehrin modernleşmesi sırasında tesadüfen gün yüzüne çıkmış olması. Bugünse geçmişin bir armağanı gibi sakince sergileniyor. Mütevazı ama dokunaklı bir ihtişam taşıyor.\n\nSelanik Roma Agorası’nı gezmek, yalnızca tarih öğrenmek değil, aynı zamanda zamanın katmanlarını ayaklarınızın altında hissetmektir. Şehrin bugünüyle binlerce yıl öncesi aynı sokakta buluşur burada – ve bu karşılaşma sessiz ama derindir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/THES_Panaghia_Chalkeon_5944.jpg",
+        "imageTitle": "Panagia Chalkeon – “Bakır Ustalarının Meryem’i”\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in tam kalbinde, yoğun trafiğin ve kalabalığın ortasında, sessizce duran kırmızı tuğlalı zarif bir yapı var: Panagia Chalkeon Kilisesi. Adı, “Bakır Ustalarının Meryem’i” anlamına geliyor. Çünkü bir zamanlar çevresi, bakır ustalarının atölyeleriyle dolup taşarmış.\n\n 13. yüzyıla, Bizans İmparatorluğu’nun güçlü günlerine uzanıyor bu kilisenin geçmişi. 1028 yılında yüksek rütbeli bir komutan tarafından inşa ettirilmiş. Dış cephesindeki kırmızı tuğlalar, klasik Bizans mimarisinin zarafetini taşıyor. İçeride ise, zamanla hasar görmüş olsa da hâlâ belli belirsiz seçilebilen freskler, bir dönem burada yankılanan duaların izlerini taşır gibi.\n\nPanagia Chalkeon, sadece bir ibadethane değil; tarih boyunca pek çok depreme, işgale ve değişime tanıklık etmiş bir sessiz gözlemci. Yüzyıllar boyunca bazen unutulmuş, bazen yeniden keşfedilmiş ama hep yerinde kalmış.\n\nSelanik’in hızlı temposunda yürürken bu küçük ama anlamlı yapıya uğramak, geçmişle kısa bir selamlaşma gibidir. Şehrin ritminden uzaklaşıp bir anda bin yıl öncesine düşmek… İşte Panagia Chalkeon’un büyüsü tam da burada başlar."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/greece-2872592_1280.jpg",
+        "imageTitle": "Aristotelous Meydanı: Selanik’in Kalbinde Buluşma Noktası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’e adım attığınızda, şehrin enerjisini en canlı hissettiğiniz yerlerden biri kesinlikle Aristotelous Meydanıdır. Adını büyük filozof Aristoteles’ten alan bu meydan, modern Selanik’in sosyal ve kültürel merkezi olarak yıllardır işlev görüyor.\n\n 20. yüzyılın başında, şehrin büyük yangından sonra yeniden inşası sırasında tasarlanan meydan, Akdeniz mimarisinin zarif çizgileriyle bezenmiş. Çevresindeki kafeler, restoranlar ve mağazalar, hem yerel halkın hem de ziyaretçilerin buluşma noktası. Meydanın genişliği ve simetrisi, Selanik’in dinamik ruhunu yansıtırken aynı zamanda tarihle modernliği bir araya getiriyor.\n\nBurada oturup etrafı izlemek, hayatın ritmini yakalamak için harika bir fırsat. Sokak sanatçıları, müzik sesleri, insan kalabalığı ve denizden esen hafif rüzgar, meydanı unutulmaz kılıyor. Özellikle akşam saatlerinde, meydanın ışıkları altında yürümek, şehrin başka bir yüzünü keşfetmek gibi.\n\nAristotelous Meydanı, sadece bir toplanma yeri değil; Selanik’in tarih boyunca yaşadığı dönüşümlerin, kültürel zenginliğin ve canlılığın sembolü. Bir gezgin olarak burada durduğunuzda, geçmişle bugünün arasında köprü kurduğunuzu hissedersiniz.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/THESS_-_Aghia_Sophia_05.jpg",
+        "imageTitle": "Selanik Ayasofya Kilisesi: Doğu’nun İzlerini Taşıyan Gizemli Hazineniz\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in tarihi merkezinde, şehrin hareketli sokaklarından sıyrılıp adeta zamanın içinde bir yolculuğa çıkacağınız bir yer var: Ayasofya Kilisesi. Burası sadece bir ibadet mekânı değil; 8. yüzyıla dayanan zengin geçmişiyle, Bizans’ın mimari ve sanatsal mirasının nadide bir örneği.\n\nİsmini İstanbul’daki büyük Ayasofya’dan alan bu kilise, Selanik’in erken Hristiyanlık dönemindeki önemini simgeler. Dış cephesinde sade ve güçlü taş işçiliği dikkat çekerken, iç mekanda freskler ve mozaiklerle bezeli atmosfer, ziyaretçiyi adeta tarih içinde bir yolculuğa davet eder.\n\nKilisenin mimarisi, merkezi kubbesi ve çevresindeki apsisleriyle Bizans stilinin inceliklerini gözler önüne serer. İç mekandaki detaylar, dini sahneleri ve azizleri anlatan fresklerle doludur. Yüzyıllar boyunca hem Hristiyanlık hem de Osmanlı döneminde farklı işlevler görmüş, zaman içinde çeşitli restorasyonlarla bugünkü halini almıştır.\n\nBir gezgin olarak Ayasofya Kilisesi’ni ziyaret ettiğinizde, sadece taşların değil, aynı zamanda yüzyılların derinliklerinden yükselen hikâyelerin içinde yürürsünüz. Sakinliği ve mistik havasıyla şehirdeki kalabalıktan bir an olsun uzaklaşmak isteyenlerin mutlaka uğraması gereken bir duraktır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/White_Tower_and_Beach_front.jpg",
+        "imageTitle": "Beyaz Kule: Selanik’in Zamana Karşı Direnen Simgesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik sahilinde, denize karşı dimdik yükselen Beyaz Kule, şehrin en ikonik yapılarından biridir. İlk inşa edildiği dönem kesin olmamakla birlikte, muhtemelen 15. yüzyılda Osmanlılar tarafından yapılmış ya da yenilenmiş olan bu kule, Selanik’in tarih sahnesindeki birçok döneme tanıklık etmiştir.\n\nKule, zamanla çeşitli amaçlarla kullanılmış; önce savunma kulesi, sonra hapishane olarak işlev görmüştür. Beyaz renkli görünümü ve yuvarlak mimarisiyle dikkat çeker. Zaman içinde beyaz boyası ile meşhur olsa da, geçmişte farklı renklerde olduğu da bilinir.\n\nGünümüzde Beyaz Kule, Selanik’in tarihini anlatan bir müze olarak ziyaretçilerini karşılar. Kuleye tırmandığınızda, hem şehrin hem de Ege’nin büyüleyici manzarasını seyretme şansı bulursunuz. Akşam gün batımında, denizin üzerinde kızıl ışıklarla parlayan şehir manzarası, burayı özel kılar.\n\nBir gezgin için Beyaz Kule, sadece taşlardan ibaret değildir; Selanik’in gücünü, dayanıklılığını ve kültürel çeşitliliğini simgeleyen canlı bir hafızadır. Şehri keşfetmeye buradan başlamak, geçmişle bugün arasında eşsiz bir köprü kurmak gibidir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/George_Zongolopoulos_in_Thessaloniki.jpg",
+        "imageTitle": "Zongolopulos’un Şemsiyeler Heykeli: Selanik’in Renkli Sürprizi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in modern yüzünü yansıtan mekanlardan biri olan Zongolopulos’un Şemsiyeler Heykeli, sıradan bir heykelden çok daha fazlası. Şehrin kalabalık caddelerinden birinde, gökyüzüne açılmış rengarenk şemsiyeler gibi duran bu sanat eseri, ziyaretçilerin dikkatini anında çekiyor.\n\nİlk bakışta neşeli ve hafif görünse de, bu heykel aslında günlük hayatın koşuşturmacasında küçük bir mola, bir neşe kaynağı. Renklerin dansı, insanlara anlık bir mutluluk ve şaşkınlık hissi yaşatıyor. Çocukların ve yetişkinlerin etrafında fotoğraf çektirdiği bu alan, şehrin enerjisini farklı bir şekilde hissetmek isteyenler için ideal.\n\nHeykelin yaratıcısı, modern sanat ile şehrin tarihî dokusunu buluşturmayı başarmış. Burada, geleneksel Selanik’i deneyimlerken aynı zamanda çağdaş yaşamın ritmini de yakalamak mümkün.\n\nBir gezgin olarak Zongolopulos’un Şemsiyeler Heykeli’nde durup gökyüzüne uzanan o rengarenk dokunuşlara bakarken, şehrin hem geçmişine hem de geleceğine dair renkli bir yolculuğa çıkarsınız.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Octavian_Augustus-Thessaloniki_Archaeological_Museum.jpg",
+        "imageTitle": "Selanik Arkeoloji Müzesi: Tarihin Katmanlarını Dokunan Bir Hazine\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik Arkeoloji Müzesi, şehrin zengin tarihini ve çevresindeki antik yerleşimlerin binlerce yıllık mirasını gözler önüne seren etkileyici bir mekân. İçeri adım attığınız anda, Ege ve Makedonya topraklarının geçmişi sizi kucaklar; taşlar, heykeller ve eski kalıntılar size insanlığın zaman içindeki yolculuğunu anlatır.\n\nMüzenin koleksiyonları arasında, Miken döneminden Roma dönemine kadar uzanan pek çok eseri görmek mümkün. Antik heykellerin zarafeti, altın ve gümüş takıların inceliği, mezar stellerinin hikâyeleri sizi zamanda geriye, o kadim uygarlıkların günlük yaşamına götürür.\n\nBurada, sadece nesnelere değil; her bir eserin ardındaki insan hikâyelerine de dokunursunuz. Müzede geçirdiğiniz zaman, Selanik’in sadece modern bir şehir olmadığını, binlerce yıl boyunca farklı kültürlere ev sahipliği yapmış bir tarih hazinesi olduğunu hissettirir.\n\nGezgin olarak bu müzeye uğradığınızda, sadece geçmişle yüzleşmekle kalmaz, aynı zamanda bugünü ve geleceği şekillendiren köklerle de bağ kurarsınız.\n\n"
+      },
+      {
+        "title": "Selanik'te Ne Yenir ve Genel Mutfak Kültürü",
+        "type": "text",
+        "content": "Selanik, Yunanistan'ın kuzeyinde yer alan ve zengin kültürel geçmişiyle yoğrulmuş bir mutfak geleneğine sahiptir. Şehir, hem geleneksel Yunan lezzetlerini hem de Osmanlı ve Balkan mutfaklarının etkilerini taşıyan özgün tatlar sunar. Sokak lezzetlerinden şık restoranlara kadar geniş bir yelpazede yemek deneyimi yaşayabilirsiniz."
+      },
+      {
+        "title": "Selanik'in Öne Çıkan Lezzetleri",
+        "type": "text",
+        "content": "Selanik'e geldiğinizde mutlaka denemeniz gereken bazı spesifik lezzetler şunlardır:\n  <B>Bougatsa:</B> Şehrin en ünlü lezzetlerinden biridir. İncecik ve çıtır yufka arasına muhallebi (tatlı), peynir veya kıyma konularak hazırlanır. Tatlı olanı pudra şekeri ve tarçınla servis edilir.\n  <B>Souvlaki & Gyro:</B> Yunanistan'ın klasikleşmiş sokak lezzetleri. Souvlaki, şişte ızgara et parçacıkları iken, Gyro dikey dönerden kesilen etten yapılır. Genellikle pide içinde domates, soğan, patates kızartması ve cacık ile sunulur.\n  <B>Soutzoukakia:</B> Zengin domates sosunda pişirilen, baharatlı köftelerdir. Genellikle pilav veya patates kızartması eşliğinde servis edilir.\n  <B>Trigona Panoramatos:</B> Selanik'in Panorama bölgesinden çıkan, çıtır, şerbetli yufka börekleri içinde zengin muhallebi bulunan tatlıdır.\n  <B>Feta Me Meli:</B> Kızartılmış feta peyniri üzerine bal ve susam serpilerek hazırlanan, tatlı-tuzlu dengesiyle şaşırtıcı bir meze.\n  <B>Moussaka:</B> Kıymalı, patlıcanlı ve beşamel soslu, katmanlı bir fırın yemeğidir.\n  <B>Patsas:</B> Genellikle gece geç saatlerde veya sabah erken saatlerde tüketilen, işkembeden yapılan geleneksel bir çorbadır.\n  <B>Koulouri:</B> Susamlı halka ekmek, kahvaltı veya atıştırmalık için idealdir.\n  <B>Freddo Espresso/Cappuccino:</B> Yunanistan'da çok popüler olan soğuk kahve çeşitleridir. Özellikle yaz aylarında serinlemek için birebirdir."
+      },
+      {
+        "title": "Önerilen Selanik Mekanları ve Lezzet Deneyimleri",
+        "type": "list",
+        "intro": "Selanik'in zengin mutfak mirasını tadabileceğiniz bazı özel adresler ve popüler bölgeler:",
+        "listItems": [
+          "<B>Serraikon (Bougatsa):</B> Şehrin en eski ve en otantik bougatsa mekanlarından biridir. Özellikle tatlı bougatsasını denemelisiniz.",
+          "<B>Bantis (Bougatsa):</B> Bir diğer köklü bougatsa ustası. Farklı dolgu seçenekleriyle hem yerel halkın hem de turistlerin favorisidir.",
+          "<B>Savvikos (Souvlaki/Gyro):</B> Selanik'in en bilinen fast-food zincirlerinden. Hızlı ve lezzetli souvlaki veya gyro için tercih edilebilir.",
+          "<B>Gyrosaristotelous (Souvlaki/Gyro):</B> Aristoteles Meydanı yakınında bulunan, döner ve souvlaki konusunda popüler ve genellikle kalabalık olan bir durak.",
+          "<B>Elenidis (Trigona Panoramatos):</B> Trigona Panoramatos tatlısının doğduğu ve en iyi şekilde hazırlandığı yerlerden biri. Tatlı molası için ideal.",
+          "<B>Sourtouko (Patsas):</B> Patsas çorbası denemek isteyenler için bilinen bir mekan. Özellikle gece geç saatlerde popülerdir.",
+          "<B>Ladadika Bölgesi:</B> Liman yakınında bulunan bu canlı bölge, sayısız taverna, restoran ve bara ev sahipliği yapar. Akşam yemeği ve eğlence için harika bir atmosfere sahiptir. Canlı Yunan müziği eşliğinde yemek yiyebilirsiniz.\n      <B>Full Tou Meze:</B> Özellikle meze ve deniz ürünleri sevenler için popüler. Saganaki karides, kızarmış kalamar ve midye gibi lezzetleri deneyebilirsiniz.\n      <B>Palati:</B> Canlı müzik eşliğinde otantik Yunan tavernası deneyimi sunar.\n      <B>O Kipos tou Thermaikou:</B> Uygun fiyatlı ve zengin menülü, özgün tarifler sunan bir mekan.",
+          "<B>Ano Poli (Yukarı Şehir):</B> Şehrin tarihi ve eski bölümü, daha otantik ve geleneksel tavernalara ev sahipliği yapar. Şehir manzarası eşliğinde yemek yiyebilirsiniz.\n      <B>Tsinari:</B> Ano Poli'deki otantik tavernasıyla bilinen bir yer, geleneksel Yunan lezzetleri sunar."
+        ]
+      },
+      {
+        "title": "Selanik Yemek Rehberi İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "TripAdvisor Selanik Restoranları",
+            "url": "https://www.tripadvisor.com.tr/Restaurants-g189473-Thessaloniki_Thessaloniki_Region_Central_Macedonia.html"
+          },
+          {
+            "name": "Google Maps - Selanik Restoranları",
+            "url": "https://maps.app.goo.gl/t4SMmX2xuzJssYna6"
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "id": "atina",
+    "countryId": "yunanistan",
+    "name": "Atina",
+    "description": " Atina, yalnızca bir şehir değil; uygarlığın ilk kelimelerinin yazıldığı, fikirlerin taş duvarlara kazındığı, zamanın bile saygıyla eğildiği bir yer. Adımınızı attığınız an, antik çağların ağırbaşlılığı sarar etrafınızı. Parthenon’un sütunları arasında gezerken, insanlığın bilgiye, sanata ve demokrasiye uzanan serüvenine tanıklık edersiniz. ",
+    "coverImage": "/images/The_Acropolis_from_Mount_Lycabettus_on_October_5,_2019_(cropped).jpg",
+    "image": "/images/1024px-L'Olympieion_(Athènes)_(30776483926).jpg",
+    "routes": [
+      {
+        "title": "Olimpos Zeus Tapınağı'ndan Roma Agorası'na Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6173.048855502735!2d23.73523492416897!3d37.970029686131944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x14a1bd6adebf1261%3A0xa74ab8bf25aeb046!2sKallimarmaro!3m2!1d37.9683342!2d23.7411118!4m5!1s0x14a1bd169b9c6429%3A0x5519bb221fe94255!2zT2xpbXBvcyBaZXVzIFRhcMSxbmHEn8Sx!3m2!1d37.9693!2d23.7331!4m5!1s0x14a1bd17583561d5%3A0x1cdd86cfb17e15cc!2sDionysos%20Tiyatrosu!3m2!1d37.9703339!2d23.727809699999998!4m5!1s0x14a1bd176189a415%3A0xffd97e587cd4a084!2sHerodes%20Atticus%20Odeon!3m2!1d37.9707948!2d23.7245831!4m5!1s0x14a1bd19ca39ee61%3A0x1b3fa079b878a218!2sParthenonas!3m2!1d37.9715285!2d23.7267166!4m5!1s0x14a1bdaee412656f%3A0xa3681b0768784b14!2zRXJlY2h0aGVpb24gzpXPgc6tz4fOuM61zrnOvw!3m2!1d37.9721553!2d23.7263472!4m5!1s0x14a1bd1837f5acf3%3A0x5c97c042f5eb0df6!2sAtina%20Akropolisi!3m2!1d37.9715323!2d23.7257492!4m5!1s0x14a1bd22f5097987%3A0x422934da31aa5dc8!2sAtina%20Agoras%C4%B1!3m2!1d37.974897!2d23.722093299999997!4m5!1s0x14a19e6bb8da42e1%3A0xc0609dde4db88bed!2zSGVwaGFpc3RvcyBUYXDEsW5hxJ_EsQ!3m2!1d37.975595!2d23.7214521!4m5!1s0x14a1bd22a13c915b%3A0xb884f68a3bd497de!2sRoma%20Agoras%C4%B1!3m2!1d37.9742491!2d23.7260951!5e1!3m2!1str!2str!4v1753890457300!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/BzzxRC8WxeYUPAAc9",
+        "steps": [
+          {
+            "from": "Panathenaic Stadium, Leof. Vasileos Konstantinou, Athina 116 35, Yunanistan",
+            "to": "Roma Agorası, Polignotou 3, Athina 105 55, Yunanistan",
+            "duration": "51 dakika",
+            "distance": "3,5 km",
+            "image": "/images/atina_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Tanrıların Gölgesinde: Atina'da Neler Yapılır?",
+        "type": "text",
+        "content": "Atina, yalnızca bir şehir değil; uygarlığın ilk kelimelerinin yazıldığı, fikirlerin taş duvarlara kazındığı, zamanın bile saygıyla eğildiği bir yer. Adımınızı attığınız an, antik çağların ağırbaşlılığı sarar etrafınızı. Parthenon’un sütunları arasında gezerken, insanlığın bilgiye, sanata ve demokrasiye uzanan serüvenine tanıklık edersiniz.\n\nModern Atina ise geçmişle geleceğin uyum içinde yaşadığı bir mozaik gibidir. Sokaklar tarih kokarken, kafelerde güncel hayat tüm canlılığıyla sürer. Bir yanda Akropolis’in yüce duruşu, diğer yanda sokak sanatının rengârenk ifadesi vardır.\n\nGezgin için Atina, yalnızca görülmesi gereken bir şehir değil; hissedilmesi gereken bir deneyimdir. Her taşında, her meydanında bir hikâye, bir efsane saklıdır. Çünkü burası, efsanelerin doğup gerçekliğe dönüştüğü topraklardır.\n\n"
+      },
+      {
+        "title": "Atina Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Atina, kapsamlı ve modern toplu taşıma ağı sayesinde şehir içinde rahatça gezilebilen bir başkenttir. Şehir içi ulaşımda ağırlıklı olarak metro, otobüs ve tramvay kullanılır. Yunanistan Toplu Taşıma Kurumu (OASA) bu sistemi işletmektedir. Atina'daki turistik yerlerin çoğu birbirine yakın olduğundan, merkezde çok fazla toplu taşıma kullanmanız gerekmeyebilir; ancak daha uzak noktalara veya havalimanına ulaşım için toplu taşıma oldukça pratik ve ekonomiktir.\n\n<B>Metro:</B> Atina Metrosu, şehirdeki en hızlı ve verimli ulaşım aracıdır. Üç ana hattı bulunur:\n  <B>Hat 1 (Yeşil):</B> Pire – Kifisia (Monastiraki'den geçer)\n  <B>Hat 2 (Kırmızı):</B> Anthoupoli – Elliniko (Syntagma Meydanı ve Akropolis'ten geçer)\n  <B>Hat 3 (Mavi):</B> Havalimanı – Dimotiko Theatro (Syntagma ve Monastiraki'den geçer, havalimanına direkt bağlantı sağlar)\nMetrolar genellikle sabah 05:30 ile gece 00:30 arasında çalışır. Cuma ve Cumartesi geceleri ise bazı hatlarda seferler 02:30'a kadar devam eder.\n\n<B>Otobüs ve Troleybüsler:</B> Atina'nın geniş otobüs ve troleybüs ağı, metronun ulaşamadığı birçok noktaya erişim sağlar. Otobüsler genellikle sabah 05:00'ten gece yarısına kadar hizmet verir.\n\n<B>Tramvay:</B> Tramvaylar, şehir merkezini Atina'nın güneyindeki sahil şeridine bağlar. Özellikle yaz aylarında plajlara ulaşım için idealdir. Tramvaylar da genellikle sabah 05:30 ile gece 00:30 arasında çalışır, Cuma ve Cumartesi günleri 02:30'a kadar sefer yapabilir."
+      },
+      {
+        "title": "Atina Toplu Taşıma Bilet Türleri ve Fiyatları",
+        "type": "text",
+        "content": "Atina'da toplu taşıma için 'Ath.ena Card' adı verilen elektronik bir kart sistemi kullanılmaktadır. Tek kullanımlık kağıt biletler de mevcuttur. Biletleri metro istasyonlarındaki otomatik makinelerden veya gişelerden, ayrıca gazete bayileri (periptero) ve tütüncülerden (kapnisma) satın alabilirsiniz. Biletinizi ilk kullandığınızda (metroda turnikeden geçerken veya otobüs/tramvayda damgalarken) aktive etmeyi unutmayın. (Lütfen güncel fiyatlar ve detaylı bilgi için OASA resmi web sitesini kontrol ediniz.)\n\n  <B>90 Dakika Geçerli Bilet:</B> 1,20 € (Tam) / 0,50 € (İndirimli). Otobüs, troleybüs, tramvay ve metroda 90 dakika boyunca geçerlidir (havalimanı hariç).\n  <B>Günlük Bilet (24 Saatlik):</B> 4,10 € (Tam). İlk kullanımdan itibaren 24 saat boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar (havalimanı hariç).\n  <B>5 Günlük Bilet:</B> 8,20 € (Tam). İlk kullanımdan itibaren 5 gün boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar (havalimanı hariç).\n  <B>3 Günlük Turist Bileti:</B> 20,00 € (Tam). İlk kullanımdan itibaren 3 gün (72 saat) boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar. Bu bilete Atina Havalimanı'na gidiş-dönüş metro veya ekspres otobüs ulaşımı da dahildir.\n\n<B>Havalimanı Ulaşımı (Eleftherios Venizelos Uluslararası Havalimanı - ATH):</B>\n  <B>Metro:</B> <B>Hat 3 (Mavi Hat)</B> ile direkt olarak şehir merkezine (Syntagma, Monastiraki) ulaşım sağlar. Yolculuk yaklaşık 40 dakika sürer.\n      <B>Tek Yön Metro Bileti:</B> 10,00 €\n      <B>Gidiş-Dönüş Metro Bileti (30 gün geçerli):</B> 18,00 €\n  <B>Ekspres Otobüsler:</B> Havalimanından şehir merkezine ve Pire Limanı'na 7/24 hizmet veren ekspres otobüs hatları bulunur. Bu otobüsler daha ekonomiktir ve yolculuk trafik durumuna göre 50-70 dakika sürebilir.\n      <B>Tek Yön Ekspres Otobüs Bileti:</B> 6,00 €\n      Popüler Hatlar: <B>X95</B> (Syntagma Meydanı), <B>X96</B> (Pire Limanı).\n  <B>Taksi:</B> Havalimanından şehir merkezine taksi ücreti gündüz tarifesinde (05:00-24:00) genellikle 40,00 €, gece tarifesinde (00:01-04:59) ise 55,00 € sabit fiyatlıdır."
+      },
+      {
+        "title": "Atina Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "OASA (Atina Toplu Taşıma) Resmi Sitesi",
+            "url": "https://www.oasa.gr/en/"
+          },
+          {
+            "name": "Atina Havalimanı Ulaşım Bilgileri",
+            "url": "https://www.athensairport.gr/en/transport/public-transport"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/1024px-L'Olympieion_(Athènes)_(30776483926).jpg",
+        "imageTitle": "Tanrıların Gözdesi: Olimpos Zeus Tapınağı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Atina’da gökyüzüne uzanan birkaç sütun görürseniz bilin ki, orası Olimpos’un en kudretli tanrısına adanmış bir yer: Zeus Tapınağı. Her ne kadar bugün sadece gölgesi kalmış olsa da, bir zamanlar görkemiyle tüm kenti etkisi altına alan bu yapı, antik dünyanın Tanrı’ya duyduğu hayranlığın taşa yansımasıdır.\n\nYapımına M.Ö. 6. yüzyılda başlanmış, ancak bitmesi neredeyse 700 yılı bulmuş. Roma İmparatoru Hadrian, tapınağı tamamladığında içine devasa bir Zeus heykeli koydurtmuş. O heykel artık yok ama tapınağın ayakta kalan sütunları hâlâ Zeus’un gücünü fısıldıyor gibi.\n\nBurada durduğunuzda, devlerin yaşadığı bir geçmişin eteğinizde dolaştığını hissedersiniz. Şehir hayatının gürültüsü bir anlığına silinir ve geriye sadece taşların anlattığı hikâyeler kalır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/The_great_theater_of_Epidaurus,_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC,_Sanctuary_of_Asklepeios_at_Epidaurus,_Greece_(14015010416).jpg",
+        "imageTitle": "Sahnenin Doğduğu Yer: Dionysos Tiyatrosu\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Akropolis’in güney yamacına yaslanmış, taş sıralardan oluşan mütevazı bir yarım çember görürsünüz. Burası sıradan bir antik yapı değil — tiyatronun doğduğu yer, Dionysos’un kutsal alanıdır. İşte karşınızda dünyanın bilinen en eski tiyatrosu: Dionysos Tiyatrosu.\n\nM.Ö. 5. yüzyılda, tragedya ve komedyanın ilk adımlarını attığı bu sahnede Sophokles, Euripides ve Aristophanes’in eserleri yankılanmış. Yaklaşık 17.000 kişilik bu taş amfi, sadece eğlence değil, aynı zamanda bir tür toplumsal buluşmaydı.\n\nBugün burada otururken, sessiz taşlar arasında yankılanan replikleri duyumsayabilir, sahneye çıkan oyuncuların heyecanını düşleyebilirsiniz. Zaman durmuş gibi hissedersiniz — çünkü bu tiyatroda geçen bir oyun, yüzyıllar boyunca devam ediyor gibi...\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_(14220794964).jpg",
+        "imageTitle": "Zamanın Zirvesinde: Partenon\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Atina’nın tepesinde, ışıkla yıkanmış görkemli sütunlar arasında yürürken, sadece bir tapınağın değil bir medeniyetin kalbine tanıklık edersiniz. Partenon, M.Ö. 5. yüzyılda Atina’nın Altın Çağı’nda inşa edildi; akıl, estetik ve inanç bu mermer yapıda buluştu.\n\nTanrıça Athena’ya adanan bu tapınak, dönemin gücünü ve zarafetini simgeler. Mimarlar Iktinos ve Kallikrates’in elinden çıkan yapının her taşı ölçülü, her oranı kusursuzdur. İçinde bir zamanlar dev bir Athena heykeli yükselirdi; altın ve fildişinden yapılmış, şehri koruduğuna inanılırdı.\n\nBugün Partenon’un kalıntıları arasında dolaşırken, geçmişin ihtişamı rüzgarla kulağınıza fısıldar. Sütunların gölgesi hâlâ gökyüzüne meydan okur ve bu sessiz anıt, zamana karşı dimdik durur. Burası sadece bir yapı değil — insanlığın sanatla yükseldiği yerdir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Parthenon_(3388138127).jpg",
+        "imageTitle": "Tanrıların Tepesi: Atina Akropolisi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Güneş, Atina’nın üzerinden yavaşça yükselirken, beyaz mermerin altın sarısına büründüğü bir tepe göze çarpar: Akropolis. Burası sadece taş ve sütunlardan oluşmuş bir tepe değil; antik dünyanın aklı, ruhu ve gururu burada yükselir.\n\nAkropolis, M.Ö. 5. yüzyılda Perikles’in önderliğinde inşa edildi. Bir yanda Athena’ya adanmış ihtişamlı Partenon, diğer yanda Erechtheion’un zarif karyatidleri, karşıda Propylaia’nın anıtsal girişi… Her adımınızda Yunan medeniyetinin hem sanata hem felsefeye olan bağlılığını hissedersiniz.\n\nBu tepe sadece tanrılara değil, insan aklına da bir övgüdür. Taşlar sessizdir ama geçmişin ayak sesleri kulağınıza kadar gelir. Eğer bir gezgin olarak tarihin kalbine yürümek isterseniz, Akropolis sizi bekler – rüzgârda Athena’nın gölgesi hâlâ dolaşırken...\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Erechtheum_Acropolis_Athens.jpg",
+        "imageTitle": "Kutsal Anlatıların Sessiz Tapınağı: Erechtheion\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Akropolis’in en mistik köşesinde, Partenon’un görkemli ihtişamına karşılık dingin bir zarafetle yükselir Erechtheion. Bu tapınak, yalnızca taşlardan inşa edilmedi — içinde efsaneler, tanrılar ve mitlerle örülmüş bir geçmiş saklıdır.\n\nM.Ö. 5. yüzyılın sonlarında inşa edilen Erechtheion, hem Athena’ya hem de Poseidon’a adanmış eşsiz bir yapıdır. Anlatılanlara göre, tanrılar burada şehre kimin sahip olacağını tartışmış; Athena'nın zeytin ağacı ve Poseidon’un deniz sularından fışkıran mızrağı bu kutsal alanda çakışmıştır.\n\nAma belki de en çarpıcı yanı, güney cephesindeki Karyatidler – ince zarafetleriyle mermeri adeta canlıya dönüştüren kadın figürleri. Onlar sadece sütun değil, geçmişin taşıyıcılarıdır. Göz göze geldiğinizde, zamanın içinden size bir şey fısıldıyormuş gibi olur.\n\nErechtheion’un gölgesinde dururken, bir yapıdan çok bir hikâyenin içinde olduğunuzu fark edersiniz. Burada taşlar bile efsaneler anlatır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Odeon_of_Herodes_Atticus_(34580450331).jpg",
+        "imageTitle": "Mermerin Sesi: Herodes Atticus Odeonu\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Akropolis’in güney yamacında, zamanın içinden fısıldayan bir başka antik yapı yükselir: Herodes Atticus Odeonu. Dışarıdan sade bir taş yapı gibi görünse de içine adım attığınızda binlerce yıl öncesinin sesi kulaklarınızda yankılanmaya başlar.\n\nM.S. 161 yılında, zengin bir Romalı aristokrat olan Herodes Atticus, bu etkileyici tiyatroyu hayatını kaybeden eşi Aspasia Annia Regilla anısına yaptırdı. Mermerden oturma sıraları, etkileyici akustiği ve 5.000’e yakın seyirci kapasitesiyle bu odeon, sadece bir anma yapısı değil, aynı zamanda Atina’nın kültürel kalbinin attığı yerlerden biri haline geldi.\n\nYüzyıllar geçse de sahnesi hâlâ boş değil. Bugün hâlâ yaz akşamlarında klasik müzikten tiyatroya kadar çeşitli performanslara ev sahipliği yapıyor. Antik taşlar arasından yükselen her nota, geçmişle bugünü buluşturuyor.\n\nHerodes Odeonu, bir tiyatrodan çok daha fazlası — sevginin, yasın ve sanatın mermerle birleşmiş hali. Burada oturup sahneye baktığınızda, sadece bir gösteriyi değil, zamanın kendisini izlersiniz.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/athens-7402123_1280.jpg",
+        "imageTitle": "Atina Agorası: Antik Dünyanın Kalbi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Şehrin kalbinde, tarih boyunca Atinalıların toplanma, tartışma ve günlük hayatlarını sürdürme yeri olan Agora, uygarlığın doğduğu mekânlardan biridir. Taşlarla döşenmiş geniş alanında adım attığınızda, filozofların, siyasetçilerin ve sıradan halkın sesleri sanki hala kulaklarınızda çınlar.\n\nM.Ö. 6. yüzyıldan başlayarak gelişen bu alan, sadece bir pazar yeri değil, aynı zamanda demokrasinin filizlendiği, fikirlerin özgürce paylaşıldığı bir forumdu. Burada Sokrates gibi büyük düşünürlerin yürüdüğünü hayal etmek mümkün.\n\nAgora’nın kalıntıları arasında yürürken, eski tapınaklar, Stoa’lar ve toplantı salonları arasında tarihin derinliklerine yolculuk yaparsınız. Her taş, eski Atina’nın yaşam tarzını ve değerlerini anlatır.\n\nGezgin olarak Atina Agorası’nda olmak, sadece bir yer gezmek değil; insanlık tarihinin önemli dönüm noktalarından birinin tam ortasında durmak demektir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Hephaistos_Tapınagi_Oğuzhan_Kayan-01.jpg",
+        "imageTitle": "Zanaatkarların ve Ateşin Tanrısına Adanmış: Hephaistos Tapınağı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Atina Agorası’nın sakin köşesinde, sağlam ve zarif bir yapı yükselir: Hephaistos Tapınağı. Antik çağlarda zanaatkarların, demircilerin ve ateşin tanrısı Hephaistos’a adanmış bu tapınak, Yunan mimarisinin en iyi korunmuş örneklerinden biridir.\n\nM.Ö. 5. yüzyılda inşa edilen tapınak, Dor düzeninin karakteristik sadeliği ve gücüyle dikkat çeker. Taş sütunları ve taş işçiliği, Hephaistos’un ustalığını ve dayanıklılığını simgeler gibi. İçinde bir zamanlar tanrının heykeli yer alırken, bugünse çevresindeki Agora’nın tarihine tanıklık etmeye devam ediyor.\n\nBurada dolaşırken, antik zanaatkarların o kutsal ateşiyle çalıştığı ve şehre yaşam verdiği anları hayal edersiniz. Hephaistos Tapınağı, sadece bir ibadethane değil; Atina’nın üretken ruhunun somut bir ifadesidir.\n\nBir gezgin olarak buraya geldiğinizde, sadece taşlara değil, emeğin ve sanatın binlerce yıllık izlerine dokunduğunuzu hissedersiniz.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Tower_of_the_Winds_-_panoramio_-_Robert_Freeman_(1) (1).jpg",
+        "imageTitle": "Roma Agorası: Roma’nın İzlerini Taşıyan Selanik’in Antik Kalbi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Selanik’in tarihi merkezinde yer alan Roma Agorası, şehrin Roma dönemindeki canlılığını ve sosyal yaşamını günümüze taşıyan büyüleyici bir alan. M.S. 2. yüzyılda inşa edilen bu açık pazar, şehrin ticari, politik ve kültürel merkezlerinden biri olmuş.\n\nBurada yürürken, antik taş yolların ve sütun kalıntılarının arasında, bir zamanlar pazarın, mahkemelerin ve toplantıların yapıldığı kalabalığı hayal edebilirsiniz. Şehrin eski sakinleriyle göz göze gelmek gibi bir deneyimdir bu.\n\nRoma Agorası, sadece kalıntılarla sınırlı kalmaz; onunla birlikte şehrin tarihine dokunan bir hissiyatı da içinde barındırır. Zamanın yorgunluğu taşlarda saklı olsa da, burası Selanik’in Roma döneminden kalan en güzel izlerinden biridir.\n\nBir gezgin olarak burayı ziyaret etmek, sadece antik yapıları görmek değil, geçmişin seslerini dinlemek ve şehrin tarih sahnesindeki canlılığını hissetmektir.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Areopagus_hill.jpg",
+        "imageTitle": "Ares Tepesi: Atina’nın Sessiz Tanığı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Akropolis’in hemen yakınında, yüzyıllardır Atina’nın gökyüzüne bakan bekçisi olarak duran Ares Tepesi, sadece kayalıklardan ibaret değil; antik dönemin adalet ve karar mekanizmasının kalbidir.\n\nEski Yunan’da burası, savaş tanrısı Ares’in adını taşır ve mahkeme işlerinin, özellikle cinayet davalarının görüldüğü yargı yeri olarak kullanılmıştır. Yüksek kayalıkları ve geniş manzarasıyla, hem fiziksel hem de sembolik olarak şehri izleyen bir konumdaydı.\n\nBugün tepeye tırmandığınızda, Atina’nın tarihi dokusunu kuşbakışı seyredersiniz. Altınızda Akropolis, ufukta ise modern şehir hayatı uzanır. Burada otururken, antik Yunanlıların adalet anlayışını ve şehrin günlük yaşamını daha derinden hissetmek mümkündür.\n\nBir gezgin için Ares Tepesi, sadece doğa ve manzara değil; tarihle göz göze gelmenin, geçmişin kararlarının yankılarını duymanın özel bir durağıdır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Archäologisches_Nationalmuseum_Athen.jpg",
+        "imageTitle": "Ulusal Arkeoloji Müzesi: Zamanın Derinliklerine Yolculuk\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Atina’nın kalbinde yer alan Ulusal Arkeoloji Müzesi, sadece bir müze değil; adeta antik dünyanın kalbinde atılan bir zaman makinesi. Adımınızı attığınız anda, Homeros’un dizelerinde dolaşan kahramanlardan filozofların düşünce dünyasına kadar uzanan bir serüvene başlarsınız.\n\nYunan tarihinin binlerce yıllık katmanlarını barındıran bu müzede, Miken maskeleri, heykeller, seramikler ve günlük yaşamdan objeler ziyaretçileri büyüler. Her bir eser, hem sanatın zarafetini hem de geçmişin hikâyelerini sessizce fısıldar.\n\nBir gezgin olarak burada dolaşmak, sadece vitrinlere bakmak değil; geçmişle iç içe yürümek, o hayatlara kısa bir misafirlik yapmak gibidir. Sessiz salonlarında dolaşırken zamanla bağınız kopar, çünkü geçmiş tam da yanı başınızda nefes almaktadır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Panathenaic_Stadium_-_panoramio_(1).jpg",
+        "imageTitle": "Mermerin Üzerinde Zaman: Panathenaic Stadyumu\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Atina’nın kalbinde, beyaz mermerden yükselen sessiz bir dev gibi durur Panathenaic Stadyumu. Antik Yunan’da Panathenaia şenlikleri için inşa edilen bu yapı, sadece bir spor alanı değil, insanlık tarihinin rekabet ve kutlama kültürünün sembolüdür.\n\nM.Ö. 4. yüzyılda inşa edilen ve Roma döneminde büyütülen bu stadyum, dünyadaki tamamen mermerden yapılmış tek stadyumdur. 1896 yılında modern olimpiyatlara ev sahipliği yaparak, eskiyle yeniyi sembolik bir çizgide birleştirmiştir.\n\nBasamaklarına oturup boş sahaya baktığınızda, binlerce yıl öncesinden yankılanan tezahüratları ve atletlerin ayak seslerini duyar gibi olursunuz. Güneş mermerlere vurduğunda, tarih sanki yeniden canlanır.\n\nPanathenaic, bir gezgin için yalnızca görülmesi gereken bir yer değil; zamanın mermerde nasıl iz bıraktığını hissetmenin eşsiz bir yoludur.\n\n"
+      },
+      {
+        "title": "Atina'da Ne Yenir ve Genel Mutfak Kültürü",
+        "type": "text",
+        "content": "Atina mutfağı, zengin Akdeniz ve Balkan etkilerini taşıyan, taze malzemelerle hazırlanan lezzetli yemekleriyle ünlüdür. Zeytinyağlılar, et yemekleri ve deniz mahsulleri ön plandadır. Şehirde hem geleneksel tavernalar, hem modern restoranlar hem de hareketli sokak lezzetleri bulabilirsiniz."
+      },
+      {
+        "title": "Atina'nın Öne Çıkan Lezzetleri",
+        "type": "text",
+        "content": "Atina'yı ziyaret ettiğinizde mutlaka tatmanız gereken başlıca lezzetler:\n  <B>Souvlaki & Gyro:</B> Yunan mutfağının en popüler sokak lezzetleri. Souvlaki şişte ızgara et (genellikle domuz veya tavuk) iken, Gyro dikey dönerden kesilen etten yapılır. Genellikle pide ekmeği içinde domates, soğan, patates kızartması ve cacık ile servis edilir.\n  <B>Moussaka:</B> Patlıcan, kıyma ve beşamel sos katmanlarından oluşan, fırında pişirilmiş geleneksel bir Yunan yemeğidir.\n  <B>Yunan Salatası (Horiatiki Salata):</B> Taze domates, salatalık, kırmızı soğan, Kalamata zeytini ve büyük bir dilim feta peyniri ile hazırlanan, bol zeytinyağlı ve kekikli ferahlatıcı bir salatadır.\n  <B>Tzatziki:</B> Yoğurt, salatalık, sarımsak ve nane ile hazırlanan serinletici bir mezedir. Çoğu yemeğin yanında servis edilir.\n  <B>Spanakopita:</B> Ispanak ve feta peyniri dolgulu, çıtır yufka böreğidir. Genellikle kahvaltıda veya atıştırmalık olarak tüketilir.\n  <B>Dolmades (Dolmadakia):</B> Asma yaprağına sarılmış pirinç ve otlarla hazırlanan dolmalardır. Zeytinyağlı veya kıymalı versiyonları bulunur.\n  <B>Loukoumades:</B> Yunan usulü ballı lokma tatlısıdır. Kızarmış hamur topları üzerine bal şerbeti gezdirilir ve tarçın serpilerek servis edilir.\n  <B>Saganaki:</B> Kızartılmış peynir mezesidir. Genellikle limon dilimiyle servis edilir.\n  <B>Frappe & Freddo Espresso/Cappuccino:</B> Yunanistan'da kahve kültürü oldukça yaygındır. Özellikle yaz aylarında buzlu kahve çeşitleri olan Frappe (buzlu hazır kahve) ve Freddo Espresso/Cappuccino (buzlu espresso/cappuccino) çok popülerdir."
+      },
+      {
+        "title": "Önerilen Atina Mekanları ve Lezzet Deneyimleri",
+        "type": "list",
+        "intro": "Atina'nın mutfak zenginliğini keşfedebileceğiniz bazı özel adresler ve popüler bölgeler:",
+        "listItems": [
+          "<B>Kostas (Souvlaki):</B> Şehrin en meşhur souvlaki mekanlarından biri. Genellikle önünde uzun kuyruklar olur, taze ve lezzetli souvlaki deneyimi sunar. Adresi: Agias Eirinis 2, Athina 105 60.",
+          "<B>Tylixto (Gyro):</B> Gyros sevenler için popüler bir adres. Yeni nesil gyros anlayışıyla bilinir, patates ve soslarla zenginleştirilmiş porsiyonlar sunar.",
+          "<B>Karamanlidika (Şarküteri & Meze):</B> Geleneksel Anadolu ve Yunan lezzetlerini bir araya getiren bir şarküteri-restoran. Pastırma, sucuk gibi şarküteri ürünleri ve zengin meze çeşitleriyle bilinir. Adresi: Sokratous 1, Athina 105 52.",
+          "<B>Taverna Klimataria (Geleneksel Yunan Mutfağı):</B> Canlı müzik eşliğinde otantik bir taverna deneyimi arayanlar için ideal. Rezervasyon yaptırmak tavsiye edilir. Adresi: Pl. Theatrou 2, Athina 105 52.",
+          "<B>Oinomageireio Epirus (Ev Yemekleri):</B> Balık pazarının içinde yer alan, geleneksel ev yemekleri ve çorbalarıyla ünlü, otantik bir esnaf lokantası. Adresi: Filopimenos 4, Athina 105 51.",
+          "<B>Ariston (Börekler):</B> Özellikle çeşitli börekleriyle (Pita) meşhurdur. Atina'da hızlı ve lezzetli bir atıştırmalık için iyi bir seçenektir. Adresi: Voulis 10, Athina 105 62.",
+          "<B>Krinos (Loukoumades):</B> Atina'nın en eski ve bilinen lokmacılarından biri. Sıcak ve taze loukoumades için mutlaka uğrayın. Adresi: Aiolou 87, Athina 105 51.",
+          "<B>Django (Dondurma):</B> Atina'da lezzetli ve kaliteli dondurma arayanlar için popüler bir adres.",
+          "<B>Monastiraki Meydanı ve Plaka Bölgesi:</B> Bu bölgeler, sayısız taverna, kafe ve restoranla doludur. Akropolis manzaralı mekanlar ve geleneksel Yunan mutfağını sunan yerler bulabilirsiniz."
+        ]
+      },
+      {
+        "title": "Atina Yemek Rehberi İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "TripAdvisor Atina Restoranları",
+            "url": "https://www.tripadvisor.com.tr/Restaurants-g189400-Athens_Attica.html"
+          },
+          {
+            "name": "Culture Trip - Atina'da Denenecek Yemekler",
+            "url": "https://theculturetrip.com/europe/greece/articles/10-traditional-greek-dishes-you-have-to-try-in-athens/"
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+
+  {
+    "id": "belgrad",
+    "countryId": "sırbistan",
+    "name": "Belgrad",
+    "description": " Sava ve Tuna nehirlerinin birleştiği noktada yükselen Belgrad, tarih boyunca sayısız uygarlığın izini taşıyan bir geçit kapısı gibi. Roma’dan Bizans’a, Osmanlı’dan Avusturya-Macaristan’a kadar birçok imparatorluk, bu stratejik şehir için mücadele etti. Her adımda farklı bir medeniyetin fısıltılarını duymak mümkün burada. ",
+    "coverImage": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg",
+    "image": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg",
+    "routes": [
+      {
+        "title": "1.Gün: Belveder Sarayı'ndan Viyana Doğa Tarihi Müzesi'ne Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d13255.99759409523!2d20.463938359729287!3d44.80725491317712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e2!4m5!1s0x475a700ca7258e8f%3A0xbe11391a6fc0344c!2sAziz%20Sava%20Katedrali%2C%20Kru%C5%A1edolska%202a%2C%20Beograd%2011000%2C%20S%C4%B1rbistan!3m2!1d44.7981382!2d20.469046799999997!4m5!1s0x475a7aa0e1f3ad73%3A0xc95e7d097b00ee1a!2zTmlrb2xhIFRlc2xhIE3DvHplc2kg0JzRg9C30LXRmCDQndC40LrQvtC70LUg0KLQtdGB0LvQtQ!3m2!1d44.8050907!2d20.4706899!4m5!1s0x475a7aa501a8a9f3%3A0xc6a381731628cb98!2z0KbRgNC60LLQsCDQodCy0LXRgtC-0LMg0JzQsNGA0LrQsA!3m2!1d44.810458499999996!2d20.4688897!4m5!1s0x475a7bb00177ef0f%3A0x448846444afd8bbb!2zQ3VtaHVyaXlldCBNZXlkYW7EsSDQotGA0LMg0YDQtdC_0YPQsdC70LjQutC1!3m2!1d44.816188499999996!2d20.4603829!4m5!1s0x475a65494e6dcc25%3A0x36b9ded6b009da2f!2sSpomenik%20zahvalnosti%20Francuskoj!3m2!1d44.8212489!2d20.4512461!4m5!1s0x475a65492470ef6d%3A0x455c20bee3d9b853!2sVojni!3m2!1d44.8221116!2d20.4501226!4m4!1s0x475a6548f96a0aeb%3A0x97a47ee0957f4026!3m2!1d44.8233499!2d20.449759!4m5!1s0x475a654896c97a1b%3A0xb73bbff29e600816!2sPobednik!3m2!1d44.8230544!2d20.4476974!4m5!1s0x475a65482947e5f9%3A0x50b01366aa62f8f0!2zUnXFvmljYQ!3m2!1d44.8255073!2d20.4512811!5e1!3m2!1str!2str!4v1753917214989!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/Np6LiVt6QEqK6KNK9",
+        "steps": [
+          {
+            "from": "Aziz Sava Katedrali, Krušedolska 2a, Beograd 11000, Sırbistan",
+            "to": "Ružica Kilisesi, Beograd, Sırbistan",
+            "duration": "1 saat 8 dakika",
+            "distance": "4,8 km",
+            "image": "/images/belgrad_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Belgrad'da Neler Yapılır?",
+        "type": "text",
+        "content": "Sava ve Tuna nehirlerinin birleştiği noktada yükselen Belgrad, tarih boyunca sayısız uygarlığın izini taşıyan bir geçit kapısı gibi. Roma’dan Bizans’a, Osmanlı’dan Avusturya-Macaristan’a kadar birçok imparatorluk, bu stratejik şehir için mücadele etti. Her adımda farklı bir medeniyetin fısıltılarını duymak mümkün burada.\n\nKale içinde gün batımını izlerken, bir zamanlar Osmanlı paşalarının yürüdüğü surların arasında dolaşırsınız. Kentin sokakları ise hem geçmişin zarif izlerini taşır hem de modern yaşamın ritmini... Knez Mihailova Caddesi'nden yürürken bir yandan tarihle selamlaşırsınız, bir yandan da genç, enerjik bir şehrin kalp atışlarını hissedersiniz.\n\nBelgrad, geçmişi sadece anlatmaz; onu yaşatır. Bu yüzden buraya her gelen, şehri sadece görmez — bir parçası olur."
+      },
+      {
+        "title": "Belgrad Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Sırbistan'ın başkenti Belgrad'da toplu taşıma, 1 Ocak 2025 tarihinden itibaren şehir sakinleri ve ziyaretçiler için <B>ÜCRETSİZ</B> hale gelmiştir. Bu uygulama, Belgrad'ı Avrupa'da toplu taşımanın ücretsiz olduğu en büyük şehirlerden biri yapmaktadır. Bu sayede otobüs, tramvay ve troleybüs gibi tüm toplu taşıma araçlarını rahatlıkla kullanabilirsiniz.\n\nBelgrad'da şehir içi ulaşım ağı oldukça gelişmiştir. Başlıca toplu taşıma araçları şunlardır:\n  <B>Otobüsler:</B> Şehrin dört bir yanına yayılan geniş bir otobüs ağı bulunmaktadır. Hem gündüz hem de gece hatları mevcuttur.\n  <B>Tramvaylar:</B> Özellikle şehir merkezinde ve bazı turistik bölgelere ulaşımda tramvay hatları idealdir.\n  <B>Troleybüsler:</B> Belirli güzergahlarda hizmet veren elektrikli troleybüsler de şehir içi ulaşımın önemli bir parçasıdır.\n\nArtık herhangi bir bilet satın almanıza veya kart kullanmanıza gerek kalmadan otobüslere, tramvaylara ve troleybüslere binip inebilirsiniz. Bu karar, trafik yoğunluğunu azaltmayı ve toplu taşıma kullanımını teşvik etmeyi amaçlamaktadır."
+      },
+      {
+        "title": "Belgrad Nikola Tesla Havalimanı (BEG) Ulaşım",
+        "type": "text",
+        "content": "Belgrad Nikola Tesla Havalimanı (BEG) şehir merkezine yaklaşık 18 km uzaklıktadır. Havalimanından şehir merkezine ulaşım için birkaç seçenek bulunmaktadır:\n\n  <B>A1 Minibüs:</B> Havalimanından şehir merkezindeki Slavija Meydanı'na direkt ulaşım sağlayan ekspres minibüslerdir. Yaklaşık 30-35 dakika sürer. Ücreti genellikle 300 RSD civarındadır.\n  <B>Halk Otobüsü (Hat 72):</B> Daha ekonomik bir seçenek olan 72 numaralı otobüs, havalimanından Zeleni Venac Meydanı'na kadar gider. Yolculuk süresi trafik durumuna göre 40-60 dakika sürebilir. Bu otobüs hattı için ücret, diğer şehir içi hatlardan farklı olarak ayrı bir bilet gerektirebilir (genellikle 150 RSD civarında, otobüste şoförden alınabilir).\n  <B>Taksi:</B> Havalimanında taksi durakları bulunmaktadır. Belgrad'da havalimanı taksileri için sabit bir fiyat sistemi uygulanır ve şehir 6 bölgeye ayrılmıştır. Şehir merkezine taksi ücreti genellikle 16-20 Euro (yaklaşık 2000-2400 RSD) civarındadır ve yolculuk 20-30 dakika sürer. Taksiye binmeden önce fiyatı teyit etmeniz önerilir."
+      },
+      {
+        "title": "Belgrad Havalimanı Ulaşım İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Belgrad Nikola Tesla Havalimanı Resmi Sitesi (Ulaşım)",
+            "url": "https://beg.aero/eng/passengers/to_and_from_the_airport/transport_to_and_from_the_airport"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/1280px-KalemegdanPark.jpg",
+        "imageTitle": "Kalemegdan: Belgrad’ın Tarih ve Doğa Kucaklaşması\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın kalbinde, Tuna ve Sava nehirlerinin birleştiği noktada yükselen Kalemegdan, hem doğal güzelliği hem de tarihî derinliğiyle şehri anlatan en önemli mekânlardan biridir. Burası yalnızca eski bir kale değil; yüzyıllar boyunca farklı imparatorlukların izlerini taşıyan, yaşamın ve tarihin iç içe geçtiği bir açık hava müzesi gibidir.\n\nKalemegdan Kalesi’nin surlarında dolaşırken, Roma, Bizans, Osmanlı ve Avusturya-Macaristan dönemlerinden kalan kalıntılarla karşılaşırsınız. Her köşede bir savaşın, bir barışın, bir dönüşümün hikayesi saklıdır. Parkın yeşillikleri arasında yürürken, şehrin karmaşasından uzaklaşıp Tuna ve Sava nehirlerinin birleştiği manzaraya dalmak, zamandan kopmak gibidir.\n\nBurada gün batımını izlemek, Belgrad’ın geçmişini ve bugününü bir arada hissetmenin en güzel yoludur. Kalemegdan, tarih ve doğanın dostça buluştuğu, her gezginin mutlaka uğraması gereken bir duraktır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Hram_svetog_save_beograd_0005.jpg",
+        "imageTitle": "Aziz Sava Katedrali: Sabırla Örülmüş Bir İnanç Anıtı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın kalbinde, zarif kubbesiyle gökyüzüne uzanan Aziz Sava Katedrali, yalnızca bir ibadet yeri değil; Sırbistan’ın tarihine ve ruhuna dair güçlü bir simgedir. Adını Sırp Ortodoks Kilisesi’nin kurucusu Aziz Sava’dan alan bu anıtsal yapı, aynı zamanda Balkanlar’ın en büyük Ortodoks katedrali olma özelliğini taşır.\n\n1930’lu yıllarda başlayan inşaatı, savaşlar, rejim değişiklikleri ve ekonomik zorluklar yüzünden defalarca durmak zorunda kalmış. Ancak tüm bu aksiliklere rağmen katedral, her dönemin ardından biraz daha yükselmiş. Tamamlanması onlarca yıl sürse de, bu uzun süreç onu Belgrad halkı için çok daha anlamlı bir hale getirmiş.\n\nBugün içeri girdiğinizde altın mozaiklerle süslenmiş dev bir kubbenin altında durur, zamana meydan okuyan bu yapının sessiz gücünü hissedersiniz. Aziz Sava Katedrali, sabrın, inancın ve kültürel mirasın ne kadar görkemli bir yapıya dönüşebileceğinin en etkileyici örneklerinden biridir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Nikola_Tesla_Museum_024.jpg",
+        "imageTitle": "Nikola Tesla Müzesi: Zekânın ve Hayal Gücünün Kalbi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın Vračar semtindeki sakin bir caddede yer alan Nikola Tesla Müzesi, modern dünyanın şekillenmesinde büyük rol oynamış bir dahinin mirasını yaşatıyor. Bu müze, yalnızca Tesla’nın icatlarını görmek için değil, aynı zamanda onun vizyonuna bir adım daha yaklaşmak için de ziyaret ediliyor.\n\n1952 yılında açılan müze, Tesla’nın kişisel eşyalarını, notlarını ve orijinal belgelerini barındırıyor. Elektrik akımı, kablosuz enerji transferi ve radyo gibi pek çok devrim niteliğindeki buluşa imza atan Tesla’nın külleri de burada, sergilenen küre biçimindeki bir anıtın içinde saklanıyor.\n\nSergilenen etkileşimli cihazlar sayesinde Tesla’nın fikirlerini yalnızca görmekle kalmaz, aynı zamanda deneyimleyebilirsiniz. Müze; bilim, mühendislik ve yaratıcılığın sınırlarını zorlayan bir adamın hikâyesini kendi ağzından anlatıyor gibi.\n\nNikola Tesla Müzesi, bir müzeden fazlası—bilime tutkun her gezgin için durulması gereken bir ilham durağı."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg",
+        "imageTitle": "Aziz Mark Kilisesi: Sırp Mimarisiyle Sessiz Bir Anıt\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın kalbindeki Tašmajdan Parkı’nın kenarında yükselen Aziz Mark Kilisesi, Sırp-Ortodoks mimarisinin etkileyici örneklerinden biri. 1930’lu yıllarda inşa edilen bu kilise, kayıp zamanların izini süren sakin atmosferiyle öne çıkıyor.\n\nKilisenin mimarisi, 14. yüzyıldan kalma Kosova’daki Gračanica Manastırı’ndan ilham almış. Kırmızı ve sarı taşların armonisiyle örülü dış cephesi, geleneksel Sırp kiliselerinin modern bir yorumu gibi. İçeri adım attığınızda sizi karşılayan yüksek kubbeler, freskler ve ikonalar, zamanın ağırbaşlı sessizliğiyle sarıyor.\n\nAziz Mark Kilisesi, sadece bir ibadethane değil; aynı zamanda Sırp tarihinin sessiz tanığı. İçinde Sırp kralı Stefan Dušan’ın mezarı da yer alıyor—bu da burayı hem manevi hem de tarihsel anlamda değerli kılıyor.\n\nŞehrin kalabalığından uzaklaşıp, taşların ve ikonaların arasında derin bir nefes almak isteyenler için Aziz Mark Kilisesi, mutlaka görülmesi gereken yerlerden biri."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Republic_Square_(27420599076).jpg",
+        "imageTitle": "Cumhuriyet Meydanı: Belgrad’ın Buluşma Noktası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın kalbinde atan bir ritim varsa, bu kesinlikle Cumhuriyet Meydanıdır. Şehrin en canlı ve simgesel noktalarından biri olan meydan, tarihi yapılarla çevrili ve günün her saati insanlarla dolup taşan bir buluşma alanıdır.\n\nMeydanın tam ortasında, atlı heykeliyle Sırbistan Prensi Mihailo Obrenović dikkat çeker. 19. yüzyılda Osmanlı egemenliğinden kurtarılan şehirler anısına dikilen bu heykel, aynı zamanda halk arasında “atlı heykelin önü” olarak bilinen meşhur buluşma noktasıdır.\n\nEtrafı Ulusal Müze, Ulusal Tiyatro ve eski şehir binalarıyla çevrili olan Cumhuriyet Meydanı, geçmişin ve bugünün iç içe geçtiği bir sahne gibidir. Hem yerel halkın hem turistlerin nefes aldığı, kahvelerini yudumlayıp şehrin temposunu izlediği bu meydan, Belgrad’ın ruhunu hissetmek isteyen herkesin ilk duraklarından biridir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Spomenik_zahvalnosti_Francuskoj_002.jpg",
+        "imageTitle": "Fransa'ya Şükran Anıtı: Bir Minnetin Sessiz Simgesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’daki Fransa'ya Şükran Anıtı, Sırbistan’ın I. Dünya Savaşı sırasında Fransa’dan gördüğü yardımı ve dayanışmayı onurlandırmak için 1930 yılında inşa edilmiştir. Kalemegdan Parkı’nın huzurlu atmosferinde, Tuna’ya nazır bir konumda yükselen bu anıt, sadece taş bir yapı değil, iki millet arasında kurulan dostluğun sembolüdür.\n\nAnıtın yüzeyinde yer alan Fransız kadını figürü, Fransa'nın koruyucu bir güç olarak Sırbistan'a uzanan yardım elini temsil eder. Heykelin altında yer alan yazıt, \"Fransa’ya sonsuz şükranla – Sırbistan\" ifadesiyle duygusal bağın izlerini taşır.\n\nSessiz ama güçlü bir anlatımı olan bu anıt, tarihsel bir olayın ötesinde, savaşın yıkıcılığına rağmen insanlık onurunun ve dostluğun var olabileceğini hatırlatır. Kalemegdan’da yürürken ansızın karşınıza çıkan bu anıt, geçmişin gölgesinde bugünün barışını anlatır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Belgrade_Military_Museum.jpg",
+        "imageTitle": "Askerî Müze – Sırbistan’ın Zorlu Tarihine Sessiz Bir Tanıklık\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’daki Askerî Müze, Kalemegdan Kalesi'nin taş duvarları arasında, Tuna ve Sava nehirlerinin birleştiği noktada, zamana meydan okuyan bir tarih galerisi gibi yer alır. 1878 yılında kurulan bu müze, Sırbistan’ın savaşlarla dolu geçmişine tanıklık eden en önemli yapılardan biridir.\n\nDış avlusunda sergilenen tanklar, toplar, uçaksavarlar ve hatta Nazi Almanyası'na ait ekipmanlar; ziyaretçiyi daha içeri girmeden tarihle yüzleştirir. Müzenin iç bölümleri ise Orta Çağ’dan Osmanlı dönemine, Balkan savaşlarından Yugoslavya’nın dağılmasına kadar pek çok dönemi belgeleyen silahlar, üniformalar, haritalar ve kişisel eşyalarla doludur.\n\nBurada sadece silahların değil, halkın çektiği acıların, verdiği mücadelelerin ve direnişin de izleri vardır. Kalemegdan’ın sessizliğinde yükselen bu müze, sadece askerî başarıları değil, savaşın insani bedelini de anlatır. Sırbistan tarihine farklı bir pencereden bakmak isteyen her gezgin için mutlaka görülmesi gereken bir duraktır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Damat_Ali-pašino_turbe.jpg",
+        "imageTitle": "Damat Ali Paşa Türbesi – Osmanlı’nın Belgrad’daki Sessiz Mirası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad Kalesi’nin sakin köşelerinden birinde, ağaçların gölgesinde mütevazı ama anlam yüklü bir yapı yükselir: Damat Ali Paşa Türbesi. 18. yüzyılda Osmanlı'nın Rumeli valilerinden biri olan Damat Ali Paşa’nın mezarı olan bu türbe, Osmanlı’nın Balkanlardaki izlerini hatırlatan nadir yapılardan biridir.\n\n1716 yılında Petrovaradin Savaşı’nda hayatını kaybeden Damat Ali Paşa’nın anısına inşa edilen türbe, sade mimarisiyle dikkat çeker. Avusturyalıların Belgrad’ı ele geçirmesinden sonra şehrin Osmanlı geçmişine dair pek çok iz silinse de, bu türbe ayakta kalmayı başaran az sayıdaki Osmanlı yapısından biridir.\n\nKalemegdan Parkı içinde sessizce duran bu küçük anıt, geçmişle bugünün iç içe geçtiği, tarihî dokuyu hissettiren bir duraktır. Türbenin çevresinde yürürken, Belgrad'ın farklı dönemlerine ait izlerin üst üste bindiği hissine kapılmak kaçınılmazdır. Bu anlamda Damat Ali Paşa Türbesi, sadece bir mezar değil, tarihle yapılmış sessiz bir sohbet gibidir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Pobednik_(Victor)_-_night.jpg",
+        "imageTitle": "Zafer Anıtı (Pobednik) – Tuna ve Sava'nın Bekçisi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad’ın en tanıdık siluetlerinden biri olan Zafer Anıtı (Pobednik), şehrin tarihî merkezlerinden Kalemegdan Parkı’nda, Tuna ve Sava nehirlerinin birleştiği noktada gururla yükselir. Sadece bir heykel değil; savaşların, direnişin ve özgürlüğün simgesi gibidir.\n\n1928 yılında, Birinci Dünya Savaşı'ndaki Sırp zaferlerini anmak amacıyla heykeltıraş Ivan Meštrović tarafından yapılan bu bronz heykel, elinde bir kılıç ve kartal tutan çıplak bir adam figürüyle dikkat çeker. Duruşu cesur ve kararlıdır; sanki tarih boyunca Belgrad'ı savunmuş tüm askerlerin ruhunu taşır.\n\nYıllar içinde politik tartışmaların da odağında olan heykel, zamanla sadece bir savaş anıtı değil, Belgradlılar için bir buluşma noktası ve manzaranın tadını çıkarma durağı hâline gelmiştir. Güneş batarken heykelin arkasında beliren siluet, izleyenlere geçmişle bugün arasında güçlü bir bağ kurma hissi verir. Buraya gelip de şehrin nehirlerle olan ilişkisini ve savaşla şekillenmiş tarihini hissetmemek mümkün değildir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Ružica_church,_Belgrade,_Serbia.jpg",
+        "imageTitle": "Ružica Kilisesi: Kalemegdan’ın Sakin Duaları\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Belgrad Kalesi’nin içinde, surların hemen yanı başında yer alan Ružica Kilisesi, küçük boyutuna rağmen tarihî ve manevi bir ağırlığa sahiptir. Osmanlı döneminde harap haldeyken, 1920’lerde yeniden inşa edilen bu kilise, savaş zamanlarında bile ibadetin ve umudun simgesi olmuştur.\n\nİsmi “Gül” anlamına gelen Ružica, geleneksel olarak savaşa giden askerler için şifa ve koruma dileklerinin yükseldiği bir yer olarak bilinir. Kilisenin içindeki ikonalar ve taş duvarlar, ziyaretçileri geçmişin sessiz dualarına davet ederken, dışarıda kale surlarından şehre bakan manzara huzur verir.\n\nGezginler için Ružica Kilisesi, tarihi savaş alanlarının ve kalenin sert atmosferi arasında küçük, samimi bir sığınaktır. Burada durup birkaç dakika sessizlikte kalmak, Belgrad’ın zengin tarihinin başka bir yüzünü hissetmek gibidir."
+      },
+      {
+        "title": "Belgrad'da Ne Yenir ve Genel Mutfak Kültürü",
+        "type": "text",
+        "content": "Belgrad mutfağı, Sırp, Balkan ve Osmanlı mutfaklarının zengin bir birleşimidir. Et yemekleri, hamur işleri ve geleneksel mezeler ön plandadır. Porsiyonlar genellikle büyüktür ve yemekler doyurucudur. Şehirde her bütçeye uygun, gelenekselden moderne birçok farklı yeme içme mekanı bulabilirsiniz."
+      },
+      {
+        "title": "Belgrad'ın Öne Çıkan Lezzetleri",
+        "type": "text",
+        "content": "Belgrad'ı ziyaret ettiğinizde mutlaka denemeniz gereken başlıca lezzetler:\n  <B>Ćevapi (Çevapi):</B> Balkan mutfağının vazgeçilmezi olan, kıymadan yapılan küçük ızgara köftelerdir. Genellikle `lepinja` (pide benzeri ekmek), doğranmış soğan ve `kajmak` (kaymak) ile servis edilir.\n  <B>Pljeskavica:</B> Büyük, yassı bir köfte çeşididir. Baharatlı kıyma karışımından yapılır ve genellikle pide içinde, salata ve soslarla birlikte fast food olarak tüketilir.\n  <B>Sarma:</B> Lahana veya asma yaprağına sarılmış, pirinç ve kıyma içeren geleneksel bir yemektir. Türk mutfağındaki sarmaya benzer.\n  <B>Gibanica:</B> Peynir, yumurta ve kaymak (isteğe bağlı) ile doldurulmuş, kat kat yufkadan yapılan tuzlu bir börektir. Sırbistan'ın milli yemeklerinden biridir ve kahvaltıda veya atıştırmalık olarak sıkça tüketilir.\n  <B>Ajvar:</B> Közlenmiş kırmızı biber ve patlıcandan yapılan, sarımsaklı ve baharatlı, yoğun bir sos veya mezedir. Et yemeklerinin yanında veya ekmekle birlikte servis edilir.\n  <B>Karađorđeva Šnicla (Karacorceva Şnitsel):</B> Kaymakla doldurulup paneleyerek kızartılan dana veya domuz pirzolasından yapılan, oldukça doyurucu ve popüler bir yemektir. Genellikle tartar sos ve patates ile servis edilir.\n  <B>Prebranac:</B> Fırında pişirilmiş, bol soğanlı ve baharatlı kuru fasulyedir. Genellikle et yemeklerinin yanında servis edilir ancak tek başına da ana yemek olarak tüketilebilir.\n  <B>Kajmak:</B> Yoğun kıvamlı, tuzlu bir kaymaktır. Ekmekle, et yemeklerinin yanında veya böreklerle birlikte tüketilir.\n  <B>Palačinke (Palaçinke):</B> Fransız kreplerine benzeyen, tatlı veya tuzlu dolgularla hazırlanan ince kreplerdir. Tatlı olarak genellikle çikolata, reçel veya fındık kreması ile servis edilir.\n  <B>Rakija:</B> Balkanlar'a özgü, çeşitli meyvelerden yapılan güçlü bir geleneksel alkollü içkidir. Genellikle yemek öncesi iştah açıcı olarak veya soğuk kış günlerinde ısıtıcı olarak tüketilir."
+      },
+      {
+        "title": "Önerilen Belgrad Mekanları ve Lezzet Deneyimleri",
+        "type": "list",
+        "intro": "Belgrad'ın zengin mutfak mirasını tadabileceğiniz bazı özel adresler ve popüler bölgeler:",
+        "listItems": [
+          "<B>Skadarlija Bölgesi:</B> Belgrad'ın bohem ve tarihi bir bölgesi olan Skadarlija, geleneksel Sırp tavernaları (kafana) ile ünlüdür. Canlı Sırp müziği eşliğinde yöresel yemekleri deneyimlemek için idealdir.\n      <B>Tri Šešira (Üç Şapka):</B> Skadarlija'nın en eski ve en meşhur restoranlarından biridir. Geleneksel Sırp yemekleri ve canlı müzik sunar.\n      <B>Dva Jelena (İki Geyik):</B> Yine Skadarlija'da yer alan, büyük porsiyonları ve otantik atmosferiyle bilinen popüler bir kafana.",
+          "<B>To Je To – Sarajevski Ćevap:</B> Saraybosna usulü ćevapi sevenler için şehirdeki en iyi adreslerden biri olarak gösterilir. Genellikle hızlı ve lezzetli bir öğün için tercih edilir.",
+          "<B>Cevabdzinica Savcic Dorcol:</B> Köfte (ćevapi) ve diğer ızgara etler konusunda iddialı, şık bir et restoranı. Pljeskavica ve `Karacorceva Şnitsla` gibi lezzetleri de deneyebilirsiniz.",
+          "<B>Lorenzo & Kakalamba:</B> Farklı ve eklektik dekorasyonuyla dikkat çeken, Sırp ve dünya mutfaklarından lezzetler sunan popüler bir restorandır. Özellikle `Ribic na Kajmaku` gibi yöresel yemekleri tatmaya değer.",
+          "<B>Iva New Balkan Cuisine:</B> Modern Balkan mutfağının iyi örneklerini sunan, Michelin Bib Gourmand ödüllü bir restorandır. Şık bir yemek deneyimi arayanlar için idealdir.",
+          "<B>Boutique Restoran:</B> Knez Mihailova Caddesi'nin hemen başında, merkezi konumuyla bilinen popüler bir restorandır. Zengin menüsüyle farklı damak tatlarına hitap eder.",
+          "<B>Pekara Toma (Börekçi Toma):</B> Cumhuriyet Meydanı yakınında bulunan, Belgrad'ın en ünlü fırınlarından biridir. Özellikle `Gibanica` ve diğer taze börek çeşitlerini denemek için mükemmel bir yer.",
+          "<B>Crna Ovca (Kara Koyun):</B> Şehrin çeşitli noktalarında şubeleri bulunan, Belgrad'ın en iyi dondurmacılarından biridir. Farklı ve lezzetli dondurma çeşitleri sunar.",
+          "<B>Hotel Moskva Cafe:</B> Tarihi Hotel Moskva'nın giriş katında yer alan kafe, zarif atmosferi, canlı piyano dinletisi ve zengin pasta menüsüyle bilinir. Özellikle `Moskva Šnit` tatlısını denemelisiniz.",
+          "<B>Beton Hala (Beton Hall):</B> Sava Nehri kenarında yer alan bu bölge, modern restoranlar, barlar ve gece kulüpleriyle doludur. Nehir manzarası eşliğinde farklı mutfaklardan lezzetler sunan birçok mekan bulabilirsiniz. Örneğin `Iguana Restoran` burada canlı caz müzik eşliğinde şık bir yemek deneyimi sunar."
+        ]
+      },
+      {
+        "title": "Belgrad Yemek Rehberi İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "TripAdvisor Belgrad Restoranları",
+            "url": "https://www.tripadvisor.com.tr/Restaurants-g294472-Belgrade.html"
+          },
+          {
+            "name": "Taste Atlas - Sırp Yemekleri",
+            "url": "https://www.tasteatlas.com/most-popular-dishes-in-serbia"
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "id": "Novi sad",
+    "countryId": "sırbistan",
+    "name": "Novi sad",
+    "description": " Sırbistan’ın ikinci büyük şehri Novi Sad, Tuna Nehri kıyısında, kültür ve tarihle iç içe geçmiş sakin ama canlı bir şehir olarak karşınıza çıkar. “Yeni Şehir” anlamına gelen Novi Sad, Osmanlı ve Avusturya-Macaristan etkilerinin harmanlandığı mimarisiyle büyüler.\n\nŞehrin simgesi olan Petrovaradin Kalesi, Tuna’ya hakim yüksek bir tepede yükselir.",
+    "coverImage": "/images/Novisadmeydani-Ozandogan.jpg",
+    "image": "/images/Novisadmeydani-Ozandogan.jpg",
+    "routes": [
+      {
+        "title": "Saint George's Cathedral'ndan Petrovaradin catacombs'na Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d9359.889454477167!2d19.85187997477604!3d45.257150670704846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e2!4m5!1s0x475b1066322c09f7%3A0xdc492431fb8cc792!2sSaint%20George&#39;s%20Cathedral%2C%20Nikole%20Pa%C5%A1i%C4%87a%202%2C%20Novi%20Sad%2021000%2C%20S%C4%B1rbistan!3m2!1d45.2575532!2d19.8476844!4m5!1s0x475b106858fe513d%3A0xb816502dc083f616!2sRimokatoli%C4%8Dka%20crkva%20imena%20Marijinog!3m2!1d45.255633599999996!2d19.8456045!4m5!1s0x475b1042800d20b3%3A0xa784e96d1d581aa3!2sUspenska%20crkva!3m2!1d45.2555249!2d19.842189299999998!4m5!1s0x475b1070c9b687bf%3A0xdb47ae164f30bf72!2sSat%20Na%20Petrovaradinskoj%20Tvr%C4%91avi!3m2!1d45.2534832!2d19.8612492!4m4!1s0x475b107726761343%3A0xece28c1cd9c796bc!3m2!1d45.2523896!2d19.8622613!4m5!1s0x475b1b3afc39544b%3A0xa7aa700acdbf2b9!2sPetrovaradinske%20Katakombe%E2%80%A6!3m2!1d45.2518087!2d19.8645422!5e1!3m2!1str!2str!4v1753920761392!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/drBWkHsaAKx4veqj8",
+        "steps": [
+          {
+            "from": "Saint George's Cathedral, Nikole Pašića 2, Novi Sad 21000, Sırbistan",
+            "to": "Petrovaradin catacombs, 3D Svet, Hornwerk, Petrovaradin, Sırbistan",
+            "duration": "37 dakika",
+            "distance": "1,8 km",
+            "image": "/images/novisad_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Novi Sad'da Neler Yapılır?",
+        "type": "text",
+        "content": "Sırbistan’ın ikinci büyük şehri Novi Sad, Tuna Nehri kıyısında, kültür ve tarihle iç içe geçmiş sakin ama canlı bir şehir olarak karşınıza çıkar. “Yeni Şehir” anlamına gelen Novi Sad, Osmanlı ve Avusturya-Macaristan etkilerinin harmanlandığı mimarisiyle büyüler.\n\nŞehrin simgesi olan Petrovaradin Kalesi, Tuna’ya hakim yüksek bir tepede yükselir. Bu kale, yüzyıllar boyunca bölgeyi korumuş ve bugün “Adriyatik’in Gibraltar’ı” olarak anılır. Kaleden şehri izlerken tarih adeta gözlerinizin önünde canlanır.\n\nNovi Sad, özellikle müzik ve sanat etkinlikleriyle de ünlüdür. Her yaz düzenlenen EXIT Festivali, dünyanın dört bir yanından gençleri bir araya getirirken, şehirdeki kafeler, galeriler ve parklar sizi sıcak bir atmosferle karşılar.\n\nBuraya geldiğinizde, sadece tarih kokan taşları değil, yaşayan bir kültürü de deneyimlersiniz. Novi Sad, Sırbistan’ın kalbinde, Tuna’nın kıyısında saklı bir hazine gibidir.\n\n"
+      },
+      {
+        "title": "Novi Sad Hakkında Genel Bilgiler",
+        "type": "text",
+        "content": "Novi Sad (Sırpça: Нови Сад), Sırbistan'ın kuzeyinde, Voyvodina Özerk Bölgesi'nin başkenti ve en büyük şehridir. Tuna Nehri kıyısında yer alan bu şehir, aynı zamanda Voyvodina Hükümeti'ne ve İl Genel Meclisi'ne ev sahipliği yapmaktadır. Tarihsel olarak 'Sırp Atinası' olarak da anılan Novi Sad, 19. yüzyılda önemli bir ticaret, üretim ve kültür merkezi haline gelmiştir. Şehrin ana meydanındaki binalar ve sokaklar neoklasik mimariye sahiptir, bu da Avusturya-Macaristan İmparatorluğu dönemindeki etkileşimi yansıtır. Günümüzde Belgrad'dan sonra Sırbistan'ın ikinci büyük kültür merkezidir ve birçok kültürel etkinliğe ev sahipliği yapar. Ayrıca her yıl düzenlenen Exit Festivali ile de dünya çapında ün kazanmıştır."
+      },
+      {
+        "title": "Novi Sad'da Toplu Taşıma",
+        "type": "text",
+        "content": "Novi Sad'da şehir içi toplu taşıma genellikle otobüslerle sağlanmaktadır. Şehrin birçok noktasına otobüs seferleri bulunmaktadır. Toplu taşıma ücretlidir. Güncel bilgilere göre, tek bir otobüs bileti yaklaşık 70 Sırp Dinarı (RSD) veya yaklaşık 0,60 Euro'dur. Günlük 2 yolculuk yaparsanız, maliyet yaklaşık 1,20 Euro olacaktır. Biletleri otobüs şoföründen satın alabilirsiniz. Otobüsler genellikle eski olsa da şehir içi ulaşım için pratik bir çözümdür."
+      },
+      {
+        "title": "Belgrad Nikola Tesla Havalimanı (BEG) ve Novi Sad Ulaşımı",
+        "type": "text",
+        "content": "Novi Sad'ın kendine ait ticari uçuşlara açık bir havalimanı bulunmamaktadır. Novi Sad'a en yakın uluslararası havalimanı Belgrad Nikola Tesla Havalimanı (BEG)'dir. Havalimanından Novi Sad'a ulaşım için çeşitli seçenekler mevcuttur:\n\n  <B>Otobüs:</B> Belgrad Otobüs Terminali'nden Novi Sad'a düzenli otobüs seferleri bulunmaktadır. Belgrad Havalimanı'ndan şehir merkezine (otogara) toplu taşıma veya taksi ile ulaştıktan sonra Novi Sad otobüslerine binebilirsiniz. Yolculuk yaklaşık 1 saat 20 dakika ile 2 saat arasında sürebilir ve bilet fiyatları 5 ila 7 Euro (yaklaşık 600-900 RSD) civarında değişmektedir.\n  <B>Tren:</B> Belgrad Merkez Tren İstasyonu (Beograd Centar)'ndan Novi Sad'a yüksek hızlı tren seferleri düzenlenmektedir. Bu trenler yaklaşık 35-55 dakika sürmektedir ve bilet fiyatları 370-1000 RSD arasında değişebilir. Havalimanından tren istasyonuna ulaşım için 600 numaralı otobüsü kullanabilirsiniz. Hızlı trenler sadece Novi Beograd durağına uğrarken, yavaş trenler daha fazla durakta durmaktadır.\n  <B>Taksi/Özel Transfer:</B> En hızlı ancak daha pahalı bir seçenek olan taksi veya özel transfer ile direkt olarak havalimanından Novi Sad'a ulaşabilirsiniz. Yolculuk yaklaşık 1 saat sürmektedir ve maliyeti 11000-14000 RSD (yaklaşık 90-120 Euro) arasında olabilir."
+      },
+      {
+        "title": "Novi Sad Ulaşım Rehberi İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Srbija Voz (Sırbistan Tren Yolları)",
+            "url": "https://www.srbijavoz.rs/"
+          },
+          {
+            "name": "Omio (Otobüs ve Tren Bileti Karşılaştırma)",
+            "url": "https://tr.omio.com/"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Serbia-0290_-_Orthodox_Cathedral_of_Saint_George.jpg",
+        "imageTitle": "Saint George's Cathedral: Novi Sad’ın Ruhani Kalbi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın tarihi merkezinde yükselen Saint George's Cathedral, şehrin en eski ve önemli dini yapılarından biridir. 18. yüzyılda inşa edilen bu katedral, Barok ve Rokoko mimarisi unsurlarını bir araya getirerek göz alıcı bir estetik sunar.\n\nİç mekanı zengin süslemeler, renkli freskler ve detaylı ahşap işçilikleriyle doludur; bu da ziyaretçilere hem manevi bir atmosfer hem de sanatın inceliklerini keşfetme fırsatı verir. Katedral, Sırp Ortodoks cemaatinin uzun tarihi boyunca önemli bir buluşma noktası olmuş ve pek çok önemli olaya tanıklık etmiştir.\n\nBir gezgin olarak buraya adım attığınızda, sadece bir ibadet yerinde değil, aynı zamanda Novi Sad’ın kültürel ve tarihsel dokusunu hissedeceğiniz özel bir mekânda bulunursunuz. Saint George's Cathedral, şehrin ruhunu anlamak için mutlaka uğranması gereken duraklardan biridir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Serbia-0268_-_Name_of_Mary_Parish_Church_(7344449164).jpg",
+        "imageTitle": "Church of the Holy Name of Mary: Novi Sad’ın Gotik İncisi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın tarihi dokusunda zarifçe yükselen Church of the Holy Name of Mary, şehrin Katolik cemaatinin en önemli yapılarından biridir. 1895-1897 yılları arasında inşa edilen bu kilise, Neo-Gotik mimarisinin etkileyici örneklerinden biri olarak dikkat çeker.\n\nYüksek sivri kuleleri, renkli vitray pencereleri ve detaylı taş işlemeleriyle kilise, hem dışarıdan hem de içerden büyüleyici bir atmosfer sunar. İç mekânda yükselen kubbeler, ziyaretçilere huzur ve sükunetin yanı sıra gotik sanatın zarafetini keşfetme imkanı verir.\n\nBu kilise, sadece dini bir merkez değil, aynı zamanda Novi Sad’ın kültürel çeşitliliğini ve tarihini yansıtan önemli bir semboldür. Buraya uğradığınızda, şehirde farklı inançların nasıl bir arada var olduğunu hissetmek mümkündür.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Serbia-0304_-_The_Dormition_of_the_Virgin_Mary_Church.jpg",
+        "imageTitle": "Dormition Church: Novi Sad’ın Tarihi Duruşu\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın eski şehir bölgesinde, dingin ve saygın bir şekilde yükselen Dormition Church (Uspenska Crkva), şehrin Ortodoks topluluğu için önemli bir ibadet merkezidir. 18. yüzyılın sonlarında inşa edilen bu kilise, Barok mimarisi ile Osmanlı döneminden önceki Sırp ruhunu yansıtan zarif detayları bir araya getirir.\n\nİç mekanı, etkileyici ikonalar ve zengin fresklerle donatılmış olup, ziyaretçilere hem manevi bir sığınak hem de tarihi bir sanat galerisi deneyimi sunar. Kilisenin sakin atmosferi, buraya gelenleri geçmişe yolculuğa çıkarırken, dini ritüellerin sıcaklığıyla sarar.\n\nDormition Church, Novi Sad’ın tarihsel ve kültürel dokusunun önemli bir parçasıdır. Burada birkaç dakika durup etrafı izlemek, şehrin karmaşasından bir an olsun kopup, derin bir dinginlik hissetmek isteyen gezginler için ideal bir duraktır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Petrovaradin_clocktower.jpg",
+        "imageTitle": "Petrovaradin Kalesi’nin Saat Kulesi: Tuna’nın Gözcüsü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın simgesi olan Petrovaradin Kalesi üzerinde yer alan saat kulesi, sadece zamanı göstermekle kalmaz; şehrin tarihiyle de iç içe geçmiş bir hikâyeyi anlatır. 18. yüzyılda inşa edilen bu kule, Tuna Nehri’ne bakan panoramik manzarasıyla büyülerken, kendine özgü kollarıyla da dikkat çeker: büyük olan dakika kolu, küçük olan ise saat koludur — bu sayede nehrin üzerinde dolaşan tekneler zamanı daha kolay okuyabilmiştir.\n\nKaleden şehre baktığınızda, bu kule zamanı ve tarihi birleştiren bir köprü gibi durur. Hem savaş dönemlerinin hem de barış zamanlarının sessiz tanığı olan Petrovaradin Saat Kulesi, gezginlere tarihle günümüzü bir arada hissetme fırsatı sunar.\n\nBuraya tırmanıp, Tuna’nın kıvrımlarını ve Novi Sad’ın güzelliklerini seyrederken, sadece anı değil, zamanı da yakalamış olursunuz.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Petrovaradin_Fortress_8.8.2018_222.jpg",
+        "imageTitle": "City Museum of Novi Sad: Şehrin Belleğine Yolculuk\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın kalbinde yer alan City Museum of Novi Sad, şehrin geçmişinden günümüze uzanan zengin tarihini ve kültürel mirasını keşfetmek için ideal bir duraktır. 20. yüzyıl başlarında kurulmuş olan bu müze, sadece sergilenen objelerle değil, yaşanmışlıklarla dolu duvarlarıyla da ziyaretçilerini geçmişe götürür.\n\nMüzede, Novi Sad’ın Roma döneminden başlayarak Osmanlı ve Avusturya-Macaristan etkilerine kadar uzanan hikayesi; arkeolojik buluntular, eski haritalar, fotoğraflar ve günlük yaşamdan kesitlerle anlatılır. Her oda, şehrin farklı bir dönemiyle ilgili detaylar sunar ve ziyaretçiyi zamanda bir yolculuğa çıkarır.\n\nGezgin olarak buraya geldiğinizde, Novi Sad’ın sokaklarında yürürken göremediğiniz ayrıntıları, kültürün derinliklerini ve şehir halkının geçmişteki yaşam tarzlarını keşfetme şansı yakalarsınız. City Museum, sadece bir müze değil, Novi Sad’ın hafızasıdır.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Serbia-0333_-_Tunnel_to_the_Petrovaradin_Fortress_(7170042269).jpg",
+        "imageTitle": "Petrovaradin Yeraltı Tünelleri: Kalenin Gizemli Derinlikleri\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Novi Sad’ın göz bebeği Petrovaradin Kalesi’nin altında, yüzlerce yıl boyunca saklanmış, gizemli ve karmaşık bir yeraltı dünyası bulunuyor: Petrovaradin Yeraltı Tünelleri. 17. ve 18. yüzyıllarda inşa edilen bu labirentler, düşman saldırılarına karşı kale savunmasını güçlendirmek ve askerlerin güvenliğini sağlamak amacıyla kullanılmış.\n\nBu tüneller, sadece askeri amaçlarla değil; aynı zamanda gizli kaçış yolları ve erzak depoları olarak da hizmet vermiş. Dar koridorlar, basamaklar ve karanlık geçitler arasında yürürken, her adımda tarih boyunca burada yaşanmış savaşların, kuşatmaların ve stratejik hamlelerin izlerine tanıklık edersiniz.\n\nBugün rehberli turlar sayesinde bu gizemli yeraltı dünyasını keşfetmek mümkün. Petrovaradin’in kalbinde saklı bu tüneller, sadece bir yapı değil; tarihin derinliklerine yapılan büyüleyici bir yolculuktur. Gezginler için unutulmaz bir deneyim sunar.\n\n"
+      },
+      {
+        "title": "Novi Sad'da Ne Yenir ve Popüler Yemekler",
+        "type": "text",
+        "content": "Novi Sad mutfağı, Sırp genelinde olduğu gibi zengin ve doyurucudur. Özellikle et yemekleri, hamur işleri ve yerel ürünler ön plandadır. Belgrad'da popüler olan birçok Sırp yemeği Novi Sad'da da bulunabilir. İşte Novi Sad'da denemeniz gereken bazı lezzetler:\n\n  <B>Ćevapi (Çevapi):</B> Baharatlı kıymadan yapılan küçük ızgara köfteler. Genellikle `lepinja` (pide benzeri ekmek), doğranmış soğan ve `kajmak` (kaymak) ile servis edilir.\n  <B>Sarma:</B> Lahana yaprağına sarılmış, kıyma ve pirinç içeren geleneksel bir yemektir.\n  <B>Gibanica:</B> Peynir, yoğurt ve yumurta ile doldurulmuş kat kat yufkadan yapılan bir börek çeşididir.\n  <B>Kulen:</B> Kıyılmış domuz etinden yapılan, aromalı bir sosis türüdür.\n  <B>Pršut:</B> Kuru et veya füme jambon anlamına gelir, genellikle meze olarak tüketilir.\n  <B>Fırında veya Çevirme Et (Pečenje):</B> Özellikle kuzu veya domuz etinin fırında veya çevirme olarak pişirilmesiyle hazırlanan geleneksel bir yemektir.\n  <B>Ajvar:</B> Közlenmiş kırmızı biber ve patlıcandan yapılan, sarımsaklı ve baharatlı, yoğun bir sos veya mezedir.\n  <B>Kajmak:</B> Yoğun kıvamlı, tuzlu bir kaymaktır. Genellikle et yemeklerinin yanında veya ekmekle birlikte tüketilir.\n  <B>Riblja Čorba (Balık Çorbası):</B> Özellikle Tuna Nehri kıyısında yer alan şehirde taze balıklarla yapılan lezzetli bir çorbadır.\n  <B>Rakija:</B> Çeşitli meyvelerden yapılan geleneksel bir Sırp alkollü içkisidir."
+      },
+      {
+        "title": "Novi Sad'da Önerilen Mekanlar ve Lezzet Deneyimleri",
+        "type": "list",
+        "intro": "Novi Sad'da yerel lezzetleri ve atmosferi deneyimleyebileceğiniz bazı yerler:",
+        "listItems": [
+          "<B>Project 72 Wine & Deli:</B> Gurme restoran arayanlar için yüksek puanlı, başarılı mutfağıyla bilinen bir mekandır. Özellikle kuzu etleri ve şarap seçenekleri tavsiye edilir.",
+          "<B>Restoran Terasa:</B> Şehir manzarasına karşı yemek yiyebileceğiniz ve şaraplarınızı yudumlayabileceğiniz bir restorandır. Kahvaltı için de tercih edilebilir.",
+          "<B>Cafe Veliki:</B> Yerel lezzetler sunan, Sırp kahvaltısı ve tatlılarıyla ünlü bir kafe.",
+          "<B>Lazin Salas:</B> Geleneksel Sırp çiftlik evini anımsatan bir restorandır. Otantik atmosferde yerel mutfağın en iyi örneklerini deneyimleyebilirsiniz.",
+          "<B>Laze Telečkog Sokağı:</B> Şehrin kalbinin attığı ara sokaklardan biridir. Burada birçok bar ve pub bulabilirsiniz (örn. Cuba Libre Bar, London Pub, Irish Pub Red Cow). Yemek için restoranlar genellikle uygun fiyatlıdır."
+        ]
+      },
+      {
+        "title": "Novi Sad Yemek Rehberi İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Taste Atlas - Sırp Yemekleri",
+            "url": "https://www.tasteatlas.com/most-popular-dishes-in-serbia"
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+
+  {
+    "id": "viyana",
+    "countryId": "avusturya",
+    "name": "Viyana",
+    "description": "Viyana... Sadece Avusturya’nın değil, bir zamanların Habsburg İmparatorluğu’nun kalbi. ",
+    "coverImage": "/images/Wien_-_Schloss_Belvedere,_oberes_(4).jpg",
+    "image": "/images/Wien_-_Schloss_Belvedere,_oberes_(4).jpg",
+    "routes": [
+      {
+        "title": "1.Gün: Belveder Sarayı'ndan Viyana Doğa Tarihi Müzesi'ne Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d10305.727134923834!2d16.365277340338487!3d48.19860844592033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x476d077d020b9ea5%3A0x4a65fc52a0937607!2sBelvedere%20Saray%C4%B1%2C%20Upper%20Belvedere%2C%20Viyana%2C%20Avusturya!3m2!1d48.1914751!2d16.3809322!4m5!1s0x476d077a377a1157%3A0x1c780de41ee7347a!2sUnteres%20Belvedere!3m2!1d48.1965764!2d16.3798723!4m5!1s0x476d078282166ac7%3A0xceaba5bcdc66f532!2sKarlskirche!3m2!1d48.198562599999995!2d16.3716999!4m5!1s0x476d079a63cf77f1%3A0x6f6052b56ca6b841!2sKunsthistorisches%20Museum%20Wien!3m2!1d48.2038016!2d16.3617874!4m5!1s0x476d0790c107009d%3A0xc4a12ebf4ed4c5c9!2sViyana%20Do%C4%9Fa%20Tarihi%20M%C3%BCzesi%2C%20Burgring%207%2C%201010%20Wien%2C%20Avusturya!3m2!1d48.205211999999996!2d16.359845099999998!5e1!3m2!1str!2str!4v1753718297138!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/Xx7oDSabJf5ePuiH8",
+        "steps": [
+          {
+            "from": "Belvedere Sarayı, 1030 Wien, Avusturya",
+            "to": "Viyana Doğa Tarihi Müzesi, Burgring 7, 1010 Wien, Avusturya",
+            "duration": "40 dakika",
+            "distance": "3,0 km",
+            "image": "/images/wien_route1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "2.Gün: Aziz Stephan Katedrali'nden Church Maria am Gestade'na Tarihi Rota ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d7332.53070770485!2d16.36062679801176!3d48.2100572347344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0x476d079f223feccf%3A0x179757f3fadc3159!2sAziz%20Stephan%20Katedrali%2C%20Stephansplatz%203%2C%201010%20Wien%2C%20Avusturya!3m2!1d48.208411399999996!2d16.3734707!4m5!1s0x476d079bf27e5ac1%3A0x66ef8a989f37deb8!2sAlbertina!3m2!1d48.2046992!2d16.3681824!4m5!1s0x476d0799bf2006df%3A0x8685168014c4425f!2sHofburg!3m2!1d48.2056578!2d16.3647803!4m5!1s0x476d0796c4643859%3A0x351b7bc23e2730d0!2sParlament%20%C3%96sterreich!3m2!1d48.208036!2d16.3592045!4m5!1s0x476d0795b8d260fd%3A0x1ea9ef0ebe2905d9!2sDas%20Wiener%20Rathaus!3m2!1d48.210820999999996!2d16.3580826!4m5!1s0x476d07beed9e4ccd%3A0xb1cdb0d22f1d8336!2sVotivkirche!3m2!1d48.215401199999995!2d16.3590821!4m5!1s0x476d07a2504b5aff%3A0x239bee91415d837d!2sKatholische%20Kirche%20Maria%20am%20Gestade!3m2!1d48.212983799999996!2d16.3701764!5e1!3m2!1str!2str!4v1753718562669!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/N29jZ1ADirxXnw3c8",
+        "steps": [
+          {
+            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
+            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "duration": "54 dakika",
+            "distance": "3.9 km",
+            "image": "/images/wien_route2.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Viyana'da Neler Yapılır?",
+        "type": "text",
+        "content": "Viyana... Sadece Avusturya’nın değil, bir zamanların Habsburg İmparatorluğu’nun kalbi. Bu şehir, tarih boyunca müzikle, mimariyle ve düşünceyle yoğrulmuş bir kültür abidesi gibi yükseliyor Tuna Nehri kıyısında. Mozart, Beethoven ve Freud’un adımları hâlâ taş kaldırımlarda yankılanıyor sanki.\n\nŞehirde gezdiğiniz her sokak, barok sarayların ihtişamı ile seküler Avrupa düşüncesinin zarafetini bir araya getiriyor. Schönbrunn Sarayı'nın görkemi, Stephansdom'un taş duvarlarındaki gotik hikâyeler, Hofburg'un imparatorluk izleri... Her biri Viyana’nın geçmişten bugüne taşıdığı asil kimliğin bir yansıması.\n\nAma Viyana sadece geçmişte takılı kalmaz; klasik müzik konserlerinden çağdaş sanat galerilerine, her anı tarih kokan ama bugünü yaşayan bir şehirdir. Burada dolaşmak, zamanı yavaşlatmak gibidir — bir kahve molasında bile yüzyıllar arası bir yolculuğa çıkabilirsiniz. İşte Viyana'da mutlaka yapmanız gerekenler:"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/belvedere-palace-1216084.jpg",
+        "imageTitle": "Belvedere Sarayı: Barok Güzelliğin Sessiz Gururu",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın güneydoğusunda zarifçe yükselen Belvedere Sarayı, bir saraydan çok daha fazlası — adeta bir sanat manifestosu. Prens Eugene of Savoy’un 18. yüzyılda yazlık konut olarak yaptırdığı bu barok şaheser, sadece bir konut değil, aynı zamanda güç, zarafet ve kültürün birleştiği simgesel bir mekân.\n\nÜst ve Alt Belvedere olarak iki ayrı bölümden oluşan saray kompleksi, geometrik bahçeleriyle adeta görsel bir senfoni sunar. Ancak asıl hazine içeride saklıdır: Gustav Klimt’in efsanevi “Öpücük” (Der Kuss) tablosu, Alt Belvedere’in duvarlarında sizi karşılar. Sarayın sanat koleksiyonları, sadece Avusturya'nın değil, Avrupa'nın kültürel hafızasına açılan bir pencere gibidir.\n\nBelvedere'de dolaşırken barok mimarinin ince detaylarıyla, sanatın dönüştürücü gücü arasında kaybolursunuz. Gözleriniz bahçede simetrik havuzlara takılırken, ruhunuz duvarlarda asılı kalmış sessiz zamanların izini sürer."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/vienna-1527172_1280.jpg",
+        "imageTitle": "Karlskirche: Viyana'nın Gökyüzüne Açılan Dua Kapısı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’da bir sabah, Ringstraße boyunca yürürken ansızın karşınıza çıkar Karlskirche — haşmetli kubbesiyle göğe uzanan, zarif sütunlarıyla geçmişe kök salmış bir anıt gibi. 1713’teki büyük veba salgını sonrasında, İmparator VI. Karl’ın adak olarak inşa ettirdiği bu barok şaheser, yalnızca bir ibadet yeri değil; aynı zamanda şehrin iyileşmeye, umuda ve yeniden doğuşa olan inancının bir simgesi.\n\nRoma’daki Trajan Sütunu’ndan esinlenen yivli ikiz sütunlar, kilisenin cephesinde yükselirken, iç mekânda sizi karşılayan freskler ve görkemli altar, zamanın izini sürmenizi ister gibi sessizce bakar yüzünüze. İçeri girdiğinizde sadece mimarinin güzelliği değil, mekanın taşıdığı anlam da büyüler sizi: yaşanan büyük acılardan sonra doğan bir eser...\n\nKarlskirche, hem mimari bir başyapıt hem de Viyana’nın dualarının taşa işlendiği görkemli bir anıdır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/architecture-6402920_1280.jpg",
+        "imageTitle": "Aziz Stephan Katedrali (Stephansdom): Viyana’nın Taşlara İşlenmiş Kalbi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın tam kalbinde, zamanın sessiz tanığı gibi yükselir Aziz Stephan Katedrali. Gotik mimarinin bütün görkemiyle süzülen bu dev yapı, 12. yüzyıldan bu yana şehri hem koruyan hem de yön veren bir simge olmuştur. Yerel halkın sevgiyle \"Steffl\" diye seslendiği katedral, Viyana’nın sadece fiziksel merkezi değil, aynı zamanda ruhani nabzıdır.\n\nRenkli çatı kiremitleriyle parlayan çatısı, göğe uzanan Güney Kulesi ve taş duvarlara kazınmış yüzlerce yılın hikâyeleri... Her detay, şehrin tarihiyle iç içedir. Napolyon’un şehri işgal ettiğinde bayrağını bu kulenin tepesine diktiği, Mozart’ın burada evlendiği ve cenaze töreninin yapıldığı anlatılır. Bu katedral, Viyana’nın hem mutlu hem de hüzünlü anılarına sessizce tanıklık eder.\n\nİçeri adım attığınızda taş kemerlerin altında yankılanan ayak sesleri, geçmişle bugünü birbirine bağlar. Stephansdom, yalnızca bir ibadethane değil; tarihin, inancın ve Viyana'nın kalbinin attığı yerdir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/white-palace-with-big-garden.jpg",
+        "imageTitle": "Hofburg Sarayı: İmparatorların Gölgesinde Zamanla Yürümek",
+        "imageCaption": "."
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın merkezinde, adım attığınız her taşın bir hikâye anlattığı geniş bir kompleks çıkar karşınıza: Hofburg Sarayı. Yüzyıllar boyunca Habsburg Hanedanı'nın gücünü, ihtişamını ve Avrupa üzerindeki etkisini yansıtan bu devasa yapı, bugün bile zamanın ihtişamını fısıldar. 13.yüzyılda temelleri atılan saray, bir kale gibi başlamış ama yüzyıllar boyunca eklenen barok, gotik ve rokoko dokunuşlarla adeta bir tarih kitabına dönüşmüş. İmparatorluk daireleri, Sisi Müzesi, gümüş koleksiyonları ve Avusturya Ulusal Kütüphanesi bu büyük yapının sadece birkaç yüzüdür.\n\nAvlularında yürürken, kendinizi geçmişin gölgesinde dolaşır gibi hissedersiniz. Belki bir zamanlar Franz Joseph’in penceresinden baktığı noktadan siz de kalabalığı izlersiniz… Hofburg, yalnızca bir saray değil; bir imparatorluğun kalbinin attığı, görkemin ve zarafetin hâlâ hissedildiği bir zaman kapsülüdür.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/votive-9306408_1280.jpg",
+        "imageTitle": "Votivkirche: Dua Gibi Yükselen Taşlar",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın geniş cadde manzaraları arasında aniden karşınıza çıkan Votivkirche, göğe uzanan iki ince kulesiyle sessiz bir yakarışı andırır. 19. yüzyılın ortasında, İmparator I. Franz Joseph’e yapılan suikast girişiminden sağ kurtulması üzerine, minnettarlık nişanesi olarak inşa edilmiştir. Bu yönüyle, adı gibi gerçekten de bir \"adanmışlık kilisesidir.\"\n\nFransız gotiğini andıran mimarisiyle adeta Paris'teki Notre-Dame'ın Viyana’daki yankısı gibidir. Zarif rozet pencereleri, ince taş oymaları ve sessiz iç mekânı, ziyaretçiye sadece tarih değil, derin bir huzur da sunar. Kilisenin içindeki ışık oyunları ve vitray camların renkleri, sessiz bir dua gibi düşer mermer zemine.\n\nVotivkirche, sadece dini bir yapı değil; Viyana’nın tarihindeki tehlike, şükran ve inanç anlarının taşa kazınmış bir ifadesidir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Maria_am_Gestade.jpg",
+        "imageTitle": "Catholic Church Maria am Gestade: Tuna’nın Sessiz Bekçisi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın eski dokusu içinde saklı bir cevher gibidir Maria am Gestade Kilisesi. “Kıyıdaki Meryem” anlamına gelen bu adı, Tuna Nehri’nin kıyısına yakın inşa edilmiş olmasından alır. 14. yüzyıldan kalma bu gotik yapı, şehrin en eski kiliselerinden biridir ve zamanın aşındıramadığı ince taş işçiliğiyle dikkat çeker.\n\nDar sokakların arasında yükselen sivri kulesiyle hemen fark edilir. Viyana’nın gösterişli katedrallerinin aksine, burası daha içe dönük, daha sade ama bir o kadar etkileyicidir. Yüzyıllar boyunca denizcilerin ve yolcuların dua etmek için uğradığı bu kilise, bugün de şehirle derin bir bağ kurmak isteyen gezginlere dingin bir durak sunar.\n\nMaria am Gestade, ihtişamla değil zarafetle konuşur. Ve sessizliğiyle, geçmişin en eski dualarını bugünün kulağına fısıldar."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Austria_Parlament_Front-Ausschnitt.jpg",
+        "imageTitle": "Avusturya Parlamento Binası: Demokrasiye Yunan Esintisi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana'nın kalbindeki Ringstrasse boyunca yürürken, bir anda karşınıza antik Yunan tapınaklarını andıran etkileyici bir yapı çıkar: Avusturya Parlamento Binası. İlk bakışta bir parlamento binasından çok, Atina’daki bir akropolis izlenimi verir. Bu tesadüf değil; 19. yüzyılda inşa edilen bu görkemli yapı, demokrasinin doğduğu yer olan Antik Yunan'a bir saygı duruşu niteliğindedir.\n\nYapının önünde yükselen zarif Pallas Athena heykeli, bilgeliğin ve adaletin simgesi olarak hem ziyaretçileri hem de vekilleri selamlar. İçeri girdiğinizde, sütunlarla çevrili anıtsal salonlar, altın varaklı tavanlar ve tarih kokan koridorlar size Avusturya'nın siyasi geçmişinin ne kadar köklü olduğunu hissettirir.\n\nBurada yalnızca siyaset yapılmaz; burası fikirlerin, çatışmaların ve uzlaşıların tarihiyle örülü bir mekândır. Ve bir gezgin olarak, sadece mimarisine değil, temsil ettiği değerlere de saygı duyarak ayrılırsınız.\n\n"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Wien_Rathaus_hochauflösend.jpg",
+        "imageTitle": "Viyana Belediye Binası: Gotik Zarafetin Kalbindeki Şehir",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’nın kalbinde, şehrin ruhunu yansıtan zarif bir yapı yükselir: Rathaus, yani Belediye Binası. 19. yüzyılda, Neo-Gotik tarzda inşa edilen bu bina, sivri kuleleri ve süslemeleriyle bir masal kitabından fırlamış gibi görünür. En yüksek kulesinin tepesinde yer alan ünlü \"Rathausmann\" heykeli, kentin sembollerinden biridir.\n\nSadece bir idari merkez değil burası; yıl boyunca konserler, açık hava sinemaları, Noel pazarları ve buz pateni pistleriyle dolup taşan canlı bir meydanın da ev sahibidir. Özellikle akşam ışıklandırmalarıyla birlikte binanın ihtişamı daha da belirginleşir ve adeta gotik bir şiire dönüşür.\n\nViyana’da bir gezgin olarak buraya uğramadan şehrin nabzını tuttuğunuzu söylemek zor. Çünkü Rathaus, yalnızca belediyeciliğin değil, kültürün, yaşamın ve tarihin de merkezidir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Maria-Theresien-Platz_Kunsthistorisches_Museum_Wien_20101.jpg",
+        "imageTitle": "Kunsthistorisches Museum: Habsburgların Sanatla Yazdığı Miras",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana’da adımlarınızı Ringstrasse boyunca sürdürürken bir noktada durmak istersiniz. Karşınızda görkemli bir yapı yükselir: Kunsthistorisches Museum. Dışarıdan bile bir saray ihtişamı sunan bu bina, içine girdiğinizde sadece sanat değil, imparatorluk geçmişi de solumanıza imkân tanır.\n\n1891’de Habsburg Hanedanı’nın geniş koleksiyonlarını sergilemek üzere açılmış bu müze, adeta Avrupa’nın kültürel bir özeti gibidir. Caravaggio’dan Vermeer’e, Bruegel’in büyüleyici detay dünyasından Antik Mısır ve Roma’ya kadar uzanan bir hazine barındırır. Duvarlar yalnızca tablolarla değil, tarih boyunca birikmiş göz kamaştırıcı bir estetikle kaplıdır.\n\nKunsthistorisches Museum, bir sanat galerisi olmanın ötesinde, bir imparatorluğun zamanla yarışan belleğidir. Ve bir gezgin için, burada geçen her dakika, birkaç yüzyılın sessizce anlatıldığı bir masal gibidir.\n\n"
+      },
+      {
+        "title": "Viyana Kahve Kültürü",
+        "type": "text",
+        "content": "Viyana, UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan benzersiz bir kahve evleri kültürüne sahiptir. Bu kafeler, sadece kahve içmekten çok, sosyalleşme, gazete okuma ve sanatsal tartışmalar yapma mekanlarıdır. Bir 'Melange' (Viyana'ya özgü bir kahve çeşidi) deneyimi yaşamadan Viyana'dan ayrılmayın."
+      },
+      {
+        "title": "Viyana'da Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Viyana mutfağı, Orta Avrupa'nın zengin tatlarını barındırır. En meşhur yemeği 'Wiener Schnitzel' (Viyana şnitzel) olsa da, 'Tafelspitz' (haşlanmış dana eti), 'Goulash' (macarlı gulaş) ve 'Apfelstrudel' (elmalı strudel) gibi lezzetler de oldukça popülerdir. Viyana'nın 'Heuriger' adı verilen şarap evleri de yerel lezzetleri deneyimlemek için harika yerlerdir. Tatlı kültürü de oldukça gelişmiştir; Sacher Torte, Apfelstrudel ve Kaiserschmarrn (doğranmış pankek) mutlaka denenmelidir."
+      },
+      {
+        "title": "Önerilen Viyana Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Viyana'nın zengin mutfak mirasını tadabileceğiniz bazı özel adresler:",
+        "listItems": [
+          "<B>Figlmüller (Wollzeile):</B> Viyana'nın en ikonik 'Wiener Schnitzel'ini yemek için en meşhur yerlerden biri. İncecik ve çıtır çıtır şnitzel'iyle ünlüdür, rezervasyon şiddetle tavsiye edilir.",
+          "<B>Plachutta Wollzeile (Şehir Merkezi):</B> Geleneksel 'Tafelspitz' (haşlanmış dana eti) için Viyana'nın en bilinen adreslerinden biri. Şık bir ortamda sunulan bu yemeği denemek klasik bir Viyana deneyimidir.",
+          "<B>Café Central (Şehir Merkezi):</B> Viyana'nın en tarihi ve zarif kahve evlerinden biri. Sigmund Freud, Leon Troçki gibi isimlere ev sahipliği yapmış, kahve ve Viyana pastalarını denemek için mükemmel bir atmosfer sunar.",
+          "<B>Naschmarkt:</B> Viyana'nın en büyük ve en ünlü açık hava pazarı. Burada hem yerel hem de uluslararası mutfaklardan sokak lezzetleri, baharatlar, peynirler ve taze ürünler bulabilirsiniz. Çeşitli restoranlar ve büfeler de mevcuttur.",
+          "<B>Demel (Kohlmarkt):</B> Hofburg Sarayı yakınında yer alan, imparatorluk pastanesi olarak bilinen lüks bir kafe ve pastane. Sacher Torte'nin orijinaline yakın bir versiyonunu ve diğer zarif pastaları tadabilirsiniz."
+        ]
+      },
+      {
+        "imageTitle": "Viyana'nın Klasik Lezzeti: Wiener Schnitzel",
+        "type": "image-block",
+        "image": "/images/Wiener-Schnitzel02.jpg",
+        "imageCaption": "İncecik dövülmüş, panelenmiş ve kızartılmış dana etiyle hazırlanan dünyaca ünlü Viyana şnitzel."
+      },
+      {
+        "imageTitle": "Sacher Torte",
+        "type": "image-block",
+        "image": "/images/sachertorte-1280575_1280.jpg",
+        "imageCaption": "Viyana'ya özgü, çikolata kaplı ve kayısı marmelatlı meşhur pasta."
+      }
+    ]
+  }
+]

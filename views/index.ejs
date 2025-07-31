@@ -1,0 +1,64 @@
+<%- include('partials/header', { countries: countries, allCities: allCities }) %>
+
+    <section class="hero">
+        <h1>Dünyayı Keşfetmeye Hazır Mısın?</h1>
+        <p>Gezilecek yerler rehberiniz burada. Hayalinizdeki rotayı bulun!</p>
+    </section>
+
+    <section class="section-heading">
+        <h2>Popüler Ülkeler</h2>
+    </section>
+    <div class="card-grid">
+        <% countries.forEach(function(country) { %>
+            <div class="card country-card">
+                <a href="/country/<%= country.id %>">
+                    <img src="<%= country.image %>" alt="<%= country.name %>">
+                    <div class="card-content">
+                        <h3><%= country.name %></h3>
+                        <p>Keşfedilmeyi bekleyen şehirler...</p>
+                    </div>
+                </a>
+            </div>
+        <% }); %>
+    </div>
+
+    <hr class="my-5">
+
+    <section class="latest-destinations-section mb-5">
+        <h2 class="section-heading-latest text-center mb-4">EN YENİLER</h2>
+        <div class="latest-destinations-list">
+            <% if (typeof recentlyAddedCities !== 'undefined' && recentlyAddedCities.length > 0) { %>
+                <% recentlyAddedCities.forEach(function(city) { %>
+                    <%
+                        // Şehrin ait olduğu ülkeyi bul
+                        const country = countries.find(c => c.id === city.countryId);
+                        const countryName = country ? country.name : 'Bilinmeyen Ülke';
+                    %>
+                    <div class="latest-destination-item">
+                        <div class="latest-destination-image-wrapper">
+                            <img src="<%= city.coverImage %>" class="latest-destination-thumbnail" alt="<%= city.name %>">
+                            <span class="country-tag"><%= countryName %></span>
+                        </div>
+                        <div class="latest-destination-content">
+                            <a href="/city/<%= city.id %>" class="latest-destination-title-link">
+                                <h3 class="latest-destination-title"><%= city.name %></h3>
+                            </a>
+                            <p class="latest-destination-description">
+                                <% // Açıklamayı daha da uzun gösterebiliriz, 300 karaktere kadar %>
+                                <% if (city.description && city.description.length > 300) { %>
+                                    <%= city.description.substring(0, 300) + '...' %>
+                                <% } else if (city.description) { %>
+                                    <%= city.description %>
+                                <% } else { %>
+                                    Bu şehir için detaylı açıklama bulunmamaktadır.
+                                <% } %>
+                            </p>
+                        </div>
+                    </div>
+                <% }); %>
+            <% } else { %>
+                <p class="text-center col-12">Henüz eklenmiş destinasyon bulunmamaktadır.</p>
+            <% } %>
+        </div>
+    </section>
+    <%- include('partials/footer') %>

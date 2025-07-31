@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gezgin Rotam - Dünyayı Keşfedin</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    </head>
+<body>
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo-container">
+                <a href="/" class="site-logo-link">
+                    <img src="/images/gezginrotam_logo.png" alt="Gezgin Rotam Logo" class="site-logo">
+                    <span class="site-title">Tatildeki Rotam</span>
+                </a>
+            </div>
+            <nav class="main-nav">
+                <button class="hamburger-menu" aria-label="Menüyü Aç/Kapat">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-links">
+                    <li><a href="/">Ana Sayfa</a></li>
+                    <% // 'countries' ve 'allCities' değişkenlerinin tanımlı olduğundan emin ol %>
+                    <% if (typeof countries !== 'undefined' && countries.length > 0 && typeof allCities !== 'undefined') { %>
+                        <% countries.forEach(function(country) { %>
+                            <li class="has-submenu">
+                                <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
+                                <ul class="submenu">
+                                    <% var countryCities = allCities.filter(function(city) {
+                                        return city.countryId === country.id;
+                                    }); %>
+                                    <% if (countryCities.length > 0) { %>
+                                        <% countryCities.forEach(function(city) { %>
+                                            <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
+                                        <% }); %>
+                                    <% } else { %>
+                                        <li><a href="#">Şehir yok</a></li>
+                                    <% } %>
+                                </ul>
+                            </li>
+                        <% }); %>
+                    <% } %>
+                    <li class="search-icon-container"> <% /* Yeni arama ikonu container'ı */ %>
+                        <a href="#" id="openSearchBtn" aria-label="Arama Kutusu Aç">
+                            <i class="fas fa-search"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div id="searchOverlay" class="search-overlay">
+        <div class="search-overlay-content">
+            <span class="close-search-btn" id="closeSearchBtn">&times;</span>
+            <form action="/search-results" method="GET" class="search-overlay-form"> <% /* Action /search-results olarak güncellendi */ %>
+                <input type="text" id="searchOverlayInput" name="query" placeholder="Şehir veya ülke ara..." autofocus>
+                <button type="submit"><i class="fas fa-search"></i></button>
+            </form>
+            <p class="search-help-text">Aradığınız şehir veya ülkenin adını giriniz.</p>
+        </div>
+    </div>
+    <main class="container">
