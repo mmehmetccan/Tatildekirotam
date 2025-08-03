@@ -10,6 +10,31 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
+    // Arama Çubuğu Fonksiyonu
+    const searchIcon = document.querySelector('.search-icon-container');
+    const searchOverlay = document.getElementById('search-overlay');
+    const closeSearchBtn = document.querySelector('.close-search-btn');
+
+    if (searchIcon && searchOverlay && closeSearchBtn) {
+        searchIcon.addEventListener('click', function() {
+            searchOverlay.style.display = 'flex';
+            document.body.style.overflow = 'hidden'; // Sayfa kaydırmayı engelle
+        });
+
+        closeSearchBtn.addEventListener('click', function() {
+            searchOverlay.style.display = 'none';
+            document.body.style.overflow = ''; // Sayfa kaydırmayı geri aç
+        });
+
+        // Overlay'e tıklanınca kapat
+        searchOverlay.addEventListener('click', function(e) {
+            if (e.target === this) {
+                searchOverlay.style.display = 'none';
+                document.body.style.overflow = '';
+            }
+        });
+    }
+
     // Resim Büyütme Modalı Fonksiyonları
     const modal = document.getElementById('imageModal');
     const modalImage = document.getElementById('modalImage');
@@ -17,86 +42,47 @@ document.addEventListener('DOMContentLoaded', function() {
     const modalTriggers = document.querySelectorAll('.modal-trigger');
 
     if (modal && modalImage && closeButton && modalTriggers.length > 0) {
-        // Her modal tetikleyicisine (resim kapsayıcısı) tıklama olayını ekle
         modalTriggers.forEach(trigger => {
             trigger.addEventListener('click', function() {
-                modal.style.display = 'block'; // Modalı görünür yap
-                modalImage.src = this.dataset.src; // Tıklanan resmin yolunu al ve moda'a yükle
+                modal.style.display = 'block';
+                modalImage.src = this.dataset.src;
             });
         });
 
-        // Kapatma düğmesine tıklayınca modali kapat
         closeButton.addEventListener('click', function() {
             modal.style.display = 'none';
         });
 
-        // Modalın dışına tıklayınca modali kapat
-        window.addEventListener('click', function(event) {
-            if (event.target === modal) {
+        window.addEventListener('click', function(e) {
+            if (e.target === modal) {
                 modal.style.display = 'none';
             }
         });
-
-        // Klavyeden Esc tuşuna basınca modali kapat
-        document.addEventListener('keydown', function(event) {
-            if (event.key === "Escape" && modal.style.display === "block") {
-                modal.style.display = "none";
-            }
-        });
     }
-});
-document.addEventListener('DOMContentLoaded', function() {
-    // Mevcut hamburger menü ve modal kodlarınızın devamı...
 
-    // Arama Overlay Fonksiyonları
-    const openSearchBtn = document.getElementById('openSearchBtn');
-    const closeSearchBtn = document.getElementById('closeSearchBtn');
-    const searchOverlay = document.getElementById('searchOverlay');
-    const searchOverlayInput = document.getElementById('searchOverlayInput');
-    const searchOverlayForm = document.querySelector('.search-overlay-form');
+    // Mobil Menü: Alt Menü Açma/Kapama Fonksiyonu
+    // Sadece mobil cihazlarda (768px altı) çalışacak şekilde
+    const hasSubmenus = document.querySelectorAll('.main-nav .has-submenu > a');
 
-    if (openSearchBtn && closeSearchBtn && searchOverlay && searchOverlayInput && searchOverlayForm) {
-        openSearchBtn.addEventListener('click', function(e) {
-            e.preventDefault(); // Varsayılan link davranışını engelle
-            searchOverlay.classList.add('active'); // Overlay'ı göster
-            searchOverlayInput.focus(); // Input alanına odaklan
-            document.body.style.overflow = 'hidden'; // Sayfa kaydırmayı engelle
-        });
+    hasSubmenus.forEach(link => {
+        link.addEventListener('click', (e) => {
+            // Hamburger menü aktifse (mobil görünümde)
+            if (navLinks.classList.contains('active')) {
+                e.preventDefault(); // Varsayılan link davranışını engelle
+                const parentLi = link.parentElement;
 
-        closeSearchBtn.addEventListener('click', function() {
-            searchOverlay.classList.remove('active'); // Overlay'ı gizle
-            document.body.style.overflow = ''; // Sayfa kaydırmayı geri aç
-        });
-
-        // Overlay dışına tıklayınca kapat
-        searchOverlay.addEventListener('click', function(e) {
-            if (e.target === searchOverlay) {
-                searchOverlay.classList.remove('active');
-                document.body.style.overflow = '';
+                // Eğer tıklanan zaten aktifse, kapat
+                if (parentLi.classList.contains('active')) {
+                    parentLi.classList.remove('active');
+                } else {
+                    // Diğer aktif alt menüleri kapat
+                    document.querySelectorAll('.main-nav .has-submenu.active').forEach(item => {
+                        item.classList.remove('active');
+                    });
+                    // Tıklanan alt menüyü aç
+                    parentLi.classList.add('active');
+                }
             }
         });
-
-        // Esc tuşuna basınca kapat
-        document.addEventListener('keydown', function(e) {
-            if (e.key === "Escape" && searchOverlay.classList.contains('active')) {
-                searchOverlay.classList.remove('active');
-                document.body.style.overflow = '';
-            }
-        });
-
-        // Arama formu gönderildiğinde (smart search yönlendirme)
-        searchOverlayForm.addEventListener('submit', function(e) {
-            e.preventDefault(); // Formun varsayılan submit davranışını engelle
-
-            const query = searchOverlayInput.value.trim().toLowerCase();
-
-            if (query) {
-                // Sunucuya arama sorgusunu göndererek yönlendirme işlemini yapmasını isteyelim
-                // Bu, sunucunun tam eşleşmeleri direkt ilgili sayfaya yönlendirmesini sağlar.
-                // Eğer tam eşleşme olmazsa, sunucu /search-results sayfasına yönlendirecek.
-                window.location.href = `/smart-search?query=${encodeURIComponent(query)}`;
-            }
-        });
-    }
-    // ... Diğer DOMContentLoaded event listener kodları
+    });
 });

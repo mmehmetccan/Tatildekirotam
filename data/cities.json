@@ -1157,7 +1157,7 @@
     "countryId": "sırbistan",
     "name": "Belgrad",
     "description": " Sava ve Tuna nehirlerinin birleştiği noktada yükselen Belgrad, tarih boyunca sayısız uygarlığın izini taşıyan bir geçit kapısı gibi. Roma’dan Bizans’a, Osmanlı’dan Avusturya-Macaristan’a kadar birçok imparatorluk, bu stratejik şehir için mücadele etti. Her adımda farklı bir medeniyetin fısıltılarını duymak mümkün burada. ",
-    "coverImage": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg",
+    "coverImage": "/images/Hram_svetog_save_beograd_0005.jpg",
     "image": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg",
     "routes": [
       {
@@ -1502,8 +1502,8 @@
     "countryId": "avusturya",
     "name": "Viyana",
     "description": "Viyana... Sadece Avusturya’nın değil, bir zamanların Habsburg İmparatorluğu’nun kalbi. ",
-    "coverImage": "/images/Wien_-_Schloss_Belvedere,_oberes_(4).jpg",
-    "image": "/images/Wien_-_Schloss_Belvedere,_oberes_(4).jpg",
+    "coverImage": "/images/WienSchlossBelvedereoberes.jpg",
+    "image": "/images/WienSchlossBelvedereoberes.jpg",
     "routes": [
       {
         "title": "1.Gün: Belveder Sarayı'ndan Viyana Doğa Tarihi Müzesi'ne Yürüyüş Rotası ",
@@ -1539,6 +1539,25 @@
         "title": "Viyana'da Neler Yapılır?",
         "type": "text",
         "content": "Viyana... Sadece Avusturya’nın değil, bir zamanların Habsburg İmparatorluğu’nun kalbi. Bu şehir, tarih boyunca müzikle, mimariyle ve düşünceyle yoğrulmuş bir kültür abidesi gibi yükseliyor Tuna Nehri kıyısında. Mozart, Beethoven ve Freud’un adımları hâlâ taş kaldırımlarda yankılanıyor sanki.\n\nŞehirde gezdiğiniz her sokak, barok sarayların ihtişamı ile seküler Avrupa düşüncesinin zarafetini bir araya getiriyor. Schönbrunn Sarayı'nın görkemi, Stephansdom'un taş duvarlarındaki gotik hikâyeler, Hofburg'un imparatorluk izleri... Her biri Viyana’nın geçmişten bugüne taşıdığı asil kimliğin bir yansıması.\n\nAma Viyana sadece geçmişte takılı kalmaz; klasik müzik konserlerinden çağdaş sanat galerilerine, her anı tarih kokan ama bugünü yaşayan bir şehirdir. Burada dolaşmak, zamanı yavaşlatmak gibidir — bir kahve molasında bile yüzyıllar arası bir yolculuğa çıkabilirsiniz. İşte Viyana'da mutlaka yapmanız gerekenler:"
+      },
+      {
+        "title": "Milano Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Milano Bergamo Havalimanı şehir merkezine biraz uzaktadır. Havalimanı çıkışında Milano Merkez İstasyonuna giden otobüsleri kullanabilirsiniz. Otobüs şöföründen bilet alınabiliyor. \n\n Milano'da ulaşım ağı oldukça gelişmiştir ve metro, tramvay, otobüs hatlarıyla şehrin her yerine kolayca ulaşım sağlayabilirsiniz. Özellikle şehir merkezinde ve ana turistik bölgelerde metro en hızlı ve pratik seçenektir. Biletler metro istasyonlarındaki otomatik makinelerden, gazete bayilerinden (Edicola) veya tütüncülerden (Tabaccheria) temin edilebilir. Ayrıca ATM (Azienda Trasporti Milanesi) mobil uygulamasını kullanarak da bilet alabilirsiniz.\n\n Bilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi ATM sitesini kontrol ediniz):\n\n<B>90 Dakikalık Bilet (Standard Urban Ticket):</B> 2,20 €\n     Tek bir metro yolculuğu (aktarma hakkı yok) ve 90 dakika içinde sınırsız otobüs/tramvay yolculuğu için geçerlidir.\n <B>24 Saatlik Bilet:</B> 7,60 €\n     İlk kullanımınızdan itibaren 24 saat boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n <B>3 Günlük Bilet:</B> 15,50 €\n     İlk kullanımınızdan itibaren 3 gün (72 saat) boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n<B>10 Binişlik Bilet (Carnet):</B> 19,50 €\n     10 adet 90 dakikalık tek kullanımlık biletin toplu halidir. Daha uygun fiyata gelir.\n <B>Aylık Kart:</B> 39 €\n     Sık seyahat edenler için uygun olabilir, öğrenciler için özel indirimler mevcut.\n\nBiletinizi ilk kullandığınızda (metroda turnikeden geçerken veya otobüs/tramvayda damgalarken) aktive etmeyi unutmayın. Geçerlilik süresi bu andan itibaren başlar."
+      },
+      {
+        "title": "Milano Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "ATM (Milano Toplu Taşıma) Resmi Sitesi",
+            "url": "https://www.atm.it/en/"
+          },
+          {
+            "name": "GetYourGuide Milano Toplu Taşıma Kartları",
+            "url": "https://www.getyourguide.com/tr-tr/milano-l139/toplu-tasima-biletleri-tc409/"
+          }
+        ]
       },
       {
         "type": "image-block",

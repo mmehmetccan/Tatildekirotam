@@ -83,7 +83,7 @@ ul {
 
 .site-title {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-weight: 700;
     color: var(--white);
     letter-spacing: 1.5px;
@@ -517,7 +517,7 @@ ul {
 
 /* İçerik alanı (başlık ve açıklama) */
 .latest-destination-content {
-    flex-grow: 1; /* Kalan tüm alanı doldur */
+    flex-grow: 0.3; /* Kalan tüm alanı doldur */
     display: flex;
     flex-direction: column; /* Başlık ve metni alt alta sırala */
 }
@@ -543,7 +543,7 @@ ul {
 
 /* Açıklama metni */
 .latest-destination-description {
-    font-size: 1.15rem; /* Büyük ve okunaklı metin */
+    font-size: 0.90rem; /* Büyük ve okunaklı metin */
     line-height: 1.7; /* Satır aralığı */
     color: var(--text-color);
     margin-bottom: 0; /* Varsayılan marginleri kaldır */
@@ -983,16 +983,7 @@ ul {
 }
 
 /* Küçük ekranlar için responsive ayar */
-@media (max-width: 768px) {
-    .main-footer .container {
-        flex-direction: column; /* Alt alta sırala */
-        text-align: center;
-    }
-    .contact-section {
-        text-align: center; /* Ortala */
-        margin-top: var(--spacing-md); /* Üstten boşluk */
-    }
-}
+
 /* Yeni Rota Bölümü Stilleri */
 .city-routes-section {
     background: var(--white);
@@ -1243,9 +1234,211 @@ ul {
     to {transform: scale(1); opacity: 1;}
 }
 
+/* Mobil (Responsive) Tasarım */
+@media (max-width: 992px) {
+    .main-nav .nav-links.active {
+        display: flex; /* Menü açıldığında görünür yapar */
+        flex-direction: column; /* Öğeleri dikeyde sıralar */
+        width: 100%; /* Tam genişliği kaplar */
+        background-color: var(--white); /* Arka plan rengi beyaz */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Menüye belirgin bir gölge verir */
+        position: absolute;
+        top: 100%; /* Header'ın hemen altında başlar */
+        left: 0;
+        padding: 0;
+        animation: slideDown 0.4s ease-out forwards; /* Açılış animasyonu ekler */
+    }
 
+    /* Her bir menü öğesi için stil */
+    .main-nav .nav-links.active > li {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Her öğenin altına ince bir çizgi ekler */
+        margin: 0;
+        opacity: 0; /* Animasyon için başlangıç opaklığı */
+        transform: translateY(-10px); /* Animasyon için başlangıç konumu */
+        animation: fadeInSlide 0.5s ease forwards;
+    }
+
+    /* Animasyonu geciktirmek için */
+    .main-nav .nav-links.active > li:nth-child(1) { animation-delay: 0.1s; }
+    .main-nav .nav-links.active > li:nth-child(2) { animation-delay: 0.2s; }
+    .main-nav .nav-links.active > li:nth-child(3) { animation-delay: 0.3s; }
+    .main-nav .nav-links.active > li:nth-child(4) { animation-delay: 0.4s; }
+    .main-nav .nav-links.active > li:nth-child(5) { animation-delay: 0.5s; }
+
+    /* Menü linkleri için stil */
+    .main-nav .nav-links.active > li > a {
+        color: var(--primary-color); /* Yazı rengi mavi */
+        padding: 18px 0;
+        font-size: 1.2rem;
+        justify-content: center;
+        transition: background-color 0.3s ease;
+    }
+
+    .main-nav .nav-links.active > li > a:hover {
+        background-color: var(--light-color); /* Hover'da açık renk arka plan */
+    }
+}
+
+/* Animasyon tanımları */
+@keyframes slideDown {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInSlide {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 /* Responsive Tasarım */
 @media (max-width: 768px) {
+    .main-header {
+    background-color: var(--white);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Daha yumuşak bir gölge */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-sm) var(--spacing-md);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.site-logo {
+    height: 50px;
+    transition: all 0.3s ease;
+}
+
+.site-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: var(--dark-color);
+    font-weight: 700;
+    white-space: nowrap; /* Başlık yeni satıra geçmesin */
+}
+
+.main-nav .nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.main-nav .nav-links li {
+    position: relative;
+    padding: var(--spacing-sm) var(--spacing-md);
+}
+
+.main-nav .nav-links li a {
+    color: var(--primary-color); /* Yazı rengi mavi */
+    font-weight: 600;
+    transition: color 0.3s ease;
+    padding: var(--spacing-sm) 0;
+}
+
+.main-nav .nav-links li a:hover {
+    color: var(--primary-color);
+}
+
+/* Dropdown Menü Stilleri */
+.nav-links li.dropdown {
+    position: relative;
+}
+
+.nav-links li.dropdown > a {
+    padding-right: 20px;
+}
+
+.nav-links li.dropdown .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    background-color: var(--white);
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+    padding: var(--spacing-sm) 0;
+    z-index: 100;
+}
+
+.nav-links li.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.nav-links li.dropdown .dropdown-content a {
+    display: block;
+    padding: var(--spacing-sm) var(--spacing-md);
+    color: var(--primary-color); /* Yazı rengi mavi */
+}
+
+.nav-links li.dropdown .dropdown-content a:hover {
+    background-color: var(--light-color);
+}
+
+.hamburger-menu {
+    display: block;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 10px;
+    z-index: 1010;
+}
+
+.hamburger-menu span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: var(--primary-color); /* Hamburger ikon rengi mavi */
+    margin: 5px 0;
+    transition: 0.4s;
+    border-radius: 2px;
+}
+
+/* Hamburger menü animasyonu */
+.hamburger-menu.active span:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+.hamburger-menu.active span:nth-child(2) {
+    opacity: 0;
+}
+.hamburger-menu.active span:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+.search-icon-container {
+    margin-left: var(--spacing-md);
+}
+
+.search-icon-container a i {
+    color: var(--dark-color);
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.search-icon-container a i:hover {
+    color: var(--primary-color);
+}
     .result-item {
         flex-direction: column;
         align-items: center;
@@ -1318,7 +1511,7 @@ ul {
     .main-nav .nav-links {
         flex-direction: column;
         width: 100%;
-        background: var(--dark-color);
+        background: var(--white); /* Arka plan rengi beyaz */
         position: absolute;
         top: 100%;
         left: 0;
@@ -1345,7 +1538,15 @@ ul {
         padding: var(--spacing-sm) 0;
     }
 
+    /* Mobil menüdeki alt menü öğeleri için özel stil */
+    .main-nav .nav-links.active .submenu li {
+        width: 100%;
+        padding: 0; /* Li'lerin kendi padding'ini sıfırla */
+        text-align: left;
+    }
+
     .main-nav .nav-links > li > a {
+        color: var(--primary-color); /* Yazı rengi mavi */
         font-size: 1rem; /* Mobil menü ana link boyutu */
         justify-content: center; /* Merkezi hizala */
     }
@@ -1367,31 +1568,7 @@ ul {
         padding: 10px 12px;
     }
 
-    /* Mobil için alt menü görünümü */
-    .main-nav .nav-links .has-submenu .submenu {
-        position: static;
-        visibility: visible;
-        opacity: 1;
-        transform: translateY(0);
-        background-color: rgba(0, 0, 0, 0.3);
-        box-shadow: none;
-        border-radius: 0;
-        padding: 0;
-        max-height: 200px;
-        overflow-y: auto;
-    }
 
-    .main-nav .nav-links .has-submenu > a .arrow-down {
-        display: none;
-    }
-
-    .submenu a {
-        padding: 10px 15px; /* Mobil alt menü link boyutu */
-        font-size: 0.95rem;
-    }
-    .submenu a:hover {
-        padding-left: 20px; /* Mobil hover efekti */
-    }
 
     .hamburger-menu {
         display: block;
@@ -1455,4 +1632,79 @@ ul {
     .magnify-icon {
         font-size: 2rem; /* Mobil ikon boyutunu küçült */
     }
+    .main-footer .container {
+        flex-direction: column; /* Alt alta sırala */
+        text-align: center;
+    }
+    .contact-section {
+        text-align: center; /* Ortala */
+        margin-top: var(--spacing-md); /* Üstten boşluk */
+    }
+    /* Alt Menü (Submenu) Stilleri */
+    .has-submenu .submenu {
+        position: static;
+        background-color: var(--white);
+        box-shadow: none;
+        border-top: none;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height 0.3s ease-in-out;
+    }
+
+    .has-submenu.active > .submenu {
+        max-height: 500px;
+    }
+
+    .submenu a {
+        padding: 10px 15px;
+        font-size: 0.95rem;
+        color: var(--primary-color); /* Metin rengini mavi yapar */
+        white-space: nowrap; /* Metnin tek satırda kalmasını sağlar */
+        overflow: hidden; /* Taşan metni gizler */
+        text-overflow: ellipsis; /* Taşan metin yerine üç nokta gösterir */
+    }
+    .submenu a:hover {
+        padding-left: 20px;
+    }
+
+    .arrow-down {
+        display: block;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid var(--primary-color); /* Ok rengi mavi */
+        position: absolute;
+        right: 25px;
+        top: 50%;
+        transform: translateY(-50%);
+        transition: transform 0.3s ease, border-top-color 0.3s ease;
+    }
+
+    .has-submenu.active > a .arrow-down {
+        transform: translateY(-50%) rotate(180deg);
+        border-top-color: var(--primary-color);
+    }
+    /* "En Yeniler" bölümü için mobil düzenleme */
+    .latest-destination-item {
+        flex-direction: column; /* Mobil cihazlarda alt alta sırala */
+        align-items: center;
+        text-align: center;
+    }
+
+    .latest-destination-image-wrapper {
+        width: 120px; /* Mobil için daha küçük resim */
+        height: 120px;
+        margin-right: 0; /* Ortalamak için sağ boşluğu kaldır */
+        margin-bottom: 15px; /* Resim altına boşluk */
+    }
+
+    .latest-destination-title {
+        font-size: 1.6rem; /* Mobil için başlık boyutunu küçült */
+    }
+
+    .latest-destination-description {
+        font-size: 0.85rem; /* Mobil için açıklama boyutunu küçült */
+    }
+
 }

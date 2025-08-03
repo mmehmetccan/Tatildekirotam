@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WKL2F5VG');</script>
+<!-- End Google Tag Manager -->
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gezgin Rotam - Dünyayı Keşfedin</title>
+    <title>Tatildeki Rotam - Dünyayı Keşfedin</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -12,6 +22,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
     </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <header class="main-header">
         <div class="container header-content">
             <div class="logo-container">
@@ -27,45 +41,47 @@
                     <span></span>
                 </button>
                 <ul class="nav-links">
-                    <li><a href="/">Ana Sayfa</a></li>
-                    <% // 'countries' ve 'allCities' değişkenlerinin tanımlı olduğundan emin ol %>
+                 <li><a href="/">Ana Sayfa</a></li>
                     <% if (typeof countries !== 'undefined' && countries.length > 0 && typeof allCities !== 'undefined') { %>
-                        <% countries.forEach(function(country) { %>
-                            <li class="has-submenu">
-                                <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
-                                <ul class="submenu">
-                                    <% var countryCities = allCities.filter(function(city) {
-                                        return city.countryId === country.id;
-                                    }); %>
-                                    <% if (countryCities.length > 0) { %>
-                                        <% countryCities.forEach(function(city) { %>
-                                            <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
-                                        <% }); %>
-                                    <% } else { %>
-                                        <li><a href="#">Şehir yok</a></li>
-                                    <% } %>
-                                </ul>
-                            </li>
+                    <% countries.forEach(function(country) { %>
+                <li class="has-submenu">
+                    <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
+                <ul class="submenu">
+                    <%
+                        var countryCities = allCities.filter(function(city) {
+                            return city.countryId === country.id;
+                        });
+                    %>
+                    <% if (countryCities.length > 0) { %>
+                        <% countryCities.forEach(function(city) { %>
+                            <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
                         <% }); %>
+                    <% } else { %>
+                        <li><a href="#">Şehir yok</a></li>
                     <% } %>
-                    <li class="search-icon-container"> <% /* Yeni arama ikonu container'ı */ %>
-                        <a href="#" id="openSearchBtn" aria-label="Arama Kutusu Aç">
-                            <i class="fas fa-search"></i>
-                        </a>
-                    </li>
                 </ul>
+                </li>
+            <% }); %>
+        <% } %>
+            <li class="search-icon-container">
+                <a href="/search-results" id="openSearchBtn" aria-label="Arama Kutusu Aç">
+                    <i class="fas fa-search"></i>
+                </a>
+            </li>
+        </ul>
             </nav>
         </div>
     </header>
 
-    <div id="searchOverlay" class="search-overlay">
-        <div class="search-overlay-content">
-            <span class="close-search-btn" id="closeSearchBtn">&times;</span>
-            <form action="/search-results" method="GET" class="search-overlay-form"> <% /* Action /search-results olarak güncellendi */ %>
-                <input type="text" id="searchOverlayInput" name="query" placeholder="Şehir veya ülke ara..." autofocus>
-                <button type="submit"><i class="fas fa-search"></i></button>
-            </form>
-            <p class="search-help-text">Aradığınız şehir veya ülkenin adını giriniz.</p>
-        </div>
+    <div id="search-overlay" class="search-overlay">
+    <span class="close-search-btn" aria-label="Aramayı Kapat">&times;</span>
+    <div class="search-overlay-content">
+        <form action="/search-results" method="GET" class="search-overlay-form">
+            <input type="text" name="query" placeholder="Şehir, ülke veya rota ara..." required autofocus>
+            <button type="submit">
+                <i class="fas fa-search"></i> Ara
+            </button>
+        </form>
     </div>
+</div>
     <main class="container">
