@@ -144,7 +144,6 @@ app.get('/search-results', (req, res) => {
 
 
 
-// Sunucuyu başlat
-app.listen(PORT, () => {
-    console.log(`Sunucu http://localhost:${PORT} adresinde çalışıyor`);
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Sunucu http://0.0.0.0:${PORT} adresinde çalışıyor`);
 });
