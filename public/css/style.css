@@ -211,58 +211,57 @@ ul {
 /* Yeni Arama İkonu ve Overlay Stilleri */
 
 .search-icon-container {
-    margin-left: var(--spacing-md); /* Menü öğeleriyle ikon arasına boşluk */
+    margin-left: var(--spacing-md);
     display: flex;
     align-items: center;
 }
 
 .search-icon-container a {
-    font-size: 1.4rem; /* İkon boyutu */
-    color: var(--white); /* Varsayılan ikon rengi */
+    font-size: 1.4rem;
+    color: var(--white);
     transition: color 0.3s ease;
-    padding: 5px; /* Tıklanabilir alanı büyütmek için */
-    border-radius: var(--border-radius-sm);
+    padding: 5px;
+    border-radius: var(--border-radius);
 }
 
 .search-icon-container a:hover {
-    color: var(--primary-color); /* Hover rengi */
+    color: var(--primary-color);
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-/* Arama Overlay */
 .search-overlay {
     height: 100%;
     width: 100%;
-    position: fixed; /* Sabit pozisyon */
-    z-index: 1000; /* Diğer her şeyin üstünde */
+    position: fixed;
+    z-index: 1000;
     left: 0;
     top: 0;
-    background-color: rgba(0,0,0, 0.9); /* Yarı şeffaf siyah arka plan */
-    overflow-x: hidden;
-    transition: 0.5s; /* Açılış/kapanış animasyonu */
+    background-color: rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+    transition: 0.5s;
     display: none; /* Varsayılan olarak gizli */
-    opacity: 0; /* Geçiş için başlangıç opaklığı */
-    justify-content: center; /* İçeriği ortala */
-    align-items: center; /* İçeriği dikeyde ortala */
+    opacity: 0;
+    justify-content: center;
+    align-items: center;
 }
 
 .search-overlay.active {
-    display: flex; /* Aktif olduğunda göster */
-    opacity: 1; /* Tamamen görünür yap */
+    display: flex;
+    opacity: 1;
 }
 
 .search-overlay-content {
     position: relative;
-    top: -50px; /* Hafifçe yukarı kaydır */
-    width: 80%; /* Genişlik */
+    top: -50px;
+    width: 80%;
     max-width: 700px;
     text-align: center;
-    transform: translateY(20px); /* Animasyon için başlangıç pozisyonu */
+    transform: translateY(20px);
     transition: transform 0.5s ease;
 }
 
 .search-overlay.active .search-overlay-content {
-    transform: translateY(0); /* Aktif olduğunda normal pozisyona gel */
+    transform: translateY(0);
 }
 
 .search-overlay-form {
@@ -285,7 +284,7 @@ ul {
 }
 
 .search-overlay-form input[type="text"]::placeholder {
-    color: var(--text-color-light);
+    color: #95a5a6; /* Yer tutucu metnin rengi */
 }
 
 .search-overlay-form button {
@@ -305,10 +304,9 @@ ul {
     background-color: var(--dark-color);
 }
 
-/* Kapatma butonu */
 .close-search-btn {
     position: absolute;
-    top: -60px; /* Overlay içeriğinin üzerine konumlandır */
+    top: -60px;
     right: 0;
     font-size: 4rem;
     color: var(--white);
@@ -1476,7 +1474,9 @@ ul {
         width: 90%;
         top: 0;
     }
-    .search-overlay-form { flex-direction: column; }
+    .search-overlay-form {
+        flex-direction: column;
+    }
     .search-overlay-form input[type="text"],
     .search-overlay-form button {
         width: 100%;

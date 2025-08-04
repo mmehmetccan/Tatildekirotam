@@ -6,14 +6,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WKL2F5VG');</script>
 <!-- End Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1W770WNSQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C1W770WNSQ');
+</script>
+<meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
+<meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
+<meta name="robots" content="index, follow">
     <section class="section-heading">
-        <h1><%= country.name %> Keşfedilecek Şehirler</h1>
+        <h1><%= country.name %>'da Gezilecek Yerler, Keşfedilecek Şehirler</h1>
         <p><%= country.name %> içinde sizi bekleyen birbirinden güzel şehirler.</p>
     </section>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+    <h1></h1>
     <div class="card-grid">
         <% if (cities.length > 0) { %>
             <% cities.forEach(function(city) { %>

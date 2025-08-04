@@ -8,7 +8,7 @@
     "image": "/images/grand-canal-6398645_1280.jpg",
     "routes": [
       {
-        "title": "San Marco Meydanı'ndan Rialto Köprüsü'ne Yürüyüş Rotası",
+        "title": "Frari Santa Maria Gloriosa Bazilikası'ndan Santa Maria della Salute Bazilikası'na Yürüyüş Rotası",
         "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d6471.922121639431!2d12.329462769884307!3d45.43448175187883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e2!4m5!1s0x477eb1c58369a69b%3A0x54ba460de19cfc0b!2sBasilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari!3m2!1d45.436986399999995!2d12.3266004!4m5!1s0x477eb1c7faa33a3b%3A0x732011a1298ecc89!2sPonte%20di%20Rialto!3m2!1d45.437984199999995!2d12.335898!4m5!1s0x477eb1d764526cbf%3A0xa12d52783aca205!2sBasilica%20di%20San%20Marco!3m2!1d45.4345606!2d12.3397124!4m4!1s0x477eb1d0b292ddb7%3A0xae46e40a9d543df4!3m2!1d45.4340359!2d12.3390331!4m5!1s0x477eb0330f688ddb%3A0xc9f9ed6fcadd275f!2sSanta%20Maria%20della%20Salute%20Bazilikas%C4%B1%2C%20Basilica%20di%20Santa%20Maria%20della%20Salute%2C%20Dorsoduro%2C%20Venedik%2C%20%C4%B0talya!3m2!1d45.430675!2d12.3347626!4m5!1s0x477eb1d7e32401c3%3A0x7ad5d63fdae814d0!2zQWhsYXIgS8O2cHLDvHPDvCwgVmVuZWRpaywgxLB0YWx5YQ!3m2!1d45.434049599999994!2d12.3408544!5e1!3m2!1str!2str!4v1753657558245!5m2!1str!2str",
         "mapLinkUrl": "https://maps.app.goo.gl/4bQvAHgEszgqDkge8",
         "steps": [
@@ -43,10 +43,6 @@
         "title": "Gondol ve Venedik Turları İçin Faydalı Bağlantılar",
         "type": "external-links",
         "links": [
-          {
-            "name": "Venedik Gondol Turları Hakkında Bilgi",
-            "url": "https://www.veneziaunica.it/en/content/gondola-rides"
-          },
           {
             "name": "Venedik Turları Rezervasyon",
             "url": "https://www.getyourguide.com/s/?q=venedik+gondol&searchSource=3"

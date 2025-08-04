@@ -10,18 +10,20 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Arama Çubuğu Fonksiyonu
-    const searchIcon = document.querySelector('.search-icon-container');
+     // Arama Çubuğu Fonksiyonu
+    const searchIcon = document.querySelector('.search-btn'); // search-icon-container içindeki a elementi
     const searchOverlay = document.getElementById('search-overlay');
     const closeSearchBtn = document.querySelector('.close-search-btn');
 
     if (searchIcon && searchOverlay && closeSearchBtn) {
-        searchIcon.addEventListener('click', function() {
+        searchIcon.addEventListener('click', function(e) {
+            e.preventDefault(); // Sayfa yenilemesini engelle
             searchOverlay.style.display = 'flex';
             document.body.style.overflow = 'hidden'; // Sayfa kaydırmayı engelle
         });
 
-        closeSearchBtn.addEventListener('click', function() {
+        closeSearchBtn.addEventListener('click', function(e) {
+            e.preventDefault(); // Sayfa yenilemesini engelle
             searchOverlay.style.display = 'none';
             document.body.style.overflow = ''; // Sayfa kaydırmayı geri aç
         });

@@ -2,7 +2,9 @@
 <html lang="tr">
 
 <head>
-
+<meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
+<meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
+<meta name="robots" content="index, follow">
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -10,10 +12,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WKL2F5VG');</script>
 <!-- End Google Tag Manager -->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1W770WNSQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C1W770WNSQ');
+</script>
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tatildeki Rotam - Dünyayı Keşfedin</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <meta name="description" content="Gezilecek yerler rehberi, popüler ülkeler ve şehirler hakkında detaylı bilgiler. İtalya, Roma, Venedik, Floransa Gezilecek yerler. İtalya, Roma, Venedik, Floransa nerede ne yenir. tatil rotası. Avusturya Viyana(Wien) Gezilecek yerler. Avusturya Viyana(Wien) Nerede ne yenir.tatil rotası.Yunanistan Selanik, Atina, gezilecek yerler. Yunanistan Selanik, Atina,nerede ne yenir. Sırbistan Belgrad, Novi sad(novisad) gezilecek yerler.Sırbistan Belgrad, Novi sad(novisad) nerede ne yenir.">
+
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -73,15 +87,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </header>
 
-    <div id="search-overlay" class="search-overlay">
-    <span class="close-search-btn" aria-label="Aramayı Kapat">&times;</span>
-    <div class="search-overlay-content">
-        <form action="/search-results" method="GET" class="search-overlay-form">
-            <input type="text" name="query" placeholder="Şehir, ülke veya rota ara..." required autofocus>
-            <button type="submit">
-                <i class="fas fa-search"></i> Ara
-            </button>
-        </form>
+     <div id="search-overlay" class="search-overlay">
+        <a href="#" class="close-search-btn">&times;</a>
+        <div class="search-overlay-content">
+            <form action="/search" method="GET" class="search-overlay-form">
+                <input type="text" placeholder="Şehir, ülke veya rotaları arayın..." name="query">
+                <button type="submit"><i class="fas fa-search"></i></button>
+            </form>
+            <p class="search-help-text">
+                Popüler aramalar: Venedik, Roma, Paris, Japonya
+            </p>
+        </div>
     </div>
-</div>
     <main class="container">

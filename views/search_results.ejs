@@ -1,5 +1,16 @@
 <%- include('partials/header', { countries: countries, allCities: allCities }) %>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1W770WNSQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-C1W770WNSQ');
+</script>
+<meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
+<meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
+<meta name="robots" content="index, follow">
 <main class="container my-4">
     <h1 class="mb-4 text-center">Arama Sonuçları</h1>
 
@@ -13,13 +24,13 @@
 
         <% if (typeof searchResultsCities !== 'undefined' && searchResultsCities.length > 0) { %>
             <h2 class="section-sub-heading mt-5">Şehirler</h2>
-            <div class="search-results-list"> <% /* search-results-list container */ %>
+            <div class="search-results-list">
                 <% searchResultsCities.forEach(function(city) { %>
                     <%
                         const country = countries.find(c => c.id === city.countryId);
                         const countryName = country ? country.name : 'Bilinmeyen Ülke';
                     %>
-                    <a href="/city/<%= city.id %>" class="result-item-link"> <% /* Link sarmalayıcı */ %>
+                    <a href="/city/<%= city.id %>" class="result-item-link">
                         <div class="result-item">
                             <div class="result-item-image-wrapper">
                                 <img src="<%= city.coverImage %>" alt="<%= city.name %>" class="result-item-thumbnail">
@@ -28,8 +39,8 @@
                             <div class="result-item-content">
                                 <h3 class="result-item-title"><%= city.name %></h3>
                                 <p class="result-item-description">
-                                    <% if (city.description && city.description.length > 200) { %>
-                                        <%= city.description.substring(0, 200) + '...' %>
+                                    <% if (city.description && city.description.length > 150) { %>
+                                        <%= city.description.substring(0, 150) + '...' %>
                                     <% } else if (city.description) { %>
                                         <%= city.description %>
                                     <% } else { %>
@@ -45,7 +56,7 @@
 
         <% if (typeof searchResultsCountries !== 'undefined' && searchResultsCountries.length > 0) { %>
             <h2 class="section-sub-heading mt-5">Ülkeler</h2>
-            <div class="search-results-list"> <% /* Ülkeler için ayrı liste */ %>
+            <div class="search-results-list">
                 <% searchResultsCountries.forEach(function(country) { %>
                     <a href="/country/<%= country.id %>" class="result-item-link">
                         <div class="result-item country-result-item">
@@ -68,6 +79,6 @@
         <p class="text-center no-results-message">Aradığınız kriterlere uygun sonuç bulunamadı.</p>
     <% } %>
 
-    </main>
+</main>
 
 <%- include('partials/footer') %>
