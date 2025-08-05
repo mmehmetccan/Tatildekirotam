@@ -188,12 +188,7 @@ app.get('/search-results', (req, res) => {
         pageUrl: req.originalUrl // Anasayfa için '/'
     });
 });
-app.get('/about-us', (req, res) => {
-    res.render('about-us', {
-        countries: countries,
-        allCities: cities
-    });
-});
+
 
 app.get('/privacy-policy', (req, res) => {
     res.render('privacy-policy', {

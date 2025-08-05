@@ -1381,7 +1381,7 @@ ul {
 
     /* Alt Menü Listesi */
     .submenu li {
-        padding-left: 800px; /* Sol boşluk */
+        padding-left: 900px; /* Sol boşluk */
         box-sizing: border-box;
         overflow: hidden; /* Taşmaları önle */
         margin: 0;

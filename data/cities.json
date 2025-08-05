@@ -1680,5 +1680,175 @@
         "imageCaption": "Viyana'ya özgü, çikolata kaplı ve kayısı marmelatlı meşhur pasta."
       }
     ]
+  },
+
+
+  {
+    "id": "üsküp",
+    "countryId": "makedonya",
+    "name": "Üsküp",
+    "description": "Üsküp: Balkanların Sessiz Anlatıcısı ",
+    "coverImage": "/images/skopje-4718891_1280.jpg",
+    "image": "/images/skopje-4718891_1280.jpg",
+    "routes": [
+      {
+        "title": " Sulu Han'dan Kuzey Makedonya Arkeoloji Müzesi'ne Yürüyüş Rotası. ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m62!1m12!1m3!1d2095.526948761572!2d21.431407296497152!3d41.996639829398966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m47!3e2!4m5!1s0x135415afbcc36c3b%3A0x3230443008ee6a4!2sSulu%20Han!3m2!1d42.0016031!2d21.4377428!4m5!1s0x135415afad379837%3A0xd19f732f5ede1e48!2zRXNraSDDnHNrw7xwIMOHYXLFn8Sxc8Sx!3m2!1d42.0007751!2d21.436739499999998!4m4!1s0x135415ae449613f7%3A0xf9c36e35b1d1f716!3m2!1d42.002024899999995!2d21.4354192!4m5!1s0x135415ac30000001%3A0xfc4d0b3f68ae3f03!2zw5xza8O8cCBLYWxlc2k!3m2!1d42.001882599999995!2d21.4324382!4m5!1s0x135415b17737a30b%3A0xf0c0a47688f23806!2sFountain%20Olympia%20-%20Mother%20of%20Alexander%20III%20Of%20Macedonia!3m2!1d41.997918!2d21.434385199999998!4m5!1s0x135415b3e094c2cd%3A0x9a702c998e170a3e!2zVGHFn2vDtnByw7wg0JrQsNC80LXQvSDQvNC-0YHRgg!3m2!1d41.9969525!2d21.433005899999998!4m5!1s0x135415b198820fbf%3A0x67dd8bb78356b990!2zQsO8ecO8ayBpc2tlbmRlciBhbsSxdMSx!3m2!1d41.995928!2d21.431503199999998!4m4!1s0x135415aef89e7f7d%3A0x7f10f7b3ba13ae34!3m2!1d41.996783!2d21.434342299999997!5e1!3m2!1str!2str!4v1754342295320!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/MNA7SJpBk6iLCoYB6",
+        "steps": [
+          {
+            "from": "Sulu Han, 2C2Q+J3X, Skopje 1000, Kuzey Makedonya",
+            "to": "Kuzey Makedonya Arkeoloji Müzesi, Кеј Димитар Влахов 1000, Skopje 1000, Kuzey Makedonya",
+            "duration": "32 dakika",
+            "distance": "2,3 km",
+            "image": "/images/skopje_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Üsküp'de Neler Yapılır?",
+        "type": "text",
+        "content": "Vardar Nehri’nin usulca akıp geçtiği Üsküp, sadece coğrafi olarak değil, tarihsel olarak da iki ayrı dünyayı kucaklar. Bir yanda Osmanlı’nın zarif mirası olan Taş Köprü, sessizce yüzyılları birbirine bağlarken, diğer yanda nehrin karşı kıyısı modern heykelleri ve mimarisiyle Avrupa'nın dinamik yüzünü yansıtır.\n\nŞehrin ruhu, en çok Eski Çarşı'da hissedilir. Burada, daracık taş sokaklar arasında kaybolurken bir an kendinizi bir hanın avlusunda bulursunuz. Baharat kokularının, eski kitap sayfalarının ve el dokuması kilimlerin kokusu havaya karışır. Burası, Üsküp'ün kalbidir; yüksek sesle konuşmaz ama her taşında, her dükkanında yüzlerce yıllık hikayeler saklar.\n\nNehrin diğer yakasında, geniş bulvarlar ve görkemli anıtlar yükselir. Makedonya Meydanı'nın ortasındaki devasa anıtlar, şehrin gururlu geçmişini ve kimliğini modern bir dille anlatır. Tarihin sert rüzgarlarından ve 1963 depreminin yıkımından sonra yeniden ayağa kalkan bu şehir, her köşesinde hem bir direnişin hem de bir umudun izlerini taşır.  İşte Üsküp'de mutlaka yapmanız gerekenler:"
+      },
+      {
+  "title": "Üsküp Ulaşım Rehberi",
+  "type": "text",
+  "content": "<B>Üsküp'te Şehir İçi Toplu Taşıma</B>\n\nÜsküp'te toplu taşıma, tamamen şehir içi otobüsler üzerinden sağlanır ve tek operatör <B>JSP Skopje</B> şirketidir. Şehirde metro veya tramvay hattı bulunmamaktadır.\n\nOtobüslere biniş için nakit ödeme dönemi sona ermiştir. Bunun yerine <B>Kent Kart</B> adı verilen temassız akıllı kartlar kullanılır. Bu kartları otobüs duraklarındaki satış noktalarından veya JSP'nin kendi gişelerinden temin edebilir ve bakiye yüklemesi yapabilirsiniz.\n\n<B>Bilet türleri ve yaklaşık fiyatları (Temmuz 2025 itibarıyla günceldir, fiyatlar zamanla değişiklik gösterebilir):</B>\n\n<B>Tek Binişlik Bilet:</B> 40 MKD (Makedonya Dinarı)\n     Kartınıza yüklenecek bu bakiye ile tek bir otobüs yolculuğu yapabilirsiniz.\n <B>24 Saatlik Bilet:</B> 120 MKD\n     Kartınıza yüklendiğinde, ilk kullanımınızdan itibaren 24 saat boyunca tüm otobüs hatlarında sınırsız kullanım sağlar.\n <B>10 Binişlik Bilet (Carnet):</B> 250 MKD\n     10 adet tek kullanımlık biletin toplu halidir ve tek tek bilet almaya göre daha ekonomiktir.\n <B>Aylık Kart (Normal Fiyat):</B> 1.400 MKD\n     Sık seyahat edenler için uygundur. Öğrenciler için ücretsiz toplu taşıma imkanı da bulunmaktadır.\n\n<B>Havalimanı - Şehir Merkezi Ulaşım</B>\n\nÜsküp Uluslararası Havalimanı (SKP), şehir merkezine yaklaşık 20-25 km uzaklıktadır. Havalimanından şehir merkezine ulaşım için en sık kullanılan yöntemler otobüs ve taksidir.\n\n<B>1. Havalimanı Servis Otobüsleri:</B>\n     En ekonomik seçenek olan servis otobüsleri, havalimanı ile şehir merkezi arasında düzenli seferler yapar. Biletinizi havalimanındaki gişelerden veya otobüs şoföründen temin edebilirsiniz.\n  <B>Yolculuk Süresi:</B> Yaklaşık 30-40 dakika sürer.\n  <B>Bilet Fiyatı:</B> Tek yön bilet ücreti yaklaşık 199 MKD (yaklaşık 3,30 Euro) civarındadır.\n\n<B>2. Taksi:</B>\n     Havalimanı çıkışında 7/24 hizmet veren resmi taksiler bulunur. Bu seçenek, daha hızlı ve konforlu bir yolculuk sunar.\n  <B>Yolculuk Süresi:</B> Trafiğe bağlı olarak 20-25 dakika sürer.\n  <B>Fiyat:</B> Taksi ücretleri genellikle sabittir ve yaklaşık 25 Euro civarındadır. Taksiye binmeden önce fiyatı teyit etmeniz önerilir."
+},
+{
+  "title": "Üsküp Ulaşım İçin Faydalı Bağlantılar",
+  "type": "external-links",
+  "links": [
+    {
+      "name": "JSP Skopje (Üsküp Toplu Taşıma) Resmi Sitesi",
+      "url": "https://jsp.com.mk/"
+    },
+    {
+      "name": "ERAK TRANSPORTER (Havalimanı Servis Otobüsü)",
+      "url": "https://eraktransporter.com/"
+    }
+  ]
+},
+      {
+        "type": "image-block",
+        "image": "/images/Suli_han.jpg",
+        "imageTitle": "Sulu Han: Osmanlı'nın Ticaret Mirası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Sulu Han, Üsküp Eski Çarşı bölgesinde yer alan ve 15. yüzyılın ikinci yarısında Osmanlılar tarafından inşa edilen tarihi bir kervansaraydır. Yapı, dönemin ticaret hayatında büyük bir öneme sahip olan kervansarayların klasik örneklerinden biridir. Hanın adı, içinde bulunan su kuyusu veya çeşmeden gelmektedir; bu da hanın yolcular ve tüccarlar için temel bir ihtiyaç olan suya erişimi sağladığını gösterir.\n\nHan, taş ve tuğladan inşa edilmiştir ve kareye yakın dikdörtgen bir plana sahiptir. Ortasında geniş bir avlu yer alır. Bu avlu, zamanında yük hayvanlarının ve malların bırakıldığı, dinlenme alanı olarak kullanılan bir iç bahçe niteliğindeydi. Hanın iki katlı yapısı vardır: Alt kat ticari faaliyetler ve depolama için kullanılırken, üst katlar konaklama amaçlı odalar içerirdi. Bu kat düzenlemesi, klasik Osmanlı han mimarisinin karakteristik bir özelliğidir.\n\nSulu Han, sadece tüccarların değil, aynı zamanda uzun yolculuk yapan seyyahların ve misafirlerin güvenli ve rahat konaklamaları için tasarlanmıştır. Bu yönüyle sosyal bir işlev de üstlenmiş, şehirler arası ticaretin gelişmesine katkı sağlamıştır.\n\nZaman içinde farklı işlevler gören han, 20. yüzyılda bir dönem atıl kalmışsa da, çeşitli restorasyonlarla yeniden kullanıma açılmıştır. Bugün ise çeşitli kültürel etkinlikler ve sanatsal organizasyonlara ev sahipliği yapmakta, Üsküp’ün tarihi dokusunu yaşatmaya devam etmektedir.\n\nSulu Han, Osmanlı dönemindeki ticari ve sosyal yaşamın Üsküp’teki somut örneklerinden biri olarak hem mimari hem de kültürel açıdan büyük değer taşımaktadır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Old_Bazaar2.jpg",
+        "imageTitle": "Eski Üsküp Çarşısı: Zamanın Durduğu Sokaklar\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Eski Üsküp Çarşısı (Stara Čaršija), Balkanlar’daki en büyük ve en eski Osmanlı çarşılarından biridir. Üsküp’ün Vardar Nehri'nin kuzey yakasında, Kale'nin eteklerinde yer alır. Osmanlı döneminde bölgenin ticaret, zanaat ve kültür merkezi olan bu çarşı, 12. yüzyıldan itibaren gelişmeye başlamış, özellikle 15. ve 16. yüzyıllarda Osmanlı idaresiyle birlikte en parlak dönemini yaşamıştır.\n\nÇarşıda o dönemden kalma hanlar, hamamlar, camiler, medreseler, çeşmeler ve bedesten gibi yapılar hâlâ ayaktadır. Bu yapılar arasında Kurşunlu Han, Sulu Han, Kapan Han gibi önemli ticaret hanları öne çıkar. Bedesten, çarşının kalbinde yer alan kapalı çarşı bölümüdür ve değerli kumaş, mücevher ve baharat gibi ürünlerin satışının yapıldığı yerdir.\n\nEski Üsküp Çarşısı, lonca sistemiyle çalışan birçok esnaf dükkânına ev sahipliği yapmıştır. Kuyumculuk, dericilik, bakırcılık, semercilik gibi geleneksel el sanatlarının ustaları bu çarşıda yüzyıllarca faaliyet göstermiştir. Bugün hâlâ bazı zanaatkarlar çarşıda üretim ve satış yapmaya devam etmektedir.\n\nÇarşı, 1689 yılındaki büyük yangın, 1963 Üsküp depremi ve çeşitli dönemlerdeki savaş ve işgaller gibi birçok zorluğa rağmen özünü koruyarak günümüze ulaşmayı başarmıştır. Restorasyonlarla desteklenen bu tarihi alan, bugün sadece bir alışveriş noktası değil, aynı zamanda Üsküp'ün kültürel belleğini yansıtan bir açık hava müzesi niteliğindedir. Geçmiş ile bugünün iç içe geçtiği bu mekân, ziyaretçilere hem otantik bir alışveriş deneyimi hem de tarihsel bir yolculuk sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/1024px-Mustafa-Pasha-Mosque-Skopje.jpg",
+        "imageTitle": "Mustafa Paşa Camii: Osmanlı Mimarisinin Üsküp’teki En Zarif İzlerinden Biri\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Mustafa Paşa Camii, Kuzey Makedonya'nın başkenti Üsküp’te, Eski Üsküp Çarşısı ile Üsküp Kalesi arasında yer alan önemli bir Osmanlı eseridir. Cami, 1492 yılında II. Bayezid döneminde, Osmanlı Devleti’nin yüksek rütbeli yöneticilerinden biri olan Mustafa Paşa tarafından yaptırılmıştır. Tek kubbeli ve tek minareli olan bu yapı, sade fakat zarif Osmanlı mimarisinin Balkanlardaki en iyi korunmuş örneklerinden biridir.\n\nCaminin iç mekânı oldukça ferah olup yüksek bir kubbe ile örtülüdür. Mihrap, minber ve kürsüsü özgün taş işçiliğiyle dikkat çeker. Avlusunda yer alan türbe, caminin banisi Mustafa Paşa’ya aittir ve mezarı bu türbe içinde bulunmaktadır. Ayrıca cami avlusunda zamanında camiye hizmet edenlere ait bazı mezar taşları da günümüze ulaşmıştır.\n\n1963 yılında Üsküp'te meydana gelen büyük depremde şehirde birçok yapı hasar görürken, Mustafa Paşa Camii bu depremden neredeyse hiç zarar görmeden çıkmıştır. Bu da yapının sağlamlığı ve dönemin mimari kalitesini gösteren önemli bir detaydır. Ayrıca cami, 2000’li yıllarda Türkiye tarafından restore edilmiş ve yeniden ibadete açılmıştır. Bugün hâlâ aktif olarak kullanılan cami, hem tarihi hem de dini bir sembol olarak Üsküp siluetinde önemli bir yer tutmaktadır."
+      },{
+        "type": "image-block",
+        "image": "/images/Kale_Skopje.jpg",
+        "imageTitle": "Üsküp Kalesi: Şehrin Tarihine Nefes Veren Kaledir\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Üsküp Kalesi, Vardar Nehri’nin kuzey yakasında, şehrin en yüksek noktalarından birinde konumlanmış ve yüzyıllar boyunca bölgenin savunma hattı olarak işlev görmüş tarihî bir yapıdır. İlk olarak Roma döneminde inşa edilen kale, Bizans, Osmanlı ve Avusturya-Macaristan gibi farklı imparatorlukların etkisiyle zaman içinde genişletilip güçlendirilmiştir.\n\nKalenin günümüzde görülen yapıları büyük ölçüde Osmanlı ve Avusturya dönemlerine aittir. Savunma amaçlı olarak inşa edilen kalede surlar, gözetleme kuleleri, depo ve askerî birimlerin yer aldığı yapılar bulunur. Kaleden Vardar Nehri ve Üsküp şehri panoramik bir şekilde izlenebilir.\n\nKale, tarih boyunca pek çok savaş ve kuşatmaya sahne olmuş, stratejik konumu nedeniyle sürekli önemini korumuştur. 1963 yılında Üsküp’ü etkileyen büyük depremde kale de zarar görmüş, ancak sonraki restorasyonlarla eski ihtişamına kısmen kavuşmuştur.\n\nBugün Üsküp Kalesi, sadece tarihî bir yapı değil, aynı zamanda ziyaretçilere şehirle ve bölgenin zengin geçmişiyle bağ kurma fırsatı sunan bir açık hava müzesi niteliğindedir. Kalenin içinde yer alan müzeler, yürüyüş yolları ve çevresindeki yeşil alanlar, ziyaretçilerin tarihi hissetmesini sağlar."
+      },{
+        "type": "image-block",
+        "image": "/images/Fountain_„Olympia_-_Mother_of_Alexander_III_of_Macedonia“-6.jpg",
+        "imageTitle": "Fountain Olympia - Mother of Alexander III of Macedonia: Üsküp’te Tarihe Akan Su",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Fountain Olympia, Üsküp’te, Büyük İskender (Alexander III of Macedonia) anısına yapılmış olan önemli heykel ve çeşme komplekslerinden biridir. Bu çeşme, Büyük İskender’in annesi Olimpias’a ithaf edilmiştir ve şehrin tarihi meydanlarından birinde bulunur.\n\nHeykel, antik Makedon kültürüne ve Büyük İskender’in kökenlerine vurgu yapar. Olimpias, tarih boyunca Makedon hanedanının güçlü ve etkili kadın figürlerinden biri olarak kabul edilir. Çeşmenin tasarımında antik Yunan ve Makedon sanatından esintiler görülür, bu da bölgenin zengin tarihine olan bağlılığı simgeler.\n\nFountain Olympia, sadece bir anıt değil, aynı zamanda Üsküp’ün tarihine ve kimliğine saygı duruşu niteliğinde bir eserdir. Çeşmenin bulunduğu alan, şehrin merkezi yaşamıyla tarihi mirasının buluştuğu noktalar arasında yer alır.\n\nGezginler için bu çeşme, hem estetik bir durak hem de Makedon tarihine dair bir hatırlatmadır."
+      },{
+        "type": "image-block",
+        "image": "/images/Stone_Bridge_Skopje_4.jpg",
+        "imageTitle": "Büyük İskender Anıtı: Üsküp’ün Güç ve Miras Sembolü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Üsküp’ün kalbinde, Makedonya Meydanı’nda yer alan Büyük İskender Anıtı, şehrin en dikkat çekici ve simgesel yapılarından biridir. 2011 yılında tamamlanan bu anıt, Makedon tarihinin en ünlü figürü Büyük İskender’i, atına binmiş güçlü ve karizmatik bir lider olarak tasvir eder.\n\nAnıtın tasarımı, Büyük İskender’in hem askeri dehasını hem de tarih sahnesindeki efsanevi yerini vurgular. Atının üzerinde cesurca ilerleyen heykel, yüksek bir kaide üzerinde durur ve çevresindeki su havuzları ile ışıklandırma, anıtın etkileyiciliğini artırır. Bu figür, sadece bir tarih kahramanı değil, aynı zamanda Makedonya halkının ulusal gururunun da simgesidir.\n\nBüyük İskender Anıtı, Üsküp’ün modern kimliğinin ve tarih bilincinin önemli bir parçası olarak, hem yerli halk hem de ziyaretçiler için güçlü bir görsel ve kültürel odak noktasıdır. Anıtın bulunduğu meydan, şehrin sosyal ve kültürel yaşamının merkezi olarak da işlev görür.\n\nTarih ve günümüzü birleştiren bu eser, Üsküp’te mutlaka görülmesi gereken duraklardan biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Archaeological_Museum_of_Macedonia.jpg",
+        "imageTitle": "Kuzey Makedonya Arkeoloji Müzesi: Geçmişin Katmanlarını Kaynatan Tarih Hazinesi",
+        "imageCaption": ""
+      },
+      {
+        "title": "Kuzey Makedonya Arkeoloji Müzesi",
+        "type": "text",
+        "content": "<b>Kuzey Makedonya Arkeoloji Müzesi (Skopje)</b>\n\nKuzey Makedonya Arkeoloji Müzesi, 1924 yılında kurulmuş ve 2014'te yeni binasına taşınmıştır. Vardar Nehri kıyısında, Üsküp'ün merkezinde konumlanmış olan müze; tarih öncesi çağlardan Osmanlı dönemine kadar uzanan geniş bir zaman aralığını kapsayan 7.000'den fazla eseri barındırır.\n\nMüze koleksiyonunda öne çıkan eserler arasında antik heykeller, mozaikler, altın takılar, cam ve seramik objeler ile Bizans ve Roma dönemine ait günlük yaşam eşyaları bulunur. Özellikle Neolitik Çağ’dan kalma figürinler ve antik mezar taşları dikkat çekicidir.\n\nBinanın mimarisi neoklasik tarzda olup, görkemli sütunları ve kubbeleri ile şehrin simge yapılarından biri hâline gelmiştir. İç mekânda interaktif sergiler, dijital sunumlar ve üç boyutlu canlandırmalar sayesinde ziyaretçiler tarihsel yolculuğa çıkar.\n\n<b>Ziyaret Saatleri:</b>\nSalı - Pazar: 10:00 - 18:00 (Son giriş 17:00)\nPazartesi günleri kapalıdır.\n\n<b>Bilet Fiyatları (Ağustos 2025 itibarıyla):</b>\n- Yabancı Ziyaretçi: 150 MKD (~2,5 EUR)\n- Makedon Öğrenci/Emekli: 50 MKD\n- 7 yaş altı çocuklar, engelliler ve sosyal yardıma muhtaç bireyler: Ücretsiz\n- Grup (6+ kişi): Kişi başı 150 MKD\n\n<b>Adres:</b> Kej Dimitar Vlahov bb, 1000 Skopje, North Macedonia\n<b>Telefon:</b> +389 2 3233 999\n<b>E-posta:</b> contact@amm.org.mk"
+      },
+      {
+        "title": "Kuzey Makedonya Arkeoloji Müzesi - Resmi Kaynaklar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Resmi Web Sitesi (İngilizce)",
+            "url": "https://amm.org.mk/en/plan-your-visit/"
+          }
+        ]
+      },
+
+
+       {
+      "title": "Üsküp Lezzetleri ve Mutfak Kültürü",
+      "type": "text",
+      "content": "Üsküp mutfağı, Balkanlar’ın ve Osmanlı’nın zengin kültürel mirasından beslenir. Et, sebze ve hamur işlerinin ustalıkla harmanlandığı bu mutfak, sıcakkanlı insanların misafirperverliğiyle birleşince unutulmaz bir lezzet şölenine dönüşür. Yerel ürünlerin bolluğu sayesinde, yemekler her zaman taze ve lezzetlidir."
+    },
+    {
+      "title": "Üsküp'te Nerede Ne Yenir?",
+      "type": "text",
+      "content": "Üsküp’te tadına bakmanız gereken birçok geleneksel lezzet bulunur. En popüler yemeklerin başında <B>tavče gravče</B> (güveçte pişirilmiş fasulye), <B>kebap</B> (özellikle Üsküp kebapçılarında deneyimlenmesi gereken küçük köfte), <B>burek</B> (çıtır hamur işi) ve <B>ajvar</B> (közlenmiş kırmızı biber ezmesi) gelir. Ayrıca, etle doldurulmuş lahana sarması <B>sarma</B> ve yoğurtlu bir içecek olan <B>ayran</B> da oldukça yaygındır. Bölgenin yerel şarapları ve rakija gibi geleneksel içkileri de yemeklerinize eşlik edebilir."
+    },
+    {
+      "title": "Önerilen Üsküp Mekanları ve Lezzetleri",
+      "type": "list",
+      "intro": "Üsküp'te geleneksel lezzetleri deneyebileceğiniz bazı özel adresler:",
+      "listItems": [
+        "<B>Destan:</B> Eski Çarşı'da yer alan bu tarihi restoran, Üsküp'ün en meşhur kebapçılarından biridir. Yıllardır değişmeyen lezzetiyle bilinen kebaplarını, yanında soğan ve ekmekle birlikte mutlaka deneyin.",
+        "<B>Skopski Merak (Skopje's Delight):</B> Şehir merkezine yakın bir konumda, hem geleneksel hem de modern Makedon yemeklerini bulabileceğiniz bir restorandır. Özellikle tavče gravče ve diğer güveç yemekleri tavsiye edilir.",
+        "<B>Dukjandzik:</B> Eski Çarşı'nın girişinde bulunan bu mekan, yöresel Makedon peynirleri ve mezeleriyle tanınır. Bir öğle yemeği veya meze tabağı için idealdir.",
+        "<B>Pizzeria Dve Zhelbi (İki Dilek Pizzeria):</B> Geleneksel Makedon yemeklerinin yanı sıra, harika pizzalar ve salatalar sunan popüler bir mekandır. Hem yerel halkın hem de turistlerin tercihidir."
+      ]
+    }
+    ]
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]

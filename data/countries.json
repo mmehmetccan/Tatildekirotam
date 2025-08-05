@@ -24,6 +24,12 @@
     "name": "Sırbistan",
     "cities": ["Belgrad","Novisad","niş"],
     "image": "/images/Crkva_svetog_Marka,_Beograd_(St._Mark's_Church,_Belgrade).jpg"
+  },
+  {
+    "id": "makedonya",
+    "name": "Makedonya",
+    "cities": ["Üsküp"],
+    "image": "/images/skopje-4733556_1280.jpg"
   }
 
 ]
