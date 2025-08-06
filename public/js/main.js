@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Hamburger Menü Fonksiyonu
     const hamburgerMenu = document.querySelector('.hamburger-menu');
     const navLinks = document.querySelector('.main-nav .nav-links');
 
@@ -11,21 +10,21 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
      // Arama Çubuğu Fonksiyonu
-    const searchIcon = document.querySelector('.search-btn'); // search-icon-container içindeki a elementi
+    const searchIcon = document.querySelector('.search-btn');
     const searchOverlay = document.getElementById('search-overlay');
     const closeSearchBtn = document.querySelector('.close-search-btn');
 
     if (searchIcon && searchOverlay && closeSearchBtn) {
         searchIcon.addEventListener('click', function(e) {
-            e.preventDefault(); // Sayfa yenilemesini engelle
+            e.preventDefault();
             searchOverlay.style.display = 'flex';
-            document.body.style.overflow = 'hidden'; // Sayfa kaydırmayı engelle
+            document.body.style.overflow = 'hidden';
         });
 
         closeSearchBtn.addEventListener('click', function(e) {
-            e.preventDefault(); // Sayfa yenilemesini engelle
+            e.preventDefault();
             searchOverlay.style.display = 'none';
-            document.body.style.overflow = ''; // Sayfa kaydırmayı geri aç
+            document.body.style.overflow = '';
         });
 
         // Overlay'e tıklanınca kapat
@@ -63,25 +62,20 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Mobil Menü: Alt Menü Açma/Kapama Fonksiyonu
-    // Sadece mobil cihazlarda (768px altı) çalışacak şekilde
     const hasSubmenus = document.querySelectorAll('.main-nav .has-submenu > a');
 
     hasSubmenus.forEach(link => {
         link.addEventListener('click', (e) => {
-            // Hamburger menü aktifse (mobil görünümde)
             if (navLinks.classList.contains('active')) {
-                e.preventDefault(); // Varsayılan link davranışını engelle
+                e.preventDefault();
                 const parentLi = link.parentElement;
 
-                // Eğer tıklanan zaten aktifse, kapat
                 if (parentLi.classList.contains('active')) {
                     parentLi.classList.remove('active');
                 } else {
-                    // Diğer aktif alt menüleri kapat
                     document.querySelectorAll('.main-nav .has-submenu.active').forEach(item => {
                         item.classList.remove('active');
                     });
-                    // Tıklanan alt menüyü aç
                     parentLi.classList.add('active');
                 }
             }

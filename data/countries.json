@@ -30,6 +30,12 @@
     "name": "Makedonya",
     "cities": ["Üsküp"],
     "image": "/images/skopje-4733556_1280.jpg"
+  },
+  {
+    "id": "hırvatistan",
+    "name": "Hırvatistan",
+    "cities": ["Zagreb","Dubrovnik","Split"],
+    "image": "/images/beautiful-scenery-juego-de-tronos-dubrovnik-croatia-daytime.jpg"
   }
 
 ]
