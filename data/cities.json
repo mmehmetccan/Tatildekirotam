@@ -2017,12 +2017,674 @@
 }
 
     ]
+  },
+
+
+
+  {
+    "id": "dubrovnik",
+    "countryId": "hırvatistan",
+    "name": "Dubrovnik",
+    "description": "Dubrovnik, Hırvatistan’ın Adriyatik kıyısında yer alan, tarihi dokusu ve etkileyici manzaralarıyla ünlü bir liman kentidir. “Adriyatik’in İncisi” olarak anılan bu şehir, UNESCO Dünya Mirası Listesi’nde yer alan eski şehir surları, dar taş sokakları, barok ve gotik mimarisiyle büyüleyici bir atmosfere sahiptir. Dubrovnik, hem tarih hem deniz tatili arayanlar için eşsiz bir deneyim sunar. Özellikle gün batımında surlardan izlenen manzarasıyla unutulmaz anılar bırakır.",
+    "coverImage": "/images/1024px-Dubrovnik_City_Dubrovnik_Croatia_Travel.jpg",
+    "image": "/images/1024px-Dubrovnik_City_Dubrovnik_Croatia_Travel.jpg",
+    "routes": [
+      {
+        "title": "Dubrovnik Old Town Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m74!1m12!1m3!1d2021.5629008951846!2d18.1103024!3d42.6423517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m59!3e2!4m5!1s0x134c0b2cffb94241%3A0x3fd5d930c71b0205!2sFort%20Lovrijenac%2C%20Tiha%20ul.%20220000%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6407889!2d18.1042514!4m5!1s0x134c0b1e0d52864b%3A0xdad14097116c1726!2sPile%20Gate!3m2!1d42.6417059!2d18.1072035!4m5!1s0x134c0b2d62b245e3%3A0xfa6609c0d1c3d30d!2sDubrova%C4%8Dke%20gradske%20zidine!3m2!1d42.6417071!2d18.1072624!4m4!1s0x134c0b32f578aabd%3A0xb121dd136ed667fb!3m2!1d42.6417078!2d18.107416999999998!4m4!1s0x134c752bd92fe83d%3A0x89a2905f46150bca!3m2!1d42.641760399999995!2d18.1077831!4m5!1s0x134c0b3300e17a87%3A0xe250ea38889f884b!2sCrkva%20sv.%20Vlaha!3m2!1d42.6408074!2d18.110286!4m5!1s0x134c0b2712d096a7%3A0x5a82d860e9cbe68d!2sOrlandov%20stup!3m2!1d42.6409702!2d18.110388399999998!4m5!1s0x134c0b333fa94e07%3A0xf4e0096912e52036!2sDominikanski%20samostan!3m2!1d42.641793799999995!2d18.1112424!4m5!1s0x134c0b3300e17a87%3A0xc004d6d0b70bcc3c!2sKulturno-povijesni%20muzej%20u%20Kne%C5%BEevu%20dvoru!3m2!1d42.640338!2d18.1106427!4m5!1s0x134c0b33afeeb96d%3A0xb48d9d03361daf05!2sPrvostolnica%20Uznesenja%20Bla%C5%BEene%20Djevice%20Marije!3m2!1d42.6398953!2d18.1104271!5e1!3m2!1str!2str!4v1754529989555!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/Ggmu36v6usvEiFUY6",
+        "steps": [
+          {
+            "from": "Fort Lovrijenac, Tiha ul. 220000, 20000, Dubrovnik, Hırvatistan",
+            "to": "Cathedral of the Assumption of the Virgin Mary, Ul. kneza Damjana Jude 1, 20000, Dubrovnik, Hırvatistan",
+            "duration": "15 dakika",
+            "distance": "1,1 km",
+            "image": "/images/dubrovnik_route1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Dubrovnik Beach Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d23921.22189970383!2d18.109704506715648!3d42.64523658480666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x134c0b4df8f9704f%3A0xbe0d9102f2a1a744!2sPla%C5%BEa%20Sveti%20Jakov!3m2!1d42.6353012!2d18.1308553!4m5!1s0x134c0b34db320533%3A0xab4be5d3eeb31de1!2sBanje%20Beach%20Restaurant%20Lounge%20%26%20Club%2C%20Ul.%20Frana%20Supila%2010%2FB%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6416772!2d18.1160574!4m5!1s0x134c0ba66b958ca1%3A0xf011e7858725573!2sBu%C5%BEa%20Beach%2C%20Dubrova%C4%8Dke%20Gradske%20Zidine%2C%20Crijevi%C4%87eva%20ul.%209%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6388688!2d18.108807799999997!4m5!1s0x134c754a32a05979%3A0x24c140544fde6342!2sUvala%20Lapad%20Beach%2C%20Masarykov%20put%205%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.654901699999996!2d18.0700503!4m5!1s0x134c75441962bba7%3A0x63ad6c780e8523a9!2sCopacabana%20Beach%2C%20Ul.%20Ivana%20pl.%20Zajca%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6636581!2d18.0655651!5e1!3m2!1str!2str!4v1754531135664!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/ei5Kv6BHwn2szNH49",
+        "steps": [
+          {
+            "from": "Plaža Sveti Jakov, Ul. Vlaha Bukovca 14, 20000, Dubrovnik, Hırvatistan",
+            "to": "Copacabana Beach, Ul. Ivana pl. Zajca, 20000, Dubrovnik, Hırvatistan",
+            "duration": "22 dakika",
+            "distance": "8.4 km",
+            "image": "/images/dubrovnik_route2.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dubrovnik'de Neler Yapılır?",
+        "type": "text",
+        "content": "Dubrovnik, Adriyatik Denizi kıyısında yer alan, tarihi ve doğal güzellikleriyle büyüleyen bir şehir. Orta Çağ’dan kalma surlarla çevrili Eski Şehir’i, dar taş sokakları, görkemli sarayları ve etkileyici kiliseleriyle ziyaretçilerini adeta zamanda yolculuğa çıkarır. UNESCO Dünya Mirası listesinde yer alan Dubrovnik, berrak denizi ve bakir koylarıyla da deniz severler için vazgeçilmez bir duraktır.<B>Ancak Hırvatistan kıyılarında genel olarak plajlar küçük kayalardan oluştuğu için deniz ayakkabısı ile denize girmeniz önerilir.</B> Canlı kültürel etkinlikleri, lezzetli Akdeniz mutfağı ve sıcak misafirperverliğiyle her yıl milyonlarca turisti ağırlayan bu şehir, tarihi dokusunu modern hayatla ustalıkla harmanlayarak unutulmaz bir tatil deneyimi sunar.  İşte Viyana'da mutlaka yapmanız gerekenler:"
+      },
+
+    {
+  "title": "Dubrovnik Toplu Taşıma Rehberi",
+  "type": "text",
+  "content": "Dubrovnik'te toplu taşıma ağı, şehir içinde ve çevresinde kapsamlı bir şekilde hizmet veren otobüsler üzerinden sağlanır. Ulaşım hizmetleri **Libertas Dubrovnik** adlı şirket tarafından yürütülür. Şehrin tarihi merkezi (Old Town), otobüs güzergahlarının ana merkezlerinden biridir. Otobüsler, Pile Kapısı, Gruž Limanı gibi ana noktalardan tüm şehre yayılır.\n\nBiletlerinizi otobüs duraklarının yakınındaki küçük büfelerden (tabak veya Tisak), otobüs istasyonlarından veya doğrudan otobüs şoföründen satın alabilirsiniz. Şoförden alınan biletler genellikle daha pahalıdır. Havalimanından şehir merkezine ulaşım için ise özel servis otobüsleri mevcuttur ve biletler havalimanı içinde alınabilir.\n\n<B>Bilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi Libertas Dubrovnik sitesini kontrol ediniz):</B>\n\n<B>Tek Yönlük Bilet (Otobüste Alındığında):</B> 2.50 €\n     Otobüs şoföründen alabileceğiniz tek kullanımlık bilettir.\n<B>Tek Yönlük Bilet (Büfeden Alındığında):</B> 2 €\n     Daha ekonomik bir seçenek olup, büfelerden alabileceğiniz bu bilet ilk kullanımdan itibaren 59 dakika geçerlidir.\n<B>24 Saatlik Bilet (Daily Pass):</B> 5,50 €\n     İlk kullanımdan itibaren 24 saat boyunca tüm otobüs hatlarında sınırsız kullanım sağlar. Şehri yoğun bir şekilde gezmek isteyenler için idealdir.\n\n<B>Havalimanı Servisi:</B> 10-15 € (tek yön)\n     Havalimanı ile şehir merkezi (Pile Kapısı ve ana otobüs terminali) arasında sefer yapan özel shuttle otobüsleridir. Yaklaşık 30-40 dakika sürer. Dubrovnik Havaalanı’ndan şehir merkezine ulaşabilmek için, terminal çıkışında yer alan otobüs duraklarından 11 numaralı otobüs hattına binmeniz gerekmektedir.\n\nBiletinizi otobüse binerken validatöre okutarak aktive etmeyi unutmayın. Geçerlilik süresi bu andan itibaren başlar."
+},
+{
+  "title": "Dubrovnik Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+  "type": "external-links",
+  "links": [
+    {
+      "name": "Libertas Dubrovnik (Resmi Otobüs Şirketi)",
+      "url": "https://www.libertasdubrovnik.hr/"
+    },
+    {
+      "name": "Dubrovnik Havalimanı Otobüs Servisi",
+      "url": "https://www.dubrovnik-airport-bus.com/en/"
+    }
+  ]
+},
+
+
+      {
+        "type": "image-block",
+        "image": "/images/City_Walls_-_panoramio_-_Raki_Man.jpg",
+        "imageTitle": "Fort Lovrijenac: Dubrovnik’in Muhteşem Deniz Kalesi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Fort Lovrijenac, Hırvatistan’ın Dubrovnik kentinde, Adriyatik Denizi’ne bakan sarp kayalıklar üzerinde yer alan etkileyici bir savunma kalesidir. Genellikle \"Dubrovnik’in Cebelitarık’ı\" olarak anılan bu tarihi yapı, şehir surlarının dışında yer alır ve stratejik konumu sayesinde geçmişte şehrin savunmasında kritik bir rol oynamıştır.\n\n 11. yüzyılda Venediklilerin Dubrovnik’e hâkim olmasını önlemek amacıyla inşa edilen kale, 37 metre yüksekliğe kurulmuştur. Duvarlarının bazı bölümleri 12 metreye kadar ulaşan kalınlıktadır. Giriş kapısının üzerinde yer alan “Non Bene Pro Toto Libertas Venditur Auro” (Özgürlük altınla satılmaz) yazısı, Dubrovnik’in bağımsızlık ruhunu simgeler.\n\nBugün Fort Lovrijenac, sadece bir tarihi yapı değil, aynı zamanda açık hava tiyatro gösterilerine ve kültürel etkinliklere ev sahipliği yapan etkileyici bir mekândır. Aynı zamanda \"Game of Thrones\" dizisinin ünlü Kral Toprakları (King's Landing) sahnelerinin bazıları burada çekilmiştir, bu da kaleyi popüler bir turistik cazibe merkezi hâline getirmiştir.\n\nMuhteşem deniz manzarası ve tarihi atmosferiyle Fort Lovrijenac, Dubrovnik’e gelen her ziyaretçinin mutlaka görmesi gereken yapılar arasındadır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_02.jpg",
+        "imageTitle": "Pile Gate: Dubrovnik’in Tarihi Girişi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Saint_Blaise's_Church,_Dubrovnik_-_September_2017.jpg",
+        "imageTitle": "Saint Blaise’s Church: Dubrovnik’in Koruyucu Azizine Adanmış Miras\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in tam kalbinde, Luža Meydanı üzerinde yer alan Saint Blaise’s Church (Aziz Blaise Kilisesi), şehrin en önemli simgelerinden biridir. Bu barok tarzı ihtişamlı yapı, Dubrovnik’in koruyucu azizi olan Saint Blaise (Aziz Vlaho)'ya adanmıştır.\n\n1715 yılında, önceki Romanesk kilisenin yerine Venedikli mimar Marino Gropelli tarafından inşa edilmiştir. Özellikle gece ışıklandırıldığında etkileyici bir görüntü sunan kilise, dış cephesindeki heykeller ve taş işçiliğiyle dikkat çeker. Ana girişin üzerinde yer alan Saint Blaise heykeli, elinde Dubrovnik'in tarihi minyatür bir maketini tutar.\n\nİç mekanda zengin süslemeler, altın detaylı sunak ve vitray pencereler yer alır. Her yıl 3 Şubat’ta düzenlenen Aziz Blaise Günü kutlamaları, hem dini hem de kültürel açıdan Dubrovnik halkı için büyük önem taşır."
+      },
+      {
+        "type": "text",
+        "content": "Pile Gate, Hırvatistan’ın Dubrovnik şehrinde yer alan ve Orta Çağ’dan günümüze ulaşan en önemli yapılardan biridir. Şehrin batı kısmında bulunan bu tarihi kapı, Dubrovnik’in surlarla çevrili eski kent merkezine (Old Town) açılan ana giriş kapısıdır.\n\n 13. yüzyılda inşa edilen kapı, hem savunma amacıyla hem de şehre kontrollü giriş sağlamak için yapılmıştır. Dış ve iç olmak üzere iki ayrı kapıdan oluşur. Dış kapı, taş bir köprüyle çevrilmiş ve 15. yüzyılda yapılmıştır. Bu köprü eskiden bir asma köprüydü ve gece olunca güvenlik amacıyla kaldırılırdı. İç kapı ise 1460 yılında eklenmiştir.\n\nPile Gate’in üst kısmında, Dubrovnik’in koruyucu azizi Aziz Blaise’nin (Saint Blaise) bir heykeli yer alır. Bu detay, kente dini ve tarihi bir anlam da kazandırır.\n\nGünümüzde Pile Gate, şehri keşfetmek isteyen ziyaretçilerin ilk durağıdır. Old Town’a giriş yapmadan önce bu kapıdan geçmek, adeta zamanda bir yolculuğa çıkmak gibidir"
+      },{
+        "type": "image-block",
+        "image": "/images/Blick_über_Dubrovnik_2019-08-23_11.jpg",
+        "imageTitle": "Dubrovnik Surları: Tarihle Çevrili Şehir\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in en ikonik yapılarından biri olan Walls of Dubrovnik (Dubrovnik Surları), şehri yüzyıllar boyunca korsanlardan, istilalardan ve düşman saldırılarından koruyan muhteşem bir savunma sistemidir. 1940 metre uzunluğundaki bu surlar, Adriyatik kıyısındaki eski şehri tamamen çevreler.\n\n 9. yüzyılda yapımına başlanan surlar, 13. ve 16. yüzyıllar arasında bugünkü halini almıştır. Yaklaşık 25 metre yüksekliğe ulaşan bu duvarlar; kuleler, kaleler, savunma geçitleri ve gözetleme noktaları ile donatılmıştır. En dikkat çeken noktaları arasında Minceta Kulesi, Bokar Kalesi, St. John Kulesi ve Revelin Kalesi bulunur.\n\nZiyaretçiler, surlar üzerinde yürüyerek hem şehrin çatılarını hem de Adriyatik Denizi’nin nefes kesici manzaralarını izleyebilir. Özellikle gün batımında yapılan yürüyüşler unutulmaz fotoğraflar için eşsiz fırsatlar sunar.\n\nUNESCO Dünya Mirası listesinde yer alan Dubrovnik Surları, sadece tarihi bir miras değil, aynı zamanda \"Game of Thrones\" gibi dizilerin çekimlerinde de kullanıldığı için kültürel olarak da büyük öneme sahiptir. "
+      },{
+        "type": "image-block",
+        "image": "/images/Franciscan_Monastery_in_Dubrovnik_02.jpg",
+        "imageTitle": "Franciscan Church and Monastery",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in kalbinde, Pile Kapısı’nın hemen yakınında yer alan Franciscan Church and Monastery, hem dini hem de kültürel açıdan şehrin en önemli yapılarından biridir. 14. yüzyılda inşa edilen bu etkileyici yapı, Gotik, Rönesans ve Barok mimari öğelerini bir arada taşır.\n\nManastır kompleksi içinde yer alan eski eczane (pharmacy), Avrupa’nın en eski eczanelerinden biri olarak kabul edilir ve 1317 yılından beri kesintisiz hizmet vermektedir. Günümüzde hem bir müze hem de aktif bir eczane olarak ziyaretçilere açıktır.\n\nYüksek taş sütunlar, süslü kemerler ve sessiz avlu, geçmişin huzurunu bugüne taşırken; manastır içinde yer alan küçük müze kısmında ise nadir el yazmaları, dini eserler ve antik eczacılık araçları sergilenmektedir."
+      },{
+        "type": "image-block",
+        "image": "/images/Saint_Saviour_Church_(Dubrovnik).jpg",
+        "imageTitle": "Church of St. Salvation",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik Eski Şehir’de, Pile Kapısı’ndan içeri girer girmez sağda karşınıza çıkan St. Salvation Kilisesi (Crkva sv. Spasa), küçük boyutuna rağmen büyük bir tarihi anlam taşır. 1520 yılında büyük bir depremin ardından Tanrı’ya şükretmek amacıyla inşa edilen bu kilise, Dubrovnik’i yüzyıllar boyunca etkileyen diğer depremlerde hasar almadan ayakta kalmayı başarmıştır.\n\nGeç Rönesans mimarisinin güzel bir örneği olan kilise, sade ama zarif taş işçiliğiyle dikkat çeker. İç kısmı oldukça minimaldir; sessizliği ve sadeliğiyle ziyaretçilere huzurlu bir atmosfer sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Dubrovnik_Roland-Statue.jpg",
+        "imageTitle": "Orlando Sütunu (Orlando's Column): Dubrovnik’in Özgürlük Simgesi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in tarihi Luža Meydanı’nda yer alan Orlando Sütunu, sadece bir heykel değil, aynı zamanda şehrin özgürlük ve bağımsızlık mücadelesinin sembolüdür. 1418 yılında dikilen bu Gotik tarz sütun, kılıç tutan bir şövalye figürünü tasvir eder. Bu figürün Orlando (Roland) adlı efsanevi bir kahramanı temsil ettiğine inanılır.\n\nOrlando’nun sağ kolu, tarihi boyunca resmi bir ölçü birimi olarak da kullanılmıştır; “Dubrovnik arşını” (51.2 cm) halkın alışverişlerinde standart ölçüyü belirlemek için buradan alınmıştır.\n\nYüzyıllar boyunca devlet duyuruları, festivaller ve dini törenler bu sütunun önünde yapılmış; hatta bayrak törenleri burada gerçekleştirilmiştir. Özellikle Aziz Blaise Günü kutlamalarında, Dubrovnik bayrağı Orlando’nun sütununa asılarak şehir halkının birliğini ve koruyucu azizine olan bağlılığını simgeler."
+      },{
+        "type": "image-block",
+        "image": "/images/Cloister_of_the_Dominican_Monastery_in_Dubrovnik_01.jpg",
+        "imageTitle": "Dominikan Manastırı: Dubrovnik’in Gotik Hazinesi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in tarihi surlarının hemen içinde yer alan Dominikan Manastırı, 14. yüzyılda inşa edilmiş ve kentin en önemli dini ve kültürel yapılarından biri olmuştur. Hem manastır hem de kilise yapısından oluşan bu kompleks, Gotik mimarisi ve etkileyici taş işçiliğiyle dikkat çeker.\n\nManastır, sadece dini bir yapı değil; aynı zamanda Dubrovnik'in savunma stratejisinin bir parçası olarak da tasarlanmıştır. Bu nedenle kalın taş duvarlara ve korunaklı bir yapıya sahiptir. İç avlusunda yer alan sütunlu revaklar ve turunç ağaçlarıyla çevrili bahçesi, ziyaretçilere huzurlu bir atmosfer sunar.\n\nDominikan Manastırı Müzesi ise Dubrovnik’in dini sanat mirasını barındırır. Burada 15. ve 16. yüzyıla ait tablolar, el yazmaları, mücevherler ve dini objeler sergilenir. Özellikle Lorenzo di Credi ve Tiziano gibi önemli sanatçıların eserleri koleksiyonun öne çıkan parçalarındandır.\n\nManastırın kütüphanesi de oldukça değerlidir; içinde nadir el yazmaları ve tarihi belgeler yer alır. Bu yönüyle Dominikan Manastırı, Dubrovnik’in yalnızca dini değil, aynı zamanda entelektüel ve sanatsal geçmişinin de bir aynasıdır."
+      },{
+        "type": "image-block",
+        "image": "/images/Rectors_Palace,_Dubrovnik,_July_2011_(01).jpg",
+        "imageTitle": "Rektörlük Sarayı: Dubrovnik Cumhuriyeti’nin Kalbi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in Eski Şehri’nde yer alan Rektörlük Sarayı, Orta Çağ'dan kalma en önemli sivil yapılarından biridir. 14. yüzyılda inşa edilen bu yapı, eski Dubrovnik Cumhuriyeti döneminde yönetim merkezi olarak hizmet vermiştir. Rektör (valilik benzeri görevdeki kişi), burada hem yaşar hem de devlet işlerini yürütürdü. Bu yönüyle saray, bir nevi cumhuriyetin kalbi konumundaydı.\n\nSarayın mimarisi, Gotik, Rönesans ve Barok tarzlarının bir birleşimi olup, bu karışım çeşitli dönemlerde meydana gelen yangınlar ve patlamalar nedeniyle yapılan onarımlarla şekillenmiştir. Özellikle 15. yüzyıldaki barut deposu patlaması, yapının yeniden inşa edilmesine sebep olmuştur.\n\nGiriş bölümündeki geniş sütunlu avlu ve taş merdiven, dönemin zarafetini yansıtırken, avlunun merkezinde bulunan bronz çan, zamanında halkı toplantılara çağırmak için kullanılırdı. Bugün Dubrovnik Tarih Müzesi’ne ev sahipliği yapan saray, döneme ait mobilyalar, resmi belgeler, portreler, madalyonlar ve silah koleksiyonlarıyla ziyaretçilerine tarihî bir yolculuk sunar.\n\nRektörlük Sarayı aynı zamanda, Dubrovnik’in bağımsız ve özgürlükçü yönetim anlayışının mimari bir sembolü olarak kabul edilir. Sarayın girişinde yer alan “Obliti privatorum publica curate” (Özel işlerini unut, kamunun işini düşün) yazısı da bu anlayışı özetleyen önemli bir detaydır."
+      },{
+        "type": "image-block",
+        "image": "/images/Casco_viejo_de_Dubrovnik,_Croacia,_2014-04-13,_DD_06.jpg",
+        "imageTitle": "Cathedral of the Assumption of the Virgin Mary \n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in tarihi kent merkezinde yer alan Cathedral of the Assumption of the Virgin Mary, şehrin dini ve mimari açıdan en etkileyici yapılarından biridir. İlk olarak 7. yüzyılda inşa edilen orijinal yapı, 12. yüzyılda İngiltere Kralı Richard the Lionheart tarafından desteklenen Romanesk bir katedralle değiştirilmiştir. Kral Richard, 1192 yılında Dubrovnik açıklarında geçirdiği gemi kazasından sağ kurtulduktan sonra Tanrı’ya şükranlarını sunmak amacıyla bu yapının inşasını finanse etmiştir. Bu, yapının tarihindeki en önemli ve dikkat çeken detaylardan biridir.\n\nAncak 1667 yılında Dubrovnik’i sarsan büyük deprem sonucu orijinal yapı tamamen yıkılmış, ardından İtalyan mimar Andrea Bufalini tarafından Barok tarzında yeniden inşa edilmiştir. Günümüzde görülen katedral, bu döneme ait bir eserdir.\n\nKatedralin iç kısmı sade ancak etkileyici detaylara sahiptir. Yüksek tavanlar, sütunlar ve zarif vitray pencereler kutsal bir atmosfer yaratırken, en dikkat çeken unsur altar arkasında yer alan Titian’a atfedilen “Bakire Meryem’in Göğe Kabulü” tablosudur. Ayrıca katedralin hazinesi, 100'den fazla altın ve gümüşten yapılmış kutsal eşya, relik ve ikon barındıran oldukça zengin bir koleksiyona sahiptir. Bu eserler arasında Aziz Blaise’ye ait olduğu düşünülen kemikler ve diğer relikler de bulunur."
+      },{
+        "type": "image-block",
+        "image": "/images/Blick_auf_den_Leuchtturm_Porporela_und_den_Alten_Hafen_von_Dubrovnik,_Kroatien_(48613051351).jpg",
+        "imageTitle": "Porporela: Dubrovnik’in Denizle Buluştuğu Nokta\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Porporela, Dubrovnik’in tarihi surlarının hemen dışında, Eski Liman’ın ucunda yer alan bir dalga kıran ve yürüyüş yoludur. 19. yüzyılda limanı korumak amacıyla inşa edilmiş olan bu yapı, zamanla yerel halk ve turistler için popüler bir dinlenme ve manzara noktası hâline gelmiştir.\n\nAdriyatik Denizi'nin uçsuz bucaksız maviliğine karşı yürüyüş yapmak, gün batımını izlemek veya denizin sesini dinlemek isteyenler için ideal bir noktadır. Yaz aylarında yerel halk burayı yüzmek ve serinlemek için kullanırken, yılın her döneminde çiftlerin ve fotoğraf tutkunlarının uğrak noktasıdır.\n\nSurlarla çevrili tarihi şehir manzarası ile açık denizin huzurunu birleştiren Porporela, Dubrovnik’in en romantik ve en sakin köşelerinden biridir. Ayrıca buradan Fort Lovrijenac ve Lokrum Adası da net şekilde görülebilir."
+      },{
+        "type": "image-block",
+        "image": "/images/The_Adriatic_Sea_at_Sveti_Jakov_Beach_in_Dubrovnik,_Croatia_(48738954486).jpg",
+        "imageTitle": "Plaža Sveti Jakov – Dubrovnik’in Saklı Cenneti\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Plaža Sveti Jakov, Dubrovnik’in merkezine yaklaşık 1,5 kilometre uzaklıkta, Eski Şehir’den yürüyerek veya kısa bir araç yolculuğuyla ulaşılabilen, sakin ve doğal güzelliğiyle öne çıkan bir plajdır. İsmini yakınındaki Sveti Jakov (Aziz James) Kilisesi'nden alan bu plaj, şehir merkezindeki kalabalıktan uzaklaşıp denizin tadını çıkarmak isteyenler için ideal bir kaçış noktasıdır.\n\nPlaj, yüksekten aşağıya inen merdivenlerle ulaşılabilen küçük bir koyda yer alır. Bu nedenle inişi biraz zahmetli olsa da, vardığınızda karşılaşacağınız manzara ve huzur her şeye değecektir. İnce çakıllı yapısı ve turkuaz renkli sularıyla hem yüzme hem de güneşlenme için oldukça elverişlidir.\n\nSveti Jakov Plajı'ndan Lokrum Adası ve Eski Şehir surları rahatlıkla görülebilir. Günübirlik deniz keyfi yapmak, kano veya deniz bisikleti kiralamak isteyenler için tesis olanakları da sunulmaktadır. Özellikle gün batımı saatlerinde etkileyici bir atmosfer sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Banje-Beach-Dubrovnikdsadasdasadsa.jpg",
+        "imageTitle": "Banje Beach: Dubrovnik’in İncisi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Banje Beach, Dubrovnik’in en ünlü ve en merkezi plajlarından biridir. Eski Şehir surlarının hemen doğusunda yer alır ve kentin tarihi dokusuyla denizin berrak mavisini bir arada sunar. Şehir merkezine olan yakınlığı sayesinde hem turistlerin hem de yerel halkın gözde uğrak noktalarından biridir.\n\nPlaj, ince çakıllı yapısı ve temiz deniziyle rahatlatıcı bir yüzme deneyimi sağlar. Banje Beach, sadece doğal güzelliğiyle değil, sunduğu sosyal olanaklarla da öne çıkar; lüks plaj kulüpleri, restoranlar, barlar ve su sporları imkanlarıyla hareketli bir ortam yaratır.\n\nGün batımında plajdan Eski Şehir’in surları, Lovrijenac Kalesi ve Adriyatik Denizi’nin muhteşem manzarasını izlemek unutulmaz bir deneyimdir. Ayrıca, plajın yakınlarında birçok kafe ve mekan bulunduğu için gün boyu aktivite ve eğlence seçenekleri oldukça fazladır."
+      },{
+        "type": "image-block",
+        "image": "/images/Walls_of_Dubrovnik-8.jpg",
+        "imageTitle": "Buža Beach: Dubrovnik’in Gizli Saklı Kaçamağı\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Buža Beach, Dubrovnik’in en özel ve az bilinen plajlarından biridir. Eski Şehir surlarının hemen dışında, “duvarların dışı” anlamına gelen adıyla tam bir keşif noktasıdır. Ziyaretçilerin genellikle kalabalıktan kaçmak ve daha sakin bir deniz deneyimi yaşamak için tercih ettiği bu plaj, ulaşımı biraz zahmetli olsa da verdiği huzur ve doğal güzelliklerle buna değmektedir.\n\nBuža, tipik bir kum veya çakıl plajı değil; kayalıkların arasına kurulmuş küçük ve şirin bir deniz kenarı alanıdır. Deniz kristal kadar berrak ve temizdir, burada yüzmek doğa ile baş başa kalmak gibidir. Plajda herhangi büyük bir tesis veya şezlong hizmeti yoktur; bu yüzden genellikle kendi ekipmanınızı getirmeniz önerilir.\n\nBurası, özellikle gün batımı manzaralarıyla meşhurdur; kentin tarihi silueti, denizin huzuruyla birleşerek unutulmaz kareler sunar. Ayrıca, bazı kayalık noktalar “bungee jumping” gibi macera sporları için de kullanılır. Bu doğal ve otantik plaj, Dubrovnik’te daha sakin, keşif dolu bir deneyim arayanların mutlaka uğraması gereken bir yer."
+      },{
+        "type": "image-block",
+        "image": "/images/Uvala_Lapad.jpg",
+        "imageTitle": "Uvala Lapad Beach: Dubrovnik’in Aile Dostu Sahili\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Uvala Lapad Beach, Dubrovnik’in Lapad Yarımadası’nda bulunan ve hem yerel halkın hem de turistlerin sıkça tercih ettiği geniş, düzenli bir plajdır. Şehir merkezine yaklaşık 3 kilometre mesafede olan bu plaj, sakin atmosferi, temiz denizi ve iyi donanımlı tesisleriyle özellikle aileler için ideal bir seçenektir.\n\nPlajda kum ve çakıl karışımı bir zemin bulunur, sığ ve güvenli denizi çocuklu ailelerin rahatça yüzebilmesini sağlar. Çevresinde kafeler, restoranlar, dükkanlar ve yürüyüş yolları yer alır; böylece deniz keyfinizi tamamlayacak sosyal ve yeme-içme imkanlarına kolayca ulaşabilirsiniz.\n\nUvala Lapad Beach, spor aktiviteleri açısından da zengindir; voleybol sahaları, su sporları kiralama noktaları ve bisiklet yolları gibi olanaklarla hareketli bir gün geçirmek mümkündür. Ayrıca, plaj boyunca yürüyüş yaparken panoramik Adriyatik manzarasının tadını çıkarabilirsiniz."
+      },{
+        "type": "image-block",
+        "image": "/images/Dubrovnik_(20883117609).jpg",
+        "imageTitle": "Copacabana Beach: Dubrovnik’in Canlı Plajı\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dubrovnik’in Lapad bölgesinde yer alan Copacabana Beach, adını ünlü Brezilya plajından alır ve bölgenin en hareketli, popüler plajlarından biridir. Geniş plaj alanı ve zengin sosyal olanaklarıyla özellikle gençler ve enerjik tatilciler tarafından tercih edilir.\n\nPlaj, kum ve ince çakıl karışımı zemini ile rahat yüzme imkanı sunar. Sahilde birçok bar, restoran ve kafe bulunur; gün boyunca müzik eşliğinde keyif yapabilir, akşamları ise canlı etkinliklerle eğlence devam eder. Su sporları ve plaj aktiviteleri için de geniş seçenekler mevcuttur; jet ski, kano, paddleboard gibi ekipmanlar kiralanabilir.\n\nCopacabana Beach, ayrıca yaz aylarında düzenlenen plaj partileri ve etkinliklerle hareketlenir, sosyal bir atmosfer sunar. Aileler için de uygun alanlar bulunsa da, genellikle gençlerin ve tatilcilerin buluşma noktasıdır.\n\nDubrovnik ziyaretinizde enerjik ve canlı bir plaj deneyimi arıyorsanız, Copacabana Beach mutlaka listenizde olmalı. Şehir merkezine yaklaşık 3 km uzaklıkta olması, kolay ulaşım imkanı sağlar."
+      },
+
+  {
+    "title": "Dubrovnik Mutfak Kültürü",
+    "type": "text",
+    "content": "Dubrovnik'in mutfağı, Dalmaçya Bölgesi'nin kalbinde, Adriyatik Denizi'nin taze ürünleriyle şekillenir. Akdeniz mutfağının tüm özelliklerini taşıyan bu yemeklerde, taze otlar, zeytinyağı, sarımsak ve şarap önemli bir yer tutar. Şehir, özellikle taptaze deniz ürünleri ve meşhur siyah risotto'su (crni rižot) ile tanınır. Yeme-içme kültürü, şık restoranlardan yerel konobalar (meyhaneler) ve sokak lezzetlerine kadar geniş bir yelpazeye sahiptir."
+  },
+  {
+    "title": "Dubrovnik'te Nerede Ne Yenir?",
+    "type": "text",
+    "content": "Dubrovnik mutfağının en popüler yemeği, mürekkep balığı mürekkebiyle hazırlanan ve eşsiz bir lezzete sahip olan 'Crni Rižot' (siyah risotto) olarak bilinir. Bir diğer geleneksel yemek olan 'Peka', etin veya ahtapotun özel bir demir çan altında ağır ateşte pişirilmesiyle hazırlanır ve unutulmaz bir lezzet sunar. Deniz ürünleri dışında, 'Pašticada' (özel soslu dana yahnisi) da yörenin en meşhur et yemeklerindendir. Tatlı olarak, yöreye özgü bir muhallebi olan 'Rožata' mutlaka denenmelidir."
+  },
+  {
+    "title": "Önerilen Dubrovnik Mekanları ve Lezzetleri",
+    "type": "list",
+    "intro": "Dubrovnik'in zengin mutfak mirasından lezzetleri tadabileceğiniz bazı özel adresler:",
+    "listItems": [
+      "<B>Proto Fish Restaurant (Eski Şehir):</B> 19. yüzyıldan bu yana hizmet veren bu restoran, taze balık ve deniz mahsulleri için en iyi adreslerden biridir. Geleneksel tarifleri modern dokunuşlarla sunar. Rezervasyon yapılması tavsiye edilir.",
+      "<B>Konoba Dubrava (Široka Ulica):</B> Eski Şehir'in gizli sokaklarında yer alan bu geleneksel konoba, otantik Dalmaçya mutfağını tatmak için idealdir. Özellikle 'Peka' (demir çan altında pişirilmiş et) denemek için harika bir yerdir.",
+      "<B>Barba (Eski Şehir):</B> Sokak lezzetleri ve hızlı atıştırmalıklar için popüler bir durak. Ahtapot burger ve taze deniz ürünleri sandviçleri ile tanınır. Hem lezzetli hem de bütçe dostu bir alternatiftir.",
+      "<B>Mali Ston (Dubrovnik Yakını):</B> Dubrovnik'e yakın olan Mali Ston Körfezi, dünya çapında ünlü istiridyeleri ve midyeleriyle bilinir. En taze istiridyeleri doğrudan denizden çıkarılıp limonla servis eden küçük restoranları burada bulabilirsiniz. Deniz ürünleri sevenler için günübirlik bir kaçış rotasıdır.",
+      "<B>Lady Pi-Pi (Eski Şehir):</B> Şehrin surları içinde yer alan bu restoran, geniş terası ve harika manzarasıyla ünlüdür. Özellikle ızgara et ve deniz mahsulleri sevenler için popüler bir tercihtir."
+    ]
+  },
+  {
+    "imageTitle": "Dalmaçya Mutfağının İkonik Lezzeti: Crni Rižot",
+    "type": "image-block",
+    "image": "/images/Arrosnegre.jpg",
+    "imageCaption": "Mürekkep balığı mürekkebiyle hazırlanan, zengin ve deniz kokulu siyah risotto. Yanında rendelenmiş Parmesan peyniriyle servis edilir."
+  },
+  {
+    "imageTitle": "Geleneksel 'Peka' Yemeği",
+    "type": "image-block",
+    "image": "/images/Dutch-oven-sac.jpg",
+    "imageCaption": "Özel bir demir çan altında, sebzelerle birlikte yavaşça pişirilen geleneksel et veya ahtapot yemeği."
+  }
+]
+
+  },
+
+
+
+  {
+    "id": "split",
+    "countryId": "hırvatistan",
+    "name": "Split",
+    "description": "Split, Hırvatistan’ın Adriyatik kıyısında yer alan ve ülkenin en büyük ikinci şehri olan tarihi ve turistik bir liman kentidir. Roma İmparatoru Diocletianus’un emekli olduktan sonra yaptırdığı Diocletianus Sarayı etrafında kurulan şehir, bugün UNESCO Dünya Mirası Listesi’nde yer alır. ",
+    "coverImage": "/images/Aerial_view_of_Bacvice_Beach_with_a_view_to_Split_in_the_background,_Croatia_(48608737377).jpg",
+    "image": "/images/800px-Croatia-01239_-_The_Peristil_(9551533404).jpg",
+    "routes": [
+      {
+        "title": "Split Old Town Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d1401.7041318669303!2d16.43991239977573!3d43.50853451193801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x13355e00a89ddcf9%3A0x74fd1a2b4c6d0e78!2sSpomenik%20Grguru%20Ninskomu!3m2!1d43.5094321!2d16.440838!4m5!1s0x13355e00a76cf181%3A0xfafa6d4ddc5b2d92!2sGolden%20Gate!3m2!1d43.509192!2d16.4406786!4m5!1s0x13355dfe535cfc4f%3A0x921ac62569576f32!2sDioklecijanova%20pala%C4%8Da!3m2!1d43.5082646!2d16.440175399999998!4m5!1s0x13355dfe2b94401d%3A0x7d6779ece88a69f3!2sSaint%20Domnius%E2%80%99%20Cathedral!3m2!1d43.5081017!2d16.4404798!4m5!1s0x13355dfe2da9407b%3A0x211a02e3f394a2fd!2sVestibul!3m2!1d43.5079859!2d16.4400111!4m5!1s0x13355dfe310f186d%3A0xd9a182950ada09e5!2sJupiterov%20Hram%20%2F%20Krstionica%20Sv.%20Ivana!3m2!1d43.508337499999996!2d16.4395886!4m5!1s0x13355dfe2ec9fadd%3A0x2ee8d8f969d2c8b4!2sNarodni%20trg!3m2!1d43.508942999999995!2d16.4388614!4m5!1s0x13355d28bc67b153%3A0xfec679668c479f7e!2sGame%20of%20Thrones%20Museum%20Split!3m2!1d43.509433!2d16.4393216!4m5!1s0x13355dfe4cfe6719%3A0x6ee9ed6e555a0172!2zVHJnIGJyYcSHZSBSYWRpxIdhIChWb8SHbmkgdHJnKQ!3m2!1d43.5082172!2d16.4384712!4m4!1s0x13355dffb1d80851%3A0xb887852f0deff8e8!3m2!1d43.507818!2d16.4382254!5e1!3m2!1str!2str!4v1754581240505!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/tGeM7LqtnG2aaM268",
+        "steps": [
+          {
+            "from": "Gregory of Nin Statue, Ul. kralja Tomislava 12, 21000, Splitska, Hırvatistan",
+            "to": "Split Riva, 21.000, 21000, Split, Hırvatistan",
+            "duration": "25 dakika",
+            "distance": "1,0 km",
+            "image": "/images/splitoldtown_route.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Split Beach Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d11286.130251116456!2d16.418689257995446!3d43.50694571506163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x13355e28e44f8c85%3A0x93eaf7d44452e46d!2s%C5%BDnjan%20City%20Beach%2C%20%C5%A0etali%C5%A1te%20Pape%20Ivana%20Pavla%20II%2031%2C%2021000%2C%20Split%2C%20H%C4%B1rvatistan!3m2!1d43.501769499999995!2d16.4762645!4m5!1s0x133560a64c2023e7%3A0x6084fcdef951a291!2sPla%C5%BEa%20Firule!3m2!1d43.5007351!2d16.454344799999998!4m5!1s0x133560a984c2b8b9%3A0xbf1b505db2fb8eb6!2sBacvice%20Beach!3m2!1d43.5024856!2d16.4468835!4m5!1s0x1335677ea6b6c3cb%3A0xb54e43bb97ff2a90!2sKasjuni%20Beach!3m2!1d43.506161899999995!2d16.400707699999998!4m5!1s0x1335675ddda2605f%3A0xf881122d272ec66a!2sBeach%20Je%C5%BEinac!3m2!1d43.5038768!2d16.4182618!5e1!3m2!1str!2str!4v1754583741079!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/SCdXzUiDivYQKDyL9",
+        "steps": [
+          {
+            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
+            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "duration": "35 dakika",
+            "distance": "13.7 km",
+            "image": "/images/splitbeach_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Split'de Neler Yapılır?",
+        "type": "text",
+        "content": "Split, Hırvatistan’ın Adriyatik kıyısında yer alan ve ülkenin en büyük ikinci şehri olan tarihi ve turistik bir liman kentidir. Roma İmparatoru Diocletianus’un emekli olduktan sonra yaptırdığı Diocletianus Sarayı etrafında kurulan şehir, bugün UNESCO Dünya Mirası Listesi’nde yer alır. Antik Roma kalıntılarıyla modern yaşamın iç içe geçtiği Split, tarihi atmosferi, dar taş sokakları, deniz kenarındaki palmiye ağaçlarıyla süslü Riva yürüyüş yolu, kültürel etkinlikleri ve canlı gece hayatıyla tanınır. Split ayrıca Bacvice, Kašjuni ve Žnjan gibi plajlarıyla yaz aylarında deniz tatili için de çok tercih edilir <B>Ancak Hırvatistan kıyılarında genel olarak plajlar küçük kayalardan oluştuğu için deniz ayakkabısı ile denize girmeniz önerilir.</B>. Split Limanı’ndan Hvar, Brač ve Korčula gibi Adriyatik adalarına feribotla kolayca ulaşım sağlanabilir.\n\nTarihi dokusu, doğal güzellikleri ve Akdeniz iklimiyle Split, Hırvatistan’da mutlaka görülmesi gereken şehirlerden biridir.   İşte Split'de mutlaka yapmanız gerekenler:"
+      },
+      {
+    "title": "Split Toplu Taşıma Rehberi",
+    "type": "text",
+    "content": "Split'teki toplu taşıma ağı, **Promet Split** şirketine ait otobüslerle sağlanır ve şehir merkezini banliyölerle ve yakındaki diğer yerleşim yerleriyle birbirine bağlar. Otobüsler genellikle sabah 05:00'ten gece 23:00'e kadar hizmet verir. Haritaları ve güzergah bilgilerini otobüs duraklarında bulabilirsiniz. Ana otobüs durağı olan Sukoišanska, şehir merkezinin yaklaşık 1 km uzağındadır ve buradan Trogir, Omiš gibi yerlere giden otobüslere de binebilirsiniz."
+  },
+  {
+    "title": "Biletler ve Fiyatlar",
+    "type": "text",
+    "content": "Biletler, otobüs duraklarının yanındaki büfelerden veya doğrudan otobüs şoföründen satın alınabilir. Şoförden alınan biletler genellikle daha pahalıdır. Biletinizi otobüse bindiğinizde mutlaka geçerli hale getirmeyi unutmayın. Şehir içi seyahatler için kullanılan biletler genellikle 1. bölge için geçerlidir. Güncel fiyatlar için resmi Promet Split sitesini kontrol etmek her zaman en iyisidir.\n\n<B>Bilet türleri ve yaklaşık fiyatları:</B>\n\n<B>Tek Yönlük Bilet (Otobüs şoföründen):</B> 4 €\n     Tek kullanımlık, 1. bölge için geçerli bilet.\n <B>24 Saatlik Bilet:</B> 4 €\n     Günlük kullanımlar için ekonomik bir seçenektir.\n <B>3 Günlük Bilet:</B> 10 €\n     Sınırsız kullanım sağlar ve şehri yoğun bir şekilde gezmek isteyenler için uygundur.\n <B>7 Günlük Bilet:</B> 20 €\n     Daha uzun süreli konaklamalar için idealdir."
+  },
+  {
+    "title": "Havalimanı Ulaşımı",
+    "type": "text",
+    "content": "Split Havalimanı (SPU) ile şehir merkezi arasındaki ulaşım için birkaç seçeneğiniz bulunur:\n\n* <B>Özel Servis Otobüsleri (Shuttle Bus):</B> En hızlı ve konforlu seçenektir. Havalimanı terminal binasının hemen önünden kalkar ve şehirdeki ana otobüs terminaline gider. Yolculuk yaklaşık 30-40 dakika sürer. Biletler yaklaşık 7-9 € arasındadır.\n* <B>Yerel Otobüs (Hat 37):</B> Daha ekonomik bir seçenektir. Havalimanının ana yolundan kalkan 37 numaralı otobüs, Trogir ile Split arasında sefer yapar. Bu otobüs şehir merkezindeki Sukoišanska otobüs terminaline gider. Yolculuk daha uzun sürer (yaklaşık 50 dakika) ancak bilet fiyatı daha düşüktür (2-4 €)."
+  },
+  {
+    "title": "Split Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+    "type": "external-links",
+    "links": [
+      {
+        "name": "Promet Split (Resmi Sitesi)",
+        "url": "https://www.promet-split.hr/en/"
+      },
+      {
+        "name": "Pleso Prijevoz (Havalimanı Servisi)",
+        "url": "https://plesoprijevoz.hr/en/split-croatia/"
+      },
+      {
+        "name": "Split Havalimanı Ulaşım Bilgileri",
+        "url": "https://www.split-airport.hr/to-from-the-airport/"
+      }
+    ]
+  },
+      {
+        "type": "image-block",
+        "image": "/images/800px-Croatia-01239_-_The_Peristil_(9551533404).jpg",
+        "imageTitle": "Diocletianus Sarayı\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Diocletianus Sarayı, MS 295-305 yılları arasında Roma İmparatoru Diocletianus tarafından Split'te yaptırılmıştır. İmparatorun emeklilik yıllarını geçirmek için inşa ettirdiği bu saray, hem kale hem de lüks bir konut olarak tasarlanmıştır. Yaklaşık 30.000 m² alana sahip olan yapı, dört ana kapıya ve sütunlu avlulara sahiptir.\n\nSarayın en önemli bölümlerinden biri Peristil Avlusudur. Ayrıca, imparatorun mezarı olarak inşa edilen yapı sonradan St. Domnius Katedraline dönüştürülmüştür. Saray zamanla Split şehrinin merkezine dönüşmüş, içinde evler, dükkanlar ve restoranlar yer almıştır.\n\n1979 yılında UNESCO Dünya Mirası ilan edilmiştir ve bugün hâlâ aktif olarak kullanılan eşsiz bir tarihi yapıdır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Split_BW_2024-10-02_13-14-50.jpg",
+        "imageTitle": "Saint Domnius’ Cathedral\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saint Domnius Katedrali, Hırvatistan’ın Split kentinde, antik Diocletianus Sarayı’nın kalbinde yer alır ve dünyanın hâlâ kullanılan en eski katedrallerinden biridir.\n\nAslen Roma İmparatoru Diocletianus’un mozolesi olarak inşa edilen yapı, 7. yüzyılda Hristiyanlar tarafından katedrale dönüştürülmüştür. İlginç bir ironi olarak, Hristiyanları zulmeden bir imparatorun mezarı daha sonra bir Hristiyan ibadet yerine dönüştürülmüştür. Katedral, Split’in koruyucu azizi olan Aziz Domnius’a adanmıştır.\n\nRomanesk çan kulesi 12. yüzyılda eklenmiş ve şehir manzarasına hâkim olan bir sembol hâline gelmiştir. İç mekânda, detaylı taş oymaları, freskler ve dini ikonalar görülmeye değerdir. Günümüzde hem dini törenler için kullanılmakta hem de turistler tarafından yoğun ilgi görmektedir."
+      },{
+        "type": "image-block",
+        "image": "/images/Gregory_statue.jpg",
+        "imageTitle": "Gregory of Nin Statue\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Gregory of Nin Heykeli, Hırvatistan’ın Split kentinde yer alan etkileyici bir bronz heykeldir ve ülkenin tarihindeki önemli bir figürü anmak için yapılmıştır. 10. yüzyılda yaşamış olan Piskopos Gregory of Nin, dini ayinlerin halkın anlayabileceği şekilde Latince yerine Hırvatça yapılmasını savunarak büyük bir değişime öncülük etmiştir. Bu kararıyla halkın dini törenlere daha fazla katılım göstermesini sağlamıştır.\n\nHeykel, ünlü Hırvat heykeltıraş Ivan Meštrović tarafından yapılmış ve yaklaşık 8.5 metre yüksekliğindedir. Ziyaretçiler arasında en bilinen gelenek, heykelin ayağını ovuşturmak; bunun şans getirdiğine inanılır. Bu yüzden heykelin ayak kısmı yıllar içinde parlamıştır. Gregory of Nin Heykeli, hem tarihi hem de kültürel açıdan Split'in simge yapılarından biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/goldendatesplit.jpg",
+        "imageTitle": "Golden Gate\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Golden Gate (Zlatna Vrata), Hırvatistan’ın Split şehrinde yer alan ve Diocletianus Sarayı'nın dört ana kapısından biri olan en görkemli giriş kapısıdır. MS 4. yüzyılda Roma İmparatoru Diocletianus tarafından inşa edilen bu sarayın kuzey tarafında yer alır ve zamanında sadece imparator ve yakın çevresi tarafından kullanılmak üzere yapılmıştır.\n\nGolden Gate, adını yapımında kullanılan sarımsı taşlardan değil, bu anıtsal kapının ihtişamından alır. Asıl adı “Porta Aurea” olan bu yapı, Roma mimarisinin detaylarını yansıtan kemerli bir girişe, zarif sütunlara ve detaylı süslemelere sahiptir.\n\nBugün kapı, Split’in tarihi merkezine girişte önemli bir durak olup, hemen önünde Gregory of Nin Heykeli yer alır. Ziyaretçiler, bu kapının görkemli mimarisini keşfederken aynı zamanda Roma dönemine ait izleri de yakından görme fırsatı bulurlar. Golden Gate, Split’in en çok fotoğraflanan tarihi noktalarından biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Vestibule,_Diocletian's_Palace_at_Night,_Split,_autor_Istriana.jpg",
+        "imageTitle": "Vestibul\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Vestibul, Hırvatistan’ın Split şehrinde, Diocletianus Sarayı kompleksinin içinde yer alan tarihi bir yapıdır. Bu yapı, sarayın merkezindeki Peristil Meydanı ile imparatorun özel dairesi arasındaki geçiş alanı olarak tasarlanmıştır.\n\nDairesel planlı bu yapı, MS 4. yüzyılda inşa edilmiş olup antik Roma mimarisinin etkileyici örneklerinden biridir. Üstü eskiden kubbe ile örtülü olan Vestibul’un iç kısmı oldukça yüksek olup, yukarı doğru açılan dairesel bir açıklık (oculus) ile aydınlatılır. İç duvarları beyaz mermerle kaplıyken, dış kısmı daha sade taş işçiliğine sahiptir.\n\nVestibul, bir zamanlar imparatorun ziyaretçileriyle ilk karşılaştığı yer olması nedeniyle oldukça sembolik bir öneme sahiptir. Günümüzde bu etkileyici yapının içinde akustik özelliklerinden dolayı bazen Dalmaçya halk müziği koroları kısa konserler vermektedir."
+      },{
+        "type": "image-block",
+        "image": "/images/Split17(js).jpg",
+        "imageTitle": "Jüpiter Tapınağı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Jüpiter Tapınağı, Hırvatistan’ın Split kentindeki Diocletianus Sarayı kompleksi içerisinde yer alan antik bir Roma tapınağıdır. MS 3. yüzyılın sonlarında inşa edilmiştir ve Roma tanrılarından Jüpiter'e adanmıştır.\n\nBaşlangıçta Roma mitolojisinin baş tanrısı Jüpiter’e ibadet etmek için inşa edilen bu küçük ama etkileyici yapı, zamanla Hristiyanlık yayılınca vaftizhaneye dönüştürülmüştür. Bu dönüşüm, yapının mimarisini tamamen değiştirmemiş, Roma döneminin izleri korunmuştur. Tapınağın önünde yer alan sfenks heykeli, Mısır’dan getirilen ve antik kültürlerin birleşimini simgeleyen dikkat çekici bir parçadır.\n\nTapınağın iç kısmı oldukça dar ve dikdörtgen planlıdır. Tavanı detaylı kabartmalarla süslenmiştir ve bu süslemeler, Roma sanatının yüksek işçiliğini sergiler.\n\nBugün Jüpiter Tapınağı, hem antik bir pagan tapınağı hem de erken dönem Hristiyan yapısı olarak, Split’te görülmesi gereken en önemli tarihi eserlerden biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Game_of_Thrones_Drache_im_Keller_vom_Diokletianpalast_in_Split,_Kroatien_(48693344613).jpg",
+        "imageTitle": "Game of Thrones Müzesi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Game of Thrones Müzesi, Hırvatistan’ın Dubrovnik şehrinde yer alan ve popüler televizyon dizisi Game of Thrones’un hayranları için özel olarak hazırlanmış bir müzedir. Dubrovnik, dizide Kralın Şehri (King’s Landing) olarak kullanıldığı için diziyle bağlantılı birçok sahne burada çekilmiştir.\n\nMüze, dizinin set tasarımlarını, kostümlerini, orijinal senaryoları ve çeşitli prodüksiyon materyallerini sergileyerek ziyaretçilere dizi dünyasının büyüsünü yakından deneyimleme fırsatı sunar. Ayrıca, ziyaretçiler interaktif ekranlar ve fotoğraf alanları sayesinde dizinin unutulmaz sahnelerini yeniden yaşayabilirler.\n\nGame of Thrones Müzesi, sadece dizi meraklıları için değil, aynı zamanda Dubrovnik’in tarihi dokusunu ve kültürel mirasını anlamak isteyen turistler için de ilgi çekici bir duraktır"
+      },{
+        "type": "image-block",
+        "image": "/images/Christmas_cheer_(5462582476).jpg",
+        "imageTitle": "Narodni trg Meydanı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Narodni trg, Hırvatistan’ın başkenti Zagreb’de bulunan tarihi ve sosyal açıdan önemli bir meydandır. Adı “Halk Meydanı” anlamına gelir ve uzun yıllardır Zagreb’in kalbinin attığı yerlerden biri olmuştur.\n\nBu meydan, şehrin kültürel yaşamına ev sahipliği yapan pek çok önemli yapıya ve etkinliğe yakın konumdadır. Eski dönemlerden beri pazar yeri ve buluşma noktası olarak kullanılmış, zamanla tiyatrolar, kafeler ve mağazalarla çevrelenmiştir. Özellikle Zagreb Ulusal Tiyatrosu’nun hemen yanında bulunması nedeniyle sanat ve kültürün merkezi olarak da bilinir.\n\nNarodni trg, canlı atmosferi ve tarihi binalarıyla hem yerel halkın günlük yaşamında hem de turistlerin şehir turunda mutlaka uğradığı duraklardan biridir. Meydan, çeşitli festivallere, konserlere ve sosyal etkinliklere de sıkça ev sahipliği yapar."
+      },{
+        "type": "image-block",
+        "image": "/images/20130605_Split_08.jpg",
+        "imageTitle": "Radić Kardeşler Meydan",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Radić Kardeşler Meydanı ya da daha yaygın bilinen adıyla Meyve Meydanı (Trg Voćni), Hırvatistan’ın Zagreb şehrinde, şehir merkezinde bulunan tarihi ve canlı bir meydandır. İsmini 1928’de suikaste uğrayan Hırvat siyasetçi ve aktivist Stjepan Radić ve kardeşlerinden alır.\n\nBu meydan, adını özellikle geçmişte burada kurulan sebze ve meyve pazarından almıştır. Günümüzde de hareketli bir atmosferi vardır; kafeler, restoranlar ve mağazalarla çevrilidir. Burası hem yerel halkın buluşma noktası hem de turistlerin sıkça ziyaret ettiği sosyal bir merkezdir.\n\nRadić Kardeşler Meydanı, Zagreb’in kültürel dokusunu yansıtan küçük ama önemli alanlardan biridir. Meydanda sık sık sokak sanatçıları performans sergiler, küçük festivaller düzenlenir ve bölgenin enerjisini artırır. "
+      },{
+        "type": "image-block",
+        "image": "/images/HR201554.jpg",
+        "imageTitle": "Žnjan City Beach",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Žnjan City Beach, Hırvatistan’ın Split şehrinde bulunan en büyük ve en popüler plajlardan biridir. Şehir merkezinin güneydoğusunda yer alır ve hem yerli halk hem de turistler tarafından yoğun şekilde tercih edilir.\n\nBu plaj, taşlık ve çakıllı yapısıyla tipik bir Adriyatik kıyı plajıdır. Sahil boyunca uzanan yürüyüş yolu, kafeler, restoranlar, dondurmacılar ve sahil barları ile çevrilidir. Geniş alanı sayesinde kalabalık dönemlerde bile rahat bir atmosfer sunar.\n\nŽnjan, özellikle aileler, çocuklu ziyaretçiler ve deniz sporları tutkunları için idealdir. Şezlong ve şemsiye kiralama hizmetleri, soyunma kabinleri ve duşlar gibi olanaklara sahiptir. Ayrıca su sporları aktiviteleri (jet ski, paddle board, su bisikleti) oldukça yaygındır."
+      },{
+        "type": "image-block",
+        "image": "/images/Firule_Beach_with_a_view_to_Marina_Zenta_in_Split,_Croatia_(48608227168).jpg",
+        "imageTitle": "Firule Beach\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "Firule Beach, Split’in doğu kısmında, şehir merkezine yakın konumda yer alan sakin ve aile dostu bir plajdır. Özellikle çocuklu aileler ve yerel halk arasında oldukça popülerdir.\n\nPlaj, ince çakıl ve kum karışımı bir zemine sahiptir, bu da çıplak ayakla yürümeyi konforlu hale getirir. Denize giriş oldukça sığdır, bu da çocuklar ve yüzme bilmeyenler için güvenli bir ortam sunar.\n\nFirule, çevresindeki ağaçlık alanlar sayesinde gölgelenme imkânı da sağlar. Plajda şezlong ve şemsiye kiralama, duşlar ve soyunma kabinleri gibi olanaklar mevcuttur. Ayrıca sahil boyunca küçük kafe ve büfelerden atıştırmalıklar ve içecekler temin edebilirsiniz.\n\nTenis kortları ve spor tesislerinin de yakınında yer aldığı bu plaj, sakinliği ve kolay ulaşılabilirliğiyle Split'te rahat bir deniz keyfi yaşamak isteyenler için ideal bir tercihtir.",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/Aerial_view_of_Bacvice_Beach_with_a_view_to_Split_in_the_background,_Croatia_(48608737377).jpg",
+        "imageTitle": "Bacvice Beach\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Bačvice Beach, Split’in en ünlü ve en merkezi plajıdır. Şehir merkezine sadece birkaç dakikalık yürüme mesafesinde yer alır ve özellikle yaz aylarında hem yerli halkın hem de turistlerin gözdesidir.\n\nPlaj, ince kumlu yapısıyla dikkat çeker ve denizi oldukça sığdır – bu da onu çocuklar ve yüzme bilmeyenler için ideal hale getirir. Split’in ikonik deniz oyunu olan \"picigin\", yıllardır bu plajda oynanır ve plajın kültürel bir simgesi haline gelmiştir.\n\nBačvice, gün boyu güneşlenmek ve yüzmek için ideal olduğu kadar, gece hayatıyla da ünlüdür. Sahil boyunca restoranlar, kafeler, barlar ve gece kulüpleri sıralanır. Akşam saatlerinde canlı müzik ve eğlence atmosferiyle hareketlenir.\n\nPlajda şezlong, şemsiye, duş, soyunma kabinleri ve cankurtaran hizmetleri gibi olanaklar da bulunmaktadır. Kolay ulaşımı, sosyal olanakları ve enerjik atmosferiyle Bačvice Beach, Split’te deniz keyfi için en popüler noktalardan biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Kasuni_beach_Split.jpg",
+        "imageTitle": "Kašjuni Beach\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Kašjuni Beach, Split’in batı kıyısında, Marjan Tepesi’nin eteklerinde yer alan huzurlu ve doğayla iç içe bir plajdır. Şehir merkezine araçla yaklaşık 10 dakika mesafede bulunan bu plaj, kalabalıktan uzaklaşmak ve sakin bir deniz keyfi yaşamak isteyenler için idealdir.\n\nÇakıl taşlı yapıya sahip olan Kašjuni, kristal berraklığındaki denizi ve yemyeşil çevresiyle öne çıkar. Denizi derinleşmeye müsait olduğu için yüzmeyi sevenler için oldukça uygundur. Aynı zamanda su sporlarıyla ilgilenenler için paddle board ve kano gibi aktiviteler de mevcuttur.\n\nPlajda şezlong ve şemsiye kiralama hizmeti, duş alanları, soyunma kabinleri ve bir beach bar bulunmaktadır. Bu bar, gün boyunca soğuk içecekler ve atıştırmalıklar sunarken, akşam saatlerinde daha canlı bir atmosfere dönüşebilir.\n\nKašjuni Beach, hem doğa severlerin hem de sakinlik arayan gezginlerin Split’teki favori duraklarından biridir."
+      },
+      {
+    "title": "Split Mutfak Kültürü",
+    "type": "text",
+    "content": "Split, Dalmaçya kıyılarının en önemli şehirlerinden biri olarak zengin bir Akdeniz mutfağına sahiptir. Yöresel yemekler, taze deniz ürünleri, kaliteli zeytinyağı, yerel otlar ve yavaş pişirme teknikleri ile öne çıkar. Geleneksel yemekler, İtalya mutfağının etkilerini taşırken, bölgenin kendine özgü lezzetlerini de korur. Hem lüks restoranlarda hem de 'konoba' adı verilen geleneksel meyhanelerde yöresel lezzetleri tadabilirsiniz."
+  },
+  {
+    "title": "Split'te Nerede Ne Yenir?",
+    "type": "text",
+    "content": "Split'in en meşhur yemeği, dana etinin uzun süre marine edilerek erik, havuç ve baharatlarla kırmızı şarap sosunda yavaşça pişirilmesiyle hazırlanan 'Pašticada'dır. Bu yemek genellikle ev yapımı gnocchi (patatesli hamur) ile servis edilir. Deniz ürünlerinde ise, kalamar mürekkebiyle hazırlanan 'Crni Rižot' (siyah risotto) ve 'Peka' adı verilen geleneksel yöntemle demir çan altında pişirilen ahtapot çok popülerdir. 'Soparnik' (pazılı, soğanlı bir tür börek) ise Split çevresine özgü, korunmuş coğrafi işaretli bir lezzettir."
+  },
+  {
+    "title": "Önerilen Split Mekanları ve Lezzetleri",
+    "type": "list",
+    "intro": "Split'in zengin mutfak mirasını tadabileceğiniz bazı özel adresler:",
+    "listItems": [
+      "<B>Konoba Varoš (Varoš Bölgesi):</B> Geleneksel Dalmaçya mutfağını otantik bir atmosferde sunan, yerel halk arasında popüler bir konoba. Özellikle 'Pašticada' ve deniz ürünleri için tercih edilir.",
+      "<B>Buffet Fife (Matejuška):</B> Bütçe dostu fiyatları ve bol porsiyonlarıyla bilinen, canlı bir restoran. Geleneksel ev yemekleri ve taze balık denemek için idealdir. Menüde yerel lezzetlerin çoğu bulunur.",
+      "<B>Villa Spiza (Eski Şehir):</B> Dar bir sokakta gizlenmiş, küçük ve samimi bir mekan. Her gün taze malzemelerle hazırlanan menüsüyle tanınır. Otantik Dalmaçya yemekleri için harika bir adrestir.",
+      "<B>Bokeria Kitchen & Wine (Eski Şehir):</B> Şık ve modern bir iç mekana sahip olan bu restoran, geleneksel Dalmaçya lezzetlerini modern bir yorumla sunar. Geniş şarap menüsüyle de dikkat çeker.",
+      "<B>Konoba Fetivi (Veli Varoš):</B> Eski şehrin hareketli kısmından uzak, otantik ve yerel bir yemek deneyimi arayanlar için mükemmel bir seçenektir. Geleneksel balık yemekleri ve `peka` çeşitleriyle meşhurdur."
+    ]
+  },
+  {
+    "imageTitle": "Dalmaçya'nın İmzası: Pašticada",
+    "type": "image-block",
+    "image": "/images/pastica.jpg",
+    "imageCaption": "Uzun süre pişirilmiş dana eti, zengin sos ve ev yapımı gnocchi ile servis edilen yöresel lezzet."
+  },
+  {
+    "imageTitle": "Geleneksel 'Peka' Yemeği",
+    "type": "image-block",
+    "image": "/images/Dutch-oven-sac.jpg",
+    "imageCaption": "Ahtapot, kuzu veya dana etinin sebzelerle birlikte özel bir demir çan altında ağır ateşte pişirilmesiyle elde edilen geleneksel bir ziyafet yemeği."
   }
 
+    ]
+  },
 
 
 
 
+
+
+
+  {
+    "id": "viyana",
+    "countryId": "avusturya",
+    "name": "Viyana",
+    "description": "Viyana Sadece ",
+    "coverImage": "/images/WienSchlossBelvedereoberes.jpg",
+    "image": "/images/WienSchlossBelvedereoberes.jpg",
+    "routes": [
+      {
+        "title": "1.Gün: Belveder ",
+        "mapEmbedUrl": "",
+        "mapLinkUrl": "https://maps.app.goo.gl/Xx7oDSabJf5ePuiH8",
+        "steps": [
+          {
+            "from": "Belveder",
+            "to": "Viyana",
+            "duration": "40 dakika",
+            "distance": "3,0 km",
+            "image": "/images/wien_route1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "2.Gün: Aziz Stephan Katedrali'nden Church Maria am Gestade'na Tarihi Rota ",
+        "mapEmbedUrl": "",
+        "mapLinkUrl": "https://maps.app.goo.gl/N29jZ1ADirxXnw3c8",
+        "steps": [
+          {
+            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
+            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "duration": "54 dakika",
+            "distance": "3.9 km",
+            "image": "/images/wien_route2.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "'da Neler Yapılır?",
+        "type": "text",
+        "content": "Viyana  İşte Viyana'da mutlaka yapmanız gerekenler:"
+      },
+      {
+        "title": "Milano Toplu Taşıma Rehberi",
+        "type": "text",
+        "content": "Milano Bergamo Havalimanı şehir merkezine biraz uzaktadır. Havalimanı çıkışında Milano Merkez İstasyonuna giden otobüsleri kullanabilirsiniz. Otobüs şöföründen bilet alınabiliyor. \n\n Milano'da ulaşım ağı oldukça gelişmiştir ve metro, tramvay, otobüs hatlarıyla şehrin her yerine kolayca ulaşım sağlayabilirsiniz. Özellikle şehir merkezinde ve ana turistik bölgelerde metro en hızlı ve pratik seçenektir. Biletler metro istasyonlarındaki otomatik makinelerden, gazete bayilerinden (Edicola) veya tütüncülerden (Tabaccheria) temin edilebilir. Ayrıca ATM (Azienda Trasporti Milanesi) mobil uygulamasını kullanarak da bilet alabilirsiniz.\n\n Bilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi ATM sitesini kontrol ediniz):\n\n<B>90 Dakikalık Bilet (Standard Urban Ticket):</B> 2,20 €\n     Tek bir metro yolculuğu (aktarma hakkı yok) ve 90 dakika içinde sınırsız otobüs/tramvay yolculuğu için geçerlidir.\n <B>24 Saatlik Bilet:</B> 7,60 €\n     İlk kullanımınızdan itibaren 24 saat boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n <B>3 Günlük Bilet:</B> 15,50 €\n     İlk kullanımınızdan itibaren 3 gün (72 saat) boyunca tüm metro, otobüs ve tramvay hatlarında sınırsız kullanım sağlar.\n<B>10 Binişlik Bilet (Carnet):</B> 19,50 €\n     10 adet 90 dakikalık tek kullanımlık biletin toplu halidir. Daha uygun fiyata gelir.\n <B>Aylık Kart:</B> 39 €\n     Sık seyahat edenler için uygun olabilir, öğrenciler için özel indirimler mevcut.\n\nBiletinizi ilk kullandığınızda (metroda turnikeden geçerken veya otobüs/tramvayda damgalarken) aktive etmeyi unutmayın. Geçerlilik süresi bu andan itibaren başlar."
+      },
+      {
+        "title": "Milano Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "ATM (Milano Toplu Taşıma) Resmi Sitesi",
+            "url": "https://www.atm.it/en/"
+          },
+          {
+            "name": "GetYourGuide Milano Toplu Taşıma Kartları",
+            "url": "https://www.getyourguide.com/tr-tr/milano-l139/toplu-tasima-biletleri-tc409/"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },
+      {
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },{
+        "type": "image-block",
+        "image": "/images/.jpg",
+        "imageTitle": "Belvedere",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Viyana"
+      },
+      {
+        "title": "Viyana Kahve Kültürü",
+        "type": "text",
+        "content": "Viyana, UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer alan benzersiz bir kahve evleri kültürüne sahiptir. Bu kafeler, sadece kahve içmekten çok, sosyalleşme, gazete okuma ve sanatsal tartışmalar yapma mekanlarıdır. Bir 'Melange' (Viyana'ya özgü bir kahve çeşidi) deneyimi yaşamadan Viyana'dan ayrılmayın."
+      },
+      {
+        "title": "Viyana'da Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Viyana mutfağı, Orta Avrupa'nın zengin tatlarını barındırır. En meşhur yemeği 'Wiener Schnitzel' (Viyana şnitzel) olsa da, 'Tafelspitz' (haşlanmış dana eti), 'Goulash' (macarlı gulaş) ve 'Apfelstrudel' (elmalı strudel) gibi lezzetler de oldukça popülerdir. Viyana'nın 'Heuriger' adı verilen şarap evleri de yerel lezzetleri deneyimlemek için harika yerlerdir. Tatlı kültürü de oldukça gelişmiştir; Sacher Torte, Apfelstrudel ve Kaiserschmarrn (doğranmış pankek) mutlaka denenmelidir."
+      },
+      {
+        "title": "Önerilen Viyana Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Viyana'nın zengin mutfak mirasını tadabileceğiniz bazı özel adresler:",
+        "listItems": [
+          "<B>Figlmüller (Wollzeile):</B> Viyana'nın en ikonik 'Wiener Schnitzel'ini yemek için en meşhur yerlerden biri. İncecik ve çıtır çıtır şnitzel'iyle ünlüdür, rezervasyon şiddetle tavsiye edilir.",
+          "<B>Plachutta Wollzeile (Şehir Merkezi):</B> Geleneksel 'Tafelspitz' (haşlanmış dana eti) için Viyana'nın en bilinen adreslerinden biri. Şık bir ortamda sunulan bu yemeği denemek klasik bir Viyana deneyimidir.",
+          "<B>Café Central (Şehir Merkezi):</B> Viyana'nın en tarihi ve zarif kahve evlerinden biri. Sigmund Freud, Leon Troçki gibi isimlere ev sahipliği yapmış, kahve ve Viyana pastalarını denemek için mükemmel bir atmosfer sunar.",
+          "<B>Naschmarkt:</B> Viyana'nın en büyük ve en ünlü açık hava pazarı. Burada hem yerel hem de uluslararası mutfaklardan sokak lezzetleri, baharatlar, peynirler ve taze ürünler bulabilirsiniz. Çeşitli restoranlar ve büfeler de mevcuttur.",
+          "<B>Demel (Kohlmarkt):</B> Hofburg Sarayı yakınında yer alan, imparatorluk pastanesi olarak bilinen lüks bir kafe ve pastane. Sacher Torte'nin orijinaline yakın bir versiyonunu ve diğer zarif pastaları tadabilirsiniz."
+        ]
+      },
+      {
+        "imageTitle": "Viyana'nın Klasik Lezzeti: Wiener Schnitzel",
+        "type": "image-block",
+        "image": "/images/Wiener-Schnitzel02.jpg",
+        "imageCaption": "İncecik dövülmüş, panelenmiş ve kızartılmış dana etiyle hazırlanan dünyaca ünlü Viyana şnitzel."
+      },
+      {
+        "imageTitle": "Sacher Torte",
+        "type": "image-block",
+        "image": "/images/sachertorte-1280575_1280.jpg",
+        "imageCaption": "Viyana'ya özgü, çikolata kaplı ve kayısı marmelatlı meşhur pasta."
+      }
+    ]
+  }
 
 
 

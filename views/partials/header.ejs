@@ -2,30 +2,32 @@
 <html lang="tr">
 
 <head>
-<meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
-<meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
-<meta name="robots" content="index, follow">
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WKL2F5VG');</script>
-<!-- End Google Tag Manager -->
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1W770WNSQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <meta name="google-site-verification" content="wGBbu10b3JngAR6BGzUX7pZgx1drMmzkP3HhqFJJnX4" />
 
-  gtag('config', 'G-C1W770WNSQ');
-</script>
+    <meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
+    <meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
+    <meta name="robots" content="index, follow">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WKL2F5VG');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1W770WNSQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C1W770WNSQ');
+    </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5145155079973985"
      crossorigin="anonymous">
 
     </script>
-<link rel="icon" href="/public/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/public/favicon.ico" type="image/x-icon">
 
 
 
@@ -42,69 +44,75 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
-    </head>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+</head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <header class="main-header">
-        <div class="container header-content">
-            <div class="logo-container">
-                <a href="/" class="site-logo-link">
-                    <img src="/images/gezginrotam_logo.png" alt="Gezgin Rotam Logo" class="site-logo">
-                    <span class="site-title">Tatildeki Rotam</span>
-                </a>
-            </div>
-            <nav class="main-nav">
-                <button class="hamburger-menu" aria-label="Menüyü Aç/Kapat">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
-                <ul class="nav-links">
-                 <li><a href="/">Ana Sayfa</a></li>
-                    <% if (typeof countries !== 'undefined' && countries.length > 0 && typeof allCities !== 'undefined') { %>
-                    <% countries.forEach(function(country) { %>
-                <li class="has-submenu">
-                    <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
-                <ul class="submenu">
-                    <%
-                        var countryCities = allCities.filter(function(city) {
-                            return city.countryId === country.id;
-                        });
-                    %>
-                    <% if (countryCities.length > 0) { %>
-                        <% countryCities.forEach(function(city) { %>
-                            <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
-                        <% }); %>
-                    <% } else { %>
-                        <li><a href="#">Şehir yok</a></li>
-                    <% } %>
-                </ul>
-                </li>
-            <% }); %>
-        <% } %>
-            <li class="search-icon-container">
-                <a href="/search-results" id="openSearchBtn" aria-label="Arama Kutusu Aç">
-                    <i class="fas fa-search"></i>
-                </a>
-            </li>
-        </ul>
-            </nav>
-        </div>
-    </header>
 
-     <div id="search-overlay" class="search-overlay">
-        <a href="#" class="close-search-btn">&times;</a>
-        <div class="search-overlay-content">
-            <form action="/search" method="GET" class="search-overlay-form">
-                <input type="text" placeholder="Şehir, ülke veya rotaları arayın..." name="query">
-                <button type="submit"><i class="fas fa-search"></i></button>
-            </form>
-            <p class="search-help-text">
-                Popüler aramalar: Venedik, Roma, Paris, Japonya
-            </p>
+    <header class="main-header">
+    <div class="container header-content">
+        <div class="logo-container">
+            <a href="/" class="site-logo-link">
+                <img src="/images/gezginrotam_logo.png" alt="Gezgin Rotam Logo" class="site-logo">
+                <span class="site-title">Tatildeki Rotam</span>
+            </a>
         </div>
+        <nav class="main-nav">
+            <button class="hamburger-menu" aria-label="Menüyü Aç/Kapat">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="/">Ana Sayfa</a></li>
+                <% if (typeof countries !== 'undefined' && countries.length > 0 && typeof allCities !== 'undefined') { %>
+                <li class="has-submenu">
+                    <a href="#">Ülkeler <span class="arrow-down"></span></a>
+                    <ul class="submenu">
+                        <% countries.forEach(function(country) { %>
+                        <li class="has-submenu">
+                            <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
+                            <ul class="submenu">
+                                <%
+                                    var countryCities = allCities.filter(function(city) {
+                                        return city.countryId === country.id;
+                                    });
+                                %>
+                                <% if (countryCities.length > 0) { %>
+                                    <% countryCities.forEach(function(city) { %>
+                                        <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
+                                    <% }); %>
+                                <% } else { %>
+                                    <li><a href="#">Şehir yok</a></li>
+                                <% } %>
+                            </ul>
+                        </li>
+                        <% }); %>
+                    </ul>
+                </li>
+                <% } %>
+                <li class="search-icon-container">
+                    <a href="/search-results" id="openSearchBtn" aria-label="Arama Kutusu Aç">
+                        <i class="fas fa-search"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
     </div>
-    <main class="container">
+</header>
+<div id="search-overlay" class="search-overlay">
+    <a href="/search-results" class="close-search-btn">&times;</a>
+    <div class="search-overlay-content">
+        <form action="/search-results" method="GET" class="search-overlay-form">
+            <input type="text" placeholder="Şehir, ülke veya rotaları arayın..." name="query">
+            <button type="submit"><i class="fas fa-search"></i></button>
+        </form>
+        <p class="search-help-text">
+            Popüler aramalar: Venedik, Roma, Paris, Japonya
+        </p>
+    </div>
+</div>
+<script src="/js/main.js"></script>
+<main class="container">

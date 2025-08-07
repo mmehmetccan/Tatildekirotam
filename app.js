@@ -49,9 +49,12 @@ app.get('/country/:id', (req, res) => {
     } else {
         res.status(404).send('Ülke bulunamadı.');
     }
-    res.render('index', {
-        pageUrl: req.originalUrl
-    });
+    res.render('country', {
+        pageTitle: `${countries.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. - Tatildeki Rotam`,
+
+});
+
+
 });
 
 app.get('/city/:id', (req, res) => {
@@ -68,73 +71,12 @@ app.get('/city/:id', (req, res) => {
     } else {
         res.status(404).send('Şehir bulunamadı.');
     }
-    res.render('index', {
-        pageUrl: req.originalUrl
-    });
-});
-app.get('/search', (req, res) => {
-    const searchQuery = req.query.query;
-    console.log(`Aranan kelime: ${searchQuery}`);
+    res.render('city', {
+        pageTitle: `${city.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. Ayrıca Toplu Taşıma Fiyatları Ve Havalimanı Ulaşımı Hakkında bilgileri bulabileceğiniz pratik bilgiler sizlerle. - Tatildeki Rotam`,
 
-    const searchResults = [
-        {
-            title: `${searchQuery} ile ilgili sonuç 1`,
-            description: `Bu ilk arama sonucu, ${searchQuery} kelimesini içerir.`,
-            imageUrl: 'https://via.placeholder.com/150',
-            link: '/city/example1'
-        },
-        {
-            title: `${searchQuery} ile ilgili sonuç 2`,
-            description: `Bu ikinci arama sonucu, ${searchQuery} kelimesini içerir.`,
-            imageUrl: 'https://via.placeholder.com/150',
-            link: '/city/example2'
-        }
-    ];
-
-    res.render('search_results', { query: searchQuery, searchResults: searchResults });
 });
 
 
-app.get('/smart-search', (req, res) => {
-    const searchQuery = req.query.query ? req.query.query.toLocaleLowerCase('tr-TR').trim() : '';
-
-    if (!searchQuery) {
-        return res.redirect('/');
-    }
-
-    const exactCityMatch = cities.find(city => city.name.toLocaleLowerCase('tr-TR') === searchQuery);
-    if (exactCityMatch) {
-        return res.redirect(`/city/${exactCityMatch.id}`);
-    }
-
-    const exactCountryMatch = countries.find(country => country.name.toLocaleLowerCase('tr-TR') === searchQuery);
-    if (exactCountryMatch) {
-        return res.redirect(`/country/${exactCountryMatch.id}`);
-    }
-
-    const filteredCities = cities.filter(city => {
-        const cityNameLower = city.name.toLocaleLowerCase('tr-TR');
-        const cityDescriptionLower = city.description ? city.description.toLocaleLowerCase('tr-TR') : '';
-        return cityNameLower.includes(searchQuery) ||
-               cityDescriptionLower.includes(searchQuery);
-    });
-
-    const filteredCountries = countries.filter(country => {
-        const countryNameLower = country.name.toLocaleLowerCase('tr-TR');
-        return countryNameLower.includes(searchQuery);
-    });
-
-    res.render('search_results', {
-        countries: countries,
-        allCities: cities,
-        searchResultsCities: filteredCities,
-        searchResultsCountries: filteredCountries,
-        searchQuery: req.query.query
-    });
-    res.render('index', {
-
-        pageUrl: req.originalUrl
-    });
 });
 
 app.get('/search-results', (req, res) => {
@@ -162,12 +104,16 @@ app.get('/search-results', (req, res) => {
         searchResultsCountries: filteredCountries,
         searchQuery: req.query.query
     });
-    res.render('index', {
-
-        pageUrl: req.originalUrl
-    });
 });
 
+
+app.get('/privacy-policy', (req, res) => {
+    res.render('privacy-policy', {
+        countries: countries,
+        allCities: cities,
+        pageTitle: 'Gizlilik Politikası'
+    });
+});
 
 app.get('/privacy-policy', (req, res) => {
     res.render('privacy-policy', {
@@ -175,6 +121,8 @@ app.get('/privacy-policy', (req, res) => {
         allCities: cities
     });
 });
+
+
 
 
 

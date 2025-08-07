@@ -1,7 +1,11 @@
 <%- include('partials/header', { countries: countries, allCities: allCities }) %>
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<meta name="google-site-verification" content="wGBbu10b3JngAR6BGzUX7pZgx1drMmzkP3HhqFJJnX4" />
+<meta name="description" content="Yurt içi ve yurt dışı tatil rotaları,yemek rehberi ,nerede ne yenir,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir ,gezilecek yerler ve seyahat ipuçları.">
+<meta name="keywords" content="tatil, gezi, seyahat, rota, yemek, nerede ne yenir, gezilecek yerler, gezi rotaları,toplu taşıma, toplu taşıma fiyatları, nasıl validate edilir, yurtdışı,yurt dışı toplu taşıma, toplu taşıma fiyatları, toplu taşıma ,yurtiçi, blog">
+<meta name="robots" content="index, follow">
+
 <section class="city-hero" style="background-image: url('<%= city.coverImage %>');">
     <div class="hero-overlay">
         <h1><%= city.name %> Gezilecek Yerler Ve Nerede Ne Yenir</h1>
@@ -10,10 +14,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </section>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKL2F5VG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 <% if (city.routes && city.routes.length > 0) { %>
     <section class="city-routes-section container">
 
@@ -152,6 +152,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <img class="modal-content" id="modalImage">
 </div>
 
-<script src="/js/main.js"></script>
+<script src="/public/js/main.js"></script>
 
 <%- include('partials/footer') %>
