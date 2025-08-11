@@ -28,6 +28,9 @@
 
     </script>
     <link rel="shortcut icon" href="/public/favicon.png" type="image/x-png">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://tatildekirotam.com/sitemap.xml">
+    <title><%= typeof title !== 'undefined' ? title : 'Tatildeki Rotam - Gezilecek Yerler ve Seyahat Rehberi' %></title>
+    <meta name="description" content="<%= typeof pageDescription !== 'undefined' ? pageDescription : 'Yurt içi ve yurt dışı tatil rotaları, yemek rehberi, gezilecek yerler ve seyahat ipuçları.' %>">
 
 
 
@@ -50,69 +53,99 @@
     <!-- End Google Tag Manager (noscript) -->
 </head>
 <body>
-
     <header class="main-header">
-    <div class="container header-content">
-        <div class="logo-container">
-            <a href="/" class="site-logo-link">
-                <img src="/images/gezginrotam_logo.png" alt="Gezgin Rotam Logo" class="site-logo">
-                <span class="site-title">Tatildeki Rotam</span>
-            </a>
-        </div>
-        <nav class="main-nav">
-            <button class="hamburger-menu" aria-label="Menüyü Aç/Kapat">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-            <ul class="nav-links">
-                <li><a href="/">Ana Sayfa</a></li>
-                <% if (typeof countries !== 'undefined' && countries.length > 0 && typeof allCities !== 'undefined') { %>
-                <li class="has-submenu">
-                    <a href="#">Ülkeler <span class="arrow-down"></span></a>
-                    <ul class="submenu">
-                        <% countries.forEach(function(country) { %>
-                        <li class="has-submenu">
-                            <a href="/country/<%= country.id %>"><%= country.name %> <span class="arrow-down"></span></a>
-                            <ul class="submenu">
-                                <%
-                                    var countryCities = allCities.filter(function(city) {
-                                        return city.countryId === country.id;
-                                    });
-                                %>
-                                <% if (countryCities.length > 0) { %>
-                                    <% countryCities.forEach(function(city) { %>
-                                        <li><a href="/city/<%= city.id %>"><%= city.name %></a></li>
-                                    <% }); %>
-                                <% } else { %>
-                                    <li><a href="#">Şehir yok</a></li>
-                                <% } %>
-                            </ul>
-                        </li>
-                        <% }); %>
-                    </ul>
-                </li>
-                <% } %>
-                <li class="search-icon-container">
-                    <a href="/search-results" id="openSearchBtn" aria-label="Arama Kutusu Aç">
+        <div class="container header-content">
+            <div class="logo-container">
+                <a href="/" class="site-logo-link">
+                    <img src="/images/gezginrotam_logo.png" alt="Tatildeki Rotam Logo" class="site-logo">
+
+                </a>
+                <h1 class="site-title"><a href="/" class="site-logo-link">Tatildeki Rotam</a></h1>
+            </div>
+
+            <nav class="main-nav">
+                <ul class="nav-links">
+                    <li><a href="/">Ana Sayfa</a></li>
+                    <li class="has-submenu">
+                        <a href="#">Ülkeler</a>
+                        <ul class="submenu">
+                            <% if (countries && allCities) { %>
+                                <% countries.forEach(function(country) { %>
+                                    <li class="has-submenu">
+                                        <a href="/country/<%= country.id %>">
+                                            <%= country.name %>
+                                        </a>
+                                        <ul class="submenu">
+                                            <% const countryCities = allCities.filter(c => c.countryId === country.id); %>
+                                            <% if (countryCities.length > 0) { %>
+                                                <% countryCities.forEach(function(city) { %>
+                                                    <li>
+                                                        <a href="/city/<%= city.id %>">
+                                                            <%= city.name %>
+                                                        </a>
+                                                    </li>
+                                                <% }); %>
+                                            <% } else { %>
+                                                <li><a href="#">Şehir yok</a></li>
+                                            <% } %>
+                                        </ul>
+                                    </li>
+                                <% }); %>
+                            <% } %>
+                        </ul>
+                    </li>
+                    <li><a href="/search">
                         <i class="fas fa-search"></i>
-                    </a>
-                </li>
+                    </a></li>
+                </ul>
+            </nav>
+
+            <button class="menu-toggle" aria-label="Menüyü aç/kapa">
+                <span class="hamburger"></span>
+            </button>
+        </div>
+    </header>
+
+    <div class="mobile-menu">
+        <div class="mobile-menu-header">
+            <a href="/" class="site-logo-link">
+                <img src="/images/gezginrotam_logo.png" alt="Tatildeki Rotam Logo" class="site-logo-mobile">
+                <h1 class="site-title">Tatildeki Rotam</h1>
+
+            </a>
+            <button class="menu-toggle" aria-label="Menüyü kapat">
+                <span class="hamburger"></span>
+            </button>
+        </div>
+        <ul class="mobile-nav-links">
+            <li><a href="/" class="mobile-nav-link">Ana Sayfa</a></li>
+            <li class="has-submenu-mobile">
+                <span class="mobile-nav-link">Ülkeler</span>
+                <ul class="submenu-mobile">
+                    <% if (countries && allCities) { %>
+                        <% countries.forEach(function(country) { %>
+                            <li class="has-submenu-mobile">
+                                <a href="/country/<%= country.id %>">
+                                    <%= country.name %>
+                                </a>
+                                <ul class="submenu-mobile">
+                                    <% const countryCities = allCities.filter(c => c.countryId === country.id); %>
+                                    <% if (countryCities.length > 0) { %>
+                                        <% countryCities.forEach(function(city) { %>
+                                            <li>
+                                                <a href="/city/<%= city.id %>">
+                                                    <%= city.name %>
+                                                </a>
+                                            </li>
+                                        <% }); %>
+                                    <% } %>
+                                </ul>
+                            </li>
+                        <% }); %>
+                    <% } %>
+                </ul>
+            </li>
             </ul>
-        </nav>
     </div>
-</header>
-<div id="search-overlay" class="search-overlay">
-    <a href="/search-results" class="close-search-btn">&times;</a>
-    <div class="search-overlay-content">
-        <form action="/search-results" method="GET" class="search-overlay-form">
-            <input type="text" placeholder="Şehir, ülke veya rotaları arayın..." name="query">
-            <button type="submit"><i class="fas fa-search"></i></button>
-        </form>
-        <p class="search-help-text">
-            Popüler aramalar: Venedik, Roma, Paris, Japonya
-        </p>
-    </div>
-</div>
 <script src="/js/main.js"></script>
 <main class="container">

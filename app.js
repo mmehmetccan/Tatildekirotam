@@ -40,7 +40,7 @@ app.get('/country/:id', (req, res) => {
     if (country) {
         const countryCities = cities.filter(city => city.countryId === countryId);
         res.render('country', {
-            pageTitle: country.name + ' Şehirleri',
+             pageTitle: `${countries.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. - Tatildeki Rotam`,
             country: country,
             cities: countryCities,
             countries: countries,
@@ -49,10 +49,6 @@ app.get('/country/:id', (req, res) => {
     } else {
         res.status(404).send('Ülke bulunamadı.');
     }
-    res.render('country', {
-        pageTitle: `${countries.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. - Tatildeki Rotam`,
-
-});
 
 
 });
@@ -63,18 +59,15 @@ app.get('/city/:id', (req, res) => {
 
     if (city) {
         res.render('city', {
-            pageTitle: city.name + ' Keşif Rehberi',
+            pageTitle: `${city.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. Ayrıca Toplu Taşıma Fiyatları Ve Havalimanı Ulaşımı Hakkında bilgileri bulabileceğiniz pratik bilgiler sizlerle. - Tatildeki Rotam`,
             city: city,
             countries: countries,
-            allCities: cities
+            allCities: cities,
+
         });
     } else {
         res.status(404).send('Şehir bulunamadı.');
     }
-    res.render('city', {
-        pageTitle: `${city.name} Gezilecek Yerler Ve Nerede Ne Yenir Rehberi. Ayrıca Toplu Taşıma Fiyatları Ve Havalimanı Ulaşımı Hakkında bilgileri bulabileceğiniz pratik bilgiler sizlerle. - Tatildeki Rotam`,
-
-});
 
 
 });

@@ -147,11 +147,48 @@
     <a href="/country/<%= city.countryId %>">Geri Dön</a>
 </div>
 
-<div id="imageModal" class="modal">
-  <span class="close-button">&times;</span>
-  <img class="modal-content" id="modalImage">
+<div id="imageModal" class="modal-overlay">
+  <div class="modal-content">
+    <span class="close-button">&times;</span>
+    <img id="modalImage" src="" alt="Tam Ekran Görsel">
+  </div>
 </div>
 
-<script src="/public/js/main.js"></script>
 
+<script src="/public/js/main.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const imageModal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    const closeButton = document.querySelector('.close-button');
+    const imageTriggers = document.querySelectorAll('.modal-trigger');
+
+    imageTriggers.forEach(trigger => {
+        trigger.addEventListener('click', function() {
+            const fullImageUrl = this.getAttribute('data-src');
+            modalImage.src = fullImageUrl;
+            imageModal.classList.add('visible');
+        });
+    });
+
+    function closeModal() {
+        imageModal.classList.remove('visible');
+        modalImage.src = ''; // Görsel içeriğini temizle
+    }
+
+    closeButton.addEventListener('click', closeModal);
+
+    imageModal.addEventListener('click', function(event) {
+        if (event.target === imageModal) {
+            closeModal();
+        }
+    });
+
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape' && imageModal.classList.contains('visible')) {
+            closeModal();
+        }
+    });
+});
+</script>
 <%- include('partials/footer') %>

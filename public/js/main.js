@@ -1,97 +1,84 @@
-document.addEventListener('DOMContentLoaded', function () {
-    initHamburgerMenu();
-    initSubmenus();
-    initSearchOverlay();
-    initImageModal();
-});
-
-function initHamburgerMenu() {
-    const hamburgerMenu = document.querySelector('.hamburger-menu');
-    const navLinks = document.querySelector('.main-nav .nav-links');
+document.addEventListener('DOMContentLoaded', function() {
+    // Mobil menü
+    const menuToggles = document.querySelectorAll('.menu-toggle');
+    const mobileMenu = document.querySelector('.mobile-menu');
     const body = document.body;
-    const html = document.documentElement;
 
-    if (!hamburgerMenu || !navLinks) return;
-
-    hamburgerMenu.addEventListener('click', function () {
-        navLinks.classList.toggle('active');
-        hamburgerMenu.classList.toggle('active');
-
-        if (navLinks.classList.contains('active')) {
-            body.classList.add('menu-active');
-            html.classList.add('menu-active');
-        } else {
-            body.classList.remove('menu-active');
-            html.classList.remove('menu-active');
-        }
+    menuToggles.forEach(toggle => {
+        toggle.addEventListener('click', () => {
+            mobileMenu.classList.toggle('active');
+            body.classList.toggle('no-scroll');
+            menuToggles.forEach(btn => btn.classList.toggle('active'));
+        });
     });
-}
 
-function initSubmenus() {
-    const hasSubmenus = document.querySelectorAll('.main-nav .has-submenu > a');
-    if (hasSubmenus.length === 0) return;
+    // Mobil menü dropdownları
+    const mobileDropdownToggles = document.querySelectorAll('.has-submenu-mobile > span');
 
-    hasSubmenus.forEach(link => {
-        link.addEventListener('click', function (e) {
-            if (window.innerWidth <= 992) {
-                e.preventDefault();
-                const parentLi = this.parentElement;
-                parentLi.classList.toggle('active');
+    mobileDropdownToggles.forEach(toggle => {
+        toggle.addEventListener('click', function() {
+            const dropdown = this.nextElementSibling;
+            if (dropdown) {
+                dropdown.classList.toggle('active');
             }
         });
     });
-}
 
-function initSearchOverlay() {
-    const searchIcon = document.querySelector('.search-btn');
-    const searchOverlay = document.getElementById('search-overlay');
-    const closeSearchBtn = document.querySelector('.close-search-btn');
-    const body = document.body;
-
-    if (!searchIcon || !searchOverlay || !closeSearchBtn) return;
-
-    searchIcon.addEventListener('click', function (e) {
-        e.preventDefault();
-        searchOverlay.style.display = 'flex';
-        body.style.overflow = 'hidden';
-    });
-
-    closeSearchBtn.addEventListener('click', function (e) {
-        e.preventDefault();
-        searchOverlay.style.display = 'none';
-        body.style.overflow = '';
-    });
-
-    searchOverlay.addEventListener('click', function (e) {
-        if (e.target === this) {
-            searchOverlay.style.display = 'none';
-            body.style.overflow = '';
+    // Sayfa dışına tıklanınca menüyü kapatma
+    document.addEventListener('click', function(event) {
+        if (!mobileMenu.contains(event.target) && !Array.from(menuToggles).some(toggle => toggle.contains(event.target))) {
+            if (mobileMenu.classList.contains('active')) {
+                mobileMenu.classList.remove('active');
+                body.classList.remove('no-scroll');
+                menuToggles.forEach(btn => btn.classList.remove('active'));
+            }
         }
     });
-}
+    // Sayfa yüklendiğinde bu kod çalışır
+    document.addEventListener('DOMContentLoaded', function() {
+        // Gerekli HTML elemanlarını seç
+        const imageModal = document.getElementById('imageModal');
+        const modalImage = document.getElementById('modalImage');
+        const closeButton = document.querySelector('.close-button');
 
-function initImageModal() {
-    const modal = document.getElementById('imageModal');
-    const modalImage = document.getElementById('modalImage');
-    const closeButton = document.querySelector('.close-button');
-    const modalTriggers = document.querySelectorAll('.modal-trigger');
+        // Tüm .modal-trigger elemanlarını seç
+        const imageTriggers = document.querySelectorAll('.modal-trigger');
 
-    if (!modal || !modalImage || !closeButton || modalTriggers.length === 0) return;
+        // Her bir görsel tetikleyicisine tıklama olayını dinle
+        imageTriggers.forEach(trigger => {
+            trigger.addEventListener('click', function() {
+                // Tıklanan elemanın data-src özelliğini al
+                const fullImageUrl = this.getAttribute('data-src');
 
-    modalTriggers.forEach(trigger => {
-        trigger.addEventListener('click', function () {
-            modal.style.display = 'block';
-            modalImage.src = this.dataset.src;
+                // Modal görselinin src özelliğini ayarla
+                modalImage.src = fullImageUrl;
+
+                // Modal pencereyi görünür yap
+                imageModal.classList.add('visible');
+            });
+        });
+
+        // Kapatma butonu veya modalın dışına tıklanınca modalı gizle
+        function closeModal() {
+            imageModal.classList.remove('visible');
+            // Modalın içeriğini temizle (isteğe bağlı)
+            modalImage.src = '';
+        }
+
+        closeButton.addEventListener('click', closeModal);
+
+        imageModal.addEventListener('click', function(event) {
+            // Sadece modalın dışına tıklanırsa kapat
+            if (event.target === imageModal) {
+                closeModal();
+            }
+        });
+
+        // ESC tuşuna basıldığında modalı kapat
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape' && imageModal.classList.contains('visible')) {
+                closeModal();
+            }
         });
     });
-
-    closeButton.addEventListener('click', function () {
-        modal.style.display = 'none';
-    });
-
-    window.addEventListener('click', function (e) {
-        if (e.target === modal) {
-            modal.style.display = 'none';
-        }
-    });
-}
+});
