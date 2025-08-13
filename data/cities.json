@@ -2505,7 +2505,751 @@
   }
 
     ]
+  },
+
+
+
+  {
+    "id": "budapeşte",
+    "countryId": "macaristan",
+    "name": "Budapeşte",
+    "description": "Buda ve Peşte, Macaristan’ın başkenti Budapeşte’yi oluşturan iki tarihi bölgedir ve Tuna Nehri ile birbirinden ayrılır. Buda, şehrin batı yakasında yer alır ve tarih boyunca kraliyet ailesinin ve soyluların merkezi olmuştur. Burası, tepeleri, kaleleri ve tarihi yapılarıyla sakin ve yeşil bir atmosfere sahiptir. En dikkat çekici yerlerinden biri Buda Kalesi ve çevresindeki tarihi mahallelerdir. Ayrıca Gellért Tepesi ve termal kaplıcaları da Buda’nın önemli cazibe merkezlerindendir.\n\nPeşte ise Tuna’nın doğu yakasında bulunur ve şehrin modern yüzünü temsil eder. Burası ticaret, kültür ve eğlence merkezidir. Geniş caddeleri, kafeleri, mağazaları ve müzeleriyle canlı bir şehir hayatı sunar. Parlamento Binası ve Aziz Stephen Bazilikası gibi ikonik yapılar Peşte’de yer alır. Budapeşte’ye gelenler genellikle Buda’nın tarihi ve doğal güzelliklerini, Peşte’nin ise canlı şehir atmosferini keşfetmeyi tercih eder. Bu iki bölgenin zıt karakterleri, Budapeşte’yi hem tarihi hem de çağdaş yönleriyle eşsiz kılar. ",
+    "coverImage": "/images/Budapest_Országház_(31355012995).jpg",
+    "image": "/images/Budapest_Országház_(31355012995).jpg",
+    "routes": [
+      {
+        "title": "1.Gün Buda Yakası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d3716.7571796151988!2d19.03135929693142!3d47.50084830606058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x4741dc4e9c33f309%3A0xb57da2bfde8d7ab6!2zR2VsbMOpcnQgSGFtYW3EsQ!3m2!1d47.4837444!2d19.0516211!4m5!1s0x4741dc4eecb9b3bf%3A0xe4276ed6af22ada2!2sGell%C3%A9rt%20Hill%20Cave!3m2!1d47.485227599999995!2d19.0522085!4m5!1s0x4741dc491e961c5b%3A0xe49186a2f42ccda9!2sCitadella!3m2!1d47.4868089!2d19.0462617!4m5!1s0x4741dc480444f519%3A0x9ab7b4513a6c4966!2sSt.%20Gerard%20Sagredo%20Statue!3m2!1d47.489647!2d19.0455096!4m5!1s0x4741dc3cea360f0f%3A0x3dce3a5fa9012576!2sBuda%20Kalesi!3m2!1d47.4962048!2d19.0395666!4m5!1s0x4741dc227fb4a99d%3A0x2f263ca844235e46!2zQmFsxLFrw6fEsSBUYWJ5YXPEsQ!3m2!1d47.5021827!2d19.034781199999998!4m5!1s0x4741dc22706ec2b9%3A0x4980c2155e8aa1d2!2sKale%20B%C3%B6lgesi!3m2!1d47.5018283!2d19.0333458!4m5!1s0x4741dc1f769fac1d%3A0x8f3abb742c49a904!2sChurch%20of%20Saint%20Mary%20Magdalene!3m2!1d47.5036786!2d19.0288766!4m5!1s0x4741dc22f0d18859%3A0x2c293641eb0e7a13!2sLabirentler!3m2!1d47.5001434!2d19.034198399999998!4m4!1s0x4741dc22481762bb%3A0x7e1ee242e28cf88a!3m2!1d47.5008483!2d19.0313593!5e1!3m2!1str!2str!4v1755007036065!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/jhJCpBjsP7GvQVQE9",
+        "steps": [
+          {
+            "from": "Belveder",
+            "to": "Viyana",
+            "duration": "88 dakika",
+            "distance": "3,5 km",
+            "image": "/images/budapeşte_route1.jpg"
+          }
+        ]
+      },
+      {
+        "title": "2.Gün Peşte Yakası",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m74!1m12!1m3!1d10717.198076215223!2d19.049446692147438!3d47.49962627625465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m59!3e2!4m4!1s0x4741dc16742d64df%3A0xf68e196cbecb6ad6!3m2!1d47.503927399999995!2d19.0448015!4m5!1s0x4741dc1046d4a33d%3A0x342122b8ff8f0f6e!2zT3JzesOhZ2jDoXo!3m2!1d47.507121!2d19.045669!4m5!1s0x4741c15e3aa3cdf7%3A0xdd42fcacae7fbccb!2sSzent%20Istv%C3%A1n%20Bazilika!3m2!1d47.5008902!2d19.053988699999998!4m5!1s0x4741dc42507d41cf%3A0x4128af63d0508608!2sDoh%C3%A1ny%20utcai%20Zsinag%C3%B3ga!3m2!1d47.4958804!2d19.0605835!4m5!1s0x4741dc6b8d9944fd%3A0x21335121e0a48bce!2sMagyar%20%C3%81llami%20Operah%C3%A1z!3m2!1d47.502716899999996!2d19.0583076!4m5!1s0x4741dc6e1d41b419%3A0xade1459037fed6dd!2zVGVycm9yIEjDoXphIE3DunpldW0!3m2!1d47.5068935!2d19.0651261!4m5!1s0x4741db87f9f12169%3A0x34417cbcba48293f!2zSMWRc8O2ayB0ZXJl!3m2!1d47.5149429!2d19.0778626!4m4!1s0x4741db883b6fa1fb%3A0x1b4bb797f6b7e339!3m2!1d47.5158038!2d19.0768998!4m5!1s0x4741db8711eda2a1%3A0xbcf7e467d55d9f8e!2sVajdahunyad%20v%C3%A1ra!3m2!1d47.5148896!2d19.0830593!4m5!1s0x4741dc11a2cb8047%3A0x1233e87d1f71f7bd!2zTsOpcHJhanppIE3DunpldW0!3m2!1d47.5115051!2d19.081371!5e1!3m2!1str!2str!4v1755005184320!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/Mw18XUPX8jkLn4cv7",
+        "steps": [
+          {
+            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
+            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "duration": "85 dakika",
+            "distance": "4.9 km",
+            "image": "/images/budapeşte_route2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "3.Gün Peşte Yakası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m63!1m12!1m3!1d8757.286133933556!2d19.05887032238311!3d47.48889743844856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m48!3e2!4m5!1s0x4741dc5659d536eb%3A0x2538010061574950!2zQmFrw6F0cyB0w6ly!3m2!1d47.483113599999996!2d19.0665051!4m5!1s0x4741dc582c04ba7f%3A0x7aae651443d34046!2sBudapest%2C%20Museum%20of%20Applied%20Arts%2C%20%C3%9Cll%C5%91i%20%C3%BAt%2033-37%2C%201092%20Macaristan!3m2!1d47.4861611!2d19.0683302!4m5!1s0x4741dc5b51f0ae53%3A0xc97d836f390b5f78!2sMagyar%20Nemzeti%20M%C3%BAzeum!3m2!1d47.4911983!2d19.0624765!4m5!1s0x4741dc4fe2b1c2f7%3A0xa08c351e7bba2ecc!2sNagycsarnok!3m2!1d47.4870848!2d19.058493!4m4!1s0x4741dd04fd8ef031%3A0x3c868d27f3a49fae!3m2!1d47.4881719!2d19.055255199999998!4m5!1s0x4741dc45c9e24a63%3A0xa37b69d12639bbba!2sBudapesti%20Belv%C3%A1rosi%20Szent%20Mih%C3%A1ly-templom!3m2!1d47.490502199999995!2d19.0546932!4m5!1s0x4741dc44e5698369%3A0xfbaa9bd42462709f!2sBudapesti%20Egyetemi%20Templom!3m2!1d47.4908925!2d19.0580258!4m5!1s0x4741dc436086c915%3A0x7442f23220e2644!2sK%C3%A1rolyi-kert!3m2!1d47.4920944!2d19.059775!5e1!3m2!1str!2str!4v1755005635269!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/gFJJHnPunTvvd7ik8",
+        "steps": [
+          {
+            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
+            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "duration": "44 dakika",
+            "distance": "3.2 km",
+            "image": "/images/budapeşte_route3.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Budapeşte'de Neler Yapılır?",
+        "type": "text",
+        "content": "Budapeşte’nin iki yakası, ziyaretçilere birbirinden farklı ama tamamlayıcı deneyimler sunar. Buda tarafında, özellikle tarih ve doğa severler için keşfedilecek çok şey vardır. Buda Kalesi’ni ziyaret edip Orta Çağ’ın izlerini sürebilir, kalenin etrafındaki müzeleri ve sanat galerilerini gezebilirsiniz. Gellért Tepesi’ne çıkarak şehrin ve Tuna Nehri’nin panoramik manzarasının tadını çıkarabilirsiniz. Ayrıca, termal kaplıcalarda rahatlayabilir, şifalı suların keyfini yaşayabilirsiniz. Tarihi kiliseler ve dar sokaklarda yürüyüş yaparak Buda’nın sakin ve huzurlu atmosferini deneyimlemek mümkün.\n\nPeşte tarafı ise şehrin modern kalbidir. Burada geniş bulvarlarda alışveriş yapabilir, kafelerde kahve molası verebilir veya Macar mutfağından lezzetler tadabilirsiniz. Parlamento Binası, Aziz Stephen Bazilikası ve Zincirli Köprü gibi simge yapıları görmek için yürüyüş turlarına katılabilirsiniz. Gece hayatı ve kültürel etkinlikler Peşte’de daha hareketlidir; tiyatrolar, konserler ve canlı müzik mekanları keşfedilmeyi bekler. Ayrıca Peşte’deki termal banyolar ve spa merkezleri de dinlenmek için harika alternatiflerdir. Kısacası, Buda’da tarihe ve doğaya, Peşte’de ise canlı şehre ve kültüre doyabilirsiniz."
+      },
+      {
+  "title": "Budapeşte Toplu Taşıma Rehberi",
+  "type": "text",
+  "content": "Budapeşte Havalimanı (BUD), şehir merkezine yaklaşık 16 km uzaklıktadır. Havalimanından şehir merkezine ulaşım için en yaygın ve ekonomik seçenek 100E numaralı ekspres otobüs hattıdır. Bu otobüs, havalimanı ile Deák Ferenc tér arasında durur ve tek yön bilet fiyatı yaklaşık 1500 HUF'dir. Biletinizi havalimanındaki otobüs durağında bulunan makineden veya mobil uygulamadan alabilirsiniz. Ayrıca, 200E numaralı otobüs ile metro 3 (M3) hattının son durağı olan Kőbánya-Kispest'e gidip oradan metroya aktarma yaparak da şehir merkezine ulaşabilirsiniz. Bu seçenek daha ekonomiktir ancak aktarma gerektirir.\n\nBudapeşte'de toplu taşıma ağı oldukça gelişmiştir ve metro, tramvay, otobüs, troleybüs ve banliyö treni (HÉV) hatlarından oluşur. Metro, özellikle şehir merkezinde ve ana turistik bölgelerde en hızlı ulaşım aracıdır. Biletler metro istasyonlarındaki otomatlardan, gişelerden veya mobil uygulamadan (BudapestGO) satın alınabilir.\n\nBilet türleri ve yaklaşık fiyatları (fiyatlar zamanla değişiklik gösterebilir, güncel bilgiler için resmi BKK sitesini kontrol ediniz):\n\n<B>Tek Binişlik Bilet:</B> 450 HUF\n     Tek bir yolculuk için geçerlidir. Aktarma yapma hakkı yoktur.\n <B>30 Dakikalık Bilet:</B> 530 HUF\n     Aktarma yaparak 30 dakika boyunca seyahat etme imkanı sunar.\n <B>90 Dakikalık Bilet:</B> 750 HUF\n     Aktarma yaparak 90 dakika boyunca seyahat etme imkanı sunar.\n<B>24 Saatlik Budapeşte Seyahat Kartı:</B> 2500 HUF\n     İlk kullanımınızdan itibaren 24 saat boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar.\n<B>72 Saatlik Budapeşte Seyahat Kartı:</B> 5500 HUF\n     İlk kullanımınızdan itibaren 72 saat boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar.\n<B>15 Günlük Budapeşte Seyahat Kartı:</B> 6300 HUF\n     İlk kullanımınızdan itibaren 15 gün boyunca tüm toplu taşıma araçlarında sınırsız kullanım sağlar.\n\nBiletlerinizi ilk kullandığınızda (metroda turnikeden geçerken veya otobüs/tramvayda damgalarken) aktive etmeyi unutmayın. Geçerlilik süresi bu andan itibaren başlar. Bilet kontrolü sıkça yapılır ve biletsiz yolculuk durumunda yüksek miktarda para cezası uygulanabilir.\n\nBudapeşte Kartı (Budapest Card) alarak toplu taşımayı ücretsiz kullanma ve aynı zamanda çeşitli müze ve etkinliklerde indirimlerden faydalanma imkanı da bulabilirsiniz."
+},
+{
+  "title": "Budapeşte Toplu Taşıma ve Biletler İçin Faydalı Bağlantılar",
+  "type": "external-links",
+  "links": [
+    {
+      "name": "BKK (Budapeşte Toplu Taşıma) Resmi Sitesi",
+      "url": "https://bkk.hu/en/"
+    },
+    {
+      "name": "BudapestGO Mobil Uygulaması",
+      "url": "https://bkk.hu/en/tickets-and-passes/budapestgo/"
+    }
+  ]
+},
+      {
+        "type": "image-block",
+        "image": "/images/parlementobinasıbudapeşte.jpg",
+        "imageTitle": "Macaristan Parlamento Binası\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Macaristan Parlamento Binası, Budapeşte’nin en ikonik yapılarından biri olup Tuna Nehri kıyısında, Pest yakasında yer alır. Yapımına 1885 yılında başlanmış, Macaristan’ın 1000. yılı kutlamaları kapsamında 1896’da tamamlanmış ve 1902’de resmen açılmıştır. Neogotik mimari tarzında inşa edilen yapı, ortasındaki yüksek kubbesi, simetrik cephesi ve zarif kuleleriyle dikkat çeker. Toplamda 691 oda, 29 merdiven ve 10 avludan oluşan bina, hem ülkenin siyasi merkezi hem de mimari bir başyapıt olarak kabul edilir.\n\nİç dekorasyonunda altın varak süslemeler, ince işçilikli ahşap oymalar ve renkli vitray pencereler öne çıkar. En önemli bölümlerinden biri, Macaristan’ın en değerli tarihi eserlerinden olan Macar Kutsal Tacı ve kraliyet mücevherlerinin sergilendiği kubbe salonudur. Bina, hem parlamento oturumları hem de resmi devlet törenleri için günümüzde de kullanılmaktadır.\n\nTuna kıyısındaki etkileyici konumu sayesinde özellikle gün batımında ve gece aydınlatmaları altında büyüleyici bir manzara sunar. UNESCO Dünya Mirası Listesi’nde yer alan Parlamento Binası, her yıl binlerce turist tarafından ziyaret edilmekte ve Budapeşte’nin en çok fotoğraflanan noktalarından biri olmaya devam etmektedir. Bu görkemli yapı, Macar ulusal kimliğinin ve 19. yüzyıl Avrupa mimarisinin önemli simgelerinden biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Budapest_castle_night_5.jpg",
+        "imageTitle": "Buda Kalesi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Buda Kalesi, yani Buda Kalesi, Budapeşte’nin tarihi Buda yakasında yer alan ve şehrin en önemli simgelerinden biri olan görkemli saray kompleksidir. İlk olarak 13. yüzyılda, Moğol istilası sonrası Kral IV. Béla tarafından inşa ettirilmiş, yüzyıllar boyunca pek çok kez genişletilmiş ve yeniden yapılmıştır. Orta Çağ’dan Osmanlı dönemine, Habsburg yönetiminden modern Macaristan’a kadar uzanan uzun tarih boyunca hem kraliyet konutu hem de askeri üs olarak kullanılmıştır. II. Dünya Savaşı sırasında ağır bombardımanlara maruz kalan saray, savaş sonrası yeniden inşa edilmiştir.\n\nGünümüzde Budavári Palota, tarihi ihtişamıyla beraber kültürel bir merkez olarak hizmet vermektedir. Kompleks içinde Macar Ulusal Galerisi, Budapeşte Tarih Müzesi ve Széchenyi Ulusal Kütüphanesi bulunur. Sarayın geniş avluları, zarif barok cepheleri ve Tuna Nehri’ne bakan etkileyici terasları, ziyaretçilere hem tarihi hem de panoramik bir deneyim sunar. Zincir Köprü’den kolayca ulaşılabilen bu alan, özellikle akşam ışıklandırmalarıyla eşsiz bir manzara oluşturur.\n\nBudavári Palota, UNESCO Dünya Mirası Listesi’nde yer almakta ve her yıl milyonlarca turist tarafından ziyaret edilmektedir. Hem Macaristan’ın zengin tarihini yansıtan hem de Budapeşte’nin siluetini şekillendiren bu yapı, geçmişin görkemini modern şehir yaşamıyla buluşturan önemli bir kültürel mirastır."
+      },{
+        "type": "image-block",
+        "image": "/images/Fisherman's_Bastion,_Hungary_-_Budapest_(28388298082).jpg",
+        "imageTitle": "Balıkçı Tabyası",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Balıkçı Tabyası, Budapeşte’nin Buda yakasında, Matthias Kilisesi’nin hemen yanında yer alan ve masalsı görünümüyle şehrin en çok ziyaret edilen noktalarından biridir. 1895-1902 yılları arasında mimar Frigyes Schulek tarafından inşa edilen yapı, aslında Orta Çağ’da bu bölgede görev yapan balıkçı loncasının şehri savunmasından esinlenerek bu adı almıştır. Tabyanın mimarisi, Orta Çağ ve neo-Romanesk tarzın harmanlanmasıyla ortaya çıkmış, yedi zarif kulesiyle dikkat çekmektedir. Bu yedi kule, 895 yılında Karpat Havzası’na yerleşen yedi Macar kabilesini simgeler.\n\nKonum olarak Tuna Nehri’nin kıyısına hâkim bir tepede bulunan Balıkçı Tabyası, Pest tarafının, Parlamento Binası’nın ve Zincir Köprü’nün en güzel manzaralarından birini sunar. Özellikle gün batımında altın tonlarına bürünen şehir silueti, buradan izlenmesi gereken eşsiz bir görüntü oluşturur. Tabyada yer alan teraslar ve yürüyüş yolları, hem fotoğraf tutkunları hem de tarih meraklıları için ideal bir gezi rotasıdır.\n\nGünümüzde Balıkçı Tabyası, tarihi bir savunma yapısından çok turistik bir seyir noktası olarak kullanılmaktadır. Ziyaretçiler, buradaki kafe ve restoranlarda oturarak Budapeşte manzarasının tadını çıkarabilir. UNESCO Dünya Mirası Listesi’nde yer alan bu yapı, Macaristan’ın kültürel zenginliğini ve mimari güzelliğini en iyi yansıtan noktalardan biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/The_Millennium_Monument_in_Heroes'_Square,_Budapest,_Hungary.jpg",
+        "imageTitle": "Kahramanlar Meydanı",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Kahramanlar Meydanı (Hősök tere), Budapeşte’nin en ünlü ve etkileyici meydanlarından biridir. Şehrin Andrássy Bulvarı’nın sonunda, Şehir Parkı’nın (Városliget) girişinde yer alır. 1896 yılında, Macaristan’ın kuruluşunun 1000. yıl dönümü anısına düzenlenen kutlamalar için inşa edilmiştir. Meydanın merkezinde, 36 metre yüksekliğinde bir sütun üzerinde başmelek Cebrail’in heykeli bulunur. Cebrail, elinde Macar tacını ve haçı tutarken tasvir edilmiştir. Bu sütunun etrafında ise Macar tarihinin önemli figürlerini temsil eden heykeller yer alır.\n\nMeydanın iki yanında yarım daire şeklinde dizilmiş kolonadlarda Macar kralları, prensleri ve ülkenin bağımsızlığı için mücadele etmiş liderlerin heykelleri bulunur. Ayrıca meydan, Macar tarihindeki en önemli yedi kabile liderini temsil eden atlı heykellerle süslenmiştir. Bu detaylar, Macar ulusunun kökenine ve tarihine dair güçlü bir sembolizm taşır.\n\nKahramanlar Meydanı, yalnızca mimari ve sanatsal açıdan değil, aynı zamanda ulusal törenler ve anma etkinlikleri açısından da büyük öneme sahiptir. UNESCO Dünya Mirası Listesi’nde yer alan bu meydan, günümüzde turistlerin fotoğraf çekmek ve Macar tarihini yakından hissetmek için uğrak noktalarından biridir. Özellikle akşam saatlerinde aydınlatıldığında, meydanın anıtsal atmosferi çok daha etkileyici bir hâl alır."
+      },{
+        "type": "image-block",
+        "image": "/images/Gellert_hill_cave_church_6.jpg",
+        "imageTitle": "Gellért Hill Cave\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Gellért Hill Cave, Budapeşte’de Gellért Tepesi’nin kayalık yamacında yer alan ve doğal oluşumuyla dikkat çeken bir mağaradır. Mağara, yüzyıllar boyunca farklı amaçlarla kullanılmıştır. İlk olarak termal sulara yakın konumu nedeniyle şifalı olduğuna inanılan bir yer olarak bilinir. 1920’li yıllarda Paul Varga isimli bir rahip tarafından dini amaçlarla düzenlenmiş ve bir şapel hâline getirilmiştir. Bu dönemde içi ahşap, taş ve mozaik detaylarla süslenmiş; özellikle küçük kilise bölümü, sessiz ve huzurlu atmosferiyle öne çıkmıştır.\n\nMağara, II. Dünya Savaşı sırasında askeri hastane olarak kullanılmış, savaş sonrası dönemde ise kapatılarak uzun yıllar ziyarete kapalı kalmıştır. 1989’da yeniden açılan Gellért Hill Cave, günümüzde hem dini törenler hem de turist ziyaretleri için kullanılmaktadır. İç mekânında loş ışıklandırma, taş dokular ve doğal kaya oluşumları, ziyaretçilere mistik bir deneyim sunar.\n\nŞehrin gürültüsünden uzak, sakin ve maneviyat yüklü bir ortam arayanlar için Gellért Hill Cave, Budapeşte’deki en farklı ve etkileyici duraklardan biridir. Ayrıca konumu sayesinde Gellért Tepesi’nden Budapeşte’nin panoramik manzarasını izleme fırsatı da sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Budapest,_St._Stephen's_Basilica_C13.jpg",
+        "imageTitle": "Aziz Stefan Bazilikası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Aziz Stefan Bazilikası, Budapeşte’nin en büyük ve en görkemli kilisesi olarak hem dini hem de kültürel açıdan büyük bir öneme sahiptir. 1905 yılında tamamlanan bu görkemli yapı, adını Macaristan’ın ilk kralı olan Aziz Stefan’dan alır. Bazilikanın en dikkat çekici özelliklerinden biri, yaklaşık 96 metre yüksekliğindeki kubbesidir. Bu yükseklik, Macaristan Parlamentosu binasıyla eşittir ve bu durum ülkenin dini ve politik otoritelerinin eşit önemini sembolize eder.\n\nİç mekânı zengin süslemeler, altın yaldızlı detaylar, vitray pencereler ve görkemli mozaiklerle bezenmiştir. Bazilika aynı zamanda ünlü “Aziz Stefan’ın Kutsal Sağ Eli” relikine de ev sahipliği yapar. Bu kutsal emanet, şeffaf bir muhafaza içinde korunur ve dini açıdan büyük saygı görür.\n\nBazilikanın en üst noktasındaki panoramik terasa çıkan ziyaretçiler, Budapeşte’nin büyüleyici manzarasını izleme imkânı bulur. Hem mimari görkemi hem de tarihi önemiyle Aziz Stefan Bazilikası, Budapeşte’nin en çok ziyaret edilen simgelerinden biridir. Gündüzleri ihtişamlı yapısıyla, geceleri ise ışıklandırmasıyla şehrin siluetinde ayrı bir güzellik oluşturur."
+      },{
+        "type": "image-block",
+        "image": "/images/Citadella_-_Budapest.jpg",
+        "imageTitle": "Citadella",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Citadella, Budapeşte’nin Gellért Tepesi üzerinde yer alan ve şehrin en etkileyici manzaralarından birini sunan tarihi bir kale yapısıdır. 1854 yılında Avusturya İmparatorluğu tarafından, Macar Devrimi’nin ardından olası ayaklanmaları kontrol altında tutmak amacıyla inşa edilmiştir. Stratejik konumu sayesinde hem Tuna Nehri’ni hem de şehrin iki yakasını gözetleyebilecek bir noktadadır.\n\nKale, yıllar içinde farklı dönemlerde askeri üs, savunma merkezi ve gözlem noktası olarak kullanılmıştır. İkinci Dünya Savaşı sırasında da önemli bir askeri görev üstlenmiş, daha sonra Soğuk Savaş yıllarında stratejik önemini korumuştur. Günümüzde ise askeri işlevini yitirmiş, turistik bir cazibe merkezi haline gelmiştir.\n\nCitadella’nın en dikkat çekici yapılarından biri, 1947 yılında inşa edilen Özgürlük Anıtı’dır. Bu anıt, II. Dünya Savaşı sırasında hayatını kaybeden Sovyet askerlerinin anısına dikilmiştir ve Budapeşte’nin simgelerinden biri olarak kabul edilir. Ziyaretçiler, Citadella’ya çıkarak hem tarih kokan atmosferi deneyimleyebilir hem de Budapeşte’nin panoramik manzarasının tadını çıkarabilir. Özellikle gün batımında buradan görünen şehir manzarası, fotoğraf tutkunları için eşsiz bir deneyim sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Szent_Gellért_szobra_4.jpg",
+        "imageTitle": "St. Gerard Sagredo Heykeli",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "St. Gerard Sagredo Heykeli, Budapeşte’de Gellért Tepesi’nin yamacında yer alan ve şehrin simge yapılarından biri olarak kabul edilen etkileyici bir anıttır. 1904 yılında dikilen bu heykel, Macaristan’ın Hristiyanlaşma sürecinde önemli bir rol oynayan piskopos ve aziz Gellért Sagredo’nun anısına yapılmıştır. Aziz Gellért, 11. yüzyılda Kral I. István tarafından Macaristan’a davet edilmiş, Hristiyanlığı yaymak için büyük çaba göstermiştir. Ancak pagan kabilelerin isyanı sırasında Gellért, rivayete göre bir fıçı içinde tepeden aşağı atılarak öldürülmüştür.\n\nHeykel, Gellért’in elinde bir haç tutar şekilde tasvir edildiği görkemli bir kompozisyona sahiptir. Arkasında yarım daire şeklinde bir sütun dizisi ve etkileyici bir şelale manzarası bulunur. Bu konum, hem Aziz Gellért’in dini misyonunu hem de onun trajik ölümünü simgesel bir şekilde yansıtır. Anıtın bulunduğu noktadan Tuna Nehri ve Elizabeth Köprüsü’nün muhteşem manzarası izlenebilir. Günümüzde St. Gerard Sagredo Heykeli, hem tarihi önemi hem de bulunduğu doğal güzelliklerle çevrili konumu nedeniyle Budapeşte’yi ziyaret eden turistlerin en çok fotoğrafladığı yerlerden biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Maria_Magdolna_templom.jpg",
+        "imageTitle": "Church of Saint Mary Magdalene\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Church of Saint Mary Magdalene, Budapeşte’nin tarihi dokusunu yansıtan önemli dini yapılarından biridir. Orta Çağ’da inşa edilen bu kilise, özellikle Gotik mimari özellikleriyle dikkat çeker. Zaman içinde çeşitli restorasyonlardan geçen yapı, hem dinsel törenler hem de kültürel etkinlikler için kullanılmıştır.\n\nKilise, şehirdeki dini hayatın merkezlerinden biri olarak kabul edilir ve bölgedeki topluluk için önemli bir ibadet mekanıdır. Özellikle kubbesi ve zarif süslemeleri ziyaretçilerin ilgisini çeker. Ayrıca, kilisenin bulunduğu bölge tarih boyunca çeşitli sosyal ve kültürel olaylara tanıklık etmiş, Budapeşte’nin zengin geçmişine katkıda bulunmuştur. Bugün, hem mimari değeri hem de ruhani atmosferiyle Budapeşte’yi gezenler için mutlaka görülmesi gereken yerlerden biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/small_e0fa7f5a_a3a2_4aef_83da_2f1b0f534231_kepkivagas_12a432d0cd.jpg",
+        "imageTitle": "Labyrinth of Buda Castle",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Labyrinth of Buda Castle, Budapeşte’nin tarihi Buda Kalesi’nin altında yer alan gizemli ve büyüleyici bir yapıdır. Bu yeraltı tünelleri ve mağaralar ağı, Orta Çağ’dan itibaren çeşitli amaçlarla kullanılmıştır; başlangıçta doğal oluşumlar olan bu mağaralar, zamanla savunma, sığınak ve hatta gizli geçit olarak işlev görmüştür.\n\nLabirent, ziyaretçilere tarih boyunca kullanılan zindanlar, gizli odalar ve farklı dönemlere ait kalıntılarla dolu mistik bir atmosfer sunar. İçinde ayrıca sergiler, interaktif deneyimler ve zaman zaman temalı etkinlikler düzenlenmektedir. Bu yer, hem tarih meraklıları hem de macera arayanlar için Budapeşte’de eşsiz bir deneyim sağlar. Labirentin karmaşık yapısı ve karanlık koridorları, ziyaretçilere adeta tarihin derinliklerinde bir yolculuk yapma hissi verir.\n\nBuda Kalesi’nin panoramik manzarasına yukarıdan bakarken, bu gizemli labirente dalmak, şehrin tarihini farklı bir açıdan keşfetmek isteyenler için unutulmaz bir duraktır."
+      },{
+        "type": "image-block",
+        "image": "/images/Laika_ac_Hospital_in_the_Rock_(10088615063).jpg",
+        "imageTitle": "Hospital in the Rock\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Hospital in the Rock, Budapeşte’de Gellért Tepesi’nin içinde yer alan benzersiz bir müze ve tarihî sağlık merkezi olarak öne çıkar. İkinci Dünya Savaşı sırasında ve sonrasında, özellikle 1940’lardan 1950’lere kadar savaş yaralılarına ve sivillere hizmet vermek üzere bir yeraltı hastanesi olarak kullanılmıştır. Mağara sistemi içine inşa edilen bu hastane, savaş koşullarında hayatta kalmak için stratejik bir sığınak olmuştur.\n\nBu yeraltı hastanesi, Soğuk Savaş döneminde de nükleer saldırı tehdidine karşı korunma amacıyla önemli bir sığınak olarak görev yapmıştır. Günümüzde müze olarak ziyarete açık olan Hospital in the Rock, ziyaretçilere savaş zamanı tıp uygulamaları, acil müdahaleler ve hayat kurtarma hikayeleri hakkında etkileyici bir bakış sunar. Ayrıca, orijinal tıbbi ekipmanlar, hasta odaları ve tünelleri gezmek mümkün.\n\nBu mekan, savaşın yıkıcılığını ve insanın zorluklar karşısındaki direncini anlatan tarihî bir anıt niteliğindedir."
+      },{
+        "type": "image-block",
+        "image": "/images/Shoes_Danube_Promenade_IMGP1297.jpg",
+        "imageTitle": "Tuna kıyısındaki ayakkabılar\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Tuna Nehri kıyısında yer alan \"Ayakkabılar\" anıtı, Budapeşte’nin en dokunaklı ve etkileyici anıtlarından biridir. 2005 yılında açılan bu eser, II. Dünya Savaşı sırasında Nazi işgali altındaki Macaristan’da yaşanan trajediyi simgelemektedir. Anıt, nehir kenarına dizilmiş demirden yapılmış 60 çift ayakkabıyı içerir ve burada Yahudi vatandaşların toplu infaz öncesi ayakkabılarını çıkarmak zorunda bırakıldıkları anı yaşatır.\n\nBu ayakkabılar, o dönemdeki insanlık dramını ve yaşanan acıyı gözler önüne sererken, aynı zamanda adalet, barış ve insan hakları mesajları taşır. Anıtın bulunduğu yer, ziyaretçilere savaşın yıkıcı etkilerini düşündürürken, unutulmaması gereken tarihi bir hatırlatmadır. "
+      },{
+        "type": "image-block",
+        "image": "/images/Soviet_War_Memorial_in_Tiergarten,_April_2014.jpg",
+        "imageTitle": "Soviet War Memorial\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Sovyet Savaş Anıtı, Budapeşte’deki önemli tarihi anıtlardan biridir ve II. Dünya Savaşı sırasında hayatını kaybeden Sovyet askerlerinin anısına inşa edilmiştir. 1945 yılında tamamlanan bu anıt, Kelemen Tepesi yakınlarında yer alır ve savaşın yıkıcılığını, zaferin önemini simgeleyen etkileyici bir yapıdır.\n\nAnıtın ortasında yüksek bir dikilitaş bulunur ve etrafı çeşitli heykellerle çevrilidir; bu heykeller, Sovyet askerlerinin cesaretini, fedakarlığını ve savaşın getirdiği zorlukları anlatır. Savaş sonrası dönemde Sovyetler Birliği’nin Macaristan üzerindeki etkisini de yansıtan bu anıt, hem tarih hem de politik anlamlar taşır. Günümüzde, Budapeşte’de savaş tarihini anlamak isteyen ziyaretçiler için önemli bir durak olup, dönemin karmaşık ilişkilerini ve mücadelelerini gözler önüne serer."
+      },{
+        "type": "image-block",
+        "image": "/images/Dohany_Street_Synagogue_Interior_Rear_and_Ceiling.jpg",
+        "imageTitle": "Dohány Sokağı Sinagogu\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Dohány Sokağı Sinagogu, Budapeşte’nin en büyük ve Avrupa’nın da en büyük sinagoglarından biridir. 1859-1869 yılları arasında inşa edilen bu yapı, Moorish Revival (Müslüman mimariden esinlenen) tarzıyla dikkat çeker ve şehrin Yahudi mirasının merkezi olarak kabul edilir. İç mekanı ve dış cephesi zengin süslemelerle bezenmiş, yüksek kubbeleri ve çift kuleleri ile görkemli bir görüntü sunar.\n\nSinagog sadece ibadet yeri olmanın ötesinde, II. Dünya Savaşı sırasında Nazi işgali döneminde Yahudi topluluğunun yaşadığı trajedilere tanıklık etmiş, yakınında bulunan Yahudi Müzesi, Holokost Anıtı ve Raoul Wallenberg Anıtı ile birlikte bir anma merkezi görevi görür. Ayrıca kompleks içinde bir mezarlık ve anıt park da bulunmaktadır. Günümüzde aktif olarak ibadet edilen bu sinagog, Budapeşte’nin kültürel ve tarihi dokusunun önemli parçalarından biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Hungarian_State_Opera_House(PDXdj).jpg",
+        "imageTitle": "Macaristan Devlet Opera Binası\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Macaristan Devlet Opera Binası, Budapeşte’nin kalbinde yer alan görkemli bir yapı olup, 1884-1885 yılları arasında tamamlanmıştır. Neo-Rönesans tarzındaki bu bina, hem mimari güzelliği hem de zengin sanat tarihiyle dikkat çeker. Opera Binası, Macaristan’ın kültürel hayatında merkezi bir rol oynar ve dünya çapında ünlü opera, bale ve klasik müzik performanslarına ev sahipliği yapar.\n\nİç dekorasyonu, o dönemin önde gelen sanatçıları tarafından yapılmış freskler, heykeller ve ince işçiliklerle süslenmiştir. Salonun akustiği ise sanatçılar ve dinleyiciler tarafından övgüyle bahsedilir. Bina, Macar müzik geleneğinin ve Avrupa’nın klasik sanat sahnesinin buluşma noktasıdır. Ziyaretçiler için sadece bir performans mekanı değil, aynı zamanda tarihi ve sanatsal bir miras olarak büyük önem taşır."
+      },{
+        "type": "image-block",
+        "image": "/images/Budapest_Haus_des_Terrors.jpg",
+        "imageTitle": "Terör Evi Müzesi\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Terör Evi Müzesi, Budapeşte’de bulunan ve Macaristan’ın 20. yüzyıl boyunca yaşadığı totaliter rejimleri, özellikle Nazi ve Sovyet dönemlerini anlatan önemli bir müzedir. Bina, geçmişte hem Gestapo hem de Sovyet gizli polisi tarafından kullanılmış olmasıyla tarihî açıdan büyük bir anlam taşır. Müze, ziyaretçilerine bu karanlık dönemlerin insan hakları ihlalleri, baskı ve zulümle dolu gerçeklerini çarpıcı şekilde sunar.\n\nSergiler, interaktif ve çoklu medya kullanımıyla dönemin siyasi atmosferini ve halkın yaşadığı zorlukları gözler önüne serer. Terör Evi, sadece bir müze değil, aynı zamanda tarihin acı sayfalarını unutturmamak ve özgürlük değerlerini hatırlatmak amacıyla kurulmuş bir anıt niteliğindedir. Budapeşte ziyaretinizde, Macaristan’ın yakın tarihini derinlemesine anlamak için mutlaka gidilmesi gereken bir mekandır."
+      },{
+        "type": "image-block",
+        "image": "/images/1024px-A_Román_csarnok_megnyitása.jpg",
+        "imageTitle": "Güzel Sanatlar Müzesi\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Güzel Sanatlar Müzesi, Budapeşte’nin en prestijli sanat kurumlarından biridir ve Avrupa’nın önemli sanat koleksiyonlarına ev sahipliği yapar. 19. yüzyıl sonlarında açılan müze, Antik Mısır’dan Rönesans’a, Barok’tan modern döneme kadar geniş bir yelpazede eserler sunar. İspanyol ve İtalyan ustaların tabloları, ünlü Hollandalı ve Flaman ressamların eserleri, heykeller ve grafik sanatları koleksiyonu müzenin en dikkat çekici parçaları arasındadır.\n\nMüze binası, tarihi ve mimari açıdan da etkileyicidir; büyük salonları ve zarif düzenlemeleri sanatseverlere özel bir deneyim yaşatır. Budapeşte’nin sanat hayatında merkezi bir yere sahip olan bu müze, hem yerel hem de uluslararası ziyaretçilere sanat tarihini keşfetme fırsatı sunar. Zengin koleksiyonu sayesinde, sanatın evrenselliğini ve tarih içindeki değişimini anlamak isteyenler için vazgeçilmez bir duraktır."
+      },{
+        "type": "image-block",
+        "image": "/images/Vajdahunyad_Castle,_2011_Budapešť_0140.jpg",
+        "imageTitle": "Vajdahunyad Kalesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Vajdahunyad Kalesi, Budapeşte’nin en büyüleyici yapılarından biri olarak şehrin şehir parkı içinde yer alır. 1896’da Macaristan’ın bininci yıl kutlamaları için inşa edilen bu kale, ülkenin farklı bölgelerinden ve tarihi dönemlerinden esinlenen çeşitli mimari stilleri bir araya getirir. Romanesk, Gotik, Rönesans ve Barok unsurlarını barındıran yapı, adını Transilvanya’daki orijinal Vajdahunyad Kalesi’nden alır.\n\nBaşlangıçta geçici bir sergi binası olarak planlanan kale, halkın ilgisi ve beğenisi sayesinde kalıcı hale getirilmiştir. Bugün içinde Macaristan Tarım Müzesi yer almakta ve ziyaretçilere hem mimari bir şölen hem de kültürel bir deneyim sunmaktadır. Kalenin çevresi özellikle yaz aylarında canlıdır; gölet, yeşil alanlar ve festivallerle dolu bir atmosfer yaratır."
+      },{
+        "type": "image-block",
+        "image": "/images/Ethnographic_Museum_(Néprajzi_Múzeum)_in_Budapest,_Hungary.jpg",
+        "imageTitle": "Etnografya Müzesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Etnografya Müzesi, Budapeşte’deki kültürel mirasın önemli bir parçası olarak, Macar halkının geleneksel yaşam tarzını, el sanatlarını ve folklorunu sergiler. Müze, 19. yüzyıldan günümüze kadar uzanan geniş bir koleksiyona sahiptir ve içinde kıyafetler, takılar, ev eşyaları, tekstil ürünleri gibi günlük yaşamı yansıtan pek çok eser bulunur.\n\nBinanın mimarisi de dikkat çekicidir; geleneksel Macar ve halk mimarisinden izler taşır. Müze, ziyaretçilere sadece tarihi değil, aynı zamanda Macar kültürünün zenginliğini ve çeşitliliğini de tanıma fırsatı sunar. Sergiler, etnografya alanındaki araştırmalarla desteklenerek hem yerel halk hem de turistler için eğitici ve ilgi çekici bir deneyim yaratır."
+      },{
+        "type": "image-block",
+        "image": "/images/Bakáts_téri_templom.jpg",
+        "imageTitle": "Bakáts tér\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Bakáts Tér, Budapeşte’nin tarihi şehir merkezinde yer alan sakin ve yeşil bir meydandır. Bölgedeki günlük yaşamın ve mahalle kültürünün önemli bir parçası olarak, hem yerel halkın buluşma noktası hem de ziyaretçiler için dinlenme ve keşif alanı sunar. Meydanın çevresinde geleneksel kafeler, küçük dükkanlar ve yerel pazarlar bulunur; bu da ona samimi ve canlı bir atmosfer kazandırır.\n\nTarihi dokusu ve mimarisiyle dikkat çeken Bakáts Tér, çevresindeki yapılarla birlikte Budapeşte’nin daha az turistik ama kültürel açıdan zengin bölgelerinden biri olarak öne çıkar. Burada yürüyüş yapmak, kahve içmek ya da bölgenin günlük ritmine tanıklık etmek, şehri daha yakından tanımak isteyenler için keyifli bir deneyim olabilir. Ayrıca meydanın yakınında Aziz Bakáts Kilisesi gibi tarihi yapılar da bulunmaktadır."
+      },{
+        "type": "image-block",
+        "image": "/images/Museum_of_Applied_Arts._Main_facade_from_south._BudapestDSCN3639.jpg",
+        "imageTitle": "Museum of Applied Arts\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Uygulamalı Sanatlar Müzesi, Budapeşte’de yer alan ve Avrupa’nın en önemli uygulamalı sanatlar koleksiyonlarından birine ev sahipliği yapan bir müzedir. 19. yüzyılın sonlarında inşa edilen bu yapı, Art Nouveau mimarisinin etkileyici örneklerinden biridir ve özellikle iç dekorasyonuyla büyüler. Müze, tekstil, cam, seramik, metal işçiliği ve mobilya gibi çeşitli el sanatları alanlarında zengin koleksiyonlar sunar.\n\nZiyaretçiler, Macar ve uluslararası sanatçıların eserleriyle birlikte, uygulamalı sanatların tarihsel gelişimini ve estetik evrimini yakından takip etme fırsatı bulur. Müzenin sergi düzeni, hem görsel açıdan zengin hem de eğitici niteliktedir."
+      },{
+        "type": "image-block",
+        "image": "/images/Magyar_Nemzeti_Múzeum.jpg",
+        "imageTitle": "Macar Ulusal Müzesi\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Macar Ulusal Müzesi, Budapeşte’nin en önemli kültürel kurumlarından biridir ve Macaristan’ın tarihini, sanatını ve arkeolojik mirasını kapsamlı şekilde sergiler. 19. yüzyılın ortalarında kurulan müze, özellikle Macar tarihindeki kritik dönemlere ışık tutan eserlerle doludur; Roma, Orta Çağ, Osmanlı ve Habsburg dönemlerinden kalıntılar, sanat eserleri ve belgeler burada ziyaretçileri bekler.\n\nMüze binası kendisi de tarihî bir yapıdır ve mimarisiyle dikkat çeker. Koleksiyonları arasında Macar ulusal kimliğinin oluşumuna katkıda bulunan birçok önemli obje yer alır. Ziyaretçiler, Macaristan’ın zengin geçmişini derinlemesine keşfetmek için bu müzeyi mutlaka ziyaret etmelidir. Aynı zamanda müze, düzenlenen sergiler ve eğitim programlarıyla kültürel yaşamın canlı bir parçası olarak işlev görür."
+      },{
+        "type": "image-block",
+        "image": "/images/Budapest_great_market_hall.jpg",
+        "imageTitle": "Budapeşte Merkez Hali\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Budapeşte Merkez Hali, şehrin en büyük ve en canlı pazarlarından biridir ve hem yerel halk hem de turistler için önemli bir alışveriş ve kültürel deneyim merkezidir. 19. yüzyılın sonlarında inşa edilen bu tarihi yapı, büyüleyici mimarisiyle dikkat çeker; özellikle demir ve cam kullanılarak yapılan çatısı, hem estetik hem de fonksiyonel bir görünüme sahiptir. Pazar, taze meyve, sebze, et, baharat ve yöresel ürünlerin yanı sıra hediyelik eşya tezgahlarıyla da zengindir.\n\nBurada dolaşırken Macar mutfağının temel taşlarını oluşturan paprika (kırmızı biber) gibi baharatlardan, yöresel peynir ve et ürünlerine kadar pek çok lezzeti keşfetmek mümkündür. Merkez Hali, Budapeşte’nin günlük yaşamına tanıklık etmek, yerel tatları tatmak ve kültürel atmosferi solumak isteyen herkes için ideal bir duraktır. Hem mimarisi hem de sunduğu ürün çeşitliliğiyle şehri keşfetmenin renkli bir yoludur."
+      },{
+        "type": "image-block",
+        "image": "/images/butterfly_house.jpg",
+        "imageTitle": "Budapeşte’deki Kelebek Evi (Butterfly House)",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Budapeşte’deki Kelebek Evi (Butterfly House), şehrin doğa ve biyoloji tutkunları için özel bir mekan olarak öne çıkar. Tropikal iklim koşullarını yansıtan özel bir ortamda, rengarenk ve farklı türlerde yüzlerce kelebeğin özgürce uçuştuğu bu alan, ziyaretçilere hem görsel bir şölen sunar hem de kelebeklerin yaşam döngüsü ve ekosistemdeki rolleri hakkında bilgi edinme fırsatı verir.\n\nZiyaretçiler, kelebeklerle iç içe dolaşırken doğanın inceliklerini yakından gözlemleyebilir, fotoğraf çekebilir ve çocuklu aileler için eğitici bir deneyim yaşayabilirler. Kelebek Evi, hem huzurlu bir doğa kaçamağı hem de çevre bilinci yaratmayı amaçlayan eğitici bir merkez"
+      },{
+        "type": "image-block",
+        "image": "/images/Bp_Saint_Michael's_Church.jpg",
+        "imageTitle": "St. Michael's Church\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "St. Michael’s Church, Budapeşte’de tarihi öneme sahip güzel bir yapıdır. Orta Çağ’dan kalma bu kilise, şehrin dini ve mimari mirasının önemli parçalarından biridir. Gotik ve Barok tarzların izlerini taşıyan kilise, tarih boyunca birçok onarım ve restorasyon geçirmiştir.\n\nİç mekanında zengin süslemeler ve dini sanat eserleri bulunur. Kilisenin sakin atmosferi, hem ibadet hem de kültürel ziyaretler için tercih edilmesini sağlar. "
+      },{
+        "type": "image-block",
+        "image": "/images/University_Church_(Egyetemi_templom),_Budapest.jpg",
+        "imageTitle": "University Church\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "University Church, yani Üniversite Kilisesi, Budapeşte'nin tarihi ve kültürel dokusunun önemli parçalarından biridir. Barok mimarisiyle dikkat çeken bu kilise, uzun yıllar boyunca üniversite topluluğuna hizmet vermiştir. Hem ibadet hem de eğitim faaliyetlerinin merkezi olarak kullanılmış olan yapı, şehirdeki dini ve akademik hayatın kesişim noktasıdır.\n\nİç mekanındaki detaylı süslemeler ve dini sanat eserleri, ziyaretçilere tarihi bir atmosfer sunar. Kilise, Budapeşte’nin tarihini keşfetmek isteyenler için hem mimari güzellikleri hem de kültürel zenginlikleriyle etkileyici bir duraktır. Üniversitenin yakınında konumlanan bu yapı, şehrin entelektüel ve spiritüel geçmişine ışık tutar."
+      },{
+        "type": "image-block",
+        "image": "/images/Budapest,_Károlyi_Garden_(b).jpg",
+        "imageTitle": "Károlyi Garden\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Károlyi Garden, Budapeşte’nin kalbinde yer alan huzurlu ve tarihi bir park olarak bilinir. Şehrin yoğun ve hareketli yaşamından kaçmak isteyenler için ideal bir sığınak sunar. 17. yüzyıldan kalma Károlyi Sarayı’nın yanında bulunan bu bahçe, zarif peyzaj düzenlemeleri, renkli çiçek yatakları ve gölgeli yürüyüş yollarıyla ziyaretçilerine sakin bir atmosfer sağlar.\n\nPark, yerel halkın günlük yürüyüşleri, kitap okuma ve dinlenme için tercih ettiği bir mekandır. Ayrıca küçük heykeller ve çeşmeler gibi sanat eserleriyle de süslenmiştir. Tarihi dokusu ve doğal güzellikleriyle Károlyi Garden, Budapeşte’de doğayla iç içe bir mola vermek isteyenlerin mutlaka uğraması gereken yerlerden biridir."
+      },
+            {
+        "title": "Budapeşte Mutfak Kültürü",
+        "type": "text",
+        "content": "Budapeşte mutfağı, Macaristan'ın tarihsel ve kültürel zenginliğini yansıtan, kendine özgü ve lezzetli bir mutfaktır. Mutfak, Osmanlı, Avusturya ve diğer Doğu Avrupa mutfaklarının etkilerini taşırken, bol baharat, özellikle de kırmızı biber (paprika), et (domuz, sığır, tavuk), kremsi soslar ve hamur işleriyle öne çıkar. Geleneksel Macar yemekleri genellikle doyurucu, zengin aromalı ve sıcakkanlıdır. Şehirde hem geleneksel lokantalarda hem de modern restoranlarda bu eşsiz mutfağı deneyimleyebilirsiniz."
+      },
+      {
+        "title": "Budapeşte'de Nerede Ne Yenir?",
+        "type": "text",
+        "content": "Budapeşte'nin en meşhur yemeği, Macar mutfağının sembolü haline gelmiş olan 'Gulaş'tır. Ancak Gulaş'ın çorba mı yoksa yemek mi olduğu konusunda küçük bir ayrım yapmak gerekir. Asıl geleneksel Gulaş (Gulyás), içinde et, sebze ve bolca kırmızı biber bulunan, doyurucu bir çorbadır. Ana yemek olarak kabul edilen, daha koyu kıvamlı güveç benzeri yemeğe ise 'Pörkölt' denir. Pörkölt genellikle erişte veya patatesle servis edilir. Macar mutfağının diğer popüler lezzetleri arasında, krema, sarımsak ve peynirle zenginleştirilmiş kızarmış bir hamur işi olan 'Lángos', içi et veya peynirle doldurulmuş kreplere benzeyen 'Palacsinta' ve baharatlı sosisler olan 'Kolbász' bulunur. Ayrıca, 'Töltött Káposzta' (lahana sarması) ve tatlı olarak 'Kürtőskalács' (baca keki) mutlaka denenmesi gerekenler arasındadır."
+      },
+      {
+        "title": "Önerilen Budapeşte Mekanları ve Lezzetleri",
+        "type": "list",
+        "intro": "Budapeşte'nin zengin mutfak mirasını tadabileceğiniz bazı özel adresler:",
+        "listItems": [
+          "<B>Gerbeaud (Vörösmarty Meydanı):</B> 1858'den beri hizmet veren, Budapeşte'nin en ünlü ve tarihi pastanelerinden biridir. Geleneksel Macar tatlılarını ve kahvesini denemek için idealdir. Özellikle 'Esterházy' ve 'Dobos' pastalarını deneyin.",
+          "<B>New York Cafe (Boscolo Otel):</B> Dünyanın en güzel kafelerinden biri olarak kabul edilen, ihtişamlı bir iç mekana sahip tarihi bir mekandır. Macar mutfağını ve pastalarını tadabilirsiniz, ancak fiyatları diğer mekanlara göre daha yüksektir.",
+          "<B>Central Market Hall (Nagy Vásárcsarnok):</B> Budapeşte'nin en büyük ve en eski kapalı pazar yeridir. Zemin katta yerel ürünler ve hediyelik eşyalar satılırken, üst katında ucuz ve otantik Macar yemekleri sunan büfeler bulunur. Burada 'Lángos' ve 'Gulaş' denemeden dönmeyin.",
+          "<B>Menza (Lizst Ferenc Meydanı):</B> Şık ve modern bir ortamda geleneksel Macar yemeklerini sunan popüler bir restorandır. Hem yerli halk hem de turistler tarafından tercih edilir. Menüdeki yemekler modern dokunuşlarla hazırlanır.",
+          "<B>Drum Cafe Langosh & Gülash Bar:</B> 'Lángos' ve 'Gulaş' denemek isteyenler için popüler ve bütçe dostu bir mekandır. Hızlı ve lezzetli bir öğün için idealdir. Sınırsız çeşitte Lángos bulabilirsiniz."
+        ]
+      },
+      {
+        "imageTitle": "Macaristan'ın İmzası: Gulaş Çorbası",
+        "type": "image-block",
+        "image": "/images/Gulasch.jpg",
+        "imageCaption": "Kırmızı biber, et ve sebzelerle hazırlanan, Macar mutfağının en meşhur çorbası."
+      },
+      {
+        "imageTitle": "Popüler Sokak Lezzeti: Lángos",
+        "type": "image-block",
+        "image": "/images/Erdély,_Csíkszereda,_lekváros_lángos,_2.jpg",
+        "imageCaption": "Kızarmış hamur üzerine sarımsak, ekşi krema ve peynir eklenerek hazırlanan doyurucu bir sokak yemeği."
+      }
+    ]
+  },
+
+
+
+  {
+    "id": "Mostar",
+    "countryId": "bosnahersek",
+    "name": "Mostar",
+    "description": "Mostar, Bosna-Hersek’in tarihi ve kültürel açıdan en etkileyici şehirlerinden biridir. Adını, şehri ikiye bölen Neretva Nehri üzerindeki ünlü taş köprü “Stari Most”tan (Eski Köprü) alır. 16. yüzyılda Osmanlı döneminde inşa edilen bu köprü, şehrin simgesi olmuş ve savaş sırasında yıkılmasına rağmen 2004 yılında aslına uygun olarak yeniden yapılmıştır. Mostar, Osmanlı, Avusturya-Macaristan ve yerel Balkan mimarisinin etkilerini bir arada görmek isteyenler için benzersiz bir yerdir.\n\nŞehrin eski kasabasında dar taş sokaklar, el sanatları dükkanları ve geleneksel kafe ve restoranlar bulunur. Neretva Nehri boyunca yürüyüş yapmak, köprüden atlayan cesur dalgıçları izlemek ve yerel mutfağın tadına bakmak ziyaretçilere keyifli anlar sunar. Mostar, tarih boyunca farklı kültürlerin bir arada yaşadığı ve etkileştiği bir yer olması sebebiyle, hem tarihi hem de sosyo-kültürel açıdan zengin bir atmosfere sahiptir. Bugün UNESCO Dünya Mirası Listesi’nde yer alan şehir, hem geçmişin izlerini hem de canlı güncel yaşamı bir arada sunar. ",
+    "coverImage": "/images/Mostar_Old_Town_Panorama.jpg",
+    "image": "/images/Mostar_Old_Town_Panorama.jpg",
+    "routes": [
+      {
+        "title": "Mostar Köprüsüne Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m73!1m12!1m3!1d4773.729958739934!2d17.81328865443302!3d43.33874883799264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m58!3e2!4m5!1s0x134b43087ef4b339%3A0x99a1f757db0d0427!2s8RR7%2BGHJ%20Karag%C3%B6zbey%20Camii%2C%20Bra%C4%87e%20Feji%C4%87a%2C%20Mostar%2088000%2C%20Bosna-Hersek!3m2!1d43.3413342!2d17.8138757!4m5!1s0x134b4307d3ff0e3b%3A0x4519f0e0150e51b3!2sBi%C5%A1%C4%87evi%C4%87%20House%20-%20%20ottoman%20museum!3m2!1d43.3406217!2d17.813208799999998!4m5!1s0x134b43084d54d561%3A0xbe1d02c7b0c2a383!2sMuseum%20Of%20War%20And%20Genocide%20Victims!3m2!1d43.339278799999995!2d17.8152413!4m5!1s0x134b430659dbc9e1%3A0x335f465db8a90b48!2sKoski%20Mehmed-pa%C5%A1ina%20d%C5%BEamija!3m2!1d43.3386899!2d17.8148651!4m4!1s0x134b434cf2222eb9%3A0xb0ce77f3ee0d9a23!3m2!1d43.338185599999996!2d17.8154264!4m5!1s0x134b4306c2ffb261%3A0x1c6e123b0a2fc4c4!2sStari%20Most%20Mostar!3m2!1d43.3372866!2d17.815006!4m4!1s0x134b439724dc0e75%3A0x4a8485dfcae45d9b!3m2!1d43.3373032!2d17.8147283!4m5!1s0x134b430731befb07%3A0x7dc28e230fe6f372!2sKriva%20%C4%87uprija!3m2!1d43.3367162!2d17.8131354!4m4!1s0x134b438cb78d15f5%3A0xf77c06816b555108!3m2!1d43.3365186!2d17.8147978!4m5!1s0x134b43a991429549%3A0xaca6cf9dda5e4953!2sFranjeva%C4%8Dka%20Crkva%20u%20Mostaru!3m2!1d43.337635899999995!2d17.808980899999998!5e1!3m2!1str!2str!4v1755043617931!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/q8rzS2gmWup4yeMU6",
+        "steps": [
+          {
+            "from": "Karagözbey Camii, 8RR7+GHJ, Braće Fejića, Mostar 88000, Bosna-Hersek",
+            "to": "Franjevačka Crkva u Mostaru, 8RQ4+4GW, Franjevačka 1, Mostar 88000, Bosna-Hersek",
+            "duration": "22 dakika",
+            "distance": "1,5 km",
+            "image": "/images/mostar_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+  "title": "Mostar'da Neler Yapılır?",
+  "type": "text",
+  "content": "Mostar, tarihi dokusu ve eşsiz manzaralarıyla ziyaretçilere unutulmaz deneyimler sunar. İlk olarak, şehrin en ikonik yapısı olan Stari Most’u (Eski Köprü) mutlaka görmelisiniz. Burada, cesur dalgıçların nehrin buz gibi sularına atlayışlarını izlemek oldukça heyecan vericidir. Köprü çevresindeki taş sokaklarda yürüyüş yapabilir, el işi ürünlerin satıldığı dükkanları keşfedebilirsiniz.\n\nŞehirdeki Osmanlı döneminden kalma camiler ve müzeleri gezmek tarih meraklıları için keyiflidir. Ayrıca, Neretva Nehri kıyısında yer alan kafelerde oturup, Bosna kahvesi eşliğinde şehrin sakin atmosferini deneyimleyebilirsiniz. Mostar’ın yöresel lezzetlerini tatmak için yerel restoranlarda çömlek kebabı gibi geleneksel yemekleri denemek iyi bir seçenektir.\n\nDoğa severler için Mostar yakınlarındaki <B>Kravitse Şelaleleri</B> (Kravica Waterfall) harika bir kaçış noktasıdır. Bu doğal güzellik, yemyeşil doğası ve serin sularıyla yaz aylarında yüzmek ve dinlenmek için oldukça popülerdir. Mostar’dan kolayca ulaşılabilen Kravitse, günübirlik bir gezi için idealdir ve bölgenin eşsiz doğasını deneyimleme fırsatı sunar."
+},
+      {
+        "title": "Mostar Toplu Taşıma ve Havalimanı Ulaşım Rehberi",
+        "type": "text",
+        "content": "Mostar, turistik bölgelerin yürüme mesafesinde olması nedeniyle toplu taşıma ihtiyacının az olduğu bir şehirdir. Eski Şehir ve çevresindeki ana turistik noktaları yürüyerek rahatlıkla gezebilirsiniz. Şehir içinde otobüs hatları bulunsa da, turistler genellikle tercih etmemektedir.\n\nMostar Havalimanı'ndan (OMO) şehir merkezine ulaşım için en yaygın seçenek taksi veya otobüstür. Taksi, havalimanından şehir merkezine en hızlı ulaşım yoludur. Yolculuk yaklaşık 15 dakika sürer ve ücreti 15-20 KM (Bosna Hersek Markı) civarındadır. Havalimanından şehir merkezine giden otobüs seferleri de mevcuttur. Sefer saatleri ve güncel fiyatlar için havalimanının resmi web sitesini kontrol edebilirsiniz.\n\nMostar'a çevre şehirlerden (Saraybosna, Dubrovnik, Split vb.) otobüsle ulaşım oldukça gelişmiştir. Otobüs terminali, şehir merkezine yürüme mesafesindedir. Trenle seyahat etmek de bir seçenektir, ancak otobüse göre sefer sayısı daha azdır."
+      },
+      {
+        "title": "Mostar Toplu Taşıma ve Ulaşım İçin Faydalı Bağlantılar",
+        "type": "external-links",
+        "links": [
+          {
+            "name": "Mostar Havalimanı (OMO) Resmi Sitesi",
+            "url": "https://www.mostar-airport.ba/"
+          },
+          {
+            "name": "Bosna-Hersek Otobüs Seferleri Bilgisi",
+            "url": "https://www.bus.hr/"
+          }
+        ]
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Mostar_Old_Town_Panorama.jpg",
+        "imageTitle": "Mostar Köprüsü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Mostar Köprüsü, ya da yerel adıyla Stari Most, Mostar şehrinin en ikonik simgesidir ve Osmanlı döneminden kalma mühendislik harikasıdır. 16. yüzyılda inşa edilen bu taş kemer köprü, Neretva Nehri’nin iki yakasını birbirine bağlayarak hem ulaşımı kolaylaştırmış hem de şehre estetik bir değer katmıştır. Köprü, Osmanlı mimarisinin zarif ve dayanıklı örneklerinden biri olarak kabul edilir.\n\n1990’larda yaşanan Bosna Savaşı sırasında köprü maalesef yıkılmış, ancak 2004 yılında orijinal malzemeler ve tekniklerle yeniden inşa edilmiştir. Yeniden açılışı, sadece Mostar için değil, tüm bölge için bir barış ve yeniden doğuş simgesi olmuştur. Günümüzde Mostar Köprüsü, turistlerin uğrak noktasıdır; cesur dalgıçların köprüden nehre atlayışlarını izlemek ve çevresindeki tarihi dokuyu keşfetmek büyük bir deneyim sunar. Köprü aynı zamanda UNESCO Dünya Mirası Listesi’nde yer almakta ve bölgenin kültürel mirasının korunmasında kritik bir rol oynamaktadır."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/1920px-Kravica_Waterfalls,Bosnia_&_Herzegovina.jpg",
+        "imageTitle": "Kravitse Şelaleleri",
+        "imageCaption": "Mostar'a yakın konumuyla Kravitse Şelaleleri, doğa severler için popüler bir destinasyondur."
+      },
+      {
+        "type": "text",
+        "content": "Kravitse Şelaleleri (Kravica Waterfall), Bosna-Hersek'in güneyinde, Mostar'a yaklaşık 40 km uzaklıkta yer alan, doğanın adeta bir şaheseri. Trebižat Nehri üzerinde bulunan bu şelaleler, yemyeşil bitki örtüsü ve serin turkuaz sularıyla \"mini Niagara\" olarak anılır. Yaz aylarında hem yerli halkın hem de turistlerin yüzmek ve piknik yapmak için tercih ettiği popüler bir dinlenme alanıdır. Şelalelerin altındaki doğal havuz, ziyaretçilere ferahlatıcı bir deneyim sunar.\n\n<B>Mostar'dan Ulaşım</B>\nMostar'dan Kravitse Şelaleleri'ne ulaşım için en yaygın yöntemler şunlardır:\n\n* <B>Özel Araç veya Kiralık Araba:</B> En rahat ve esnek seçenektir. Mostar'dan yola çıktığınızda yaklaşık 40-50 dakikalık bir sürüşle şelalelere ulaşabilirsiniz. Navigasyonla kolayca bulunabilir ve otopark imkanı mevcuttur.\n* <B>Taksi:</B> Mostar'dan taksi tutarak da gidebilirsiniz. Tek yön ücreti 40-50 KM civarında olabilir. Ancak taksiciyle dönüş saati ve fiyatı konusunda önceden anlaşmak önemlidir.\n* <B>Tur Organizasyonları:</B> Mostar'daki birçok tur acentesi, Kravitse Şelaleleri'ne yarım günlük veya tam günlük turlar düzenler. Bu turlar genellikle Medjugorje gibi diğer turistik noktaları da kapsayabilir ve ulaşım sorununu ortadan kaldırır.\n\n<B>Giriş Ücretleri</B>\nKravitse Şelaleleri'ne giriş ücreti, sezona göre değişiklik gösterebilmektedir. Genellikle yaz sezonunda (Haziran-Eylül) kişi başı giriş ücreti yaklaşık 20 KM (Bosna Hersek Markı) civarındadır. Sezon dışında bu ücret daha düşük olabilir. Şelalelerin girişindeki gişeden biletinizi nakit veya kredi kartıyla temin edebilirsiniz."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/20130606_Mostar_127.jpg",
+        "imageTitle": "Karagözbey Camii\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Karagözbey Camii, Mostar’da Osmanlı döneminden kalma önemli tarihi yapılar arasında yer alır. 16. yüzyılda inşa edilmiş olan bu cami, geleneksel Osmanlı mimarisinin zarif örneklerinden biridir. İnce detaylarla süslenmiş minaresi ve sade, estetik iç mekanıyla dikkat çeker.\n\nCami, sadece ibadet yeri olmakla kalmayıp, tarih boyunca bölgedeki toplumsal ve kültürel yaşamın da merkezi olmuştur. Zaman içinde çeşitli restorasyonlardan geçen Karagözbey Camii, Mostar’ın tarihi atmosferine önemli katkılar sunar. Ziyaretçiler burada Osmanlı sanatının izlerini görebilir ve bölgenin dini tarihine dair önemli bir pencere açabilirler."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/2021-01-26.jpg",
+        "imageTitle": "Biscevic House\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Biscevic House, Mostar’ın tarihi dokusunu yansıtan nadir Osmanlı dönemine ait evlerden biridir. 17. yüzyılda inşa edilen bu yapı, geleneksel Osmanlı konut mimarisinin özgün özelliklerini taşır. Ev, dar sokaklar arasında saklı kalmış ve zaman içinde iyi korunmuş olmasıyla dikkat çeker.\n\nBiscevic House’un iç mekanında, o dönemin yaşam tarzını ve sosyal alışkanlıklarını yansıtan mobilyalar, dekoratif öğeler ve el işi detaylar bulunur. Ziyaretçiler, bu evde hem mimari güzellikleri keşfedebilir hem de Mostar’ın tarihi yaşamına dair bir kesit görebilirler. Günümüzde müze olarak hizmet veren Biscevic House, şehrin kültürel mirasının korunmasında önemli bir rol oynar ve tarihi atmosferiyle ziyaretçilerini geçmişe götürür."
+      },{
+        "type": "image-block",
+        "image": "/images/The_Koski_Mehmed_Pasha_Mosque_(c)_IslamicArtsMagazine_02.jpg",
+        "imageTitle": "Koski Mehmed Paşa Camii\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Koski Mehmed Paşa Camii, Mostar’ın Osmanlı döneminden kalan en güzel ve en etkileyici yapılarından biridir. 1617 yılında inşa edilen bu cami, özellikle nehir kıyısındaki konumuyla büyüleyici bir manzaraya sahiptir. Cami, geleneksel Osmanlı mimarisinin zarif örneklerini yansıtır; özellikle minaresinden ve avlusundan Neretva Nehri ve Stari Most’un panoramik görüntüsü görülür.\n\nZiyaretçiler, Koski Mehmed Paşa Camii’ni sadece ibadet yeri olarak değil, aynı zamanda tarih ve sanat açısından da önemli bir durak olarak görür. İç mekanındaki detaylı süslemeler, ahşap işçiliği ve çağdaş restorasyon çalışmaları, caminin tarih boyunca önemini koruduğunu gösterir. Ayrıca, minareye çıkmak mümkün olup, buradan şehrin ve nehrin eşsiz manzaralarını seyretmek Mostar ziyaretinin unutulmaz anlarından biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Museum_Of_War_And_Genocide_Victims,_Mostar,_Bosnia_and_Herzegovina.jpg",
+        "imageTitle": "Museum Of War And Genocide Victims\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Museum of War and Genocide Victims, Mostar’da savaşın acı gerçeklerini ve tarihini yansıtan önemli bir müzedir. 1990’ların başında yaşanan Bosna Savaşı sırasında ve sonrasında yaşanan insan hakları ihlalleri, katliamlar ve soykırım gibi trajik olayların belgelerini, görsel materyallerini ve kişisel hikayelerini ziyaretçilere sunar. Müze, savaş mağdurlarının anısına saygı duruşunda bulunmak ve gelecek nesillere barışın önemini hatırlatmak amacıyla kurulmuştur.\n\nBurada sergilenen objeler, fotoğraflar ve tanıklıklar, savaşın yıkıcılığını gözler önüne sererken, aynı zamanda insan dayanışması ve direncine dair güçlü mesajlar verir. Müze, Mostar ve Bosna-Hersek’in yakın tarihini anlamak isteyenler için anlamlı ve dokunaklı bir durak olarak öne çıkar. Ziyaretçiler, savaşın trajedisini derinden hissedip, barış ve insan hakları konularında farkındalık kazanma şansı bulur."
+      },{
+        "type": "image-block",
+        "image": "/images/Halebija_Tower.jpg",
+        "imageTitle": "Halebija Tower",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Halebija Kulesi, Mostar şehir surlarının önemli bir parçası olarak Osmanlı döneminde inşa edilmiş tarihi bir yapıdır. Bu kule, şehrin savunmasında kritik bir rol oynamış ve Neretva Nehri ile çevredeki bölgeleri kontrol etmek amacıyla stratejik bir konuma yerleştirilmiştir. Kule, sağlam taş işçiliği ve tarihi dokusuyla bölgenin mimari mirasını yansıtır.\n\nZaman içinde çeşitli onarımlar geçiren Halebija Kulesi, günümüzde Mostar’ın tarihi atmosferini deneyimlemek isteyen ziyaretçiler için ilgi çekici bir duraktır. Kule, şehir duvarlarının diğer bölümleriyle birlikte, Mostar’ın zengin tarihini ve savunma sistemlerinin nasıl çalıştığını gözler önüne serer. Tarihi dokusuyla şehre karakter katan bu kule, fotoğraf tutkunları için de eşsiz manzaralar sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/800px-Bosnia_and_Herzegovina-02274_-_Catholic_Church_of_St._Peter_and_Paul_(10481758153).jpg",
+        "imageTitle": "Franjevačka Crkva u Mostaru\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Franjevačka Crkva, Mostar’ın en önemli Katolik kiliselerinden biridir ve 19. yüzyılın sonlarında inşa edilmiştir. Gotik ve neo-Gotik mimari tarzlarının izlerini taşıyan bu yapı, şehrin tarihi dokusuna renk katan zarif detaylara sahiptir. Kilisenin iç mekanı, sade ama etkileyici tasarımıyla ibadet ve kültürel etkinlikler için önemli bir merkezdir.\n\nMostar’ın çok kültürlü yapısını yansıtan Franjevačka Crkva, hem yerel halk hem de ziyaretçiler tarafından saygıyla karşılanır. Kilise, özellikle barış ve hoşgörü mesajlarıyla bilinir ve bölgedeki dini çeşitliliğin sembollerinden biri olarak kabul edilir. Tarih boyunca çeşitli onarım ve restorasyonlar geçiren bu yapı, bugün hala aktif olarak kullanılmakta ve Mostar’ın kültürel mirasının önemli bir parçası olarak korunmaktadır."
+      },
+      {
+  "title": "Mostar Mutfak Kültürü",
+  "type": "text",
+  "content": "Mostar mutfağı, Bosna-Hersek'in genel mutfağı gibi Osmanlı, Akdeniz ve Orta Avrupa mutfaklarının harmanlanmasından oluşur. Yemeklerde et, bolca baharat ve sebze kullanımı yaygındır. Mutfak kültüründe kebap çeşitleri, et güveçleri, börekler ve tatlılar önemli bir yer tutar. Yöresel lezzetleri tadabileceğiniz geleneksel restoranlar 'restoran' veya 'aščinica' (eski tarz, geleneksel ev yemekleri lokantası) olarak adlandırılır."
+},
+{
+  "title": "Mostar'da Ne Yenir?",
+  "type": "text",
+  "content": "Mostar'da mutlaka denemeniz gereken lezzetlerin başında 'Ćevapi' gelir. İnce kıyılmış ve baharatlanmış etten yapılan küçük köftelerin, 'lepinja' adı verilen pide ekmeği içinde soğanla servis edildiği bu yemek, bölgenin en meşhur yemeğidir. Bir diğer popüler lezzet ise 'Burek'tir. İnce yufkaların kıyma, peynir, patates veya ıspanakla doldurulup fırında pişirilmesiyle hazırlanır. 'Bosanski Lonac' (Bosna Güveci), sebzeler ve etin uzun süre pişirilmesiyle yapılan geleneksel bir güveç yemeğidir. Tatlı olarak ise 'Hurmašice' (şerbetli bir kurabiye) ve 'Tufahija' (kaymaklı elma tatlısı) öne çıkar."
+},
+{
+  "title": "Önerilen Mostar Mekanları ve Lezzetleri",
+  "type": "list",
+  "intro": "Mostar'ın zengin mutfağını deneyimleyebileceğiniz bazı özel adresler:",
+  "listItems": [
+    "<B>Tima-Irma (Eski Şehir):</B> Mostar'da 'Ćevapi' denemek için en popüler adreslerden biridir. Genellikle kuyruk olan bu küçük mekan, cömert porsiyonları ve otantik lezzetleriyle bilinir. 'Mix Grill' tabağını deneyerek farklı kebap çeşitlerini tadabilirsiniz.",
+    "<B>Šadrvan (Eski Köprü Yakını):</B> Eski Şehir'in girişinde yer alan, geleneksel dekorasyonu ve geniş menüsüyle dikkat çeken bir restorandır. Bosna mutfağının tüm klasiklerini burada bulabilirsiniz. Geleneksel kıyafetli garsonları ile otantik bir atmosfer sunar.",
+    "<B>Hindin Han (Eski Şehir):</B> Neretva Nehri'nin kenarında, harika bir manzaraya sahip olan bir restorandır. Geleneksel Bosna yemekleri sunar ve özellikle et yemekleri konusunda iddialıdır. Sakin bir yemek deneyimi için tercih edilebilir.",
+    "<B>Konoba Taurus (Eski Şehir):</B> Eski Köprü'ye yakın bir konumda bulunan bu mekan, özellikle balık ve deniz ürünleri ağırlıklı Akdeniz yemekleriyle de dikkat çeker. Geleneksel Bosna mutfağını farklı lezzetlerle birleştiren bir menüye sahiptir.",
+    "<B>Caffe Pizzeria Roma (Eski Şehir dışı):</B> Eski Şehir'e yürüme mesafesinde olan bu mekan, daha çok pizzalarıyla bilinse de, yerel lezzetleri de menüsünde barındırır. Daha modern ve rahat bir ortam arayanlar için iyi bir alternatiftir."
+  ]
+},
+{
+  "imageTitle": "Mostar'ın İmzası: Ćevapi",
+  "type": "image-block",
+  "image": "/images/Cevapcici_in_somun.jpg",
+  "imageCaption": "Kömür ateşinde pişmiş, baharatlı kıyma köftelerinin pide ekmeği içinde servis edildiği yöresel lezzet."
+},
+{
+  "imageTitle": "Geleneksel Boşnak Böreği: Burek",
+  "type": "image-block",
+  "image": "/images/Motani_burek_1.jpg",
+  "imageCaption": "Kıyma, peynir, ıspanak veya patatesle doldurulmuş ince yufka ile hazırlanan, bölgenin en meşhur hamur işi."
+}
+    ]
+  },
+
+
+
+  {
+    "id": "saraybosna",
+    "countryId": "bosnahersek",
+    "name": "Saraybosna",
+    "description": "Sarajevo, tarih boyunca Doğu ile Batı’nın buluşma noktası olmuş, kültürel zenginliği ve karmaşık geçmişiyle dikkat çeken bir şehirdir. Osmanlı ve Avusturya-Macaristan İmparatorluğu dönemlerinin izlerini taşıyan mimarisi, camileri, kiliseleri ve sinagoglarıyla çok dinli ve çok kültürlü yapısını yansıtır. Şehir, özellikle 20. yüzyılın önemli olaylarından biri olan 1914'teki Franz Ferdinand suikastıyla dünya tarihine damga vurmuştur.\n\nSarajevo, Bosna Savaşı sırasında uzun süre kuşatma altında kalmış ve bu dönem şehrin hafızasında derin izler bırakmıştır. Ancak bugün, savaşın izlerine rağmen yeniden canlanmış ve hem tarih meraklıları hem de kültür turistleri için önemli bir destinasyon haline gelmiştir. Eski şehir bölgesi Baščaršija, dar sokakları, geleneksel kahvehaneleri ve zanaat atölyeleriyle ziyaretçilere özgün bir deneyim sunar. Saraybosna, geçmişiyle yüzleşirken geleceğe umutla bakan bir şehir olarak, ziyaretçilerini tarih, sanat ve yaşamın iç içe geçtiği benzersiz bir atmosfere davet eder. ",
+    "coverImage": "/images/Day_in_Sarajevo.jpg",
+    "image": "/images/Bascarsijska_dzamija.jpg",
+    "routes": [
+      {
+        "title": "Saraybosna Başçarşı Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3966.959571529677!2d18.423958312490058!3d43.85813908903021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x4758c8c84d6ab441%3A0x3d30965f5374d2f!2zQmHFocSNYXLFoWlqc2thIGTFvmFtaWph!3m2!1d43.8591463!2d18.4312379!4m5!1s0x4758c8dbea522ff9%3A0x9d2f6566a73c24b1!2sBrusa%20bezistan!3m2!1d43.858811499999995!2d18.430481099999998!4m5!1s0x4758c8c8e5a646dd%3A0xd12e81f3a6e7cb82!2sGazi%20Husrev-begova%20d%C5%BEamija!3m2!1d43.8591507!2d18.429285399999998!4m5!1s0x4758c8c8e785c30d%3A0x61ecebc88beeab9b!2sSahat-kula!3m2!1d43.8592154!2d18.428631499999998!4m5!1s0x4758c8cf3e884aef%3A0x1675fef7f51068a6!2sKatedrala%20Srca%20Isusova!3m2!1d43.859372099999995!2d18.4255612!4m5!1s0x4758c8cf8c8cb4bd%3A0x848229bc021e99fd!2zU8O2bm1leWVuIEF0ZcWfIEFuxLF0xLEsIEZlcmhhZGlqYSwgU2FyYXlib3NuYSwgQm9zbmEgSGVyc2Vr!3m2!1d43.8588161!2d18.4218635!4m5!1s0x4758c8cf5e9f4293%3A0xdd19f87f1f9253df!2sSaborna%20Crkva%20Ro%C4%91enja%20Presvete%20Bogorodice!3m2!1d43.858219399999996!2d18.4249252!4m5!1s0x4758c8c886ece897%3A0xdba061a30179575b!2sLatinska%20%C4%86uprija!3m2!1d43.8576057!2d18.4289575!4m5!1s0x4758c8c80cceb751%3A0xab5e3d8e7b593fb6!2sCareva%20d%C5%BEamija!3m2!1d43.8574479!2d18.4307721!4m5!1s0x4758c8c62eb907af%3A0xfbf6f3c14206f59f!2sAt%20Mejdan!3m2!1d43.856963199999996!2d18.428147799999998!5e1!3m2!1str!2str!4v1755047153364!5m2!1str!2str",
+        "mapLinkUrl": "https://maps.app.goo.gl/khkDfZVw1cBEefqPA",
+        "steps": [
+          {
+            "from": "Başçarşı, Baščaršija 1, Sarajevo 71000, Bosna-Hersek",
+            "to": "At Mejdan, Hamdije Kreševljakovića, Sarajevo 71000, Bosna Hersek",
+            "duration": "26 dakika",
+            "distance": "1,9 km",
+            "image": "/images/saraybosna_route.jpg"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "title": "Saraybonsa'da Neler Yapılır?",
+        "type": "text",
+        "content": "Saraybonsa’da yapılacak pek çok şey var. Tarihi Başçarşı bölgesinde dolaşmak, Osmanlı döneminden kalan dar sokaklarda gezmek ve geleneksel kahvehanelerde Boşnak kahvesi içmek şehrin ruhunu hissetmenin en güzel yollarından biri. Ayrıca yöresel lezzetleri tatmak için burada “ćevapi” ve “burek” gibi Boşnak mutfağının öne çıkan yemeklerini denemelisiniz.\n\nTarih ve kültür meraklıları için Latin Köprüsü’nü ziyaret etmek çok önemlidir; burası, I. Dünya Savaşı'nı başlatan suikastın gerçekleştiği yerdir. Bosna Savaşı hakkında bilgi almak isteyenler ise Savaş Tüneli Müzesi’ni gezebilir. Şehrin çok kültürlü yapısını görmek için Gazi Hüsrev Bey Camii, katedraller ve sinagoglar ziyaret edilebilir.\n\nDoğa tutkunları Trebević Dağı’na teleferikle çıkarak şehrin panoramik manzarasını seyredebilir. Gece hayatı da hareketlidir; birçok bar ve canlı müzik mekanı, Saraybosna’nın enerjik atmosferine katkıda bulunur. Tüm bunlar, Sarajevo’yu tarih ve modern yaşamın iç içe geçtiği özel bir destinasyon yapar."
+      },
+      {
+    "title": "Saraybosna Toplu Taşıma ve Havalimanı Ulaşım Rehberi",
+    "type": "text",
+    "content": "Saraybosna Havalimanı (SJJ), şehir merkezine yaklaşık 10 km uzaklıktadır. Havalimanından şehir merkezine ulaşım için çeşitli seçenekler mevcuttur:\n\n<B>Havalimanı Otobüsü (Centrotrans):</B> En pratik ve ekonomik seçeneklerden biridir. Havalimanı ile tarihi çarşı Başçarşı arasında sefer yapan bu otobüsler, yaklaşık 30 dakikada bir hareket eder ve bilet fiyatı ortalama 5 KM'dir. Biletinizi şoförden satın alabilirsiniz.\n\n<B>Taksi:</B> Havalimanı çıkışında taksiler kolayca bulunabilir. Şehir merkezine yolculuk süresi trafiğe bağlı olarak 20-30 dakika sürer ve taksimetre açtırılması önemlidir. Ortalama ücret 20-25 KM civarındadır.\n\n<B>Toplu Taşıma (Tramvay, Troleybüs, Otobüs):</B> Saraybosna'da şehir içi ulaşım ağı, tramvay, troleybüs ve otobüs hatlarından oluşur. En popüler ulaşım aracı olan tramvaylar, şehrin ana caddesi boyunca uzanır. Şehir içi tek binişlik bilet fiyatı, biletin nereden alındığına göre değişir: Büfelerden (kiosk) alırsanız 1.60 KM, araç içindeki şoförden alırsanız 1.80 KM'dir. Biletinizi araca bindiğinizde mutlaka okutmanız gerekir. Ancak şehir merkezi ve Başçarşı bölgesi, yürüyerek keşfetmek için idealdir."
+  },
+  {
+    "title": "Saraybosna Ulaşımı İçin Faydalı Bağlantılar",
+    "type": "external-links",
+    "links": [
+      {
+        "name": "Centrotrans (Havalimanı Otobüs Hattı)",
+        "url": "https://centrotrans.com/"
+      }
+    ]
+  },
+      {
+        "type": "image-block",
+        "image": "/images/Bascarsijska_dzamija.jpg",
+        "imageTitle": "Başçarşı Camii\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Başçarşı Camii, Saraybosna’nın en eski ve en önemli camilerinden biridir. 16. yüzyılda inşa edilen bu cami, Osmanlı mimarisinin zarif örneklerinden biri olarak dikkat çeker. Başçarşı’nın tam kalbinde yer alması, hem ibadet hem de sosyal yaşam açısından büyük önem taşır. Caminin avlusundaki tarihi çeşmeler ve taş işçiliği, ziyaretçilere geçmişin izlerini hissettirir.\n\nBaşçarşı Camii, sadece dini bir mekan olmanın ötesinde, Sarajevo’nun kültürel ve toplumsal hayatında da merkezi bir rol oynamıştır. Yüzyıllar boyunca farklı toplulukların buluşma noktası olmuş, çeşitli dönemlerde restorasyonlar geçirmiştir. Bugün de aktif olarak ibadete açık olan cami, şehrin tarihi dokusunu deneyimlemek isteyenler için mutlaka görülmesi gereken yerlerden biridir."
+      },
+      {
+        "type": "image-block",
+        "image": "/images/Bascarsija.jpg",
+        "imageTitle": "Brusa Bezistan",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Brusa Bezistan, Saraybosna’nın tarihi çarşılarından biridir ve Osmanlı döneminden kalan önemli ticaret merkezlerinden biridir. 16. yüzyılda inşa edilen bu bezistan, başta ipek ve tekstil ürünleri olmak üzere birçok farklı malın satıldığı kapalı bir çarşıdır. Saraybosna’nın ticari hayatında uzun yıllar merkezi bir rol oynamış, şehrin canlı pazar kültürünü yansıtan önemli yapılar arasında yer alır.\n\nBezistan, mimari olarak Osmanlı esintilerini taşır ve yapının iç kısmında dar koridorlar ile küçük dükkanlar sıralanmıştır. Günümüzde halen geleneksel el sanatları ve hediyelik eşya satan dükkanlar bulabileceğiniz bu mekan, Saraybosna’nın kültürel mirasına tanıklık eder. Tarih boyunca birçok restorasyondan geçen Brusa Bezistan, Saraybosna ziyaretçilerinin mutlaka uğraması gereken tarihi çarşılar arasında yer alır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_Antoniuskirche2.jpg",
+        "imageTitle": "Saint Anthony Fransız Kilisesi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saint Anthony Fransız Kilisesi, Saraybosna’da bulunan tarihi ve kültürel açıdan değerli yapılardan biridir. 19. yüzyıl sonlarında inşa edilen bu kilise, Gotik mimari tarzının zarif örneklerinden biri olarak öne çıkar. Kilisenin iç dekorasyonu ve vitray pencereleri, ziyaretçilere sakin ve mistik bir atmosfer sunar.\n\nSaraybosna’nın çok kültürlü yapısına katkı sağlayan Saint Anthony Kilisesi, hem yerel Hristiyan cemaat için ibadet yeri hem de şehri ziyaret edenler için tarihî bir durak olarak kabul edilir. Kilise, zaman içinde çeşitli restorasyonlardan geçmiş ve mimari özelliklerini büyük ölçüde korumuştur. Saraybosna’nın dini çeşitliliğini yansıtan bu yapının, şehrin tarihine ve kültürel mozaiğine önemli bir katkısı vardır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_gazi_husrev_bey_mausoleum_IMG_1278.jpg",
+        "imageTitle": "Gazi Hüsrev Bey Camii\n\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Gazi Hüsrev Bey Camii, Saraybosna’nın en görkemli ve tarihi camilerinden biridir. 16. yüzyılda, Osmanlı döneminde inşa edilen camii, dönemin önemli vakıf eserlerinden biri olarak kabul edilir. Mimari açıdan klasik Osmanlı tarzını yansıtan yapı, hem ibadet hem de eğitim merkezi olarak uzun yıllar hizmet vermiştir. Gazi Hüsrev Bey, Saraybosna’nın gelişimine büyük katkıda bulunan önemli bir devlet adamıdır ve cami, onun adına yaptırılmıştır.\n\nCamii, sadece dini bir mekân değil, aynı zamanda Saraybosna’nın kültürel ve sosyal hayatında da önemli bir rol oynamıştır. İç dekorasyonundaki detaylar, çini süslemeler ve minaresiyle dikkat çeken yapı, Saraybosna’nın Osmanlı mirasının en güzel örneklerinden biri olarak günümüzde ziyaretçilere kapılarını açar. Tarih boyunca birçok kez onarımdan geçen Gazi Hüsrev Bey Camii, şehrin sembollerinden biri olarak saygıyla korunmaktadır."
+      },{
+        "type": "image-block",
+        "image": "/images/Vijecnica_(41626036484).jpg",
+        "imageTitle": "Vijecnica Kütüphanesi\n\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Vijecnica Kütüphanesi, Saraybosna’nın en ikonik yapılarından biri olarak hem mimari hem de kültürel açıdan büyük öneme sahiptir. 19. yüzyılın sonlarında inşa edilen bu görkemli bina, orijinalinde şehir meclisi binası olarak kullanılmıştır. Neo-Moorish (Yeni Mağribi) mimari tarzıyla dikkat çeken yapı, zarif süslemeleri ve detaylarıyla göz kamaştırır.\n\n1992-1995 yılları arasında yaşanan Bosna Savaşı sırasında büyük zarar gören Vijecnica, savaş sonrası kapsamlı restorasyon çalışmalarıyla tekrar ayağa kaldırılmış ve Saraybosna’nın kültürel hayatında önemli bir merkez haline gelmiştir. Günümüzde kütüphane ve kültürel etkinliklere ev sahipliği yapan bu yapı, şehrin tarihini ve direncini simgeleyen bir anıt niteliğindedir. Ziyaretçiler için hem mimari bir şaheser hem de Bosna-Hersek’in kültürel mirasının yaşatıldığı özel bir mekandır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sahat_kula_in_Sarajevo.jpg",
+        "imageTitle": "Saat Kulesi\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saraybosna Saat Kulesi, şehrin en eski ve en dikkat çekici yapılarından biridir. Osmanlı döneminde inşa edilen kule, Saraybosna’nın tarihi merkezinde, özellikle Başçarşı bölgesinde yer alır. Bu kule, sadece zamanı göstermekle kalmayıp, aynı zamanda şehrin günlük yaşamında önemli bir referans noktası olmuştur. Saat mekanizması, geleneksel ay takvimine göre çalışmasıyla benzersizdir ve bu özelliğiyle diğer saat kulelerinden ayrılır.\n\nKulenin mimarisi sade ama işlevseldir; ahşap ve taş malzemelerin uyumlu kullanımıyla tarihi atmosferi tamamlar. Saat Kulesi, Saraybosna’nın tarih boyunca farklı kültürlerin bir arada yaşadığı çok katmanlı yapısının simgelerinden biri olarak kabul edilir. Günümüzde de ziyaretçilerin ilgisini çeken bu kule, Saraybosna’nın zengin tarihine tanıklık eden önemli yapılardan biridir."
+      },{
+        "type": "image-block",
+        "image": "/images/Bosnien_catholic_church_in_Sarajevo-2.jpg",
+        "imageTitle": "Kutsal Kalp Katedrali\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saraybosna Kutsal Kalp Katedrali, şehrin en büyük Katolik ibadet yeridir ve Gotik mimari tarzıyla dikkat çeker. 19. yüzyılın sonlarında inşa edilen katedral, Saraybosna’daki Katolik topluluğunun merkezi olarak hizmet vermektedir. Katedralin yüksek sivri kuleleri, vitray pencereleri ve detaylı taş işçiliği, ziyaretçilere etkileyici bir görsel şölen sunar.\n\nBu yapı, sadece dini bir merkez olmakla kalmaz, aynı zamanda Saraybosna’nın çok kültürlü yapısını simgeleyen önemli bir yapı olarak kabul edilir. Tarih boyunca çeşitli zorluklara rağmen ayakta kalmayı başaran katedral, günümüzde hem ibadet hem de turistik ziyaretler için önemli bir durak konumundadır. Kutsal Kalp Katedrali, Saraybosna’nın tarihi dokusuna zarif bir katkı sağlar ve şehrin kültürel mozaiğinin önemli bir parçasıdır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_-_Bosnia_-_War_Memorial.jpg",
+        "imageTitle": "Sönmeyen Ateş Anıtı\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Sönmeyen Ateş Anıtı, Saraybosna’nın kalbinde yer alan ve şehrin modern tarihine ışık tutan önemli bir anıttır. 1946 yılında, II. Dünya Savaşı sırasında hayatını kaybedenler anısına yapılmıştır ve sürekli yanan ateşiyle hem anma hem de umut simgesi olarak kabul edilir. Anıt, Saraybosna’nın sosyal hafızasında derin bir yer tutar ve her yıl birçok ziyaretçi tarafından saygıyla anılır.\n\nMimari olarak sade ama anlamı güçlü olan Sönmeyen Ateş, Saraybosna’nın savaşlar ve zorluklarla dolu tarihindeki dayanıklılığını simgeler. Özellikle Bosna Savaşı yıllarında şehrin sembollerinden biri haline gelmiş ve halkın birliği ile direniş ruhunu yansıtmıştır. Günümüzde anıt, hem yerel halk hem de turistler için önemli bir ziyaret noktasıdır ve Saraybosna’nın geçmişine dair derin bir bağlantı sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Саборна_црква_у_Сарајеву.jpg",
+        "imageTitle": "Saraybosna Sırp Ortodoks Katedrali\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saraybosna Sırp Ortodoks Katedrali, şehrin en önemli dini yapılarından biridir ve Ortodoks Hristiyan cemaatinin merkezidir. 19. yüzyılın sonlarında inşa edilen katedral, zengin Bizans ve Neo-Byzantine mimari etkilerini taşır. Görkemli kubbesi ve detaylı iç süslemeleriyle dikkat çeken yapı, Saraybosna’nın çok kültürlü yapısının önemli bir parçası olarak kabul edilir.\n\nKatedral, sadece ibadet yeri olmanın ötesinde, Sırp Ortodoks toplumunun kültürel ve sosyal yaşamında da merkezi bir rol oynar. Tarih boyunca çeşitli restorasyonlardan geçmiş ve savaş dönemlerinde zarar görmüş olmasına rağmen, korunarak günümüze kadar ulaşmıştır. Saraybosna Sırp Ortodoks Katedrali, şehrin dini hoşgörü atmosferinin simgelerinden biridir ve ziyaretçilere tarihi, mimari ve kültürel açıdan zengin bir deneyim sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/Latin_Bridge_02_(22757259615).jpg",
+        "imageTitle": "Latin Köprüsü\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Latin Köprüsü, Saraybosna’nın en tarihi ve simgesel yapılarından biridir. 16. yüzyılda Osmanlı döneminde inşa edilen bu köprü, şehri iki yakaya bağlayan stratejik bir noktada yer alır. Köprü, özellikle 1914 yılında Avusturya-Macaristan Arşidükü Franz Ferdinand’ın suikasta uğradığı yer olarak dünya tarihine geçmiştir; bu olay I. Dünya Savaşı’nın başlamasında önemli bir dönüm noktası olmuştur.\n\nYapısal olarak sade ve işlevsel olan Latin Köprüsü, Saraybosna’nın zengin tarihinin canlı bir tanığıdır. Zaman içinde çeşitli onarımlar görmüş olsa da, tarihi dokusunu büyük ölçüde korumayı başarmıştır. Bugün köprü, hem yerel halk hem de turistler tarafından ziyaret edilmekte, tarih severler için önemli bir durak konumundadır. Latin Köprüsü, Saraybosna’nın geçmişiyle bağ kurmak isteyen herkes için özel bir anlam taşır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_emperors_mosque_IMG_1132.jpg",
+        "imageTitle": "Hünkâr Camii (Fatih Sultan II. Mehmet Camii)\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Hünkâr Camii, Saraybosna’nın Osmanlı döneminden kalan en önemli ve en görkemli yapılarından biridir. 15. yüzyılda Fatih Sultan II. Mehmet’in emriyle inşa edilen camii, hem mimari hem de tarihi açıdan büyük önem taşır. Zarif kubbesi ve ince detaylarla işlenmiş taş işçiliğiyle dikkat çeken yapı, Saraybosna’daki İslam kültürünün simgelerinden biridir.\n\nCamii, sadece ibadet amacıyla değil, aynı zamanda Osmanlı’nın bu bölgedeki etkisini ve kültürel mirasını yansıtan bir anıt olarak da kabul edilir. Tarih boyunca pek çok restorasyon geçirmiş ve savaşlar sırasında zarar görmüş olsa da orijinal ihtişamını korumaya devam etmiştir. Hünkâr Camii, Saraybosna’nın tarihi dokusunun önemli bir parçası olup, ziyaretçilere hem manevi hem de sanatsal bir deneyim sunar."
+      },{
+        "type": "image-block",
+        "image": "/images/AdmejdanSarajevo.jpg",
+        "imageTitle": "At Mejdan\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Mejdan, Saraybosna’nın tarihi ve kültürel kalbinde yer alan önemli bir meydandır. Osmanlı döneminden günümüze ulaşan bu alan, bir zamanlar şehrin sosyal, ticari ve dini yaşamının merkezi olmuştur. Mejdan, çevresindeki camiler, hanlar ve tarihi yapılarla çevrili olup, Saraybosna’nın geçmişine tanıklık eden önemli bir toplanma noktasıdır.\n\nMeydanda zaman içinde çeşitli etkinlikler düzenlenmiş, halkın buluşma ve sohbet ettiği bir alan olarak kullanılmıştır. Bugün ise hem yerel halk hem de ziyaretçiler için canlı bir sosyal ortam sunar. Saraybosna’nın tarihi dokusunu hissetmek isteyenler için Mejdan, şehrin kültürel atmosferini deneyimlemek adına özel bir mekandır."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_Grave_of_Alija_Izetbegovic.jpg",
+        "imageTitle": "Aliya İzzetbegoviç Kabri\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Aliya İzzetbegoviç Kabri, Bosna-Hersek’in ilk Cumhurbaşkanı ve ülkenin modern tarihindeki en önemli liderlerinden biri olan Aliya İzzetbegoviç’in ebedi istirahatgahıdır. Saraybosna’da yer alan bu kabir, Bosnalı halk için büyük bir saygı ve anma noktasıdır. İzzetbegoviç, ülkenin bağımsızlığı ve barışı için verdiği mücadeleyle tanınır ve Bosna Savaşı sırasında gösterdiği liderlik, onu ulusal bir kahraman haline getirmiştir.\n\nKabir, sade ama derin anlamlar taşıyan bir yapıya sahiptir ve ziyaretçilere, Bosna-Hersek’in yakın tarihine dair güçlü bir bağlantı sunar. Aliya İzzetbegoviç’in mirası, sadece siyasi değil, aynı zamanda kültürel ve toplumsal alanda da büyük etkiler bırakmıştır. Kabri, Saraybosna’da saygıyla ziyaret edilen, hem yerli halk hem de uluslararası ziyaretçiler için anlamlı bir durak olarak kabul edilir."
+      },{
+        "type": "image-block",
+        "image": "/images/Sarajevo_Night_Skyline_Bosnia_&_Herzegovina_2014_(15510458883).jpg",
+        "imageTitle": "Sarı Tabya\n",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Sarı Tabya, Saraybosna’nın savunma sistemlerinin önemli bir parçası olarak Osmanlı döneminde inşa edilmiş tarihi bir yapıdır. Şehrin stratejik noktalarından birinde yer alan bu tabya, özellikle 18. yüzyılda kentin dış tehditlere karşı korunmasında kritik rol oynamıştır. Sarı Tabya, ismini zamanla sarıya çalan taşlarından almıştır ve yapısal olarak hem estetik hem de işlevsel özellikler taşır.\n\nTarih boyunca Saraybosna’nın çeşitli dönemlerindeki savaş ve kuşatmalara tanıklık eden Sarı Tabya, günümüzde ziyaretçilerine hem tarihî bir atmosfer sunar hem de şehrin geçmişteki savunma stratejilerine dair önemli ipuçları verir. Restorasyon çalışmaları sayesinde korunmuş olan bu tabya, Saraybosna’nın zengin tarihinin somut örneklerinden biridir ve tarih meraklıları için anlamlı bir uğrak noktasıdır."
+      },{
+        "type": "image-block",
+        "image": "/images/thumbs_b_c_bd3fd921ed0e84f1ba20661583f7f2b8.jpg",
+        "imageTitle": "Saraybosna Optik Yansımalar Müzesi",
+        "imageCaption": ""
+      },
+      {
+        "type": "text",
+        "content": "Saraybosna Optik Yansımalar Müzesi, kentin sanat ve bilimle buluşan özgün mekânlarından biridir. Ziyaretçilere ışığın doğası ve optik yanılsamalar üzerine interaktif deneyimler sunan bu müze, hem eğitici hem de eğlenceli bir atmosfer yaratır. Müze, göz yanılsamalarını kullanarak algıyı sorgulatan sergilerle dikkat çeker ve farklı yaş gruplarından ziyaretçilerin ilgisini çekmektedir."
+      },
+      {
+    "title": "Saraybosna Mutfak Kültürü",
+    "type": "text",
+    "content": "Bosna-Hersek'in kalbi Saraybosna, Osmanlı ve Avusturya-Macaristan mutfaklarının zengin etkilerini taşıyan, kendine özgü bir mutfak kültürüne sahiptir. Yemekler genellikle et, hamur işleri ve taze sebzeler üzerine kuruludur. Baharat kullanımı bol ve lezzetler oldukça doyurucudur. Saraybosna'nın tarihi çarşısı Baščaršija, geleneksel yemekleri tadabileceğiniz restoranlar ve kebapçılarla doludur. Burada 'aščinica' adı verilen geleneksel ev yemekleri lokantalarında da yöresel lezzetleri deneyimleyebilirsiniz."
+  },
+  {
+    "title": "Saraybosna'da Ne Yenir?",
+    "type": "text",
+    "content": "Saraybosna denince akla ilk gelen lezzet şüphesiz 'Ćevapi'dir. Köfte benzeri baharatlı etlerin közde pişirilip, 'lepinja' adı verilen pide ekmeği ve ince kıyılmış soğanla servis edildiği bu yemek, şehrin simgesidir. Bir diğer meşhur lezzet ise 'Burek'tir. Kıyma, peynir, ıspanak veya patatesle doldurulmuş, fırında pişirilmiş ince yufka böreğidir. Geleneksel bir Bosna yemeği olan 'Bosanski Lonac' (Bosna Güveci), sebzeler ve etin uzun süre pişirilmesiyle hazırlanır. 'Sarma' (lahana sarması) ve 'Sogan-dolma' (etli soğan dolması) da oldukça popülerdir. Tatlı olarak ise, şerbetli kurabiye 'Hurmašica' ve kaymaklı elma tatlısı 'Tufahija' mutlaka denenmesi gerekenler arasındadır."
+  },
+  {
+    "title": "Önerilen Saraybosna Mekanları ve Lezzetleri",
+    "type": "list",
+    "intro": "Saraybosna'nın zengin mutfağını deneyimleyebileceğiniz bazı özel adresler:",
+    "listItems": [
+      "<B>Ćevabdžinica Željo (Baščaršija):</B> Saraybosna'nın en meşhur ve en çok tercih edilen 'Ćevapi'cilerinden biridir. Baščaršija'da iki şubesi bulunur. Otantik bir deneyim için idealdir.",
+      "<B>Petica-Ferhatović (Baščaršija):</B> Bir diğer popüler ve geleneksel 'Ćevapi' adresidir. Geniş menüsü ve otantik atmosferiyle bilinir. İki mekan da oldukça rekabet içindedir.",
+      "<B>Pekara Asdž (Baščaršija):</B> Geleneksel 'Burek' ve diğer börek çeşitlerini denemek için mükemmel bir fırın. Her zaman taze ve sıcak ürünler bulabilirsiniz.",
+      "<B>Aščinica Hadžibajrić (Baščaršija):</B> Ev yapımı, geleneksel Bosna yemeklerini tatmak için harika bir 'aščinica'. Menüde günlük olarak değişen güveçler, dolmalar ve çorbalar bulunur.",
+      "<B>Sarajevska Pivara (Bosna bira fabrikası):</B> Şehir merkezinin biraz dışında yer alan bu tarihi bira fabrikası, kendi ürettiği biraların yanı sıra geleneksel Bosna yemeklerini de sunar. Daha modern bir ortamda yemek yemek için iyi bir alternatiftir."
+    ]
+  },
+  {
+    "imageTitle": "Saraybosna'nın İmzası: Ćevapi",
+    "type": "image-block",
+    "image": "/images/Cevapcici_in_somun.jpg",
+    "imageCaption": "Közde pişirilmiş baharatlı köfteler, pide ekmeği ve soğanla servis edilen, şehrin en meşhur yemeği."
+  },
+  {
+    "imageTitle": "Geleneksel Boşnak Böreği: Burek",
+    "type": "image-block",
+    "image": "/images/Motani_burek_1.jpg",
+    "imageCaption": "İnce yufkaların kıyma, peynir, patates veya ıspanakla doldurulup fırında pişirilmesiyle hazırlanan doyurucu bir lezzet."
   }
+    ]
+  }
+
+
 
 
 

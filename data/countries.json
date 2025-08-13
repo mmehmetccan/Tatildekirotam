@@ -36,6 +36,18 @@
     "name": "Hırvatistan",
     "cities": ["Zagreb","Dubrovnik","Split"],
     "image": "/images/beautiful-scenery-juego-de-tronos-dubrovnik-croatia-daytime.jpg"
+  },
+  {
+    "id": "macaristan",
+    "name": "Macaristan",
+    "cities": ["Budapeşte"],
+    "image": "/images/parlementobinasıbudapeşte.jpg"
+  },
+  {
+    "id": "bosnahersek",
+    "name": "Bosna-Hersek",
+    "cities": ["Mostar","Saraybosna"],
+    "image": "/images/1920px-Kravica_Waterfalls,Bosnia_&_Herzegovina.jpg"
   }
 
 ]
