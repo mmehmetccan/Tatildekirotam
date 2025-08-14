@@ -1176,15 +1176,24 @@ ul {
 
 .route-map-container {
     width: 100%;
-    height: 250px;
-    border-radius: var(--border-radius);
-    overflow: hidden;
-    margin-bottom: var(--spacing-md);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    height: 600px; /* Sabit bir yükseklik belirleyerek daha büyük görünmesini sağlar */
+    border-radius: 8px;
+    overflow: hidden; /* İçindeki içerik dışarı taşarsa gizler */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    /* İçindeki resmi veya iframe'i tam boyutlandırmak için */
+    position: relative;
 }
 
-.route-map-container iframe {
-    display: block;
+.route-map-container img,
+.route-map-container iframe,
+.route-map-container object {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none; /* Çerçeve olmasını engeller */
 }
 .route-map-link-container {
     background-color: var(--white);
@@ -1427,6 +1436,9 @@ ul {
 
     .contact-section {
         text-align: center; /* Mobilde ortala */
+    }
+    .route-map-container {
+        height: 500px; /* Mobil cihazlarda daha uygun bir yükseklik */
     }
 
 }

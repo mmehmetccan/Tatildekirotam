@@ -9,7 +9,7 @@
     "routes": [
       {
         "title": "Frari Santa Maria Gloriosa Bazilikası'ndan Santa Maria della Salute Bazilikası'na Yürüyüş Rotası",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d6471.922121639431!2d12.329462769884307!3d45.43448175187883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e2!4m5!1s0x477eb1c58369a69b%3A0x54ba460de19cfc0b!2sBasilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari!3m2!1d45.436986399999995!2d12.3266004!4m5!1s0x477eb1c7faa33a3b%3A0x732011a1298ecc89!2sPonte%20di%20Rialto!3m2!1d45.437984199999995!2d12.335898!4m5!1s0x477eb1d764526cbf%3A0xa12d52783aca205!2sBasilica%20di%20San%20Marco!3m2!1d45.4345606!2d12.3397124!4m4!1s0x477eb1d0b292ddb7%3A0xae46e40a9d543df4!3m2!1d45.4340359!2d12.3390331!4m5!1s0x477eb0330f688ddb%3A0xc9f9ed6fcadd275f!2sSanta%20Maria%20della%20Salute%20Bazilikas%C4%B1%2C%20Basilica%20di%20Santa%20Maria%20della%20Salute%2C%20Dorsoduro%2C%20Venedik%2C%20%C4%B0talya!3m2!1d45.430675!2d12.3347626!4m5!1s0x477eb1d7e32401c3%3A0x7ad5d63fdae814d0!2zQWhsYXIgS8O2cHLDvHPDvCwgVmVuZWRpaywgxLB0YWx5YQ!3m2!1d45.434049599999994!2d12.3408544!5e1!3m2!1str!2str!4v1753657558245!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1NPJiELEEt38zod5yoXVS50uvpwp9wb8&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/4bQvAHgEszgqDkge8",
         "steps": [
           {
@@ -188,7 +188,7 @@
     "routes": [
       {
         "title": "San Lorenzo Basilikası'ndan Pitti Sarayı'na Yürüyüş Rotası",
-        "mapEmbedUrl":  "https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d4679.33135957911!2d11.258964155592555!3d43.76882574032673!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x132a56a975219361%3A0x85e5747949866eb2!2sSanta%20Maria%20Novella%20Basilikas%C4%B1!3m2!1d43.7746346!2d11.2493859!4m5!1s0x132a5402f87d976b%3A0xeda7c032191812ec!2sSan%20Lorenzo%20Basilikas%C4%B1!3m2!1d43.7749619!2d11.253876199999999!4m5!1s0x132a541ad37d502f%3A0xf81b038d72611e6e!2sBasilica%20della%20Santissima%20Annunziata!3m2!1d43.7767993!2d11.260976999999999!4m5!1s0x132a5403bfe22ff5%3A0x5591438487aaf1f5!2sFloransa%20Katedrali!3m2!1d43.773145!2d11.255960199999999!4m5!1s0x132a54019502f1db%3A0xdde56095f8051043!2sPiazza%20della%20Repubblica!3m2!1d43.771426299999995!2d11.254019!4m5!1s0x132a54012042ae35%3A0x9fbc6971f8e3906d!2sSignoria%20Meydan%C4%B1!3m2!1d43.7696855!2d11.255642199999999!4m5!1s0x132a540723ccc331%3A0x8f8279649c131255!2sBasilica%20di%20Santa%20Croce%20di%20Firenze!3m2!1d43.7685683!2d11.262267699999999!4m5!1s0x132a56aaa2dcb667%3A0x40310ae830e702e8!2sPonte%20Vecchio%2C%2050125%20Firenze%20FI%2C%20%C4%B0talya!3m2!1d43.767925!2d11.2531435!4m5!1s0x132a515441db99f1%3A0x5cd0cce4e6f1502a!2sPitti%20Saray%C4%B1!3m2!1d43.7651533!2d11.250008099999999!5e1!3m2!1str!2str!4v1753827951777!5m2!1str!2str",
+        "mapEmbedUrl":  "https://www.google.com/maps/d/u/0/embed?mid=1ZuWWr_yNYWtv1AyRjY5AAMOXpJumoaI&ehbc=2E312F&noprof=1",
         "mapLinkUrl":"https://maps.app.goo.gl/KviAHsyhwSadYtDS9",
         "steps": [
           {
@@ -348,7 +348,7 @@
     "routes": [
       {
         "title": "1. Gün: İspanyol Merdivenlerinden Kolezyuma Antik Yürüyüş",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d6995.583875425444!2d12.48152611992864!3d41.8985913074459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x132f60551bc4f4e3%3A0xe876d6d8db1d5938!2zxLBzcGFueW9sIE1leWRhbsSx!3m2!1d41.9056978!2d12.482327!4m5!1s0x132f6053278340d5%3A0xf676f1e1cc02bbb6!2zVHJldmkgw4dlxZ9tZXNp!3m2!1d41.900932499999996!2d12.483312999999999!4m5!1s0x132f60522c73d30b%3A0xef1a795cca2ef181!2sMontecitorio%20Saray%C4%B1!3m2!1d41.901106899999995!2d12.4786817!4m5!1s0x132f604f678640a9%3A0xcad165fa2036ce2c!2sPanteon!3m2!1d41.8986108!2d12.4768729!4m5!1s0x132f60502e82012d%3A0x22b3fa4bf22984b9!2sChurch%20of%20Saint%20Louis%20of%20the%20French!3m2!1d41.8996104!2d12.474740599999999!4m5!1s0x132f604ffb713ff3%3A0xfe2aa2df10e2f0ff!2sPiazza%20Navona%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.8991622!2d12.473071899999999!4m5!1s0x132f604d1b805de3%3A0x21154807a7b83fe1!2sVittorio%20Emanuele%20I%C4%B1%20Abidesi!3m2!1d41.8945976!2d12.4831269!4m5!1s0x132f61b383a9cdef%3A0xfa914007c0ec7de6!2sRoma%20Forumu%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.892090599999996!2d12.4864378!4m5!1s0x132f61b6532013ad%3A0x28f1c82e908503c4!2sKolezyum%2C%20Piazza%20del%20Colosseo%2C%20Roma%2C%20Roma%20ili%2C%20%C4%B0talya!3m2!1d41.8902102!2d12.4922309!5e0!3m2!1str!2str!4v1753650557827!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1_h3dsUgrZKHVFhjuwqT9HGxFvvx_N8U&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/Nb2zhPPzBd53bTqBA",
         "steps": [
           {
@@ -362,7 +362,7 @@
       },
       {
         "title": "2. Gün: Vatikandan Santa Maria Kilisesine Uzanan Yürüyüş Rotası",
-        "mapEmbedUrl": " https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d8295.15281298033!2d12.459006387549016!3d41.903361822371544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x132f6063839bc129%3A0xcfe0eca0526416b6!2sVatikan%20M%C3%BCzeleri%2C%2000120%20Citt%C3%A0%20del%20Vaticano%2C%20Vatikan!3m2!1d41.9064878!2d12.4536413!4m5!1s0x132f6065c523afdb%3A0xab16c8877fb53e22!2sCappella%20Sistina!3m2!1d41.902946799999995!2d12.4544835!4m5!1s0x132f6061b7149b59%3A0x724bf077cd875283!2sBasilica%20di%20San%20Pietro!3m2!1d41.902166699999995!2d12.4539367!4m5!1s0x13258a8711e7a4d1%3A0x366c111ce77d4189!2sCastel%20Sant&#39;Angelo!3m2!1d41.9030632!2d12.466275999999999!4m5!1s0x132f605ca1d70975%3A0xa8ab4616b7b40209!2sPonte%20Sant&#39;Angelo!3m2!1d41.901900999999995!2d12.4664498!4m5!1s0x132f6044d0605291%3A0x22e8c66aa7d4d918!2sChiesa%20Nuova%20di%20Santa%20Maria%20in%20Vallicella!3m2!1d41.8982461!2d12.469125!5e1!3m2!1str!2str!4v1754871737256!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1KDGPFmF4hIhDtyKxkBbCCpGTQpKj8qo&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/catGe3JMy6m7cAt26",
         "steps": [
           {
@@ -584,7 +584,7 @@
     "routes": [
       {
         "title": "Duomo di Milano'dan Basilica of Sant'Ambrogio'suna Yürüyüş Rotası",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d9088.722151099513!2d9.172462906612688!3d45.46800439491453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x4786c6aec34636a1%3A0xab7f4e27101a2e13!2sDuomo%20di%20Milano!3m2!1d45.464097599999995!2d9.1919265!4m5!1s0x47793506fd86b6c3%3A0x270b9ca95809d416!2sGalleria%20Vittorio%20Emanuele%20II!3m2!1d45.4658434!2d9.1899401!4m5!1s0x4786fcb60ea97b3d%3A0x6556dd66c472c29b!2sCastello%20Sforzesco!3m2!1d45.4704762!2d9.1793325!4m5!1s0x4786c147aa41b7cf%3A0xfbbcb44d7ec5c615!2sArco%20della%20Pace!3m2!1d45.475692699999996!2d9.1724514!4m5!1s0x4786c15a4fc7a8ef%3A0x6db8f89b95fdff86!2sLeonardo&#39;s%20Last%20Supper%20Museum%2C%20Piazza%20di%20Santa%20Maria%20delle%20Grazie%2C%202%2C%2020123%20Milano%20MI%2C%20%C4%B0talya!3m2!1d45.4661853!2d9.170600499999999!4m5!1s0x4786c156de57fc09%3A0x2a5e45cbf215bf63!2sBasilica%20di%20Sant&#39;Ambrogio!3m2!1d45.4623292!2d9.175612!5e1!3m2!1str!2str!4v1753662316537!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1FanOoDWbX8lwz4U058PKXbQyGhAjVkw&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/sKoErfo2iYgG5KzH9",
         "steps": [
           {
@@ -752,8 +752,8 @@
     "image": "/images/church-2058392_1280.jpg",
     "routes": [
       {
-        "title": "1.Gün: Selanik Atatürk Evi'nden Zongolopulos'un Şemsiyeler Heykeli'ne Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d5787.039254381122!2d22.95012405302664!3d40.62633321834981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x14a83853bad33189%3A0xf4ae5e571c070bac!2sSelanik%20Atat%C3%BCrk%20Evi%20M%C3%BCzesi!3m2!1d40.635748299999996!2d22.9543541!4m5!1s0x14a839a9555261d5%3A0x9adb6b6586b26aab!2sAziz%20Demetrios%20Kilisesi!3m2!1d40.638888699999995!2d22.9476111!4m5!1s0x14a839a9b2d56b29%3A0xb1aed24793f86d49!2sEleftherios%20Venizelos%20Heykeli!3m2!1d40.636155699999996!2d22.9444078!4m5!1s0x14a839a811958bdb%3A0xfa8b3c0cc32fd77e!2sVirgin%20Mary%20Chalkeon%20Holy%20Orthodox%20Church!3m2!1d40.6368006!2d22.943552699999998!4m5!1s0x14a8390885a99cbd%3A0xe39e3d18ec8160ab!2sAristotelous%20Meydan%C4%B1!3m2!1d40.6323456!2d22.940836599999997!4m5!1s0x14a83907391d6a89%3A0x29bd6b3ffe046964!2sSelanik%20Ayasofya%20Kilisesi!3m2!1d40.6328094!2d22.9469536!4m5!1s0x14a839af2548cc69%3A0xef18309d80742d16!2sBeyaz%20Kule!3m2!1d40.6264478!2d22.9483815!4m5!1s0x14a8391d10168c49%3A0x5ad27aa2e9aae583!2sZongolopulos&#39;un%20%C5%9Eemsiyeler%20Heykeli!3m2!1d40.6218436!2d22.9514462!4m5!1s0x14a838e322993ebf%3A0xce288930af2582d5!2sMuseum%20of%20Byzantine%20Culture%20of%20Thessaloniki!3m2!1d40.6239358!2d22.9551444!5e1!3m2!1str!2str!4v1753880756582!5m2!1str!2str",
+        "title": "Selanik Atatürk Evi'nden Zongolopulos'un Şemsiyeler Heykeli'ne Yürüyüş Rotası ",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1MUgFzLJJY4DyEBDaB8jTQhedaT1JUkE&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/ApfnfGrFquHCpeej7",
         "steps": [
           {
@@ -939,7 +939,7 @@
     "routes": [
       {
         "title": "Olimpos Zeus Tapınağı'ndan Roma Agorası'na Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6173.048855502735!2d23.73523492416897!3d37.970029686131944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x14a1bd6adebf1261%3A0xa74ab8bf25aeb046!2sKallimarmaro!3m2!1d37.9683342!2d23.7411118!4m5!1s0x14a1bd169b9c6429%3A0x5519bb221fe94255!2zT2xpbXBvcyBaZXVzIFRhcMSxbmHEn8Sx!3m2!1d37.9693!2d23.7331!4m5!1s0x14a1bd17583561d5%3A0x1cdd86cfb17e15cc!2sDionysos%20Tiyatrosu!3m2!1d37.9703339!2d23.727809699999998!4m5!1s0x14a1bd176189a415%3A0xffd97e587cd4a084!2sHerodes%20Atticus%20Odeon!3m2!1d37.9707948!2d23.7245831!4m5!1s0x14a1bd19ca39ee61%3A0x1b3fa079b878a218!2sParthenonas!3m2!1d37.9715285!2d23.7267166!4m5!1s0x14a1bdaee412656f%3A0xa3681b0768784b14!2zRXJlY2h0aGVpb24gzpXPgc6tz4fOuM61zrnOvw!3m2!1d37.9721553!2d23.7263472!4m5!1s0x14a1bd1837f5acf3%3A0x5c97c042f5eb0df6!2sAtina%20Akropolisi!3m2!1d37.9715323!2d23.7257492!4m5!1s0x14a1bd22f5097987%3A0x422934da31aa5dc8!2sAtina%20Agoras%C4%B1!3m2!1d37.974897!2d23.722093299999997!4m5!1s0x14a19e6bb8da42e1%3A0xc0609dde4db88bed!2zSGVwaGFpc3RvcyBUYXDEsW5hxJ_EsQ!3m2!1d37.975595!2d23.7214521!4m5!1s0x14a1bd22a13c915b%3A0xb884f68a3bd497de!2sRoma%20Agoras%C4%B1!3m2!1d37.9742491!2d23.7260951!5e1!3m2!1str!2str!4v1753890457300!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1iNWuXYecxAKgp1gUOENr0wC_joHN1ns&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/BzzxRC8WxeYUPAAc9",
         "steps": [
           {
@@ -1158,7 +1158,7 @@
     "routes": [
       {
         "title": "Aziz Sava Katedrali'ndan Ružica Kilisesi'ne Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d13255.99759409523!2d20.463938359729287!3d44.80725491317712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e2!4m5!1s0x475a700ca7258e8f%3A0xbe11391a6fc0344c!2sAziz%20Sava%20Katedrali%2C%20Kru%C5%A1edolska%202a%2C%20Beograd%2011000%2C%20S%C4%B1rbistan!3m2!1d44.7981382!2d20.469046799999997!4m5!1s0x475a7aa0e1f3ad73%3A0xc95e7d097b00ee1a!2zTmlrb2xhIFRlc2xhIE3DvHplc2kg0JzRg9C30LXRmCDQndC40LrQvtC70LUg0KLQtdGB0LvQtQ!3m2!1d44.8050907!2d20.4706899!4m5!1s0x475a7aa501a8a9f3%3A0xc6a381731628cb98!2z0KbRgNC60LLQsCDQodCy0LXRgtC-0LMg0JzQsNGA0LrQsA!3m2!1d44.810458499999996!2d20.4688897!4m5!1s0x475a7bb00177ef0f%3A0x448846444afd8bbb!2zQ3VtaHVyaXlldCBNZXlkYW7EsSDQotGA0LMg0YDQtdC_0YPQsdC70LjQutC1!3m2!1d44.816188499999996!2d20.4603829!4m5!1s0x475a65494e6dcc25%3A0x36b9ded6b009da2f!2sSpomenik%20zahvalnosti%20Francuskoj!3m2!1d44.8212489!2d20.4512461!4m5!1s0x475a65492470ef6d%3A0x455c20bee3d9b853!2sVojni!3m2!1d44.8221116!2d20.4501226!4m4!1s0x475a6548f96a0aeb%3A0x97a47ee0957f4026!3m2!1d44.8233499!2d20.449759!4m5!1s0x475a654896c97a1b%3A0xb73bbff29e600816!2sPobednik!3m2!1d44.8230544!2d20.4476974!4m5!1s0x475a65482947e5f9%3A0x50b01366aa62f8f0!2zUnXFvmljYQ!3m2!1d44.8255073!2d20.4512811!5e1!3m2!1str!2str!4v1753917214989!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1kUdiETKCXY7txM1SrtMZdy74keUHxbs&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/Np6LiVt6QEqK6KNK9",
         "steps": [
           {
@@ -1171,6 +1171,7 @@
         ]
       }
     ],
+
     "sections": [
       {
         "title": "Belgrad'da Neler Yapılır?",
@@ -1352,7 +1353,7 @@
     "routes": [
       {
         "title": "Saint George's Cathedral'ndan Petrovaradin catacombs'na Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d9359.889454477167!2d19.85187997477604!3d45.257150670704846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e2!4m5!1s0x475b1066322c09f7%3A0xdc492431fb8cc792!2sSaint%20George&#39;s%20Cathedral%2C%20Nikole%20Pa%C5%A1i%C4%87a%202%2C%20Novi%20Sad%2021000%2C%20S%C4%B1rbistan!3m2!1d45.2575532!2d19.8476844!4m5!1s0x475b106858fe513d%3A0xb816502dc083f616!2sRimokatoli%C4%8Dka%20crkva%20imena%20Marijinog!3m2!1d45.255633599999996!2d19.8456045!4m5!1s0x475b1042800d20b3%3A0xa784e96d1d581aa3!2sUspenska%20crkva!3m2!1d45.2555249!2d19.842189299999998!4m5!1s0x475b1070c9b687bf%3A0xdb47ae164f30bf72!2sSat%20Na%20Petrovaradinskoj%20Tvr%C4%91avi!3m2!1d45.2534832!2d19.8612492!4m4!1s0x475b107726761343%3A0xece28c1cd9c796bc!3m2!1d45.2523896!2d19.8622613!4m5!1s0x475b1b3afc39544b%3A0xa7aa700acdbf2b9!2sPetrovaradinske%20Katakombe%E2%80%A6!3m2!1d45.2518087!2d19.8645422!5e1!3m2!1str!2str!4v1753920761392!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1uCMjRjYOh5x6AAWPpOzFccwOK7raYNg&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/drBWkHsaAKx4veqj8",
         "steps": [
           {
@@ -1503,7 +1504,7 @@
     "routes": [
       {
         "title": "1.Gün: Belveder Sarayı'ndan Viyana Doğa Tarihi Müzesi'ne Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d10305.727134923834!2d16.365277340338487!3d48.19860844592033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x476d077d020b9ea5%3A0x4a65fc52a0937607!2sBelvedere%20Saray%C4%B1%2C%20Upper%20Belvedere%2C%20Viyana%2C%20Avusturya!3m2!1d48.1914751!2d16.3809322!4m5!1s0x476d077a377a1157%3A0x1c780de41ee7347a!2sUnteres%20Belvedere!3m2!1d48.1965764!2d16.3798723!4m5!1s0x476d078282166ac7%3A0xceaba5bcdc66f532!2sKarlskirche!3m2!1d48.198562599999995!2d16.3716999!4m5!1s0x476d079a63cf77f1%3A0x6f6052b56ca6b841!2sKunsthistorisches%20Museum%20Wien!3m2!1d48.2038016!2d16.3617874!4m5!1s0x476d0790c107009d%3A0xc4a12ebf4ed4c5c9!2sViyana%20Do%C4%9Fa%20Tarihi%20M%C3%BCzesi%2C%20Burgring%207%2C%201010%20Wien%2C%20Avusturya!3m2!1d48.205211999999996!2d16.359845099999998!5e1!3m2!1str!2str!4v1753718297138!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1ElXukF_yJYri8mMzlbYm6yE0D-fkJtM&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/Xx7oDSabJf5ePuiH8",
         "steps": [
           {
@@ -1517,8 +1518,8 @@
       },
       {
         "title": "2.Gün: Aziz Stephan Katedrali'nden Church Maria am Gestade'na Tarihi Rota ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d7332.53070770485!2d16.36062679801176!3d48.2100572347344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0x476d079f223feccf%3A0x179757f3fadc3159!2sAziz%20Stephan%20Katedrali%2C%20Stephansplatz%203%2C%201010%20Wien%2C%20Avusturya!3m2!1d48.208411399999996!2d16.3734707!4m5!1s0x476d079bf27e5ac1%3A0x66ef8a989f37deb8!2sAlbertina!3m2!1d48.2046992!2d16.3681824!4m5!1s0x476d0799bf2006df%3A0x8685168014c4425f!2sHofburg!3m2!1d48.2056578!2d16.3647803!4m5!1s0x476d0796c4643859%3A0x351b7bc23e2730d0!2sParlament%20%C3%96sterreich!3m2!1d48.208036!2d16.3592045!4m5!1s0x476d0795b8d260fd%3A0x1ea9ef0ebe2905d9!2sDas%20Wiener%20Rathaus!3m2!1d48.210820999999996!2d16.3580826!4m5!1s0x476d07beed9e4ccd%3A0xb1cdb0d22f1d8336!2sVotivkirche!3m2!1d48.215401199999995!2d16.3590821!4m5!1s0x476d07a2504b5aff%3A0x239bee91415d837d!2sKatholische%20Kirche%20Maria%20am%20Gestade!3m2!1d48.212983799999996!2d16.3701764!5e1!3m2!1str!2str!4v1753718562669!5m2!1str!2str",
-        "mapLinkUrl": "https://maps.app.goo.gl/N29jZ1ADirxXnw3c8",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=12zFJiabAwy-2aRwvCIidlU-9TyTgj7o&ehbc=2E312F&noprof=1",
+        "mapLinkUrl": "https://www.google.com/maps/d/u/0/edit?mid=12zFJiabAwy-2aRwvCIidlU-9TyTgj7o&usp=sharing",
         "steps": [
           {
             "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
@@ -1693,7 +1694,7 @@
     "routes": [
       {
         "title": " Sulu Han'dan Kuzey Makedonya Arkeoloji Müzesi'ne Yürüyüş Rotası. ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m62!1m12!1m3!1d2095.526948761572!2d21.431407296497152!3d41.996639829398966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m47!3e2!4m5!1s0x135415afbcc36c3b%3A0x3230443008ee6a4!2sSulu%20Han!3m2!1d42.0016031!2d21.4377428!4m5!1s0x135415afad379837%3A0xd19f732f5ede1e48!2zRXNraSDDnHNrw7xwIMOHYXLFn8Sxc8Sx!3m2!1d42.0007751!2d21.436739499999998!4m4!1s0x135415ae449613f7%3A0xf9c36e35b1d1f716!3m2!1d42.002024899999995!2d21.4354192!4m5!1s0x135415ac30000001%3A0xfc4d0b3f68ae3f03!2zw5xza8O8cCBLYWxlc2k!3m2!1d42.001882599999995!2d21.4324382!4m5!1s0x135415b17737a30b%3A0xf0c0a47688f23806!2sFountain%20Olympia%20-%20Mother%20of%20Alexander%20III%20Of%20Macedonia!3m2!1d41.997918!2d21.434385199999998!4m5!1s0x135415b3e094c2cd%3A0x9a702c998e170a3e!2zVGHFn2vDtnByw7wg0JrQsNC80LXQvSDQvNC-0YHRgg!3m2!1d41.9969525!2d21.433005899999998!4m5!1s0x135415b198820fbf%3A0x67dd8bb78356b990!2zQsO8ecO8ayBpc2tlbmRlciBhbsSxdMSx!3m2!1d41.995928!2d21.431503199999998!4m4!1s0x135415aef89e7f7d%3A0x7f10f7b3ba13ae34!3m2!1d41.996783!2d21.434342299999997!5e1!3m2!1str!2str!4v1754342295320!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1XO70qUzpbnRNzKrfquv8xqb9MXkoyl4&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/MNA7SJpBk6iLCoYB6",
         "steps": [
           {
@@ -1846,7 +1847,7 @@
     "routes": [
       {
         "title": "Ban Josip Jelačić Meydanından Grič Tüneline Yürüyüş Rotası  ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d3834.4505632666824!2d15.97206411216147!3d45.8154370647928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e2!4m5!1s0x4765d6fdc2523427%3A0x38ba0548d814fdc9!2sBan%20Josip%20Jela%C4%8Di%C4%87%20Square%2C%2010000%2C%20Gornji%20Grad%20-%20Medve%C5%A1%C4%8Dak%2C%20Zagreb%2C%20H%C4%B1rvatistan!3m2!1d45.8131208!2d15.9773008!4m5!1s0x4765d6fd8b011c2f%3A0xed4657f57b5f1ffd!2sTr%C5%BEnica%20Dolac!3m2!1d45.8142366!2d15.9772026!4m5!1s0x4765d701f8ef1d1d%3A0x312b512f1e7f6df9!2sZagreba%C4%8Dka%20katedrala!3m2!1d45.8146217!2d15.979438199999999!4m5!1s0x4765d702eb0f02eb%3A0x856fd0c82c7a873!2sKamenita%20vrata!3m2!1d45.815822399999995!2d15.975286599999999!4m5!1s0x4765d71d34feeea5%3A0xda53b475c4b25b86!2sCrkva%20sv.%20Marka!3m2!1d45.816510699999995!2d15.973628099999999!4m5!1s0x4765d6fd57a85a6f%3A0x86f5272433861a8!2sMuzej%20prekinutih%20veza!3m2!1d45.8150082!2d15.973605!4m5!1s0x4765d6fd50f6d73b%3A0xc14a691a1bd2abdf!2zS3VsYSBMb3RyxaHEjWFr!3m2!1d45.814623499999996!2d15.9733241!4m4!1s0x4765d6fd7aac550d%3A0x5e359ea474eec710!3m2!1d45.8145834!2d15.975038099999999!4m5!1s0x4765d700050b661b%3A0xd6e894aa19ebb977!2sTunel%20Gri%C4%8D!3m2!1d45.8148631!2d15.9710007!5e1!3m2!1str!2str!4v1754440564877!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1zATov57dcMEkfxl6AMQzq5JCVLkRl2g&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/dvXrL6YiYwoLQ8iX8",
         "steps": [
           {
@@ -2031,7 +2032,7 @@
     "routes": [
       {
         "title": "Dubrovnik Old Town Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m74!1m12!1m3!1d2021.5629008951846!2d18.1103024!3d42.6423517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m59!3e2!4m5!1s0x134c0b2cffb94241%3A0x3fd5d930c71b0205!2sFort%20Lovrijenac%2C%20Tiha%20ul.%20220000%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6407889!2d18.1042514!4m5!1s0x134c0b1e0d52864b%3A0xdad14097116c1726!2sPile%20Gate!3m2!1d42.6417059!2d18.1072035!4m5!1s0x134c0b2d62b245e3%3A0xfa6609c0d1c3d30d!2sDubrova%C4%8Dke%20gradske%20zidine!3m2!1d42.6417071!2d18.1072624!4m4!1s0x134c0b32f578aabd%3A0xb121dd136ed667fb!3m2!1d42.6417078!2d18.107416999999998!4m4!1s0x134c752bd92fe83d%3A0x89a2905f46150bca!3m2!1d42.641760399999995!2d18.1077831!4m5!1s0x134c0b3300e17a87%3A0xe250ea38889f884b!2sCrkva%20sv.%20Vlaha!3m2!1d42.6408074!2d18.110286!4m5!1s0x134c0b2712d096a7%3A0x5a82d860e9cbe68d!2sOrlandov%20stup!3m2!1d42.6409702!2d18.110388399999998!4m5!1s0x134c0b333fa94e07%3A0xf4e0096912e52036!2sDominikanski%20samostan!3m2!1d42.641793799999995!2d18.1112424!4m5!1s0x134c0b3300e17a87%3A0xc004d6d0b70bcc3c!2sKulturno-povijesni%20muzej%20u%20Kne%C5%BEevu%20dvoru!3m2!1d42.640338!2d18.1106427!4m5!1s0x134c0b33afeeb96d%3A0xb48d9d03361daf05!2sPrvostolnica%20Uznesenja%20Bla%C5%BEene%20Djevice%20Marije!3m2!1d42.6398953!2d18.1104271!5e1!3m2!1str!2str!4v1754529989555!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1hD8NqZEs_IW98kPsA7yTdh5Vvsyk39A&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/Ggmu36v6usvEiFUY6",
         "steps": [
           {
@@ -2045,7 +2046,7 @@
       },
       {
         "title": "Dubrovnik Beach Rotası",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d23921.22189970383!2d18.109704506715648!3d42.64523658480666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x134c0b4df8f9704f%3A0xbe0d9102f2a1a744!2sPla%C5%BEa%20Sveti%20Jakov!3m2!1d42.6353012!2d18.1308553!4m5!1s0x134c0b34db320533%3A0xab4be5d3eeb31de1!2sBanje%20Beach%20Restaurant%20Lounge%20%26%20Club%2C%20Ul.%20Frana%20Supila%2010%2FB%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6416772!2d18.1160574!4m5!1s0x134c0ba66b958ca1%3A0xf011e7858725573!2sBu%C5%BEa%20Beach%2C%20Dubrova%C4%8Dke%20Gradske%20Zidine%2C%20Crijevi%C4%87eva%20ul.%209%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6388688!2d18.108807799999997!4m5!1s0x134c754a32a05979%3A0x24c140544fde6342!2sUvala%20Lapad%20Beach%2C%20Masarykov%20put%205%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.654901699999996!2d18.0700503!4m5!1s0x134c75441962bba7%3A0x63ad6c780e8523a9!2sCopacabana%20Beach%2C%20Ul.%20Ivana%20pl.%20Zajca%2C%2020000%2C%20Dubrovnik%2C%20H%C4%B1rvatistan!3m2!1d42.6636581!2d18.0655651!5e1!3m2!1str!2str!4v1754531135664!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1BtcxZbdq-uM-Csltj5PRrRzjlDWy7XE&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/ei5Kv6BHwn2szNH49",
         "steps": [
           {
@@ -2284,7 +2285,7 @@
     "routes": [
       {
         "title": "Split Old Town Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d1401.7041318669303!2d16.43991239977573!3d43.50853451193801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x13355e00a89ddcf9%3A0x74fd1a2b4c6d0e78!2sSpomenik%20Grguru%20Ninskomu!3m2!1d43.5094321!2d16.440838!4m5!1s0x13355e00a76cf181%3A0xfafa6d4ddc5b2d92!2sGolden%20Gate!3m2!1d43.509192!2d16.4406786!4m5!1s0x13355dfe535cfc4f%3A0x921ac62569576f32!2sDioklecijanova%20pala%C4%8Da!3m2!1d43.5082646!2d16.440175399999998!4m5!1s0x13355dfe2b94401d%3A0x7d6779ece88a69f3!2sSaint%20Domnius%E2%80%99%20Cathedral!3m2!1d43.5081017!2d16.4404798!4m5!1s0x13355dfe2da9407b%3A0x211a02e3f394a2fd!2sVestibul!3m2!1d43.5079859!2d16.4400111!4m5!1s0x13355dfe310f186d%3A0xd9a182950ada09e5!2sJupiterov%20Hram%20%2F%20Krstionica%20Sv.%20Ivana!3m2!1d43.508337499999996!2d16.4395886!4m5!1s0x13355dfe2ec9fadd%3A0x2ee8d8f969d2c8b4!2sNarodni%20trg!3m2!1d43.508942999999995!2d16.4388614!4m5!1s0x13355d28bc67b153%3A0xfec679668c479f7e!2sGame%20of%20Thrones%20Museum%20Split!3m2!1d43.509433!2d16.4393216!4m5!1s0x13355dfe4cfe6719%3A0x6ee9ed6e555a0172!2zVHJnIGJyYcSHZSBSYWRpxIdhIChWb8SHbmkgdHJnKQ!3m2!1d43.5082172!2d16.4384712!4m4!1s0x13355dffb1d80851%3A0xb887852f0deff8e8!3m2!1d43.507818!2d16.4382254!5e1!3m2!1str!2str!4v1754581240505!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1uguKUf8qFv5ak1nyV23vIqQf2w1QfoM&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/tGeM7LqtnG2aaM268",
         "steps": [
           {
@@ -2298,7 +2299,7 @@
       },
       {
         "title": "Split Beach Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d11286.130251116456!2d16.418689257995446!3d43.50694571506163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x13355e28e44f8c85%3A0x93eaf7d44452e46d!2s%C5%BDnjan%20City%20Beach%2C%20%C5%A0etali%C5%A1te%20Pape%20Ivana%20Pavla%20II%2031%2C%2021000%2C%20Split%2C%20H%C4%B1rvatistan!3m2!1d43.501769499999995!2d16.4762645!4m5!1s0x133560a64c2023e7%3A0x6084fcdef951a291!2sPla%C5%BEa%20Firule!3m2!1d43.5007351!2d16.454344799999998!4m5!1s0x133560a984c2b8b9%3A0xbf1b505db2fb8eb6!2sBacvice%20Beach!3m2!1d43.5024856!2d16.4468835!4m5!1s0x1335677ea6b6c3cb%3A0xb54e43bb97ff2a90!2sKasjuni%20Beach!3m2!1d43.506161899999995!2d16.400707699999998!4m5!1s0x1335675ddda2605f%3A0xf881122d272ec66a!2sBeach%20Je%C5%BEinac!3m2!1d43.5038768!2d16.4182618!5e1!3m2!1str!2str!4v1754583741079!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1KhFi9rbeY6DlltsO35r4-vGBhR-18l8&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/SCdXzUiDivYQKDyL9",
         "steps": [
           {
@@ -2518,13 +2519,13 @@
     "image": "/images/Budapest_Országház_(31355012995).jpg",
     "routes": [
       {
-        "title": "1.Gün Buda Yakası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d3716.7571796151988!2d19.03135929693142!3d47.50084830606058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x4741dc4e9c33f309%3A0xb57da2bfde8d7ab6!2zR2VsbMOpcnQgSGFtYW3EsQ!3m2!1d47.4837444!2d19.0516211!4m5!1s0x4741dc4eecb9b3bf%3A0xe4276ed6af22ada2!2sGell%C3%A9rt%20Hill%20Cave!3m2!1d47.485227599999995!2d19.0522085!4m5!1s0x4741dc491e961c5b%3A0xe49186a2f42ccda9!2sCitadella!3m2!1d47.4868089!2d19.0462617!4m5!1s0x4741dc480444f519%3A0x9ab7b4513a6c4966!2sSt.%20Gerard%20Sagredo%20Statue!3m2!1d47.489647!2d19.0455096!4m5!1s0x4741dc3cea360f0f%3A0x3dce3a5fa9012576!2sBuda%20Kalesi!3m2!1d47.4962048!2d19.0395666!4m5!1s0x4741dc227fb4a99d%3A0x2f263ca844235e46!2zQmFsxLFrw6fEsSBUYWJ5YXPEsQ!3m2!1d47.5021827!2d19.034781199999998!4m5!1s0x4741dc22706ec2b9%3A0x4980c2155e8aa1d2!2sKale%20B%C3%B6lgesi!3m2!1d47.5018283!2d19.0333458!4m5!1s0x4741dc1f769fac1d%3A0x8f3abb742c49a904!2sChurch%20of%20Saint%20Mary%20Magdalene!3m2!1d47.5036786!2d19.0288766!4m5!1s0x4741dc22f0d18859%3A0x2c293641eb0e7a13!2sLabirentler!3m2!1d47.5001434!2d19.034198399999998!4m4!1s0x4741dc22481762bb%3A0x7e1ee242e28cf88a!3m2!1d47.5008483!2d19.0313593!5e1!3m2!1str!2str!4v1755007036065!5m2!1str!2str",
+        "title": "1.Gün Buda Yakası Yürüyüş Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1PdCqWMMef3NPpQRzKDFAJVI89Tabk44&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/jhJCpBjsP7GvQVQE9",
         "steps": [
           {
-            "from": "Belveder",
-            "to": "Viyana",
+            "from": "Gellért Hamamı, Budapest, Kelenhegyi út 4, 1118 Macaristan",
+            "to": "Hospital in the Rock, Budapest, Lovas út 4/c, 1012 Macaristan",
             "duration": "88 dakika",
             "distance": "3,5 km",
             "image": "/images/budapeşte_route1.jpg"
@@ -2532,13 +2533,13 @@
         ]
       },
       {
-        "title": "2.Gün Peşte Yakası",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m74!1m12!1m3!1d10717.198076215223!2d19.049446692147438!3d47.49962627625465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m59!3e2!4m4!1s0x4741dc16742d64df%3A0xf68e196cbecb6ad6!3m2!1d47.503927399999995!2d19.0448015!4m5!1s0x4741dc1046d4a33d%3A0x342122b8ff8f0f6e!2zT3JzesOhZ2jDoXo!3m2!1d47.507121!2d19.045669!4m5!1s0x4741c15e3aa3cdf7%3A0xdd42fcacae7fbccb!2sSzent%20Istv%C3%A1n%20Bazilika!3m2!1d47.5008902!2d19.053988699999998!4m5!1s0x4741dc42507d41cf%3A0x4128af63d0508608!2sDoh%C3%A1ny%20utcai%20Zsinag%C3%B3ga!3m2!1d47.4958804!2d19.0605835!4m5!1s0x4741dc6b8d9944fd%3A0x21335121e0a48bce!2sMagyar%20%C3%81llami%20Operah%C3%A1z!3m2!1d47.502716899999996!2d19.0583076!4m5!1s0x4741dc6e1d41b419%3A0xade1459037fed6dd!2zVGVycm9yIEjDoXphIE3DunpldW0!3m2!1d47.5068935!2d19.0651261!4m5!1s0x4741db87f9f12169%3A0x34417cbcba48293f!2zSMWRc8O2ayB0ZXJl!3m2!1d47.5149429!2d19.0778626!4m4!1s0x4741db883b6fa1fb%3A0x1b4bb797f6b7e339!3m2!1d47.5158038!2d19.0768998!4m5!1s0x4741db8711eda2a1%3A0xbcf7e467d55d9f8e!2sVajdahunyad%20v%C3%A1ra!3m2!1d47.5148896!2d19.0830593!4m5!1s0x4741dc11a2cb8047%3A0x1233e87d1f71f7bd!2zTsOpcHJhanppIE3DunpldW0!3m2!1d47.5115051!2d19.081371!5e1!3m2!1str!2str!4v1755005184320!5m2!1str!2str",
+        "title": "2.Gün Peşte Yakası Yürüyüş Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1Xf7F3Jj5mdZhXczgYfemzo7Zdqf2Z6c&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/Mw18XUPX8jkLn4cv7",
         "steps": [
           {
-            "from": "Aziz Stephan Katedrali, Stephansplatz 3, 1010 Wien, Avusturya",
-            "to": "Catholic Church Maria am Gestade, Salvatorgasse 12, 1010 Wien, Avusturya",
+            "from": "Tuna kıyısındaki ayakkabılar, Budapest, 1054 Macaristan",
+            "to": "Etnografya Müzesi, Budapest, Dózsa György út 35, 1146 Macaristan",
             "duration": "85 dakika",
             "distance": "4.9 km",
             "image": "/images/budapeşte_route2.jpg"
@@ -2546,8 +2547,8 @@
         ]
       },
       {
-        "title": "3.Gün Peşte Yakası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m63!1m12!1m3!1d8757.286133933556!2d19.05887032238311!3d47.48889743844856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m48!3e2!4m5!1s0x4741dc5659d536eb%3A0x2538010061574950!2zQmFrw6F0cyB0w6ly!3m2!1d47.483113599999996!2d19.0665051!4m5!1s0x4741dc582c04ba7f%3A0x7aae651443d34046!2sBudapest%2C%20Museum%20of%20Applied%20Arts%2C%20%C3%9Cll%C5%91i%20%C3%BAt%2033-37%2C%201092%20Macaristan!3m2!1d47.4861611!2d19.0683302!4m5!1s0x4741dc5b51f0ae53%3A0xc97d836f390b5f78!2sMagyar%20Nemzeti%20M%C3%BAzeum!3m2!1d47.4911983!2d19.0624765!4m5!1s0x4741dc4fe2b1c2f7%3A0xa08c351e7bba2ecc!2sNagycsarnok!3m2!1d47.4870848!2d19.058493!4m4!1s0x4741dd04fd8ef031%3A0x3c868d27f3a49fae!3m2!1d47.4881719!2d19.055255199999998!4m5!1s0x4741dc45c9e24a63%3A0xa37b69d12639bbba!2sBudapesti%20Belv%C3%A1rosi%20Szent%20Mih%C3%A1ly-templom!3m2!1d47.490502199999995!2d19.0546932!4m5!1s0x4741dc44e5698369%3A0xfbaa9bd42462709f!2sBudapesti%20Egyetemi%20Templom!3m2!1d47.4908925!2d19.0580258!4m5!1s0x4741dc436086c915%3A0x7442f23220e2644!2sK%C3%A1rolyi-kert!3m2!1d47.4920944!2d19.059775!5e1!3m2!1str!2str!4v1755005635269!5m2!1str!2str",
+        "title": "3.Gün Peşte Yakası Yürüyüş Rotası",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1zekMgrj4FsmL_1wY_PgFti_YfLXGNZ8&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/gFJJHnPunTvvd7ik8",
         "steps": [
           {
@@ -2878,7 +2879,7 @@
     "routes": [
       {
         "title": "Mostar Köprüsüne Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m73!1m12!1m3!1d4773.729958739934!2d17.81328865443302!3d43.33874883799264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m58!3e2!4m5!1s0x134b43087ef4b339%3A0x99a1f757db0d0427!2s8RR7%2BGHJ%20Karag%C3%B6zbey%20Camii%2C%20Bra%C4%87e%20Feji%C4%87a%2C%20Mostar%2088000%2C%20Bosna-Hersek!3m2!1d43.3413342!2d17.8138757!4m5!1s0x134b4307d3ff0e3b%3A0x4519f0e0150e51b3!2sBi%C5%A1%C4%87evi%C4%87%20House%20-%20%20ottoman%20museum!3m2!1d43.3406217!2d17.813208799999998!4m5!1s0x134b43084d54d561%3A0xbe1d02c7b0c2a383!2sMuseum%20Of%20War%20And%20Genocide%20Victims!3m2!1d43.339278799999995!2d17.8152413!4m5!1s0x134b430659dbc9e1%3A0x335f465db8a90b48!2sKoski%20Mehmed-pa%C5%A1ina%20d%C5%BEamija!3m2!1d43.3386899!2d17.8148651!4m4!1s0x134b434cf2222eb9%3A0xb0ce77f3ee0d9a23!3m2!1d43.338185599999996!2d17.8154264!4m5!1s0x134b4306c2ffb261%3A0x1c6e123b0a2fc4c4!2sStari%20Most%20Mostar!3m2!1d43.3372866!2d17.815006!4m4!1s0x134b439724dc0e75%3A0x4a8485dfcae45d9b!3m2!1d43.3373032!2d17.8147283!4m5!1s0x134b430731befb07%3A0x7dc28e230fe6f372!2sKriva%20%C4%87uprija!3m2!1d43.3367162!2d17.8131354!4m4!1s0x134b438cb78d15f5%3A0xf77c06816b555108!3m2!1d43.3365186!2d17.8147978!4m5!1s0x134b43a991429549%3A0xaca6cf9dda5e4953!2sFranjeva%C4%8Dka%20Crkva%20u%20Mostaru!3m2!1d43.337635899999995!2d17.808980899999998!5e1!3m2!1str!2str!4v1755043617931!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=1lyyEU3J1ZNHL2mynFIvIpGEY1ckIhoE&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/q8rzS2gmWup4yeMU6",
         "steps": [
           {
@@ -3041,7 +3042,7 @@
     "routes": [
       {
         "title": "Saraybosna Başçarşı Yürüyüş Rotası ",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3966.959571529677!2d18.423958312490058!3d43.85813908903021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x4758c8c84d6ab441%3A0x3d30965f5374d2f!2zQmHFocSNYXLFoWlqc2thIGTFvmFtaWph!3m2!1d43.8591463!2d18.4312379!4m5!1s0x4758c8dbea522ff9%3A0x9d2f6566a73c24b1!2sBrusa%20bezistan!3m2!1d43.858811499999995!2d18.430481099999998!4m5!1s0x4758c8c8e5a646dd%3A0xd12e81f3a6e7cb82!2sGazi%20Husrev-begova%20d%C5%BEamija!3m2!1d43.8591507!2d18.429285399999998!4m5!1s0x4758c8c8e785c30d%3A0x61ecebc88beeab9b!2sSahat-kula!3m2!1d43.8592154!2d18.428631499999998!4m5!1s0x4758c8cf3e884aef%3A0x1675fef7f51068a6!2sKatedrala%20Srca%20Isusova!3m2!1d43.859372099999995!2d18.4255612!4m5!1s0x4758c8cf8c8cb4bd%3A0x848229bc021e99fd!2zU8O2bm1leWVuIEF0ZcWfIEFuxLF0xLEsIEZlcmhhZGlqYSwgU2FyYXlib3NuYSwgQm9zbmEgSGVyc2Vr!3m2!1d43.8588161!2d18.4218635!4m5!1s0x4758c8cf5e9f4293%3A0xdd19f87f1f9253df!2sSaborna%20Crkva%20Ro%C4%91enja%20Presvete%20Bogorodice!3m2!1d43.858219399999996!2d18.4249252!4m5!1s0x4758c8c886ece897%3A0xdba061a30179575b!2sLatinska%20%C4%86uprija!3m2!1d43.8576057!2d18.4289575!4m5!1s0x4758c8c80cceb751%3A0xab5e3d8e7b593fb6!2sCareva%20d%C5%BEamija!3m2!1d43.8574479!2d18.4307721!4m5!1s0x4758c8c62eb907af%3A0xfbf6f3c14206f59f!2sAt%20Mejdan!3m2!1d43.856963199999996!2d18.428147799999998!5e1!3m2!1str!2str!4v1755047153364!5m2!1str!2str",
+        "mapEmbedUrl": "https://www.google.com/maps/d/u/0/embed?mid=12vhjopxmtw_H1GF3YBAniR9JvC8b-60&ehbc=2E312F&noprof=1",
         "mapLinkUrl": "https://maps.app.goo.gl/khkDfZVw1cBEefqPA",
         "steps": [
           {
