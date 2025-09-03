@@ -5,16 +5,13 @@ const fs = require('fs');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// EJS şablon motorunu ayarla
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
-// Statik dosyaları (CSS, JS, resimler vb.) public klasöründen servis et
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.urlencoded({ extended: true })); // POST istekleri için body-parser
 
-// Verileri uygulama başlangıcında senkron olarak yükle
-// Bu veriler tüm rotalarda kullanılabilir olacak
+
 const countries = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'countries.json'), 'utf8'));
 const cities = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'cities.json'), 'utf8'));
 
@@ -23,10 +20,10 @@ app.get('/', (req, res) => {
     const recentlyAddedCities = cities.slice(-3).reverse();
 
     res.render('index', {
-        pageTitle: 'Gezgin Rotam - Anasayfa', // Başlık Eklendi
-        countries: countries, // Ülkeler verisini gönder
-        allCities: cities,    // Tüm şehirler verisini gönder (header'daki alt menü için)
-        recentlyAddedCities: recentlyAddedCities // Son eklenen şehirler verisini gönder
+        pageTitle: 'Gezgin Rotam - Anasayfa', 
+        countries: countries, 
+        allCities: cities,    
+        recentlyAddedCities: recentlyAddedCities 
     });
     res.render('index', {
         pageUrl: req.originalUrl
